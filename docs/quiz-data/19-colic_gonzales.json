@@ -1,0 +1,654 @@
+{
+  "topic": "19. Colic_GONZALES",
+  "slug": "19-colic_gonzales",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "In horses, “colic” is BEST defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A specific disease of the small intestine"
+        },
+        {
+          "label": "B",
+          "text": "Any clinical syndrome of abdominal pain, most commonly from gastrointestinal disorders"
+        },
+        {
+          "label": "C",
+          "text": "A respiratory syndrome associated with abdominal distension"
+        },
+        {
+          "label": "D",
+          "text": "A neuromuscular disorder causing spasms of the flank muscles"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Colic refers to a clinical syndrome of abdominal pain in horses, most often due to gastrointestinal disorders. It is not a specific single disease (A), nor a primary respiratory (C) or neuromuscular (D) disorder."
+    },
+    {
+      "id": 2,
+      "stem": "Which of the following statements about colic is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a single, well‑defined disease with uniform pathology"
+        },
+        {
+          "label": "B",
+          "text": "It is a clinical sign that can arise from many different lesions and severities"
+        },
+        {
+          "label": "C",
+          "text": "It only occurs in foals"
+        },
+        {
+          "label": "D",
+          "text": "It is always self‑limiting and never life‑threatening"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Colic is a sign resulting from a wide variety of underlying lesions and can range from mild to life‑threatening. It is not a uniform disease entity (A), and it can affect horses of many ages (C) with potentially fatal outcomes (D)."
+    },
+    {
+      "id": 3,
+      "stem": "Common gastrointestinal causes of colic in horses include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gas, impaction, inflammation, displacement, or strangulation"
+        },
+        {
+          "label": "B",
+          "text": "Only gastric ulcers"
+        },
+        {
+          "label": "C",
+          "text": "Only renal disease"
+        },
+        {
+          "label": "D",
+          "text": "Only neurologic disease"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Common GI causes include gas, impaction, inflammation, displacement, and strangulation of intestinal segments. Limiting it to gastric ulcers (B) or non‑GI systems (C, D) is inaccurate."
+    },
+    {
+      "id": 4,
+      "stem": "Which general pathophysiologic mechanism can lead to colic in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperinsulinemia and laminitis"
+        },
+        {
+          "label": "B",
+          "text": "Interruption of intestinal motility, obstruction, inflammation, or torsion/volvulus"
+        },
+        {
+          "label": "C",
+          "text": "Primary cardiac arrhythmias"
+        },
+        {
+          "label": "D",
+          "text": "Hypocalcemia alone"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Interruption of intestinal motility, physical obstruction, inflammation, and torsion/volvulus are major pathophysiologic mechanisms of colic. Hyperinsulinemia (A), primary cardiac disease (C), or isolated hypocalcemia (D) may cause other problems but are not the key mechanisms highlighted."
+    },
+    {
+      "id": 5,
+      "stem": "Which of the following is NOT listed as a key pathophysiologic category contributing to colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obstruction of intestinal segments"
+        },
+        {
+          "label": "B",
+          "text": "Impaction of the large intestine"
+        },
+        {
+          "label": "C",
+          "text": "Inflammation of the gastrointestinal tract"
+        },
+        {
+          "label": "D",
+          "text": "Primary neoplasia of the spleen only"
+        }
+      ],
+      "correct": "D",
+      "explanation": "The slide lists obstruction, impaction of the large intestine, inflammation of the GI tract, interruption of motility, torsion/volvulus/displacement, and secondary systemic effects. Primary splenic neoplasia alone (D) is not listed as a core category."
+    },
+    {
+      "id": 6,
+      "stem": "Regarding signalment, which statement about colic is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Thoroughbreds get colic"
+        },
+        {
+          "label": "B",
+          "text": "Colic can affect horses of any age, breed, or sex, though certain management patterns increase risk"
+        },
+        {
+          "label": "C",
+          "text": "Only geriatric horses are at risk"
+        },
+        {
+          "label": "D",
+          "text": "Only foals experience colic"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Colic can occur in horses of any age, breed, or sex, though management and usage (diet, exercise, housing) strongly influence risk. Restriction to specific age groups or breeds (A, C, D) is incorrect."
+    },
+    {
+      "id": 7,
+      "stem": "Which management or usage factor is recognized as increasing the risk of colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consistent turnout and forage‑based diet"
+        },
+        {
+          "label": "B",
+          "text": "Stall confinement, high‑concentrate feeding, and irregular exercise schedules"
+        },
+        {
+          "label": "C",
+          "text": "Minimal changes in diet over time"
+        },
+        {
+          "label": "D",
+          "text": "Daily access to pasture with constant water"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Stall confinement, high‑concentrate diets, abrupt feed changes, and inconsistent exercise increase colic risk. Consistent forage and turnout with fresh water (A, C, D) are preventive, not risk‑inducing, practices."
+    },
+    {
+      "id": 8,
+      "stem": "Mild clinical signs of colic may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intermittent flank watching, reduced appetite, lying down more than usual"
+        },
+        {
+          "label": "B",
+          "text": "Profuse nasal discharge and coughing"
+        },
+        {
+          "label": "C",
+          "text": "Severe ataxia and head pressing"
+        },
+        {
+          "label": "D",
+          "text": "Pica and compulsive crib‑biting"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Mild colic may show subtle signs such as intermittent flank watching, reduced appetite, and lying down more than usual. Respiratory or neurologic signs (B, C, D) are not typical for mild colic."
+    },
+    {
+      "id": 9,
+      "stem": "In more severe colic, changes in vital signs often include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bradycardia and hypothermia"
+        },
+        {
+          "label": "B",
+          "text": "Increased heart rate, increased respiratory rate, and prolonged capillary refill time"
+        },
+        {
+          "label": "C",
+          "text": "Marked hypoventilation with bradycardia"
+        },
+        {
+          "label": "D",
+          "text": "Decreased respiratory rate with bounding pulses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Severe colic commonly causes tachycardia, tachypnea, and prolonged capillary refill time due to pain and circulatory compromise. Bradycardia or hypothermia (A, C) are atypical, and the pattern in D does not fit."
+    },
+    {
+      "id": 10,
+      "stem": "Which statement about gastrointestinal sounds in colic is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gut sounds are always absent in all colic cases"
+        },
+        {
+          "label": "B",
+          "text": "Reduced or absent sounds may indicate ileus, whereas increased sounds can occur in early spasm"
+        },
+        {
+          "label": "C",
+          "text": "Increased gut sounds always indicate health"
+        },
+        {
+          "label": "D",
+          "text": "Gut sounds are not useful in assessing colic"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Reduced or absent GI sounds can indicate ileus, whereas early spasm may briefly increase sounds. Gut sounds are not uniformly absent (A), always normal when increased (C), nor useless (D)."
+    },
+    {
+      "id": 11,
+      "stem": "Abdominal distension in a colic case most likely suggests:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe respiratory disease"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of gas or fluid within the intestines"
+        },
+        {
+          "label": "C",
+          "text": "Primary muscle hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Neurologic disease of the spinal cord"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Abdominal distension is usually due to accumulation of gas or fluid in the intestines. It is not primarily a sign of respiratory disease (A), muscle hypertrophy (C), or neurologic lesions (D)."
+    },
+    {
+      "id": 12,
+      "stem": "Signs of systemic involvement in severe colic may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperactivity and tachypnea only"
+        },
+        {
+          "label": "B",
+          "text": "Depression, circulatory compromise, cold extremities, and endotoxemia signs"
+        },
+        {
+          "label": "C",
+          "text": "Excessive salivation with normal vitals"
+        },
+        {
+          "label": "D",
+          "text": "Weight gain and polyphagia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Severe systemic involvement may include depression, circulatory compromise, cold extremities, prolonged CRT, and signs of endotoxemia. The other options do not reflect the systemic shock‑like state seen in serious colic."
+    },
+    {
+      "id": 13,
+      "stem": "Which diagnostic procedure is commonly used EARLY in the evaluation of equine colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endoscopic examination of the lungs only"
+        },
+        {
+          "label": "B",
+          "text": "Thorough clinical exam including history, physical exam, rectal palpation, nasogastric intubation, ultrasonography, and bloodwork"
+        },
+        {
+          "label": "C",
+          "text": "Brain MRI"
+        },
+        {
+          "label": "D",
+          "text": "Only fecal flotation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A complete colic work‑up includes history, physical exam, rectal palpation, nasogastric intubation, ultrasonography, bloodwork, and sometimes radiography. Lung endoscopy (A), brain MRI (C), or fecal flotation alone (D) do not represent a standard colic evaluation."
+    },
+    {
+      "id": 14,
+      "stem": "Rectal palpation in colic cases is primarily used to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assess laryngeal function"
+        },
+        {
+          "label": "B",
+          "text": "Evaluate portions of the gastrointestinal tract for distension, displacement, or impaction"
+        },
+        {
+          "label": "C",
+          "text": "Measure blood pressure directly"
+        },
+        {
+          "label": "D",
+          "text": "Diagnose laminitis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rectal palpation allows assessment of accessible GI segments for distension, displacement, or impaction. It is unrelated to laryngeal function (A), direct blood pressure measurement (C), or laminitis diagnosis (D)."
+    },
+    {
+      "id": 15,
+      "stem": "Nasogastric intubation in a colic work‑up is important for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delivering oral sedatives alone"
+        },
+        {
+          "label": "B",
+          "text": "Decompression of the stomach and assessing for gastric reflux"
+        },
+        {
+          "label": "C",
+          "text": "Measuring lung function"
+        },
+        {
+          "label": "D",
+          "text": "Collecting urine samples"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Nasogastric intubation is essential to decompress the stomach, relieve reflux, and help prevent gastric rupture, and to assess for excessive reflux. It is not mainly for sedative administration (A) or respiratory/urinary evaluation (C, D)."
+    },
+    {
+      "id": 16,
+      "stem": "Which of the following is NOT a common gastrointestinal differential diagnosis for equine colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Large colon or cecal impactions"
+        },
+        {
+          "label": "B",
+          "text": "Colon displacements or torsions"
+        },
+        {
+          "label": "C",
+          "text": "Small intestinal obstruction or strangulation"
+        },
+        {
+          "label": "D",
+          "text": "Primary skin infection"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Large colon or cecal impactions, colon displacements/torsions, and small intestinal obstruction/strangulation are key GI causes; primary skin infection (D) is not a GI colic differential. Thus, D is the correct “NOT” option."
+    },
+    {
+      "id": 17,
+      "stem": "Which of the following is a NON‑gastrointestinal cause that can mimic colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uterine torsion or kidney stones"
+        },
+        {
+          "label": "B",
+          "text": "Laryngeal hemiplegia"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent uveitis"
+        },
+        {
+          "label": "D",
+          "text": "Laminitis only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Non‑GI conditions such as uterine torsion or kidney stones can mimic colic pain. Laryngeal hemiplegia (B), uveitis (C), or laminitis (D) may cause other signs but are not the classic non‑GI colic mimics listed."
+    },
+    {
+      "id": 18,
+      "stem": "Supportive care in medical management of colic typically includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Analgesics, sedation, fluids, and controlled walking"
+        },
+        {
+          "label": "B",
+          "text": "Only stall rest without medications"
+        },
+        {
+          "label": "C",
+          "text": "Immediate surgical exploration for all cases"
+        },
+        {
+          "label": "D",
+          "text": "Fasting without water"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Medical management commonly involves analgesics, sedation, fluid therapy, and controlled walking when appropriate. Sole stall rest (B), blanket surgery (C), or fasting without water (D) are not recommended across the board."
+    },
+    {
+      "id": 19,
+      "stem": "Decompression in colic management generally refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Performing a tracheotomy"
+        },
+        {
+          "label": "B",
+          "text": "Using a nasogastric tube to relieve gastric reflux and, in some cases, emergency intestinal decompression"
+        },
+        {
+          "label": "C",
+          "text": "Removing part of the lung"
+        },
+        {
+          "label": "D",
+          "text": "Reducing joint effusion in the limb"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Decompression refers to relieving pressure, usually via nasogastric tubing to drain gastric reflux, and sometimes other emergency procedures to evacuate gas/fluid. Tracheotomy (A), lung removal (C), or limb joint drainage (D) are unrelated."
+    },
+    {
+      "id": 20,
+      "stem": "Specific therapy for an impaction‑type colic often involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laxatives and fluids to soften and move the impaction"
+        },
+        {
+          "label": "B",
+          "text": "Immediate euthanasia"
+        },
+        {
+          "label": "C",
+          "text": "Only antibiotics for 3 days"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids alone"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Impaction colic often responds to laxatives (e.g., mineral oil, osmotic agents) and fluids to soften and move the impaction. Euthanasia (B), short antibiotic courses (C), or steroids alone (D) are not appropriate first‑line therapies."
+    },
+    {
+      "id": 21,
+      "stem": "Surgical intervention is MOST likely indicated in colic cases involving:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple spasmodic colic that resolves with analgesia"
+        },
+        {
+          "label": "B",
+          "text": "Displacements, torsions, or strangulating obstructions"
+        },
+        {
+          "label": "C",
+          "text": "Mild gas colic only"
+        },
+        {
+          "label": "D",
+          "text": "Any mild appetite change"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Surgical exploration is typically indicated for displacements, torsions, and strangulating obstructions, or when medical therapy fails. Simple spasmodic or mild gas colic (A, C) can often be managed medically."
+    },
+    {
+      "id": 22,
+      "stem": "Ongoing monitoring of a colic patient should include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single exam only, then discharge"
+        },
+        {
+          "label": "B",
+          "text": "Repeated exams, vital signs, gut sounds, and sometimes peritoneal fluid analysis"
+        },
+        {
+          "label": "C",
+          "text": "Monitoring coat color only"
+        },
+        {
+          "label": "D",
+          "text": "Weight checks once a month"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Good management includes repeated physical exams, vital sign checks, auscultation of gut sounds, and, when indicated, peritoneal fluid analysis to monitor progression. Single exams (A) or irrelevant checks (C, D) are inadequate."
+    },
+    {
+      "id": 23,
+      "stem": "Which factor is LEAST likely to IMPROVE prognosis in a colic case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid veterinary intervention"
+        },
+        {
+          "label": "B",
+          "text": "Absence of vascular compromise or endotoxemia"
+        },
+        {
+          "label": "C",
+          "text": "Development of laminitis and peritonitis"
+        },
+        {
+          "label": "D",
+          "text": "Early recognition of clinical signs"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Development of laminitis, peritonitis, or severe endotoxemia worsens prognosis, whereas rapid intervention, absence of vascular compromise, and early recognition (A, B, D) improve it."
+    },
+    {
+      "id": 24,
+      "stem": "Recognized risk factors for equine colic include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden feed changes, low‑fiber diet, dehydration, poor dental health, stall confinement, parasite burden, and prior colic episodes"
+        },
+        {
+          "label": "B",
+          "text": "High‑fiber diet, ample water, and regular exercise"
+        },
+        {
+          "label": "C",
+          "text": "Routine dental care and deworming"
+        },
+        {
+          "label": "D",
+          "text": "Minimal concentrate feeding and constant turnout"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The listed risk factors include sudden feed changes, low‑fiber diets, dehydration, poor dentition, stall confinement, parasite burden, and a history of colic. The other options (B–D) describe preventive practices."
+    },
+    {
+      "id": 25,
+      "stem": "Which is a common complication that can arise secondary to severe colic or its treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Otitis externa"
+        },
+        {
+          "label": "B",
+          "text": "Endotoxemia and shock, laminitis, peritonitis, adhesions, or intestinal strictures post‑surgery"
+        },
+        {
+          "label": "C",
+          "text": "Photosensitization only"
+        },
+        {
+          "label": "D",
+          "text": "Chronic upper respiratory infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Serious colic or its treatment can lead to endotoxemia and shock, laminitis, peritonitis, and adhesions or intestinal strictures post‑surgery. Otitis, photosensitization, or chronic respiratory disease (A, C, D) are not typical."
+    },
+    {
+      "id": 26,
+      "stem": "Which management practice BEST helps prevent colic in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frequent sudden diet changes to prevent boredom"
+        },
+        {
+          "label": "B",
+          "text": "Providing consistent forage, avoiding sudden diet changes, ensuring constant access to fresh water, maintaining dental and parasite care, and offering regular turnout/exercise"
+        },
+        {
+          "label": "C",
+          "text": "Feeding large high‑concentrate meals once daily"
+        },
+        {
+          "label": "D",
+          "text": "Restricting water before exercise"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prevention emphasizes consistent forage, avoiding sudden diet changes, constant fresh water, regular dental and parasite care, and steady turnout or exercise while avoiding excessive concentrates. The other practices (A, C, D) increase colic risk."
+    },
+    {
+      "id": 27,
+      "stem": "In long‑term management of a horse recovering from colic, which recommendation is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate return to full feed and intense exercise"
+        },
+        {
+          "label": "B",
+          "text": "Gradual return to feed and exercise with a high‑fiber diet, regular water intake, and monitoring for recurrence"
+        },
+        {
+          "label": "C",
+          "text": "Permanent stall rest with no diet changes"
+        },
+        {
+          "label": "D",
+          "text": "Elimination of forage from the diet"
+        }
+      ],
+      "correct": "B",
+      "explanation": "After colic, horses should return gradually to feeding and exercise, with a high‑fiber diet, good hydration, and close monitoring for recurrence. Abrupt intense work (A), permanent strict confinement (C), or eliminating forage (D) are not appropriate."
+    }
+  ]
+}

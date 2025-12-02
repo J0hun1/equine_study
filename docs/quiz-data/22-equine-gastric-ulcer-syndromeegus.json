@@ -1,0 +1,654 @@
+{
+  "topic": "22. Equine Gastric Ulcer Syndrome(EGUS)",
+  "slug": "22-equine-gastric-ulcer-syndromeegus",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "“Equine Gastric Ulcer Syndrome (EGUS)” is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A single uniform disease affecting only the squamous mucosa"
+        },
+        {
+          "label": "B",
+          "text": "A broad clinical term encompassing both equine squamous and glandular gastric diseases"
+        },
+        {
+          "label": "C",
+          "text": "A bacterial disease caused by Helicobacter spp."
+        },
+        {
+          "label": "D",
+          "text": "A condition limited to neonatal foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EGUS is an umbrella clinical term that includes both ESGD (squamous) and EGGD (glandular) gastric ulcer diseases in horses. It is not a single uniform disease (A), is not proven to be caused by Helicobacter spp. (C), and is not limited to foals (D)."
+    },
+    {
+      "id": 2,
+      "stem": "ESGD and EGGD refer respectively to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine squamous gastric disease and equine glandular gastric disease"
+        },
+        {
+          "label": "B",
+          "text": "Equine stomach gland disease and equine gastric duodenal disease"
+        },
+        {
+          "label": "C",
+          "text": "Equine systemic glandular disorder and equine gastric dilation"
+        },
+        {
+          "label": "D",
+          "text": "Equine squamous gland disorder and equine gastric dysfunction"
+        }
+      ],
+      "correct": "A",
+      "explanation": "ESGD stands for equine squamous gastric disease and EGGD for equine glandular gastric disease, referring to the two distinct gastric mucosal regions affected. The other expansions (B–D) are incorrect."
+    },
+    {
+      "id": 3,
+      "stem": "Which statement about gastric erosions versus ulcers is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erosions and ulcers are identical lesions"
+        },
+        {
+          "label": "B",
+          "text": "Erosions are superficial defects, whereas ulcers penetrate the muscularis mucosae"
+        },
+        {
+          "label": "C",
+          "text": "Ulcers are always bacterial in origin, erosions are not"
+        },
+        {
+          "label": "D",
+          "text": "Erosions involve only the duodenum, ulcers only the stomach"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Erosions are superficial mucosal injuries, while ulcers penetrate the muscularis mucosae, representing deeper damage. They are not identical (A), not always bacterial (C), and not location‑exclusive as in D."
+    },
+    {
+      "id": 4,
+      "stem": "Regarding signalment, which statement is TRUE for EGUS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Thoroughbred racehorses are affected"
+        },
+        {
+          "label": "B",
+          "text": "There is no breed or sex predilection, but prevalence is high in performance horses and foals"
+        },
+        {
+          "label": "C",
+          "text": "Only stallions in training are affected"
+        },
+        {
+          "label": "D",
+          "text": "It occurs exclusively in older broodmares"
+        }
+      ],
+      "correct": "B",
+      "explanation": "There is no breed or sex predilection, but EGUS is very common in performance horses and has significant prevalence in foals. Restriction to specific groups (A, C, D) is not supported."
+    },
+    {
+      "id": 5,
+      "stem": "Approximate reported prevalence of EGUS in adult performance horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5–10%"
+        },
+        {
+          "label": "B",
+          "text": "20–30%"
+        },
+        {
+          "label": "C",
+          "text": "60–90%"
+        },
+        {
+          "label": "D",
+          "text": "100%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Studies report a 60–90% prevalence of gastric ulcers in adult performance horses. Lower values (A, B) underestimate, and 100% (D) overstates the prevalence."
+    },
+    {
+      "id": 6,
+      "stem": "In foals, the reported prevalence of gastric ulcers is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–5%"
+        },
+        {
+          "label": "B",
+          "text": "10–15%"
+        },
+        {
+          "label": "C",
+          "text": "25–50%, with higher rates in hospitalized foals"
+        },
+        {
+          "label": "D",
+          "text": "90–100% in all foals"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Foal prevalence is around 25–50%, particularly higher in hospitalized foals. Very low (A, B) or universal (D) prevalence is inaccurate."
+    },
+    {
+      "id": 7,
+      "stem": "Major predisposing factors for EGUS include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free‑choice pasture, low‑stress environment, and minimal NSAID use"
+        },
+        {
+          "label": "B",
+          "text": "Intense training, confinement, high‑grain/low‑roughage diets, stress, fasting, and NSAID administration"
+        },
+        {
+          "label": "C",
+          "text": "Exclusive milk feeding and complete stall rest in all horses"
+        },
+        {
+          "label": "D",
+          "text": "Regular deworming and good dental care"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Intense training, stall confinement, high‑grain/low‑roughage diets, fasting, stress, and NSAID use are major predisposing factors for EGUS. Pasture turnout with low stress (A) is protective, not predisposing."
+    },
+    {
+      "id": 8,
+      "stem": "Which of the following is NOT listed as an aggressive factor contributing to ulcer formation in EGUS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastric acid"
+        },
+        {
+          "label": "B",
+          "text": "Pepsin"
+        },
+        {
+          "label": "C",
+          "text": "Volatile fatty acids"
+        },
+        {
+          "label": "D",
+          "text": "Helicobacter pylori infection"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Aggressive factors listed are gastric acid, pepsin, and volatile fatty acids; Helicobacter infection has not been proven as a cause in horses. Thus D is the correct “NOT” factor."
+    },
+    {
+      "id": 9,
+      "stem": "The non‑glandular (squamous) region of the equine stomach:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has robust mucus and bicarbonate defenses"
+        },
+        {
+          "label": "B",
+          "text": "Is the proximal third and is easily damaged by acid because it lacks protective mucus/bicarbonate"
+        },
+        {
+          "label": "C",
+          "text": "Is not exposed to gastric acid at any time"
+        },
+        {
+          "label": "D",
+          "text": "Contains most of the acid‑secreting parietal cells"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The proximal third (nonglandular squamous mucosa) lacks mucus and bicarbonate defenses and is easily damaged by acid splash. It does not have robust defenses (A), is exposed to acid (C), and does not contain most parietal cells (D)."
+    },
+    {
+      "id": 10,
+      "stem": "Primary ESGD is especially associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horses living exclusively on pasture with no exercise"
+        },
+        {
+          "label": "B",
+          "text": "Horses in intense training or racing on high‑carbohydrate diets producing increased acid and short‑chain fatty acids"
+        },
+        {
+          "label": "C",
+          "text": "Foals nursing frequently"
+        },
+        {
+          "label": "D",
+          "text": "Horses receiving no concentrate feeds"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Primary ESGD is strongly associated with horses in training or racing, particularly on high‑carbohydrate diets that increase acid exposure and short‑chain fatty acids. Pasture‑only horses (A, D) are at lower risk."
+    },
+    {
+      "id": 11,
+      "stem": "Secondary ESGD can arise due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delayed gastric emptying from pyloric stenosis, duodenal ulceration, or ileus"
+        },
+        {
+          "label": "B",
+          "text": "Hyperparathyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Primary cardiac disease"
+        },
+        {
+          "label": "D",
+          "text": "Laminitis"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Secondary ESGD can result from delayed gastric emptying due to pyloric or duodenal disease, dysautonomia, or ileus. Other systemic conditions (B–D) are not the primary causes given."
+    },
+    {
+      "id": 12,
+      "stem": "Glandular gastric disease (EGGD) primarily results from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct trauma from foreign bodies only"
+        },
+        {
+          "label": "B",
+          "text": "An imbalance between aggressive factors (HCl, pepsin) and protective factors (mucus, bicarbonate, prostaglandins, blood flow)"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial toxins from Helicobacter infection"
+        },
+        {
+          "label": "D",
+          "text": "Hypothyroidism"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EGGD is due to an imbalance between aggressive factors (HCl, pepsin) and protective mechanisms (mucus, bicarbonate, prostaglandins, blood flow). Trauma, bacteria, or endocrine disorders (A, C, D) are not emphasized as primary mechanisms."
+    },
+    {
+      "id": 13,
+      "stem": "How do NSAIDs contribute to gastric ulcer formation in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They increase prostaglandin production and mucosal blood flow"
+        },
+        {
+          "label": "B",
+          "text": "They cause topical irritation and inhibit prostaglandin synthesis, reducing mucosal defense"
+        },
+        {
+          "label": "C",
+          "text": "They neutralize gastric acid"
+        },
+        {
+          "label": "D",
+          "text": "They stimulate mucus and bicarbonate secretion"
+        }
+      ],
+      "correct": "B",
+      "explanation": "NSAIDs cause local irritation and inhibit prostaglandin synthesis, which impairs mucosal blood flow and defenses, increasing susceptibility to ulcers. They do not enhance protective factors (A, C, D)."
+    },
+    {
+      "id": 14,
+      "stem": "Common clinical signs of EGUS in foals include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent coughing and nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Poor appetite, intermittent nursing, bruxism, hypersalivation, diarrhea, pot‑belly, dorsal recumbency, and colic signs"
+        },
+        {
+          "label": "C",
+          "text": "Severe laminitis and limb swelling"
+        },
+        {
+          "label": "D",
+          "text": "Neurologic deficits and seizures"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Foals may show poor appetite, intermittent nursing, teeth grinding, hypersalivation, diarrhea, pot‑belly, dorsal recumbency, and colic; reflux can occur with duodenal stricture. Respiratory or neurologic signs alone (A, C, D) are not typical."
+    },
+    {
+      "id": 15,
+      "stem": "In adult horses, EGUS may present with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vague signs such as dull attitude, poor appetite, weight loss, poor performance, girthiness, and mild recurrent colic"
+        },
+        {
+          "label": "B",
+          "text": "Only acute, severe colic and collapse"
+        },
+        {
+          "label": "C",
+          "text": "Marked jaundice and photosensitization"
+        },
+        {
+          "label": "D",
+          "text": "Exclusively respiratory signs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Adult horses often exhibit vague signs such as dullness, poor appetite, weight loss, poor performance, girthiness, and mild recurrent colic, and some may be subclinical. Severe acute collapse (B) is less typical."
+    },
+    {
+      "id": 16,
+      "stem": "What is the gold standard diagnostic test for EGUS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fecal occult blood testing"
+        },
+        {
+          "label": "B",
+          "text": "Abdominal ultrasonography"
+        },
+        {
+          "label": "C",
+          "text": "Gastroscopy (endoscopic visualization of the stomach)"
+        },
+        {
+          "label": "D",
+          "text": "Serum Helicobacter antibody testing"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Gastroscopy is the definitive, gold‑standard method to diagnose and grade EGUS lesions. Fecal tests, ultrasound, or Helicobacter serology (A, B, D) lack specificity for gastric ulcers."
+    },
+    {
+      "id": 17,
+      "stem": "Why is it recommended to perform gastroscopy rather than starting empirical treatment without it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastroscopy is cheaper than medications"
+        },
+        {
+          "label": "B",
+          "text": "Clinical signs and fecal tests are highly specific and no further confirmation is needed"
+        },
+        {
+          "label": "C",
+          "text": "Definitive visualization of lesions guides therapy and allows differentiation between ESGD and EGGD"
+        },
+        {
+          "label": "D",
+          "text": "Gastroscopy is required by law in all performance horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Endoscopic visualization confirms the presence, severity, and location (squamous vs glandular) of ulcers, tailoring therapy. Cost (A) or legal requirements (D) are not the main justifications."
+    },
+    {
+      "id": 18,
+      "stem": "Appropriate fasting preparation for gastroscopy in adult horses generally includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "No fasting; feeding up to the time of the exam"
+        },
+        {
+          "label": "B",
+          "text": "8–18 hours of fasting for adequate visualization"
+        },
+        {
+          "label": "C",
+          "text": "48 hours of total water and feed restriction"
+        },
+        {
+          "label": "D",
+          "text": "Fasting only for 1–2 hours"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Adult horses generally require 8–18 hours of fasting prior to gastroscopy to allow clear visualization; young foals need minimal fasting. No fasting or extreme restriction (A, C, D) are inappropriate."
+    },
+    {
+      "id": 19,
+      "stem": "Which class of drug is considered the treatment of choice for EGUS in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proton pump inhibitors (PPIs) such as omeprazole"
+        },
+        {
+          "label": "B",
+          "text": "Sulfonamide antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Prokinetic agents alone"
+        },
+        {
+          "label": "D",
+          "text": "Antifungal medications"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Proton pump inhibitors like omeprazole are the drugs of choice, as they directly inhibit gastric acid secretion. Antibiotics, prokinetics, or antifungals (B–D) are not primary therapies."
+    },
+    {
+      "id": 20,
+      "stem": "The recommended omeprazole regimen for treatment of EGUS is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.1–0.5 mg/kg PO once weekly"
+        },
+        {
+          "label": "B",
+          "text": "1–4 mg/kg PO once daily for at least 28 days"
+        },
+        {
+          "label": "C",
+          "text": "10–20 mg/kg IV every 6 hours"
+        },
+        {
+          "label": "D",
+          "text": "0.5 mg/kg IM every 3 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Omeprazole is typically administered at 1–4 mg/kg PO once daily for at least 28 days, with higher doses used for treatment and lower doses for prevention. The other regimens do not match recommended protocols."
+    },
+    {
+      "id": 21,
+      "stem": "H₂ receptor antagonists (e.g., cimetidine, ranitidine) in EGUS therapy are characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very long duration of action with once‑daily dosing"
+        },
+        {
+          "label": "B",
+          "text": "Fast onset but short duration, requiring frequent dosing every 6–8 hours"
+        },
+        {
+          "label": "C",
+          "text": "Elimination of the need for any fasting before gastroscopy"
+        },
+        {
+          "label": "D",
+          "text": "Exclusive effectiveness in foals only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "H₂ blockers such as cimetidine and ranitidine are relatively fast‑acting but have short duration, necessitating dosing every 6–8 hours. They are not once‑daily (A), nor do they eliminate fasting needs (C)."
+    },
+    {
+      "id": 22,
+      "stem": "Sucralfate is MOST effective for which type of gastric lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nonglandular squamous ulcers (ESGD) only"
+        },
+        {
+          "label": "B",
+          "text": "Glandular ulcers (EGGD) more than squamous"
+        },
+        {
+          "label": "C",
+          "text": "Esophageal ulcers only"
+        },
+        {
+          "label": "D",
+          "text": "Duodenal ulcers exclusively"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sucralfate is more effective for glandular (EGGD) than for squamous (ESGD) lesions, acting as a mucosal protectant. It is not restricted to squamous or extragastric lesions (A, C, D)."
+    },
+    {
+      "id": 23,
+      "stem": "Which precaution is important when using omeprazole or cimetidine in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They may inhibit cytochrome P450 and interact with other drugs"
+        },
+        {
+          "label": "B",
+          "text": "They cause severe immunosuppression"
+        },
+        {
+          "label": "C",
+          "text": "They always cause colitis"
+        },
+        {
+          "label": "D",
+          "text": "They are contraindicated in all foals"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Omeprazole and cimetidine inhibit cytochrome P450 enzymes, so potential drug interactions must be considered. They are not typically immunosuppressive or inherently colitogenic (B, C)."
+    },
+    {
+      "id": 24,
+      "stem": "Which management changes are recommended alongside medical therapy for EGUS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase intensity of training and prolong fasting"
+        },
+        {
+          "label": "B",
+          "text": "Decrease intense training if possible, maximize pasture turnout, minimize NSAID administration, and minimize fasting periods"
+        },
+        {
+          "label": "C",
+          "text": "Eliminate forage and feed only grain"
+        },
+        {
+          "label": "D",
+          "text": "Confine horses indoors and restrict water"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Management should aim to reduce ulcer risk: decreasing the intensity of training when possible, maximizing pasture time, minimizing NSAID use and fasting. Increasing stress or grain and restricting forage/water (A, C, D) worsen risk."
+    },
+    {
+      "id": 25,
+      "stem": "In foals with pyloric or duodenal strictures following ulcer healing, what surgical procedure may be indicated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Right dorsal colon resection"
+        },
+        {
+          "label": "B",
+          "text": "Gastrojejunostomy"
+        },
+        {
+          "label": "C",
+          "text": "Nephrectomy"
+        },
+        {
+          "label": "D",
+          "text": "Tracheostomy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Foals with chronic outflow obstruction due to pyloric or duodenal strictures may require gastrojejunostomy. Other surgeries listed (A, C, D) address unrelated problems."
+    },
+    {
+      "id": 26,
+      "stem": "The prognosis for uncomplicated EGUS cases in horses is generally:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor, with frequent fatal outcomes"
+        },
+        {
+          "label": "B",
+          "text": "Good, although recurrence is common when intense training resumes"
+        },
+        {
+          "label": "C",
+          "text": "Guarded in all cases regardless of treatment"
+        },
+        {
+          "label": "D",
+          "text": "Always excellent with zero risk of recurrence"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis for uncomplicated EGUS is generally good, but recurrence is common when intense training resumes. It is not uniformly poor (A) or always perfect without recurrence (D)."
+    },
+    {
+      "id": 27,
+      "stem": "Which preventive strategy can help reduce the risk or recurrence of EGUS in performance horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Routine high‑dose NSAID use"
+        },
+        {
+          "label": "B",
+          "text": "Pasture turnout, minimizing fasting and stress, and prophylactic omeprazole or H₂ blockers during intense training"
+        },
+        {
+          "label": "C",
+          "text": "Feeding only one large meal per day"
+        },
+        {
+          "label": "D",
+          "text": "Withholding water before and after exercise"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Preventive strategies include pasture turnout, minimizing stress and fasting, and prophylactic omeprazole or H₂ blockers during high‑risk training periods. High‑dose NSAIDs, large single meals, or water restriction (A, C, D) are counterproductive."
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "topic": "17. Purpura Haemorrhagica_Mercado",
+  "slug": "17-purpura-haemorrhagica_mercado",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Purpura haemorrhagica in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A primary coagulopathy due to clotting factor deficiency"
+        },
+        {
+          "label": "B",
+          "text": "An acute, immune‑mediated, necrotizing vasculitis associated with Streptococcus equi"
+        },
+        {
+          "label": "C",
+          "text": "A chronic degenerative joint disease associated with trauma"
+        },
+        {
+          "label": "D",
+          "text": "A congenital platelet function disorder"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Purpura haemorrhagica is an acute, immune‑mediated, necrotizing vasculitis associated with sensitization and cross‑reactivity to Streptococcus equi cell‑wall proteins. It is not a primary coagulation factor deficiency (A), a chronic joint disease (C), or a congenital platelet disorder (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Purpura haemorrhagica is classically associated with which type of hypersensitivity reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I (immediate, IgE‑mediated)"
+        },
+        {
+          "label": "B",
+          "text": "Type II (cytotoxic, IgG/IgM‑mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type III (immune complex–mediated)"
+        },
+        {
+          "label": "D",
+          "text": "Type IV (delayed, cell‑mediated)"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The disease is a classic type III hypersensitivity, in which circulating immune complexes deposit in vessel walls and trigger inflammation. Type I (A), II (B), and IV (D) hypersensitivity mechanisms are not the primary processes described."
+    },
+    {
+      "id": 3,
+      "stem": "The immune complexes involved in purpura haemorrhagica typically contain antibodies directed against which streptococcal antigen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Streptolysin O"
+        },
+        {
+          "label": "B",
+          "text": "M protein (SeM) of Streptococcus equi subsp. equi"
+        },
+        {
+          "label": "C",
+          "text": "Capsule polysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "Lipoteichoic acid"
+        }
+      ],
+      "correct": "B",
+      "explanation": "IgA (and IgG) directed against the M protein (SeM) of S. equi form immune complexes that deposit in small blood vessels. Other antigens like streptolysin O, capsule, or lipoteichoic acid (A, C, D) are not emphasized as the key target in this syndrome."
+    },
+    {
+      "id": 4,
+      "stem": "Purpura haemorrhagica most commonly occurs as a sequela to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine protozoal myeloencephalitis"
+        },
+        {
+          "label": "B",
+          "text": "Strangles (Streptococcus equi subsp. equi respiratory infection)"
+        },
+        {
+          "label": "C",
+          "text": "Equine Cushing’s disease"
+        },
+        {
+          "label": "D",
+          "text": "Gastric ulcer syndrome"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Purpura haemorrhagica usually follows previous S. equi respiratory infection (strangles), although it can be triggered by other antigens. It is not a sequela of EPM (A), endocrine disease (C), or gastric ulcer syndrome (D)."
+    },
+    {
+      "id": 5,
+      "stem": "Besides natural infection, which of the following is a recognized trigger for purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccination with S. equi bacterin in horses with high M protein titers"
+        },
+        {
+          "label": "B",
+          "text": "Deworming with macrocyclic lactones"
+        },
+        {
+          "label": "C",
+          "text": "Routine dental floating"
+        },
+        {
+          "label": "D",
+          "text": "Hoof trimming in laminitic horses"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Vaccination with S. equi bacterin in horses that already have high M protein titers increases the risk of purpura haemorrhagica and should be avoided. Deworming, dental work, and hoof trimming (B–D) are not typical triggers."
+    },
+    {
+      "id": 6,
+      "stem": "Which pathophysiologic sequence BEST explains how type III hypersensitivity leads to the lesions seen in purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgE binds mast cells → histamine release → smooth muscle contraction"
+        },
+        {
+          "label": "B",
+          "text": "IgG/IgM bind cell surfaces → complement‑mediated lysis of RBCs"
+        },
+        {
+          "label": "C",
+          "text": "IgA–SeM immune complexes deposit in vessel walls → complement activation → neutrophil recruitment → enzymatic damage, edema, hemorrhage, thrombosis, ischemia"
+        },
+        {
+          "label": "D",
+          "text": "T cells attack keratinocytes → epidermal apoptosis"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Immune complexes (IgA–SeM) deposit in vessel walls, activate complement, recruit neutrophils, and neutrophil enzymes damage vessels, causing edema, hemorrhage, thrombosis, and ischemia. The mechanisms in A, B, and D describe other types of hypersensitivity."
+    },
+    {
+      "id": 7,
+      "stem": "Which organ systems are primarily affected in purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory and gastrointestinal only"
+        },
+        {
+          "label": "B",
+          "text": "Immune, cardiovascular, hemic, lymphatic, and skin"
+        },
+        {
+          "label": "C",
+          "text": "Nervous and musculoskeletal only"
+        },
+        {
+          "label": "D",
+          "text": "Renal and reproductive only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The main systems affected are the immune, cardiovascular, hemic, lymphatic systems, and the skin, reflecting systemic vasculitis and edema. Other system combinations (A, C, D) are incomplete or inaccurate."
+    },
+    {
+      "id": 8,
+      "stem": "Approximately what proportion of horses develop purpura haemorrhagica after Streptococcus equi infection (strangles)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.05–0.1%"
+        },
+        {
+          "label": "B",
+          "text": "0.5–5%"
+        },
+        {
+          "label": "C",
+          "text": "10–20%"
+        },
+        {
+          "label": "D",
+          "text": "30–50%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The reported incidence is about 0.5–5% of horses after S. equi infection, making it an uncommon but important sequela. The other ranges (A, C, D) are too low or unrealistically high."
+    },
+    {
+      "id": 9,
+      "stem": "Which signalment or risk factor statement is MOST accurate for purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It affects only young foals"
+        },
+        {
+          "label": "B",
+          "text": "It has no specific breed, sex, or age predilection"
+        },
+        {
+          "label": "C",
+          "text": "It occurs exclusively in aged draft horses"
+        },
+        {
+          "label": "D",
+          "text": "It is limited to stallions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "There is no consistent breed, sex, or age predilection; any horse exposed to appropriate antigenic triggers can be affected. Restriction to specific ages, breeds, or sex (A, C, D) is not supported."
+    },
+    {
+      "id": 10,
+      "stem": "Regarding vaccination against Streptococcus equi, which horses should NOT be vaccinated because of increased risk of purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horses with low or no antibody titers to M protein"
+        },
+        {
+          "label": "B",
+          "text": "Horses with high antibody titers to M protein (SeM)"
+        },
+        {
+          "label": "C",
+          "text": "Pregnant mares in late gestation"
+        },
+        {
+          "label": "D",
+          "text": "Foals under 3 months of age only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses with high antibody titers to M protein (SeM) are at increased risk of purpura haemorrhagica if vaccinated and should not receive S. equi bacterin. Low‑titer horses (A) are the typical vaccination candidates, and the other groups (C, D) are not the main concern described."
+    },
+    {
+      "id": 11,
+      "stem": "Which clinical signs are MOST typical of purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coughing, nasal discharge, and dyspnea without edema"
+        },
+        {
+          "label": "B",
+          "text": "Fever, depression, anorexia, and edema of the head, limbs, and ventral abdomen with petechial/ecchymotic hemorrhages"
+        },
+        {
+          "label": "C",
+          "text": "Colic, diarrhea, and dehydration only"
+        },
+        {
+          "label": "D",
+          "text": "Ataxia, seizures, and head pressing"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Classic signs include fever, depression, anorexia, and marked edema of the head, limbs, and ventral abdomen, along with petechial and ecchymotic hemorrhages on mucosa or skin. Isolated respiratory signs (A), gastrointestinal signs (C), or neurologic signs (D) do not define this syndrome."
+    },
+    {
+      "id": 12,
+      "stem": "In severe cases of purpura haemorrhagica, which additional complications may be observed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin infarction, necrosis, sloughing, dyspnea, or colic"
+        },
+        {
+          "label": "B",
+          "text": "Laminitis alone without skin changes"
+        },
+        {
+          "label": "C",
+          "text": "Only mild urticaria"
+        },
+        {
+          "label": "D",
+          "text": "Chronic cough without systemic signs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Severe cases can show skin infarction, necrosis, and sloughing, as well as dyspnea or colic due to deeper tissue involvement. Mild laminitis (B), urticaria (C), or simple cough (D) may occur in other conditions but do not capture the severe spectrum of PH."
+    },
+    {
+      "id": 13,
+      "stem": "Which statement about causes of purpura haemorrhagica is MOST correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It only occurs following natural S. equi infection"
+        },
+        {
+          "label": "B",
+          "text": "It can be triggered by infectious antigens (S. equi, C. pseudotuberculosis, EHV, EIV) or drugs, and may be idiopathic"
+        },
+        {
+          "label": "C",
+          "text": "It is exclusively due to equine influenza virus"
+        },
+        {
+          "label": "D",
+          "text": "It is caused only by drug administration"
+        }
+      ],
+      "correct": "B",
+      "explanation": "PH can be triggered by various infectious antigens such as S. equi, Corynebacterium pseudotuberculosis, EHV, EIV, and certain drugs, and sometimes no cause is identified (idiopathic). It is not limited to S. equi (A), equine influenza alone (C), or drug exposure alone (D)."
+    },
+    {
+      "id": 14,
+      "stem": "Which diagnostic finding is MOST supportive of purpura haemorrhagica in a horse with compatible clinical signs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marked neutropenia with no skin changes"
+        },
+        {
+          "label": "B",
+          "text": "Leukocytoclastic vasculitis in skin plus very high S. equi M protein (SeM) titers"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia and azotemia only"
+        },
+        {
+          "label": "D",
+          "text": "Hypocalcemia and hypomagnesemia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Diagnosis is supported by compatible clinical signs plus leukocytoclastic vasculitis (neutrophilic inflammation and fibrinoid necrosis of vessels) on biopsy and very high S. equi M protein titers. The other lab patterns (A, C, D) are nonspecific or unrelated."
+    },
+    {
+      "id": 15,
+      "stem": "Which serologic pattern is suggestive of purpura haemorrhagica related to S. equi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low IgA and low SeM titers"
+        },
+        {
+          "label": "B",
+          "text": "Elevated IgA titers to S. equi and IgG–SeM titers > 1:6400"
+        },
+        {
+          "label": "C",
+          "text": "Positive ANA titers only"
+        },
+        {
+          "label": "D",
+          "text": "Elevated antibodies to equine herpesvirus only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Elevated IgA titers to S. equi and high IgG–SeM titers (> 1:6400) are suggestive of purpura haemorrhagica linked to S. equi. Low titers (A) or antibodies to unrelated antigens (C, D) are not characteristic."
+    },
+    {
+      "id": 16,
+      "stem": "Typical gross and histopathologic findings in purpura haemorrhagica include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary abscesses and bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous edema, petechiae and ecchymoses, neutrophilic infiltration, and fibrinoid necrosis of vessel walls"
+        },
+        {
+          "label": "C",
+          "text": "Renal amyloidosis only"
+        },
+        {
+          "label": "D",
+          "text": "Cerebellar hypoplasia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Subcutaneous edema with petechiae and ecchymoses, along with histologic neutrophilic infiltration and fibrinoid necrosis of vessel walls, are typical. The other options describe lesions not characteristic of PH."
+    },
+    {
+      "id": 17,
+      "stem": "Infarctive purpura haemorrhagica is particularly associated with necrosis of which tissues?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bone marrow and retina"
+        },
+        {
+          "label": "B",
+          "text": "Muscle and gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid and adrenal glands"
+        },
+        {
+          "label": "D",
+          "text": "Pancreas and liver only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Infarctive purpura haemorrhagica commonly affects muscle and the gastrointestinal tract, leading to necrosis and potentially grave outcomes. The other tissue combinations (A, C, D) are not emphasized in the presentation."
+    },
+    {
+      "id": 18,
+      "stem": "The PRIMARY goals of treatment in purpura haemorrhagica are to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stimulate the immune system and enhance clot formation"
+        },
+        {
+          "label": "B",
+          "text": "Remove the inciting cause and reduce inflammation/immune response while providing supportive care"
+        },
+        {
+          "label": "C",
+          "text": "Suppress appetite and induce weight loss"
+        },
+        {
+          "label": "D",
+          "text": "Increase exposure to infectious antigens to boost immunity"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment is aimed at removing or controlling the inciting cause and suppressing the damaging immune/inflammatory response, while supporting the patient with fluids, wound care, etc. Stimulating immunity (A), inducing weight loss (C), or increasing antigen exposure (D) are inappropriate."
+    },
+    {
+      "id": 19,
+      "stem": "Which antimicrobial and dosing regimen is recommended early in the course of purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enrofloxacin 1 mg/kg, PO, once daily for 3 days"
+        },
+        {
+          "label": "B",
+          "text": "Potassium or sodium penicillin 22,000–44,000 U/kg IV every 6 hours for 14 days"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline 5 mg/kg PO every 48 hours for 5 days"
+        },
+        {
+          "label": "D",
+          "text": "No antibiotics are indicated"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early aggressive therapy includes potassium or sodium penicillin at 22,000–44,000 U/kg IV every 6 hours for 14 days to control persistent or associated bacterial infection. The other regimens (A, C) are not the recommended protocols, and no‑antibiotic therapy (D) ignores the infectious component."
+    },
+    {
+      "id": 20,
+      "stem": "Which corticosteroid protocol is recommended to control the immune‑mediated vasculitis in purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single low dose of dexamethasone then immediate discontinuation"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged high doses of dexamethasone (0.07–0.1 mg/kg IV every 12–24 hours for at least 10 days) followed by tapering prednisolone"
+        },
+        {
+          "label": "C",
+          "text": "Only topical corticosteroids applied to skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "Short course of prednisolone for 2 days only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "High‑dose dexamethasone (0.07–0.1 mg/kg IV every 12–24 hours for at least 10 days) followed by tapering prednisolone is recommended to control the severe immune‑mediated vasculitis. Single or very short courses (A, D) or topical use only (C) are inadequate for severe disease."
+    },
+    {
+      "id": 21,
+      "stem": "What is the potential consequence of failing to institute aggressive steroid therapy in severe purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid resolution without complications"
+        },
+        {
+          "label": "B",
+          "text": "Progression to intestinal infarction and death"
+        },
+        {
+          "label": "C",
+          "text": "Development of mild, self‑limiting urticaria"
+        },
+        {
+          "label": "D",
+          "text": "Isolated corneal ulceration"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Without aggressive steroid treatment, purpura haemorrhagica can progress to intestinal infarction and death due to extensive vasculitis and thrombosis. It does not resolve benignly (A), cause only mild urticaria (C), or primarily corneal ulcers (D)."
+    },
+    {
+      "id": 22,
+      "stem": "Which supportive and surgical measures may be indicated in managing purpura haemorrhagica cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluid therapy, wound care, hydrotherapy, limited walking, abscess drainage, and tracheotomy if airway obstruction occurs"
+        },
+        {
+          "label": "B",
+          "text": "Only stall rest and grain restriction"
+        },
+        {
+          "label": "C",
+          "text": "Immediate return to exercise with no wound care"
+        },
+        {
+          "label": "D",
+          "text": "Exclusive use of NSAIDs without any other support"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Supportive care includes fluids, wound and skin management, hydrotherapy, controlled walking, drainage of abscesses, and tracheotomy if there is airway compromise. Minimal or inappropriate care (B, C, D) does not address the systemic and local complications."
+    },
+    {
+      "id": 23,
+      "stem": "Which statement about prevention and prognosis of purpura haemorrhagica is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccination against strangles is always safe and prevents PH in all cases"
+        },
+        {
+          "label": "B",
+          "text": "Control of strangles and careful vaccination management, especially avoiding vaccination in horses with high M protein titers, help reduce risk; most horses recover in 2–4 weeks with early treatment"
+        },
+        {
+          "label": "C",
+          "text": "Prognosis is always grave regardless of treatment"
+        },
+        {
+          "label": "D",
+          "text": "There are no known preventive strategies"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prevention focuses on good control and vaccination management for strangles, especially avoiding vaccination of horses with high M protein titers; with early, aggressive treatment most horses recover within 2–4 weeks. Vaccination is not always safe (A), prognosis is not invariably grave (C), and lack of preventive options (D) is incorrect."
+    },
+    {
+      "id": 24,
+      "stem": "Which clinical findings are associated with a POOR prognosis in purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild edema only"
+        },
+        {
+          "label": "B",
+          "text": "Rapid full response to early therapy"
+        },
+        {
+          "label": "C",
+          "text": "Skin sloughing, organ damage, or laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Mild petechiae with normal limb function"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Poor prognostic indicators include severe skin sloughing, evidence of organ damage, and development of laminitis. Mild edema or petechiae that respond to therapy (A, B, D) are less concerning."
+    },
+    {
+      "id": 25,
+      "stem": "Which of the following best summarizes purpura haemorrhagica?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A localized skin infection that never affects internal organs"
+        },
+        {
+          "label": "B",
+          "text": "A systemic, immune complex–mediated vasculitis often following S. equi infection or vaccination, with variable prognosis depending on severity and treatment"
+        },
+        {
+          "label": "C",
+          "text": "A zoonotic respiratory disease of horses and humans"
+        },
+        {
+          "label": "D",
+          "text": "A nutritional deficiency disease due to lack of vitamin C"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Purpura haemorrhagica is a systemic, immune complex–mediated vasculitis that often follows S. equi infection or vaccination and has a variable prognosis depending on severity and rapidity of treatment. It is not purely localized (A), not zoonotic (C), and not simply a vitamin deficiency (D)."
+    }
+  ]
+}

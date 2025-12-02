@@ -1,0 +1,606 @@
+{
+  "topic": "18. Equine Granulocytic Anaplasmosis - Cobias",
+  "slug": "18-equine-granulocytic-anaplasmosis-cobias",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine granulocytic anaplasmosis is also known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine protozoal myeloencephalitis"
+        },
+        {
+          "label": "B",
+          "text": "Equine ehrlichiosis"
+        },
+        {
+          "label": "C",
+          "text": "Equine viral arteritis"
+        },
+        {
+          "label": "D",
+          "text": "Equine influenza"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine granulocytic anaplasmosis is also referred to as equine ehrlichiosis in older literature. It is not EPM (A), equine viral arteritis (C), or influenza (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which statement BEST describes equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A contagious respiratory disease spread by aerosol"
+        },
+        {
+          "label": "B",
+          "text": "An infectious, noncontagious, seasonal tick‑borne febrile disease of horses"
+        },
+        {
+          "label": "C",
+          "text": "A nutritional myopathy affecting only young foals"
+        },
+        {
+          "label": "D",
+          "text": "A chronic metabolic disease with no vector involvement"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The disease is an infectious, noncontagious, seasonal, tick‑borne febrile illness of horses. It is not spread by aerosol (A) and is not a purely metabolic (D) or nutritional myopathy (C)."
+    },
+    {
+      "id": 3,
+      "stem": "What is the etiologic agent of equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anaplasma marginale"
+        },
+        {
+          "label": "B",
+          "text": "Babesia caballi"
+        },
+        {
+          "label": "C",
+          "text": "Anaplasma phagocytophilum"
+        },
+        {
+          "label": "D",
+          "text": "Theileria equi"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The etiologic agent is Anaplasma phagocytophilum, a tick‑transmitted bacterium. A. marginale (A) affects cattle, and B. caballi and T. equi (B, D) are piroplasms causing equine piroplasmosis."
+    },
+    {
+      "id": 4,
+      "stem": "The incubation period for equine granulocytic anaplasmosis is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–3 days"
+        },
+        {
+          "label": "B",
+          "text": "4–7 days"
+        },
+        {
+          "label": "C",
+          "text": "8–25 days"
+        },
+        {
+          "label": "D",
+          "text": "30–45 days"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The incubation period is typically 8–25 days after tick attachment. The shorter (A, B) and longer (D) intervals do not match the slide content."
+    },
+    {
+      "id": 5,
+      "stem": "Which cells are primarily infected by Anaplasma phagocytophilum in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lymphocytes and plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Granulocytes, particularly neutrophils and eosinophils"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocytes only"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocytes and biliary epithelium"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A. phagocytophilum primarily infects granulocytes (neutrophils and eosinophils), where morulae can be seen on blood smears. Lymphocytes (A), erythrocytes (C), or hepatocytes (D) are not the main targets."
+    },
+    {
+      "id": 6,
+      "stem": "The pathophysiology of equine granulocytic anaplasmosis most directly leads to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vasculitis and interstitial inflammation causing edema, petechiae, ataxia, and hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Direct destruction of muscle fibers causing rhabdomyolysis"
+        },
+        {
+          "label": "C",
+          "text": "Destruction of pancreatic beta cells causing diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "Demyelination of the spinal cord causing progressive paralysis"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Infection of granulocytes leads to vasculitis and interstitial inflammation, producing edema, petechiae, ataxia, and hemolytic anemia. The mechanisms in B–D describe other disease processes."
+    },
+    {
+      "id": 7,
+      "stem": "Which Ixodes tick species is the PRINCIPAL vector of A. phagocytophilum in the eastern and midwestern USA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ixodes pacificus"
+        },
+        {
+          "label": "B",
+          "text": "Ixodes scapularis"
+        },
+        {
+          "label": "C",
+          "text": "Dermacentor variabilis"
+        },
+        {
+          "label": "D",
+          "text": "Rhipicephalus sanguineus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ixodes scapularis, the black‑legged or deer tick, is the primary vector in the eastern and midwestern USA, whereas I. pacificus (A) is the main western vector. Dermacentor and Rhipicephalus species (C, D) are not the primary vectors listed."
+    },
+    {
+      "id": 8,
+      "stem": "Under typical conditions, how long must infected ticks feed on a horse to transmit A. phagocytophilum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 30 minutes"
+        },
+        {
+          "label": "B",
+          "text": "2–36 hours"
+        },
+        {
+          "label": "C",
+          "text": "3–5 days"
+        },
+        {
+          "label": "D",
+          "text": "At least 7 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Transmission generally requires infected ticks to feed for about 2–36 hours. Very short or very long feeding times (A, C, D) are not consistent with the described window."
+    },
+    {
+      "id": 9,
+      "stem": "Infection with A. phagocytophilum can result in which hematologic abnormality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polycythemia"
+        },
+        {
+          "label": "B",
+          "text": "Pancytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Isolated eosinophilia"
+        },
+        {
+          "label": "D",
+          "text": "Pure red cell aplasia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The infection can result in pancytopenia due to its effects on granulocytes and bone marrow response. Polycythemia (A), isolated eosinophilia (C), or pure red cell aplasia (D) are not typical."
+    },
+    {
+      "id": 10,
+      "stem": "Regarding host range and signalment, which statement is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only donkeys are naturally affected; horses are resistant"
+        },
+        {
+          "label": "B",
+          "text": "Primarily horses are affected, donkeys can be experimentally infected, and horses ≥ 4 years tend to be more severely affected"
+        },
+        {
+          "label": "C",
+          "text": "Only foals under 6 months are affected"
+        },
+        {
+          "label": "D",
+          "text": "Only a specific breed of horse is predisposed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The disease primarily affects horses, donkeys have been experimentally infected, there is no breed or sex predilection, and horses ≥ 4 years are most severely affected (though foals can be affected). Restriction to donkeys (A), foals only (C), or a specific breed (D) is incorrect."
+    },
+    {
+      "id": 11,
+      "stem": "Which historical findings are commonly reported in horses with equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weight gain and polydipsia"
+        },
+        {
+          "label": "B",
+          "text": "Lethargy, high fever, anorexia, limb edema, and tick exposure"
+        },
+        {
+          "label": "C",
+          "text": "Chronic coughing and nasal discharge without fever"
+        },
+        {
+          "label": "D",
+          "text": "Neurologic signs only with no systemic illness"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Lethargy, high fever, anorexia, limb edema, and a history of tick exposure are classic historical findings. Weight gain (A), isolated respiratory signs (C), or purely neurologic signs (D) are not typical."
+    },
+    {
+      "id": 12,
+      "stem": "On physical examination, which combination of signs is MOST typical of equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normothermia, tachycardia, and colic"
+        },
+        {
+          "label": "B",
+          "text": "Pyrexia, anorexia, depressed mentation, limb edema, mild petechiae/ecchymoses, icterus, ataxia, stiffness or myopathy"
+        },
+        {
+          "label": "C",
+          "text": "Severe diarrhea and dehydration only"
+        },
+        {
+          "label": "D",
+          "text": "Marked dyspnea and cyanosis without edema"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Common exam findings include pyrexia, anorexia, depression, limb edema (less in young animals), mild petechiae/ecchymoses, icterus, ataxia, stiffness/myopathy, and occasionally arrhythmias or recumbency. The patterns in A, C, and D do not match the syndrome."
+    },
+    {
+      "id": 13,
+      "stem": "Which of the following is LEAST likely to be seen in young animals with equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Limb edema"
+        },
+        {
+          "label": "B",
+          "text": "Fever"
+        },
+        {
+          "label": "C",
+          "text": "Anorexia"
+        },
+        {
+          "label": "D",
+          "text": "Depression"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Limb edema is often absent in young animals, while systemic signs such as fever, anorexia, and depression may still be present. Therefore, edema (A) is least likely in young cases compared with the other signs (B–D)."
+    },
+    {
+      "id": 14,
+      "stem": "Which differential diagnoses should be considered for a horse with fever, ataxia, edema, and petechiae suspected of equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine viral encephalitis, liver disease with hepatic encephalopathy, purpura haemorrhagica, equine infectious anemia, equine viral arteritis"
+        },
+        {
+          "label": "B",
+          "text": "Only colic and laminitis"
+        },
+        {
+          "label": "C",
+          "text": "Only dermatophytosis"
+        },
+        {
+          "label": "D",
+          "text": "Only navicular disease"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Differential diagnoses include viral encephalitis, liver disease with hepatic encephalopathy, purpura haemorrhagica, equine infectious anemia, and equine viral arteritis, all of which can produce fever, neurologic signs, and/or vasculitis. The other options list conditions that do not mimic this systemic febrile vasculitis."
+    },
+    {
+      "id": 15,
+      "stem": "Which laboratory tests can be used to detect A. phagocytophilum in suspected cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin scrapings and fungal culture"
+        },
+        {
+          "label": "B",
+          "text": "Giemsa‑ or Wright‑stained peripheral blood smears, buffy coat smears, indirect fluorescent antibody tests, PCR, and immunohistochemistry"
+        },
+        {
+          "label": "C",
+          "text": "Only urine culture"
+        },
+        {
+          "label": "D",
+          "text": "Serology for equine influenza virus only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Diagnosis can be supported by stained peripheral or buffy coat smears to visualize morulae, serology (IFA), PCR, and immunohistochemistry. Skin scrapings (A), urine culture (C), or influenza serology (D) are not diagnostic for this agent."
+    },
+    {
+      "id": 16,
+      "stem": "Which pathologic findings are commonly associated with equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High mortality with severe cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation of small arteries and veins (vasculitis), hemorrhage, edema, petechiae on mucous and serous membranes, and mild inflammatory or interstitial lesions in multiple organs"
+        },
+        {
+          "label": "C",
+          "text": "Severe renal cortical necrosis only"
+        },
+        {
+          "label": "D",
+          "text": "Primary neoplasia of lymph nodes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pathologic findings include vasculitis with inflammation of small vessels, hemorrhage, edema, petechiae on mucous and serous membranes, and mild inflammatory or interstitial lesions in heart, CNS, kidneys, spleen, liver, and lung. High lethality with cardiomyopathy (A) or isolated organ lesions (C, D) are not typical."
+    },
+    {
+      "id": 17,
+      "stem": "Which statement about mortality in equine granulocytic anaplasmosis is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mortality is extremely high in all cases"
+        },
+        {
+          "label": "B",
+          "text": "Mortality is rare and usually related to secondary complications"
+        },
+        {
+          "label": "C",
+          "text": "All infected horses become chronic carriers"
+        },
+        {
+          "label": "D",
+          "text": "Foals always die from the infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Mortality is rare and usually due to secondary complications rather than the primary infection itself. It is not uniformly fatal (A, D), and horses do not typically become chronic carriers (C)."
+    },
+    {
+      "id": 18,
+      "stem": "Which management approach is recommended for horses with severe ataxia or serious secondary complications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Home rest without monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Immediate euthanasia"
+        },
+        {
+          "label": "C",
+          "text": "Hospitalization for intensive care and monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Turnout to pasture to encourage movement"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Horses with severe ataxia or significant complications should be hospitalized for close monitoring and intensive care, whereas milder cases can often be managed in the field. Home rest without monitoring (A), euthanasia (B), or unsupervised turnout (D) are not recommended."
+    },
+    {
+      "id": 19,
+      "stem": "In uncomplicated cases, the typical course of equine granulocytic anaplasmosis is that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infection is chronic and progressive over months to years"
+        },
+        {
+          "label": "B",
+          "text": "Infection is self‑limiting, and horses often recover within 1–2 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Infection always recurs every winter"
+        },
+        {
+          "label": "D",
+          "text": "Infection resolves within a few hours without treatment"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In many cases the infection is self‑limiting, and horses recover fully in 1–2 weeks, especially with appropriate therapy. Chronic progressive disease (A), seasonal recurrence (C), or resolution within hours (D) are inaccurate."
+    },
+    {
+      "id": 20,
+      "stem": "Which supportive care measures are appropriate in managing equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stall confinement for ataxic horses, hand‑walking to reduce edema, supportive limb bandages, NSAIDs for fever, IV fluids/electrolytes for debilitated cases, and corticosteroids for severe ataxia"
+        },
+        {
+          "label": "B",
+          "text": "Strict exercise with no pain control"
+        },
+        {
+          "label": "C",
+          "text": "Fasting and water restriction"
+        },
+        {
+          "label": "D",
+          "text": "Only topical ointments on limbs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Appropriate supportive care includes stall confinement for ataxic horses, hand‑walking to decrease edema, limb bandaging, NSAIDs for antipyresis, IV fluids/electrolytes for debilitated horses, and judicious corticosteroids for severe ataxia. The other options (B–D) do not provide adequate support."
+    },
+    {
+      "id": 21,
+      "stem": "What is the drug of choice for treating equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "B",
+          "text": "Oxytetracycline"
+        },
+        {
+          "label": "C",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "D",
+          "text": "Metronidazole"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Oxytetracycline is the drug of choice for treating equine granulocytic anaplasmosis. Penicillin (A), gentamicin (C), and metronidazole (D) are not first‑line for this rickettsial infection."
+    },
+    {
+      "id": 22,
+      "stem": "Which oxytetracycline regimen is recommended in horses with equine granulocytic anaplasmosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 mg/kg PO every 24 h for 3 days"
+        },
+        {
+          "label": "B",
+          "text": "7 mg/kg IV every 24 h for 3–7 days diluted in saline"
+        },
+        {
+          "label": "C",
+          "text": "10 mg/kg IM once daily for 30 days"
+        },
+        {
+          "label": "D",
+          "text": "50 mg/kg IV as a single bolus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A recommended regimen is 7 mg/kg IV every 24 hours for 3–7 days in 0.9% saline, administered slowly. The other dosages and routes (A, C, D) are not supported by the slide."
+    },
+    {
+      "id": 23,
+      "stem": "Which oral tetracycline is commonly used as an alternative or follow‑up therapy after IV oxytetracycline?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Enrofloxacin"
+        },
+        {
+          "label": "D",
+          "text": "Cephalexin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Oral doxycycline (and minocycline) are effective alternatives or follow‑up drugs after IV oxytetracycline. Amoxicillin, enrofloxacin, and cephalexin (A, C, D) are not standard follow‑up choices for this disease."
+    },
+    {
+      "id": 24,
+      "stem": "During oxytetracycline therapy, which parameters should be monitored?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only body weight"
+        },
+        {
+          "label": "B",
+          "text": "Hydration status and renal function"
+        },
+        {
+          "label": "C",
+          "text": "Liver enzyme activity only"
+        },
+        {
+          "label": "D",
+          "text": "Clotting times only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Because oxytetracycline can affect kidneys and fluid balance, hydration status and renal function should be monitored. Body weight alone (A), liver enzymes (C), or coagulation tests (D) are not the primary concerns noted."
+    },
+    {
+      "id": 25,
+      "stem": "Which statement regarding prognosis and immunity after equine granulocytic anaplasmosis is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prognosis is poor, and most horses remain lifelong carriers"
+        },
+        {
+          "label": "B",
+          "text": "Excellent prognosis in uncomplicated cases; many horses develop immunity and are protected from reinfection for at least 2 years, with no carrier or latent state"
+        },
+        {
+          "label": "C",
+          "text": "Horses become lifelong reservoirs and continue to infect ticks"
+        },
+        {
+          "label": "D",
+          "text": "Horses never develop protective immunity and are reinfected frequently"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis is excellent in uncomplicated cases; many horses experience subclinical infections and develop immunity, remaining protected from reinfection for at least 2 years, and there is no known carrier or latent state. Lifelong carriage (A, C) or absence of immunity (D) contradicts the information provided."
+    }
+  ]
+}

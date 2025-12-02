@@ -1,0 +1,726 @@
+{
+  "topic": "Labrador_heart murmur",
+  "slug": "labrador_heart-murmur",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Cardiac murmurs are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal heart sounds in all horses"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged audible vibrations developing in a usually quiet portion of the cardiac cycle"
+        },
+        {
+          "label": "C",
+          "text": "Always pathologic"
+        },
+        {
+          "label": "D",
+          "text": "Only heard in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cardiac murmurs are prolonged audible vibrations developing in a usually quiet portion of the cardiac cycle. They are not normal heart sounds (A), always pathologic (C), or only heard in foals (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Cardiac murmurs can be manifestations of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only abnormal (pathologic) blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Either normal (functional) or abnormal (pathologic) blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Only normal (functional) blood flow"
+        },
+        {
+          "label": "D",
+          "text": "Only congenital defects"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cardiac murmurs can be manifestations of either normal (functional) or abnormal (pathologic) blood flow. Only abnormal (A), only normal (C), or only congenital defects (D) are not accurate."
+    },
+    {
+      "id": 3,
+      "stem": "In horses, which additional heart sounds can normally be heard (not always pathological)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "S1 and S2 only"
+        },
+        {
+          "label": "B",
+          "text": "S3 and S4"
+        },
+        {
+          "label": "C",
+          "text": "Only S1"
+        },
+        {
+          "label": "D",
+          "text": "No additional sounds"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In horses, S3 and S4 can normally be heard (not always pathological). S1 and S2 only (A), only S1 (C), or no additional sounds (D) are not accurate."
+    },
+    {
+      "id": 4,
+      "stem": "Physiologic murmurs are caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valvular dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Vibrations from rapid ejection of large volume of blood or large inflow into ventricles"
+        },
+        {
+          "label": "C",
+          "text": "Congenital defects"
+        },
+        {
+          "label": "D",
+          "text": "Infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Physiologic murmurs are caused by vibrations from rapid ejection of large volume of blood or large inflow into ventricles. Valvular dysfunction (A), congenital defects (C), or infection (D) cause pathologic murmurs."
+    },
+    {
+      "id": 5,
+      "stem": "Pathologic murmurs are caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only congenital cardiac malformations"
+        },
+        {
+          "label": "B",
+          "text": "Acquired valvular dysfunction or congenital cardiac malformations"
+        },
+        {
+          "label": "C",
+          "text": "Only functional flow"
+        },
+        {
+          "label": "D",
+          "text": "Normal aging"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pathologic murmurs are caused by acquired valvular dysfunction or congenital cardiac malformations. Only congenital (A), only functional flow (C), or normal aging (D) are not complete."
+    },
+    {
+      "id": 6,
+      "stem": "Heart murmurs are characterized by all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timing and duration"
+        },
+        {
+          "label": "B",
+          "text": "Quality and radiation"
+        },
+        {
+          "label": "C",
+          "text": "Shape and point of maximal intensity"
+        },
+        {
+          "label": "D",
+          "text": "Color"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Color is not used to characterize heart murmurs. Timing and duration (A), quality and radiation (B), and shape and PMI (C) are used."
+    },
+    {
+      "id": 7,
+      "stem": "Grade I murmurs are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very loud, radiating over widespread area"
+        },
+        {
+          "label": "B",
+          "text": "Moderately loud, heard immediately"
+        },
+        {
+          "label": "C",
+          "text": "Very quiet, only heard over a very localized area after careful auscultation"
+        },
+        {
+          "label": "D",
+          "text": "Loud, radiating over wider area"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Grade I murmurs are very quiet, only heard over a very localized area after careful auscultation in quiet environment, may be inconsistent. Very loud (A), moderately loud (B), or loud (D) describe higher grades."
+    },
+    {
+      "id": 8,
+      "stem": "Grade VI murmurs are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very quiet"
+        },
+        {
+          "label": "B",
+          "text": "Extremely loud, also heard with the stethoscope held just above the skin surface"
+        },
+        {
+          "label": "C",
+          "text": "Moderately loud"
+        },
+        {
+          "label": "D",
+          "text": "Quiet, heard consistently"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Grade VI murmurs are extremely loud, also heard with the stethoscope held just above the skin surface. Very quiet (A), moderately loud (C), or quiet (D) describe lower grades."
+    },
+    {
+      "id": 9,
+      "stem": "Mitral valve regurgitation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rare in horses"
+        },
+        {
+          "label": "B",
+          "text": "A common valvular issue causing reduced performance"
+        },
+        {
+          "label": "C",
+          "text": "Only seen in foals"
+        },
+        {
+          "label": "D",
+          "text": "Always fatal"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Mitral valve regurgitation is a common valvular issue causing reduced performance. It is not rare (A), only seen in foals (C), or always fatal (D)."
+    },
+    {
+      "id": 10,
+      "stem": "Mitral valve regurgitation has:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strong breed, age, and sex predisposition"
+        },
+        {
+          "label": "B",
+          "text": "No breed, age, or sex predisposition; rare in foals/yearlings"
+        },
+        {
+          "label": "C",
+          "text": "Only affects Thoroughbreds"
+        },
+        {
+          "label": "D",
+          "text": "Only affects older horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Mitral valve regurgitation has no breed, age, or sex predisposition; rare in foals/yearlings. Strong predisposition (A), only Thoroughbreds (C), or only older horses (D) are not accurate."
+    },
+    {
+      "id": 11,
+      "stem": "The point of maximal intensity (PMI) for mitral valve regurgitation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aortic area"
+        },
+        {
+          "label": "B",
+          "text": "Mitral area, radiates dorsally to aortic area"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonic area"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid area"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The PMI for mitral valve regurgitation is the mitral area, radiates dorsally to aortic area. Aortic area (A), pulmonic area (C), or tricuspid area (D) are not correct."
+    },
+    {
+      "id": 12,
+      "stem": "Tricuspid valve regurgitation (TR) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rarely detected"
+        },
+        {
+          "label": "B",
+          "text": "The most commonly detected cardiac murmur in racehorses"
+        },
+        {
+          "label": "C",
+          "text": "Always pathologic"
+        },
+        {
+          "label": "D",
+          "text": "Only seen in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tricuspid valve regurgitation (TR) is the most commonly detected cardiac murmur in racehorses. It is not rarely detected (A), always pathologic (C), or only seen in foals (D)."
+    },
+    {
+      "id": 13,
+      "stem": "Tricuspid valve regurgitation is usually:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always clinically significant"
+        },
+        {
+          "label": "B",
+          "text": "Clinically insignificant, even in severe cases"
+        },
+        {
+          "label": "C",
+          "text": "Fatal"
+        },
+        {
+          "label": "D",
+          "text": "Requires immediate surgery"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tricuspid valve regurgitation is usually clinically insignificant, even in severe cases. Always significant (A), fatal (C), or requiring surgery (D) are not accurate."
+    },
+    {
+      "id": 14,
+      "stem": "Ventricular septal defect (VSD) is seen more frequently in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoroughbreds only"
+        },
+        {
+          "label": "B",
+          "text": "Arabian horses and Welsh Mountain Ponies"
+        },
+        {
+          "label": "C",
+          "text": "All breeds equally"
+        },
+        {
+          "label": "D",
+          "text": "Only foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "VSD is seen more frequently in Arabian horses and Welsh Mountain Ponies (possible genetic basis). Thoroughbreds only (A), all breeds equally (C), or only foals (D) are not accurate."
+    },
+    {
+      "id": 15,
+      "stem": "VSD involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Right-to-left shunting of blood"
+        },
+        {
+          "label": "B",
+          "text": "Left-to-right shunting of blood from left ventricle to right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "No shunting"
+        },
+        {
+          "label": "D",
+          "text": "Bidirectional shunting"
+        }
+      ],
+      "correct": "B",
+      "explanation": "VSD involves left-to-right shunting of blood from left ventricle to right ventricle. Right-to-left (A), no shunting (C), or bidirectional (D) are not typical."
+    },
+    {
+      "id": 16,
+      "stem": "Large VSDs can cause:",
+      "options": [
+        {
+          "label": "A",
+          "text": "No clinical signs"
+        },
+        {
+          "label": "B",
+          "text": "Heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Only mild exercise intolerance"
+        },
+        {
+          "label": "D",
+          "text": "Complete recovery without treatment"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Large VSDs can cause heart failure. No clinical signs (A), only mild exercise intolerance (C), or complete recovery (D) are not accurate for large defects."
+    },
+    {
+      "id": 17,
+      "stem": "Aortic regurgitation is most common in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Young horses"
+        },
+        {
+          "label": "B",
+          "text": "Older horses; the aortic valve is most frequently affected"
+        },
+        {
+          "label": "C",
+          "text": "Foals only"
+        },
+        {
+          "label": "D",
+          "text": "All ages equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aortic regurgitation is most common in older horses; the aortic valve is most frequently affected. Young horses (A), foals only (C), or all ages equally (D) are not accurate."
+    },
+    {
+      "id": 18,
+      "stem": "Aortic regurgitation is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only congenital defects"
+        },
+        {
+          "label": "B",
+          "text": "Degenerative changes (fibrous or nodular thickening of valve leaflets) or aortic valve prolapse secondary to VSD"
+        },
+        {
+          "label": "C",
+          "text": "Infection only"
+        },
+        {
+          "label": "D",
+          "text": "Trauma only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aortic regurgitation is caused by degenerative changes (fibrous or nodular thickening of valve leaflets) or aortic valve prolapse secondary to VSD. Only congenital (A), infection only (C), or trauma only (D) are not complete."
+    },
+    {
+      "id": 19,
+      "stem": "Aortic regurgitation murmur character is often:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Harsh and continuous"
+        },
+        {
+          "label": "B",
+          "text": "Decrescendo and musical (classic AR sound)"
+        },
+        {
+          "label": "C",
+          "text": "Only systolic"
+        },
+        {
+          "label": "D",
+          "text": "Not audible"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aortic regurgitation murmur character is often decrescendo and musical (classic AR sound). Harsh and continuous (A), only systolic (C), or not audible (D) are not accurate."
+    },
+    {
+      "id": 20,
+      "stem": "Aortic regurgitation can result in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Narrow pulse pressure"
+        },
+        {
+          "label": "B",
+          "text": "Wide pulse pressure with \"bounding\" or \"waterhammer\" pulse"
+        },
+        {
+          "label": "C",
+          "text": "No pulse changes"
+        },
+        {
+          "label": "D",
+          "text": "Irregular pulse only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aortic regurgitation can result in wide pulse pressure with \"bounding\" or \"waterhammer\" pulse. Narrow pulse pressure (A), no pulse changes (C), or irregular pulse only (D) are not accurate."
+    },
+    {
+      "id": 21,
+      "stem": "Pulmonary valve regurgitation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Commonly detected by auscultation"
+        },
+        {
+          "label": "B",
+          "text": "Commonly identified through Doppler echocardiography, rarely detected by auscultation"
+        },
+        {
+          "label": "C",
+          "text": "Always audible"
+        },
+        {
+          "label": "D",
+          "text": "Always pathologic"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pulmonary valve regurgitation is commonly identified through Doppler echocardiography, rarely detected by auscultation. Commonly detected by auscultation (A), always audible (C), or always pathologic (D) are not accurate."
+    },
+    {
+      "id": 22,
+      "stem": "Pulmonary valve regurgitation is usually:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clinically significant"
+        },
+        {
+          "label": "B",
+          "text": "Clinically insignificant; rarely causes symptoms"
+        },
+        {
+          "label": "C",
+          "text": "Always fatal"
+        },
+        {
+          "label": "D",
+          "text": "Requires immediate treatment"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pulmonary valve regurgitation is usually clinically insignificant; rarely causes symptoms. Clinically significant (A), always fatal (C), or requiring treatment (D) are not accurate."
+    },
+    {
+      "id": 23,
+      "stem": "Endocarditis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infection of the epicardium"
+        },
+        {
+          "label": "B",
+          "text": "Infection of the endocardial surface of the heart, usually involving valves"
+        },
+        {
+          "label": "C",
+          "text": "Only affects the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Not infectious"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Endocarditis is infection of the endocardial surface of the heart, usually involving valves. Epicardium (A), myocardium only (C), or not infectious (D) are not accurate."
+    },
+    {
+      "id": 24,
+      "stem": "Endocarditis is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral infection only"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial colonization of endocardium during bacteremia"
+        },
+        {
+          "label": "C",
+          "text": "Fungal infection only"
+        },
+        {
+          "label": "D",
+          "text": "Parasitic infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Endocarditis is caused by bacterial colonization of endocardium during bacteremia. Viral only (A), fungal only (C), or parasitic (D) are not typical causes."
+    },
+    {
+      "id": 25,
+      "stem": "Clinical signs of endocarditis include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent or intermittent fever"
+        },
+        {
+          "label": "B",
+          "text": "Weight loss, lethargy, anorexia, depression"
+        },
+        {
+          "label": "C",
+          "text": "Intermittent lameness from embolic arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Profuse diarrhea"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse diarrhea is not a typical clinical sign of endocarditis. Fever (A), weight loss and depression (B), and intermittent lameness (C) are typical signs."
+    },
+    {
+      "id": 26,
+      "stem": "Definitive diagnosis of endocarditis requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blood count only"
+        },
+        {
+          "label": "B",
+          "text": "Positive blood culture and echocardiography to visualize vegetative lesions"
+        },
+        {
+          "label": "C",
+          "text": "Radiography only"
+        },
+        {
+          "label": "D",
+          "text": "Serology only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Definitive diagnosis of endocarditis requires positive blood culture (to identify organism) and echocardiography (to visualize vegetative lesions). CBC only (A), radiography only (C), or serology only (D) are not definitive."
+    },
+    {
+      "id": 27,
+      "stem": "Treatment of endocarditis involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short-term antibiotic therapy (3–5 days)"
+        },
+        {
+          "label": "B",
+          "text": "Aggressive, long-term antibiotic therapy (5–6 weeks)"
+        },
+        {
+          "label": "C",
+          "text": "No antibiotics needed"
+        },
+        {
+          "label": "D",
+          "text": "Antivirals only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment of endocarditis involves aggressive, long-term antibiotic therapy (5–6 weeks). Short-term (A), no antibiotics (C), or antivirals only (D) are not appropriate."
+    },
+    {
+      "id": 28,
+      "stem": "The prognosis for endocarditis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always excellent"
+        },
+        {
+          "label": "B",
+          "text": "Guarded to poor, due to risk of embolic showering and potential for congestive heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Always good"
+        },
+        {
+          "label": "D",
+          "text": "Depends only on age"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The prognosis for endocarditis is guarded to poor, due to risk of embolic showering and potential for congestive heart failure. Always excellent (A), always good (C), or age only (D) are not accurate."
+    },
+    {
+      "id": 29,
+      "stem": "Echocardiography is essential for diagnosing:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only VSD"
+        },
+        {
+          "label": "B",
+          "text": "Mitral regurgitation, tricuspid regurgitation, VSD, aortic regurgitation, and endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Only endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Only physiologic murmurs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Echocardiography is essential for diagnosing mitral regurgitation, tricuspid regurgitation, VSD, aortic regurgitation, and endocarditis. Only VSD (A), only endocarditis (C), or only physiologic murmurs (D) are not accurate."
+    },
+    {
+      "id": 30,
+      "stem": "Small VSDs have:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor prognosis"
+        },
+        {
+          "label": "B",
+          "text": "Good prognosis; normal performance likely"
+        },
+        {
+          "label": "C",
+          "text": "Always require surgery"
+        },
+        {
+          "label": "D",
+          "text": "Always fatal"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Small VSDs have good prognosis; normal performance likely. Poor prognosis (A), always require surgery (C), or always fatal (D) are not accurate for small defects."
+    }
+  ]
+}

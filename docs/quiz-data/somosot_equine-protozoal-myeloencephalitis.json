@@ -1,0 +1,486 @@
+{
+  "topic": "SOMOSOT_EQUINE PROTOZOAL MYELOENCEPHALITIS",
+  "slug": "somosot_equine-protozoal-myeloencephalitis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine Protozoal Myeloencephalitis (EPM) is one of the most common neurologic diseases of horses in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe and Asia"
+        },
+        {
+          "label": "B",
+          "text": "The Americas"
+        },
+        {
+          "label": "C",
+          "text": "Africa"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EPM is one of the most common neurologic diseases of horses in the Americas. Europe and Asia (A), Africa (C), and Australia (D) are not where EPM is most common."
+    },
+    {
+      "id": 2,
+      "stem": "EPM is caused primarily by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "B",
+          "text": "Sarcocystis neurona"
+        },
+        {
+          "label": "C",
+          "text": "Neospora caninum"
+        },
+        {
+          "label": "D",
+          "text": "Babesia equi"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EPM is caused primarily by Sarcocystis neurona. Toxoplasma gondii (A), Neospora caninum (C), and Babesia equi (D) are not the primary cause."
+    },
+    {
+      "id": 3,
+      "stem": "The definitive host for Sarcocystis neurona is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horse"
+        },
+        {
+          "label": "B",
+          "text": "Opossum (Didelphis virginiana and Didelphis albiventris)"
+        },
+        {
+          "label": "C",
+          "text": "Cat"
+        },
+        {
+          "label": "D",
+          "text": "Raccoon"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The definitive host for Sarcocystis neurona is the opossum (Didelphis virginiana and Didelphis albiventris). Horse (A), cat (C), and raccoon (D) are not definitive hosts."
+    },
+    {
+      "id": 4,
+      "stem": "The incidental host for Sarcocystis neurona is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opossum"
+        },
+        {
+          "label": "B",
+          "text": "Cat"
+        },
+        {
+          "label": "C",
+          "text": "Horse (Equus caballus)"
+        },
+        {
+          "label": "D",
+          "text": "Skunk"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The incidental host is the horse (Equus caballus). Opossum (A) is the definitive host, and cat (B) and skunk (D) are intermediate hosts."
+    },
+    {
+      "id": 5,
+      "stem": "Horses become infected with EPM when they:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Are bitten by infected ticks"
+        },
+        {
+          "label": "B",
+          "text": "Ingest feed or water contaminated with opossum feces containing S. neurona sporocysts"
+        },
+        {
+          "label": "C",
+          "text": "Have direct contact with infected horses"
+        },
+        {
+          "label": "D",
+          "text": "Are exposed to contaminated soil only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses become infected when they ingest feed or water contaminated with opossum feces containing S. neurona sporocysts. Tick bites (A), direct contact (C), or soil only (D) are not the route of infection."
+    },
+    {
+      "id": 6,
+      "stem": "EPM is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Highly contagious between horses"
+        },
+        {
+          "label": "B",
+          "text": "Not contagious between horses"
+        },
+        {
+          "label": "C",
+          "text": "Spread by mosquitoes"
+        },
+        {
+          "label": "D",
+          "text": "Spread by direct contact"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EPM is not contagious between horses. It is not highly contagious (A), spread by mosquitoes (C), or spread by direct contact (D)."
+    },
+    {
+      "id": 7,
+      "stem": "Risk factors for EPM include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Outdoor housing near wooded areas"
+        },
+        {
+          "label": "B",
+          "text": "Exposure to wildlife"
+        },
+        {
+          "label": "C",
+          "text": "Stress, transportation, and immunosuppression"
+        },
+        {
+          "label": "D",
+          "text": "Vaccination status"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Vaccination status is not a risk factor for EPM. Outdoor housing (A), wildlife exposure (B), and stress (C) are risk factors."
+    },
+    {
+      "id": 8,
+      "stem": "Which age group is MOST susceptible to EPM?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foals less than 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Young to middle-aged horses"
+        },
+        {
+          "label": "C",
+          "text": "Geriatric horses over 15 years"
+        },
+        {
+          "label": "D",
+          "text": "All ages equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Young to middle-aged horses are most susceptible. Foals (A), geriatric horses (C), or equal distribution (D) are not the most susceptible group."
+    },
+    {
+      "id": 9,
+      "stem": "EPM is often called \"the great imitator\" because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It mimics only respiratory diseases"
+        },
+        {
+          "label": "B",
+          "text": "It has variable clinical signs"
+        },
+        {
+          "label": "C",
+          "text": "It always presents the same way"
+        },
+        {
+          "label": "D",
+          "text": "It is difficult to diagnose"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EPM is often called \"the great imitator\" because it has variable clinical signs. Mimicking only respiratory diseases (A), always presenting the same (C), or being difficult to diagnose (D) are not why it's called the great imitator."
+    },
+    {
+      "id": 10,
+      "stem": "Clinical signs of EPM include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ataxia (incoordination)"
+        },
+        {
+          "label": "B",
+          "text": "Muscle atrophy, especially of the gluteal or shoulder region"
+        },
+        {
+          "label": "C",
+          "text": "Symmetric and focal manifestations"
+        },
+        {
+          "label": "D",
+          "text": "Weakness, often more pronounced on one side"
+        }
+      ],
+      "correct": "C",
+      "explanation": "EPM manifestations are asymmetric and multifocal, not symmetric and focal. Ataxia (A), muscle atrophy (B), and asymmetric weakness (D) are typical signs."
+    },
+    {
+      "id": 11,
+      "stem": "EPM manifestations are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Symmetric and focal"
+        },
+        {
+          "label": "B",
+          "text": "Asymmetric and multifocal, affecting both the brain and spinal cord"
+        },
+        {
+          "label": "C",
+          "text": "Only affecting the brain"
+        },
+        {
+          "label": "D",
+          "text": "Only affecting the spinal cord"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EPM manifestations are asymmetric and multifocal, affecting both the brain and spinal cord. Symmetric and focal (A), only brain (C), or only spinal cord (D) are not accurate."
+    },
+    {
+      "id": 12,
+      "stem": "Definitive diagnosis of EPM requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blood count abnormalities"
+        },
+        {
+          "label": "B",
+          "text": "Presence of antibodies in CSF supports CNS infection, or post-mortem detection of S. neurona organisms in CNS tissue"
+        },
+        {
+          "label": "C",
+          "text": "Radiography findings"
+        },
+        {
+          "label": "D",
+          "text": "Serology alone"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Definitive diagnosis requires presence of antibodies in CSF supporting CNS infection, or post-mortem detection of S. neurona organisms in CNS tissue. CBC (A), radiography (C), or serology alone (D) are not definitive."
+    },
+    {
+      "id": 13,
+      "stem": "Serologic tests for EPM include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Western blot detecting antibodies to S. neurona"
+        },
+        {
+          "label": "B",
+          "text": "Indirect fluorescent antibody test (IFAT)"
+        },
+        {
+          "label": "C",
+          "text": "ELISA tests detecting antibodies to surface antigens"
+        },
+        {
+          "label": "D",
+          "text": "PCR from blood only"
+        }
+      ],
+      "correct": "D",
+      "explanation": "PCR from blood only is not a serologic test for EPM. Western blot (A), IFAT (B), and ELISA (C) are serologic tests."
+    },
+    {
+      "id": 14,
+      "stem": "Differential diagnoses for EPM include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cervical vertebral stenotic myelopathy (wobbler syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Equine herpesvirus-1 myeloencephalopathy"
+        },
+        {
+          "label": "C",
+          "text": "West Nile virus infection"
+        },
+        {
+          "label": "D",
+          "text": "Strangles"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Strangles is not a differential diagnosis for EPM. Wobbler syndrome (A), EHV-1 (B), and West Nile (C) are differential diagnoses."
+    },
+    {
+      "id": 15,
+      "stem": "Treatment of EPM involves antiprotozoal therapy. Ponazuril (Marquis®) is administered at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.5 mg/kg PO once daily for 14 days"
+        },
+        {
+          "label": "B",
+          "text": "5 mg/kg PO once daily for 28 days"
+        },
+        {
+          "label": "C",
+          "text": "10 mg/kg PO once daily for 14 days"
+        },
+        {
+          "label": "D",
+          "text": "1 mg/kg PO once daily for 7 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ponazuril (Marquis®) is administered at 5 mg/kg PO once daily for 28 days. Lower doses (A, D) or shorter duration (A, D) are not correct."
+    },
+    {
+      "id": 16,
+      "stem": "Diclazuril (Protazil®) for EPM is administered at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 mg/kg PO daily for 14 days"
+        },
+        {
+          "label": "B",
+          "text": "1 mg/kg PO daily for 28 days"
+        },
+        {
+          "label": "C",
+          "text": "2 mg/kg PO daily for 28 days"
+        },
+        {
+          "label": "D",
+          "text": "5 mg/kg PO daily for 14 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Diclazuril (Protazil®) is administered at 1 mg/kg PO daily for 28 days. Lower doses (A), higher doses (C), or shorter duration (A, D) are not correct."
+    },
+    {
+      "id": 17,
+      "stem": "The traditional combination treatment for EPM using sulfadiazine and pyrimethamine is used for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "2–4 weeks"
+        },
+        {
+          "label": "C",
+          "text": "4–6 months"
+        },
+        {
+          "label": "D",
+          "text": "1 year"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The traditional combination treatment using sulfadiazine and pyrimethamine is used for 4–6 months. Shorter periods (A, B) or longer (D) are not standard."
+    },
+    {
+      "id": 18,
+      "stem": "Supportive therapy for EPM may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antibiotics only"
+        },
+        {
+          "label": "B",
+          "text": "Anti-inflammatory drugs (NSAIDs, corticosteroids in select cases), vitamin E supplementation, and physical therapy"
+        },
+        {
+          "label": "C",
+          "text": "Antivirals"
+        },
+        {
+          "label": "D",
+          "text": "Antifungals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Supportive therapy may include anti-inflammatory drugs (NSAIDs, corticosteroids in select cases), vitamin E supplementation, and physical therapy. Antibiotics only (A), antivirals (C), or antifungals (D) are not supportive therapy for EPM."
+    },
+    {
+      "id": 19,
+      "stem": "Prevention of EPM includes all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prevent contamination of feed and water with opossum feces"
+        },
+        {
+          "label": "B",
+          "text": "Limit access of wildlife to barns and feed areas"
+        },
+        {
+          "label": "C",
+          "text": "Vaccination"
+        },
+        {
+          "label": "D",
+          "text": "Minimize stress in horses and maintain good general health"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Vaccination is not available for EPM prevention. Preventing contamination (A), limiting wildlife access (B), and minimizing stress (D) are prevention measures."
+    },
+    {
+      "id": 20,
+      "stem": "The prognosis for EPM:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is always poor"
+        },
+        {
+          "label": "B",
+          "text": "Varies depending on severity and duration of clinical signs before treatment; approximately 60–70% of horses improve with treatment"
+        },
+        {
+          "label": "C",
+          "text": "Is always excellent"
+        },
+        {
+          "label": "D",
+          "text": "Depends only on age"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The prognosis varies depending on severity and duration of clinical signs before treatment; approximately 60–70% of horses improve with treatment. Always poor (A), always excellent (C), or age only (D) are not accurate."
+    }
+  ]
+}

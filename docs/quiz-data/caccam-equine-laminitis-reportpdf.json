@@ -1,0 +1,606 @@
+{
+  "topic": "Caccam, Equine Laminitis Report.pdf",
+  "slug": "caccam-equine-laminitis-reportpdf",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine laminitis is BEST defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inflammation of the digital flexor tendons"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation and failure of the lamellar interface between the hoof wall and the distal phalanx (P3)"
+        },
+        {
+          "label": "C",
+          "text": "Degeneration of the navicular bone"
+        },
+        {
+          "label": "D",
+          "text": "Infection of the coronary band only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Laminitis is defined as inflammation and failure of the lamellar interface between the hoof wall and P3, resulting in loss of support. It is not tendonitis, navicular disease, or coronary band infection (A, C, D)."
+    },
+    {
+      "id": 2,
+      "stem": "The structural consequence of laminitis within the hoof capsule is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Luxation of the fetlock joint"
+        },
+        {
+          "label": "B",
+          "text": "Rotation and/or sinking of the distal phalanx (P3)"
+        },
+        {
+          "label": "C",
+          "text": "Fracture of the sesamoid bones"
+        },
+        {
+          "label": "D",
+          "text": "Dislocation of the coffin joint"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Structural failure leads to rotation and/or sinking of the distal phalanx within the hoof capsule, causing profound pain and deformity. Fetlock luxation, sesamoid fractures, or coffin joint dislocation (A, C, D) are different pathologies."
+    },
+    {
+      "id": 3,
+      "stem": "Which horses are MOST predisposed to laminitis based on epidemiology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only young racehorses in training"
+        },
+        {
+          "label": "B",
+          "text": "Ponies and obese horses, especially certain native and easy‑keeper breeds"
+        },
+        {
+          "label": "C",
+          "text": "Only geriatric Thoroughbreds"
+        },
+        {
+          "label": "D",
+          "text": "Only broodmares in late gestation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Laminitis can occur in all breeds, but ponies and obese horses, especially easy‑keeper/native breeds, are particularly predisposed. It is not restricted to young racehorses, geriatrics, or broodmares (A, C, D)."
+    },
+    {
+      "id": 4,
+      "stem": "Predisposed breeds mentioned for laminitis include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arabians, Morgans, native ponies, and Paso Finos"
+        },
+        {
+          "label": "B",
+          "text": "Greyhounds and Bulldogs"
+        },
+        {
+          "label": "C",
+          "text": "Holstein cattle and sheep"
+        },
+        {
+          "label": "D",
+          "text": "Only draft horses"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Predisposed breeds mentioned include native ponies, Morgans, Arabians, and Paso Finos, which often have thrifty metabolisms and obesity tendencies. The other species/breeds listed (B–D) are incorrect."
+    },
+    {
+      "id": 5,
+      "stem": "At the cellular level, laminitis involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strengthening of lamellar basal epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of lamellar basal epithelial cells and loss of attachment to the basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Increased production of hoof horn only"
+        },
+        {
+          "label": "D",
+          "text": "Hyperplasia of coronary corium"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Laminitis involves disruption of lamellar basal epithelial cells and loss of their attachment to the basement membrane, compromising the suspensory apparatus of P3. Strengthening or hyperplasia (A, C, D) does not occur."
+    },
+    {
+      "id": 6,
+      "stem": "In sepsis‑related laminitis (SRL), the primary pathophysiologic mechanism is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Local trauma to the hoof alone"
+        },
+        {
+          "label": "B",
+          "text": "Systemic inflammation leading to lamellar ischemia and damage"
+        },
+        {
+          "label": "C",
+          "text": "Purely mechanical overload of the limb"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C deficiency"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In sepsis‑related laminitis, systemic inflammatory mediators and endotoxins cause lamellar ischemia and metabolic dysfunction. Local trauma alone, mechanical overload, or vitamin deficiency (A, C, D) are not the main mechanisms."
+    },
+    {
+      "id": 7,
+      "stem": "Endocrinopathic laminitis (sometimes termed EMS‑associated laminitis) is primarily linked to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoglycemia"
+        },
+        {
+          "label": "B",
+          "text": "Insulin dysregulation and hyperinsulinemia causing metabolic failure in lamellar cells"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial infection of the hoof wall"
+        },
+        {
+          "label": "D",
+          "text": "Primary navicular disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Endocrinopathic laminitis is closely linked to insulin dysregulation/hyperinsulinemia, as seen in EMS or PPID, leading to lamellar metabolic failure. Hypoglycemia, infection, or navicular disease (A, C, D) do not define this form."
+    },
+    {
+      "id": 8,
+      "stem": "Supporting‑limb laminitis (SLL) usually develops:",
+      "options": [
+        {
+          "label": "A",
+          "text": "In all four limbs simultaneously"
+        },
+        {
+          "label": "B",
+          "text": "In the limb contralateral to an injured or immobilized limb due to prolonged weight bearing and ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Only in the forelimbs of racehorses"
+        },
+        {
+          "label": "D",
+          "text": "Only in horses on pasture"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Supporting‑limb laminitis occurs in the limb opposite an injured one due to prolonged weight bearing and compromised perfusion. It is not typically all limbs, forelimbs of racehorses only, or pasture‑specific (A, C, D)."
+    },
+    {
+      "id": 9,
+      "stem": "Early clinical signs of laminitis in the acute phase include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe coughing and nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Reluctance to move, “sawhorse stance,” warm hoof walls, bounding digital pulses, and shifting weight"
+        },
+        {
+          "label": "C",
+          "text": "Generalized muscle atrophy and head tilt"
+        },
+        {
+          "label": "D",
+          "text": "Colic with diarrhea"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early signs include reluctance to move, sawhorse stance, warm hoof walls, bounding digital pulses, and shifting weight off painful feet. Respiratory or neurologic signs (A, C, D) do not characterize laminitis."
+    },
+    {
+      "id": 10,
+      "stem": "Chronic laminitis may be characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convex or dropped sole, hoof rings, a “dropped” coronary band, and “Aladdin’s slipper” hoof deformity"
+        },
+        {
+          "label": "B",
+          "text": "Normal hoof shape with no external changes"
+        },
+        {
+          "label": "C",
+          "text": "Only mild heel cracks"
+        },
+        {
+          "label": "D",
+          "text": "Sole bruising without hoof capsule distortion"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Chronic laminitis shows a convex (“dropped”) sole, hoof rings, a dropped coronary band, and “Aladdin’s slipper” deformity of the hoof. Normal hooves or minor cracks (B–D) miss these classic changes."
+    },
+    {
+      "id": 11,
+      "stem": "Which of the following is NOT listed as a systemic differential diagnosis that can mimic laminitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetanus"
+        },
+        {
+          "label": "B",
+          "text": "Rabies"
+        },
+        {
+          "label": "C",
+          "text": "Myopathy"
+        },
+        {
+          "label": "D",
+          "text": "Equine motor neuron disease"
+        }
+      ],
+      "correct": "",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "stem": "Foot‑related conditions that can mimic laminitis include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hoof abscess, P3 fracture, navicular disease, sole bruising, and white line disease"
+        },
+        {
+          "label": "B",
+          "text": "Colitis and metritis"
+        },
+        {
+          "label": "C",
+          "text": "Pleuritis and pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Gastric ulcer disease"
+        }
+      ],
+      "correct": "",
+      "explanation": "Hoof abscess, P3 fracture, navicular disease, sole bruising, and white line disease are important foot‑related differentials for laminitis‑like pain. Colitis, pleuritis, and gastric ulcers (B–D) are systemic or extra‑foot disorders."
+    },
+    {
+      "id": 13,
+      "stem": "A key physical examination finding supporting laminitis includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cold hoof wall with absent digital pulses"
+        },
+        {
+          "label": "B",
+          "text": "Heat in the hoof capsule and a bounding digital pulse"
+        },
+        {
+          "label": "C",
+          "text": "Generalized skin tenting and dehydration only"
+        },
+        {
+          "label": "D",
+          "text": "Enlarged submandibular lymph nodes"
+        }
+      ],
+      "correct": "",
+      "explanation": "A warm hoof wall and a bounding digital pulse are hallmark findings suggesting active laminitis. Cold hooves (A) or unrelated systemic signs (C, D) are less specific."
+    },
+    {
+      "id": 14,
+      "stem": "Radiography in laminitis is primarily used to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identify lung metastases"
+        },
+        {
+          "label": "B",
+          "text": "Detect rotation or sinking of P3 relative to the hoof wall"
+        },
+        {
+          "label": "C",
+          "text": "Diagnose fractures of the scapula"
+        },
+        {
+          "label": "D",
+          "text": "Assess dental abnormalities"
+        }
+      ],
+      "correct": "",
+      "explanation": "Radiographs are used to assess rotation and/or sinking of P3 relative to the hoof capsule, guide trimming/shoeing, and monitor progression. The other options (A, C, D) refer to unrelated uses of radiography."
+    },
+    {
+      "id": 15,
+      "stem": "Endocrine testing in laminitis work‑ups is particularly important for detecting:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoadrenocorticism"
+        },
+        {
+          "label": "B",
+          "text": "Equine metabolic syndrome (EMS) and pituitary pars intermedia dysfunction (PPID) via insulin and ACTH testing"
+        },
+        {
+          "label": "C",
+          "text": "Hyperthyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Primary hypocalcemia"
+        }
+      ],
+      "correct": "",
+      "explanation": "Endocrine testing for insulin and ACTH helps detect EMS and PPID, key contributors to endocrinopathic laminitis. Adrenal, thyroid, or calcium abnormalities (A, C, D) are not primary targets here."
+    },
+    {
+      "id": 16,
+      "stem": "Sepsis‑related laminitis (SRL) is typically associated with underlying conditions such as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastric ulcers only"
+        },
+        {
+          "label": "B",
+          "text": "Colitis, metritis, retained placenta, or pleuropneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic encephalopathy"
+        }
+      ],
+      "correct": "",
+      "explanation": "Sepsis‑related laminitis is commonly associated with systemic inflammatory diseases such as colitis, metritis, retained placenta, and pleuropneumonia. Osteoarthritis or hepatic encephalopathy (C, D) do not primarily drive SRL."
+    },
+    {
+      "id": 17,
+      "stem": "Major therapeutic objectives in treating laminitis are to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase exercise and remove all analgesia"
+        },
+        {
+          "label": "B",
+          "text": "Control pain, limit further lamellar damage, and restore hoof stability"
+        },
+        {
+          "label": "C",
+          "text": "Focus only on correcting endocrine tests"
+        },
+        {
+          "label": "D",
+          "text": "Avoid any mechanical support"
+        }
+      ],
+      "correct": "",
+      "explanation": "Treatment aims to control pain, limit additional lamellar injury, and restore hoof stability via multimodal therapy. Increasing exercise or avoiding mechanical support (A, C, D) would worsen the condition."
+    },
+    {
+      "id": 18,
+      "stem": "NSAIDs are considered the cornerstone of laminitis pain management. Commonly used NSAIDs in horses include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenylbutazone, flunixin meglumine, and firocoxib"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin and acetaminophen only"
+        },
+        {
+          "label": "C",
+          "text": "Meloxicam in cats"
+        },
+        {
+          "label": "D",
+          "text": "Only topical anti‑inflammatories"
+        }
+      ],
+      "correct": "",
+      "explanation": "Phenylbutazone, flunixin meglumine, and firocoxib are commonly used NSAIDs for laminitis pain control in horses. Aspirin, acetaminophen, or species‑inappropriate drugs (B–D) are not mainstays."
+    },
+    {
+      "id": 19,
+      "stem": "Adjunct analgesic/anti‑pain options mentioned for severe laminitis include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lidocaine constant rate infusion, α₂‑agonists, gabapentin/pregabalin, and opioids such as butorphanol or morphine"
+        },
+        {
+          "label": "B",
+          "text": "Only local hoof blocks"
+        },
+        {
+          "label": "C",
+          "text": "Benzodiazepines alone"
+        },
+        {
+          "label": "D",
+          "text": "Antihistamines only"
+        }
+      ],
+      "correct": "",
+      "explanation": "Adjunct options include lidocaine CRI, α₂‑agonists (e.g., xylazine), gabapentin/pregabalin for neuropathic pain, and opioids such as butorphanol or morphine in severe cases. Local blocks alone or unrelated drug classes (B–D) are insufficient."
+    },
+    {
+      "id": 20,
+      "stem": "Mechanical and supportive therapies in laminitis commonly include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keeping the horse on hard concrete to harden the hoof"
+        },
+        {
+          "label": "B",
+          "text": "Frog and sole support (foam pads, impression material, deep bedding) plus corrective trimming/shoeing to realign P3 and distribute load"
+        },
+        {
+          "label": "C",
+          "text": "Removing all bedding to visualize hooves clearly"
+        },
+        {
+          "label": "D",
+          "text": "Casting the limb to prevent any movement"
+        }
+      ],
+      "correct": "",
+      "explanation": "Mechanical support strategies include frog/sole support with pads, impression materials, deep bedding, and corrective trimming/shoeing to realign P3 and redistribute weight. Hard flooring, no bedding, or casting (A, C, D) can exacerbate pain and damage."
+    },
+    {
+      "id": 21,
+      "stem": "Digital cryotherapy (continuous icing of the feet) is MOST beneficial when applied:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only after chronic hoof deformity develops"
+        },
+        {
+          "label": "B",
+          "text": "During the sepsis phase and early laminitis to reduce lamellar damage"
+        },
+        {
+          "label": "C",
+          "text": "After the horse has fully recovered"
+        },
+        {
+          "label": "D",
+          "text": "To the hindlimbs only, regardless of lesion location"
+        }
+      ],
+      "correct": "",
+      "explanation": "Continuous digital cryotherapy during the early sepsis/laminitis phase helps reduce lamellar inflammation and structural damage; it is a proven preventive/early intervention. Starting only after chronic deformity (A) or after recovery (C) is too late."
+    },
+    {
+      "id": 22,
+      "stem": "Deep digital flexor tenotomy in laminitis management is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A first‑line treatment for all mild cases"
+        },
+        {
+          "label": "B",
+          "text": "A salvage procedure for refractory chronic cases with severe rotation"
+        },
+        {
+          "label": "C",
+          "text": "Contraindicated in all horses"
+        },
+        {
+          "label": "D",
+          "text": "Only used in foals"
+        }
+      ],
+      "correct": "",
+      "explanation": "Deep digital flexor tenotomy is a salvage procedure for refractory chronic cases with severe rotation to reduce tension on P3. It is not first‑line, universally contraindicated, or foal‑specific (A, C, D)."
+    },
+    {
+      "id": 23,
+      "stem": "Key preventive measures to reduce laminitis risk include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing nonstructural carbohydrates and using high‑dose corticosteroids when possible"
+        },
+        {
+          "label": "B",
+          "text": "Controlling diet (limiting NSC), managing weight and exercise, treating endocrine disorders (PPID, EMS), and avoiding unnecessary high‑dose corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Keeping horses stall‑confined with no exercise"
+        },
+        {
+          "label": "D",
+          "text": "Feeding ad libitum grain with minimal forage"
+        }
+      ],
+      "correct": "",
+      "explanation": "Prevention focuses on controlling NSC intake, maintaining proper weight and exercise, managing endocrine diseases, and avoiding unnecessary high‑dose corticosteroids. The other options (A, C, D) increase laminitis risk."
+    },
+    {
+      "id": 24,
+      "stem": "Prognosis for laminitis is MOST favorable when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "P3 has sunk and multiple limbs are involved"
+        },
+        {
+          "label": "B",
+          "text": "There is no rotation, mild disease, and no significant systemic illness"
+        },
+        {
+          "label": "C",
+          "text": "The laminitis is supporting‑limb in a heavy draft horse"
+        },
+        {
+          "label": "D",
+          "text": "The horse has repeated severe episodes"
+        }
+      ],
+      "correct": "",
+      "explanation": "Prognosis is best in mild cases without rotation or significant systemic disease; early detection and management improve outcomes. Sinking P3, multiple limbs, or repeated severe bouts (A, C, D) worsen prognosis."
+    },
+    {
+      "id": 25,
+      "stem": "In general, the prognosis for severe laminitis with P3 sinking or multiple limbs affected is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excellent, with most horses returning to full athletic function"
+        },
+        {
+          "label": "B",
+          "text": "Guarded to poor, and many survivors may not return to prior athletic use"
+        },
+        {
+          "label": "C",
+          "text": "Always fatal"
+        },
+        {
+          "label": "D",
+          "text": "Unrelated to severity or number of limbs affected"
+        }
+      ],
+      "correct": "",
+      "explanation": "Severe laminitis with P3 sinking or multiple limbs affected carries a guarded to poor prognosis; many survivors do not return to previous athletic performance. It is not uniformly excellent or fatal (A, C) and is clearly related to severity and limb involvement (D)."
+    }
+  ]
+}

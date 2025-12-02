@@ -1,0 +1,678 @@
+{
+  "topic": "Equine Herpesvirus_Bonocan",
+  "slug": "equine-herpesvirus_bonocan",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "The two most clinically important equine herpesviruses are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "EHV-2 and EHV-3"
+        },
+        {
+          "label": "B",
+          "text": "EHV-1 and EHV-4"
+        },
+        {
+          "label": "C",
+          "text": "EHV-5 and EHV-6"
+        },
+        {
+          "label": "D",
+          "text": "EHV-7 and EHV-8"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EHV-1 and EHV-4 are the most clinically important types, both causing respiratory disease. EHV-1 may also cause abortion or neurologic disease. EHV-2 and EHV-3 (A), EHV-5 and EHV-6 (C), and EHV-7 and EHV-8 (D) are less commonly clinically significant."
+    },
+    {
+      "id": 2,
+      "stem": "EHV-4 primarily causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neurologic disease"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory disease"
+        },
+        {
+          "label": "C",
+          "text": "Abortion"
+        },
+        {
+          "label": "D",
+          "text": "Genital lesions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EHV-4 primarily causes respiratory disease. Neurologic disease (A) and abortion (C) are associated with EHV-1. Genital lesions (D) are caused by EHV-3."
+    },
+    {
+      "id": 3,
+      "stem": "EHV-1 can cause all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory disease"
+        },
+        {
+          "label": "B",
+          "text": "Late-term abortion"
+        },
+        {
+          "label": "C",
+          "text": "Neurologic disease (EHM)"
+        },
+        {
+          "label": "D",
+          "text": "Genital lesions"
+        }
+      ],
+      "correct": "D",
+      "explanation": "EHV-1 causes respiratory disease (A), late-term abortion (B), and neurologic disease (C). Genital lesions are caused by EHV-3, not EHV-1."
+    },
+    {
+      "id": 4,
+      "stem": "Equine herpesviruses establish:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute infection only, cleared within weeks"
+        },
+        {
+          "label": "B",
+          "text": "Latency, with infected horses remaining lifelong carriers"
+        },
+        {
+          "label": "C",
+          "text": "Chronic active infection requiring continuous treatment"
+        },
+        {
+          "label": "D",
+          "text": "No persistent infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine herpesviruses establish latency, with infected horses remaining lifelong carriers. They do not cause only acute infection (A), chronic active infection (C), or no persistent infection (D)."
+    },
+    {
+      "id": 5,
+      "stem": "Transmission of EHV occurs primarily through:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airborne droplets over long distances"
+        },
+        {
+          "label": "B",
+          "text": "Nasal secretions, aborted materials, or fomites"
+        },
+        {
+          "label": "C",
+          "text": "Vertical transmission only"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of contaminated feed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Transmission occurs through nasal secretions, aborted materials, or fomites. It is not primarily airborne over long distances (A), vertically transmitted only (C), or through feed ingestion (D)."
+    },
+    {
+      "id": 6,
+      "stem": "Which age group is MOST susceptible to respiratory disease caused by EHV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geriatric horses over 15 years"
+        },
+        {
+          "label": "B",
+          "text": "Adult horses 5–10 years"
+        },
+        {
+          "label": "C",
+          "text": "Younger horses (weanlings/yearlings)"
+        },
+        {
+          "label": "D",
+          "text": "All ages equally"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Younger horses (weanlings/yearlings) are most susceptible to respiratory disease. Geriatric horses (A), adult horses (B), and equal distribution (D) are not the most susceptible groups."
+    },
+    {
+      "id": 7,
+      "stem": "Pregnant mares are at risk for abortion due to EHV-1 during:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Months 1–3 of gestation"
+        },
+        {
+          "label": "B",
+          "text": "Months 4–6 of gestation"
+        },
+        {
+          "label": "C",
+          "text": "Months 7–11 of gestation"
+        },
+        {
+          "label": "D",
+          "text": "Only during the first month"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Pregnant mares are at risk for abortion due to EHV-1 during months 7–11 of gestation. Earlier months (A, B) or only the first month (D) are not the typical risk period."
+    },
+    {
+      "id": 8,
+      "stem": "Clinical signs of the respiratory form of EHV include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fever and nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Cough and swollen lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Depression and anorexia"
+        },
+        {
+          "label": "D",
+          "text": "Profuse watery diarrhea"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse watery diarrhea is not a typical sign of respiratory EHV. Fever and nasal discharge (A), cough and swollen lymph nodes (B), and depression and anorexia (C) are common signs."
+    },
+    {
+      "id": 9,
+      "stem": "The neurologic form of EHV-1 (EHM) is characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Seizures and blindness"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia, hind-limb weakness, urinary retention, and paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Head pressing and circling"
+        },
+        {
+          "label": "D",
+          "text": "Hyperexcitability and aggression"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The neurologic form (EHM) is characterized by ataxia, hind-limb weakness, urinary retention, and paralysis, which may progress to recumbency or death. Seizures and blindness (A), head pressing and circling (C), and hyperexcitability (D) are not typical."
+    },
+    {
+      "id": 10,
+      "stem": "Aborted fetuses from EHV-1 infection typically show:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe autolysis and putrefaction"
+        },
+        {
+          "label": "B",
+          "text": "Fresh appearance with minimal autolysis, white necrotic foci on liver"
+        },
+        {
+          "label": "C",
+          "text": "No visible lesions"
+        },
+        {
+          "label": "D",
+          "text": "Only placental abnormalities"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aborted fetuses from EHV-1 infection typically appear fresh with minimal autolysis and show white necrotic foci (\"target lesions\") on the liver. Severe autolysis (A), no visible lesions (C), or only placental abnormalities (D) are not typical."
+    },
+    {
+      "id": 11,
+      "stem": "The gold standard diagnostic test for EHV is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serology for antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Culture on cell lines"
+        },
+        {
+          "label": "C",
+          "text": "PCR on nasal swabs and blood (buffy coat)"
+        },
+        {
+          "label": "D",
+          "text": "Complete blood count"
+        }
+      ],
+      "correct": "C",
+      "explanation": "PCR on nasal swabs and blood (buffy coat) is the gold standard diagnostic test. Serology (A) and culture (B) are less sensitive, and CBC (D) is not diagnostic."
+    },
+    {
+      "id": 12,
+      "stem": "CSF analysis in neurologic EHV cases typically shows:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal protein and clear fluid"
+        },
+        {
+          "label": "B",
+          "text": "Increased protein and xanthochromia"
+        },
+        {
+          "label": "C",
+          "text": "Decreased protein and red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "No abnormalities"
+        }
+      ],
+      "correct": "B",
+      "explanation": "CSF analysis in neurologic EHV cases typically shows increased protein and xanthochromia. Normal CSF (A), decreased protein (C), or no abnormalities (D) are not typical findings."
+    },
+    {
+      "id": 13,
+      "stem": "Treatment of EHV respiratory disease primarily consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antiviral drugs only"
+        },
+        {
+          "label": "B",
+          "text": "Supportive care including rest, hydration, and NSAIDs for fever"
+        },
+        {
+          "label": "C",
+          "text": "High-dose corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Surgical intervention"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment of respiratory EHV primarily consists of supportive care including rest, hydration, and NSAIDs for fever. Antivirals (A) are used for neurologic cases, not routine respiratory disease. Corticosteroids (C) and surgery (D) are not primary treatments."
+    },
+    {
+      "id": 14,
+      "stem": "Antiviral therapy for EHM cases may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acyclovir (10 mg/kg, PO, 5 times per day) or valacyclovir (30 mg/kg, PO, q 6–8 h)"
+        },
+        {
+          "label": "B",
+          "text": "Ganciclovir only"
+        },
+        {
+          "label": "C",
+          "text": "Ribavirin"
+        },
+        {
+          "label": "D",
+          "text": "No antivirals are effective"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Antiviral therapy for EHM may include acyclovir (10 mg/kg, PO, 5 times per day) or valacyclovir (30 mg/kg, PO, q 6–8 h). Ganciclovir (B), ribavirin (C), or no antivirals (D) are not standard treatments."
+    },
+    {
+      "id": 15,
+      "stem": "The prognosis for horses with neuropathic EHV-1 that remain ambulatory or are recumbent for only 2–3 days is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor, with high mortality"
+        },
+        {
+          "label": "B",
+          "text": "Usually favorable"
+        },
+        {
+          "label": "C",
+          "text": "Guarded, with permanent neurologic deficits"
+        },
+        {
+          "label": "D",
+          "text": "Unknown"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The prognosis for horses with neuropathic EHV-1 that remain ambulatory or are recumbent for only 2–3 days is usually favorable. Poor prognosis (A), guarded with permanent deficits (C), or unknown (D) are not accurate."
+    },
+    {
+      "id": 16,
+      "stem": "Most foals infected prenatally with EHV-1:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recover completely with treatment"
+        },
+        {
+          "label": "B",
+          "text": "Die shortly after birth despite intensive care"
+        },
+        {
+          "label": "C",
+          "text": "Show no clinical signs"
+        },
+        {
+          "label": "D",
+          "text": "Develop only mild respiratory signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Most foals infected prenatally with EHV-1 die shortly after birth despite intensive nursing and antimicrobial medication. Recovery (A), no clinical signs (C), or mild signs (D) are not typical."
+    },
+    {
+      "id": 17,
+      "stem": "EHV virus survives on surfaces for approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "24 hours"
+        },
+        {
+          "label": "B",
+          "text": "48 hours"
+        },
+        {
+          "label": "C",
+          "text": "1 week"
+        },
+        {
+          "label": "D",
+          "text": "Indefinitely"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EHV virus survives approximately 48 hours on surfaces. Shorter (A) or longer survival times (C, D) are not accurate."
+    },
+    {
+      "id": 18,
+      "stem": "New horses should be isolated for how long to prevent EHV introduction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 days"
+        },
+        {
+          "label": "B",
+          "text": "14 days"
+        },
+        {
+          "label": "C",
+          "text": "21 days"
+        },
+        {
+          "label": "D",
+          "text": "30 days"
+        }
+      ],
+      "correct": "C",
+      "explanation": "New horses should be isolated for 21 days to prevent EHV introduction. Shorter periods (A, B) may be insufficient, and longer periods (D) are typically unnecessary."
+    },
+    {
+      "id": 19,
+      "stem": "During an EHV outbreak, affected and in-contact horses should be isolated for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "14 days"
+        },
+        {
+          "label": "B",
+          "text": "21 days"
+        },
+        {
+          "label": "C",
+          "text": "28 days"
+        },
+        {
+          "label": "D",
+          "text": "45 days"
+        }
+      ],
+      "correct": "C",
+      "explanation": "During an EHV outbreak, affected and in-contact horses should be isolated for 28 days. Shorter periods (A, B) or longer (D) are not standard recommendations."
+    },
+    {
+      "id": 20,
+      "stem": "Pregnant mares should be vaccinated against EHV-1 at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 3, 5, and 7 months of gestation"
+        },
+        {
+          "label": "B",
+          "text": "3, 5, 7, and 9 months of gestation"
+        },
+        {
+          "label": "C",
+          "text": "Only at 9 months of gestation"
+        },
+        {
+          "label": "D",
+          "text": "Not recommended during pregnancy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pregnant mares should be vaccinated against EHV-1 at 3, 5, 7, and 9 months of gestation. Other schedules (A, C) or no vaccination (D) are not recommended."
+    },
+    {
+      "id": 21,
+      "stem": "A high-antigen load, inactivated EHV-1 vaccine is recommended to prevent:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory disease only"
+        },
+        {
+          "label": "B",
+          "text": "EHV-1 abortion"
+        },
+        {
+          "label": "C",
+          "text": "Neurologic disease only"
+        },
+        {
+          "label": "D",
+          "text": "All forms of EHV disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A high-antigen load, inactivated EHV-1 vaccine is recommended to prevent EHV-1 abortion. Respiratory disease (A), neurologic disease (C), or all forms (D) are not the primary indication for this vaccine."
+    },
+    {
+      "id": 22,
+      "stem": "Vaccination for EHV should begin in foals at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birth"
+        },
+        {
+          "label": "B",
+          "text": "2–3 months of age"
+        },
+        {
+          "label": "C",
+          "text": "4–6 months of age"
+        },
+        {
+          "label": "D",
+          "text": "1 year of age"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Vaccination for EHV should begin in foals at 4–6 months of age. Earlier (A, B) or later (D) timing is not standard."
+    },
+    {
+      "id": 23,
+      "stem": "Booster vaccinations for EHV may be indicated as often as every:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 months"
+        },
+        {
+          "label": "B",
+          "text": "6 months"
+        },
+        {
+          "label": "C",
+          "text": "12 months"
+        },
+        {
+          "label": "D",
+          "text": "24 months"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Booster vaccinations for EHV may be indicated as often as every 6 months through maturity (5 years of age). More frequent (A) or less frequent (C, D) intervals are not standard."
+    },
+    {
+      "id": 24,
+      "stem": "EHV-2 (gammaherpesvirus) is associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abortion in mares"
+        },
+        {
+          "label": "B",
+          "text": "Conjunctivitis, respiratory issues, and poor performance"
+        },
+        {
+          "label": "C",
+          "text": "Neurologic disease"
+        },
+        {
+          "label": "D",
+          "text": "Genital lesions only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EHV-2 (gammaherpesvirus) is associated with conjunctivitis, respiratory issues, and poor performance. Abortion (A), neurologic disease (C), or genital lesions only (D) are not associated with EHV-2."
+    },
+    {
+      "id": 25,
+      "stem": "EHV-3 (coital exanthema virus) causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory disease"
+        },
+        {
+          "label": "B",
+          "text": "Genital lesions — vesicles, pustules, and ulcers on vulva or penis"
+        },
+        {
+          "label": "C",
+          "text": "Abortion"
+        },
+        {
+          "label": "D",
+          "text": "Neurologic signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EHV-3 (coital exanthema virus) causes genital lesions — vesicles, pustules, and ulcers on vulva or penis, spread via breeding or contaminated instruments. Respiratory disease (A), abortion (C), or neurologic signs (D) are not caused by EHV-3."
+    },
+    {
+      "id": 26,
+      "stem": "EHV-5 is associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine Multinodular Pulmonary Fibrosis (EMPF)"
+        },
+        {
+          "label": "B",
+          "text": "Abortion"
+        },
+        {
+          "label": "C",
+          "text": "Neurologic disease"
+        },
+        {
+          "label": "D",
+          "text": "Genital lesions"
+        }
+      ],
+      "correct": "A",
+      "explanation": "EHV-5 is associated with Equine Multinodular Pulmonary Fibrosis (EMPF), a chronic fibrotic lung disease. Abortion (B), neurologic disease (C), or genital lesions (D) are not associated with EHV-5."
+    },
+    {
+      "id": 27,
+      "stem": "Currently available EHV vaccines:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offer comprehensive protection against all forms of EHV disease"
+        },
+        {
+          "label": "B",
+          "text": "Do not offer comprehensive protection against EHV-1-associated abortion and EHM"
+        },
+        {
+          "label": "C",
+          "text": "Are only effective in foals"
+        },
+        {
+          "label": "D",
+          "text": "Are not recommended"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Currently available EHV vaccines do not offer comprehensive protection against EHV-1-associated abortion and EHM. They do not offer comprehensive protection (A), are not limited to foals (C), and are recommended (D)."
+    },
+    {
+      "id": 28,
+      "stem": "USEF events require documentation of EHV vaccination within:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 months of entering event grounds"
+        },
+        {
+          "label": "B",
+          "text": "6 months of entering event grounds"
+        },
+        {
+          "label": "C",
+          "text": "12 months of entering event grounds"
+        },
+        {
+          "label": "D",
+          "text": "No vaccination requirement"
+        }
+      ],
+      "correct": "B",
+      "explanation": "USEF events require documentation of EHV vaccination (and equine influenza virus) within 6 months of entering event grounds. Shorter (A) or longer (C) periods, or no requirement (D), are not correct."
+    }
+  ]
+}

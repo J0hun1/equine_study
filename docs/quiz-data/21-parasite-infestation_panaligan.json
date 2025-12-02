@@ -1,0 +1,774 @@
+{
+  "topic": "21. Parasite infestation_PANALIGAN",
+  "slug": "21-parasite-infestation_panaligan",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Which group of parasites is highlighted as the MOST clinically significant gastrointestinal parasites in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coccidia, Giardia, and Trichuris"
+        },
+        {
+          "label": "B",
+          "text": "Ascarids, Strongylus vulgaris, cyathostomins, and tapeworms"
+        },
+        {
+          "label": "C",
+          "text": "Ticks, mites, and lice"
+        },
+        {
+          "label": "D",
+          "text": "Flukes and lungworms only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The presentation emphasizes ascarids, Strongylus vulgaris (large strongyles), cyathostomins (small strongyles), and tapeworms as the most clinically significant equine GI parasites. Coccidia and others (A, C, D) are not the main focus here."
+    },
+    {
+      "id": 2,
+      "stem": "Parascaris univalens and Parascaris equorum are primarily important in which age group of horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neonatal foals under 1 week"
+        },
+        {
+          "label": "B",
+          "text": "Primarily foals around 5 months of age, with possible reinfection in weanlings and yearlings"
+        },
+        {
+          "label": "C",
+          "text": "Only horses older than 15 years"
+        },
+        {
+          "label": "D",
+          "text": "Only adult stallions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Parascaris infections primarily affect foals around 5 months, with reinfection possible in weanlings and yearlings; older horses can be affected but are less commonly impacted. Neonates, geriatric horses, and stallions exclusively (A, C, D) are not accurate."
+    },
+    {
+      "id": 3,
+      "stem": "Regarding ascarid eggs in the environment, which statement is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are fragile and die quickly in cool climates"
+        },
+        {
+          "label": "B",
+          "text": "They can survive for years in soil and bedding and remain infective through winter"
+        },
+        {
+          "label": "C",
+          "text": "They are killed rapidly by freezing temperatures"
+        },
+        {
+          "label": "D",
+          "text": "They survive only in water, not on pasture"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ascarid eggs are very hardy, surviving for years in soil and bedding, remaining infective through winter and tolerating cold; they are inactivated more readily by high temperatures. Options A, C, and D contradict these characteristics."
+    },
+    {
+      "id": 4,
+      "stem": "The basic pathophysiology of Parascaris infection involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct development from egg to adult in the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of embryonated eggs, larval migration through liver and lungs, then return to small intestine to mature"
+        },
+        {
+          "label": "C",
+          "text": "Only skin penetration and local tissue migration"
+        },
+        {
+          "label": "D",
+          "text": "Transplacental transmission only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The life cycle involves ingestion of embryonated eggs, larval migration via liver and lungs, penetration of alveoli, then return to the small intestine where they mature. Direct gastric development, skin penetration, or transplacental spread (A, C, D) are not the typical routes described."
+    },
+    {
+      "id": 5,
+      "stem": "The MAIN clinical concern associated with acute parascarosis in foals is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe laminitis"
+        },
+        {
+          "label": "B",
+          "text": "Small intestinal impaction leading to colic"
+        },
+        {
+          "label": "C",
+          "text": "Chronic dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Renal failure"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Small intestinal impaction causing colic is the major clinical concern with acute parascarosis in foals. Laminitis, dermatitis, or renal failure (A, C, D) are not primary problems in this context."
+    },
+    {
+      "id": 6,
+      "stem": "Typical clinical findings associated with ascarid impaction in a 5‑month‑old foal include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diarrhea with no colic signs"
+        },
+        {
+          "label": "B",
+          "text": "Elevated heart rate, dehydration, colic signs, altered gut sounds, positive gastric reflux, and severe pain poorly responsive to analgesics"
+        },
+        {
+          "label": "C",
+          "text": "Solely respiratory distress with no GI involvement"
+        },
+        {
+          "label": "D",
+          "text": "Weight gain and polyphagia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Affected foals show colic signs, tachycardia, dehydration, altered gut sounds, positive gastric reflux, reddened mucous membranes, and severe pain that may respond poorly to analgesia. Isolated diarrhea, respiratory distress, or weight gain (A, C, D) are incorrect."
+    },
+    {
+      "id": 7,
+      "stem": "Which diagnostic method is commonly used to confirm ascarid infection in foals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin scraping and fungal culture"
+        },
+        {
+          "label": "B",
+          "text": "Fecal egg count demonstrating Parascaris eggs"
+        },
+        {
+          "label": "C",
+          "text": "Nasal swab and PCR for viruses"
+        },
+        {
+          "label": "D",
+          "text": "Liver biopsy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Fecal egg counts revealing Parascaris eggs confirm infection with sexually mature female worms. Skin scrapings, viral PCR, or liver biopsy (A, C, D) are not routine for this diagnosis."
+    },
+    {
+      "id": 8,
+      "stem": "Transabdominal ultrasonography in acute ascarid impaction often reveals:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal intestines with no changes"
+        },
+        {
+          "label": "B",
+          "text": "Dilated small intestinal loops with hyperechoic worms visible in the lumen"
+        },
+        {
+          "label": "C",
+          "text": "Only free abdominal fluid with no intestinal changes"
+        },
+        {
+          "label": "D",
+          "text": "Severe gastric ulcers"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ultrasonography may show dilated small intestinal loops containing hyperechoic worm masses, supporting ascarid impaction. The other options do not match the described findings."
+    },
+    {
+      "id": 9,
+      "stem": "For acute ascarid impactions, which treatment approach is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surgery in severe cases plus supportive care and careful anthelmintic use"
+        },
+        {
+          "label": "B",
+          "text": "No treatment, as most resolve spontaneously"
+        },
+        {
+          "label": "C",
+          "text": "High‑dose corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "Immediate high‑dose paralytic dewormer without supportive care"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Acute impactions often require surgical intervention plus supportive care, with careful consideration of anthelmintic use to avoid worsening obstruction. Doing nothing (B), steroids alone (C), or unmonitored high‑dose paralytic deworming (D) are unsafe."
+    },
+    {
+      "id": 10,
+      "stem": "Which anthelmintic class is preferred for treating Parascaris infections in foals due to lower resistance rates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macrocyclic lactones"
+        },
+        {
+          "label": "B",
+          "text": "Benzimidazoles"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "D",
+          "text": "Organophosphates"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Benzimidazoles are preferred for Parascaris due to relatively lower resistance rates compared with macrocyclic lactones. Praziquantel and organophosphates (C, D) target other parasites or are not first‑line."
+    },
+    {
+      "id": 11,
+      "stem": "Recommended prevention for ascarids in foals includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "No deworming until 2 years of age"
+        },
+        {
+          "label": "B",
+          "text": "Deworming at 2 and 5 months of age with FEC monitoring and strategic anthelmintic use"
+        },
+        {
+          "label": "C",
+          "text": "Deworming once at birth only"
+        },
+        {
+          "label": "D",
+          "text": "Only pasture rotation without deworming"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Recommended prevention includes deworming foals around 2 and 5 months, ideally before weaning, using FECs to monitor and guide strategic treatments. Delayed or minimal deworming (A, C, D) ignores important risk periods."
+    },
+    {
+      "id": 12,
+      "stem": "Strongylus vulgaris is often referred to as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine lungworm"
+        },
+        {
+          "label": "B",
+          "text": "Equine bloodworm"
+        },
+        {
+          "label": "C",
+          "text": "Equine pinworm"
+        },
+        {
+          "label": "D",
+          "text": "Equine threadworm"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Strongylus vulgaris is known as the equine bloodworm. It is not a lungworm, pinworm, or threadworm (A, C, D)."
+    },
+    {
+      "id": 13,
+      "stem": "Which feature makes Strongylus vulgaris particularly important historically in equine parasitology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a common cause of zoonotic infection"
+        },
+        {
+          "label": "B",
+          "text": "It is considered the most pathogenic equine GI helminth and was historically common before routine deworming"
+        },
+        {
+          "label": "C",
+          "text": "It only affects donkeys"
+        },
+        {
+          "label": "D",
+          "text": "It is resistant to all known anthelmintics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "S. vulgaris is classically the most pathogenic equine GI helminth and was formerly common before routine anthelmintic programs; now it is rare in well‑managed populations. It is not zoonotic (A), donkey‑only (C), or universally drug‑resistant (D)."
+    },
+    {
+      "id": 14,
+      "stem": "The larval migration of Strongylus vulgaris primarily involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin and subcutaneous tissues only"
+        },
+        {
+          "label": "B",
+          "text": "Intestinal arterioles leading to cranial mesenteric and celiac arteries, then back to cecum and colon"
+        },
+        {
+          "label": "C",
+          "text": "Direct migration to the lungs"
+        },
+        {
+          "label": "D",
+          "text": "Liver and bile ducts exclusively"
+        }
+      ],
+      "correct": "B",
+      "explanation": "L3 larvae migrate via intestinal arterioles to cranial mesenteric and celiac arteries, develop in arterial walls, then L5 larvae travel back to cecum/colon where adults reside. Purely skin, lung, or liver migration (A, C, D) is incorrect."
+    },
+    {
+      "id": 15,
+      "stem": "Which age group is MOST likely to show clinical signs of Strongylus vulgaris infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neonatal foals only"
+        },
+        {
+          "label": "B",
+          "text": "Young adult horses 1–5 years of age"
+        },
+        {
+          "label": "C",
+          "text": "Horses over 20 years of age"
+        },
+        {
+          "label": "D",
+          "text": "Only broodmares"
+        }
+      ],
+      "correct": "B",
+      "explanation": "All ages can be infected, but clinical signs are more likely in young adult horses (1–5 years). Foals, geriatrics, or specific reproductive classes alone (A, C, D) are not the primary risk group stated."
+    },
+    {
+      "id": 16,
+      "stem": "A key clinical consequence of Strongylus vulgaris infection is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Thromboembolic non‑strangulating intestinal infarction with peritonitis"
+        },
+        {
+          "label": "C",
+          "text": "Primary laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Myocarditis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A key consequence is thromboembolic non‑strangulating intestinal infarction, often leading to peritonitis and colic. Chronic hepatitis, laminitis, or myocarditis (A, C, D) are not primary outcomes."
+    },
+    {
+      "id": 17,
+      "stem": "Abdominocentesis findings in a horse with Strongylus‑associated peritonitis typically include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low protein and low white blood cell count"
+        },
+        {
+          "label": "B",
+          "text": "High white blood cell count, elevated protein, and increased lactate"
+        },
+        {
+          "label": "C",
+          "text": "Purely hemorrhagic fluid with no cells"
+        },
+        {
+          "label": "D",
+          "text": "Only bile pigment"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Peritonitis fluid typically shows high WBC count, increased protein, and elevated lactate. Low‑protein or other patterns (A, C, D) do not describe a classic inflammatory peritoneal effusion."
+    },
+    {
+      "id": 18,
+      "stem": "During the acute infarction phase of Strongylus vulgaris disease, anthelmintic use is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strongly recommended at maximum doses"
+        },
+        {
+          "label": "B",
+          "text": "Not recommended until the horse is stabilized and peritonitis has resolved"
+        },
+        {
+          "label": "C",
+          "text": "Unnecessary in all cases"
+        },
+        {
+          "label": "D",
+          "text": "Replaced entirely by probiotics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Anthelmintics are not recommended during the acute infarction phase because rapid larval kill may worsen inflammation; they are reserved until the horse is stabilized and peritonitis has resolved. Options A, C, and D conflict with this cautious approach."
+    },
+    {
+      "id": 19,
+      "stem": "Which anthelmintic drugs are commonly used for Strongylus vulgaris control after stabilization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ivermectin, moxidectin, and fenbendazole"
+        },
+        {
+          "label": "B",
+          "text": "Praziquantel only"
+        },
+        {
+          "label": "C",
+          "text": "Levamisole only"
+        },
+        {
+          "label": "D",
+          "text": "Albendazole only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Ivermectin, moxidectin, and fenbendazole are commonly used larvicidal agents against S. vulgaris after stabilization. Praziquantel or other single‑agent choices (B–D) are not standard for this parasite."
+    },
+    {
+      "id": 20,
+      "stem": "Cyathostomins (small strongyles) are characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Affecting only a few horses worldwide"
+        },
+        {
+          "label": "B",
+          "text": "Ubiquitous infection of grazing horses, often with many species coinfecting individuals"
+        },
+        {
+          "label": "C",
+          "text": "Exclusively infecting the stomach"
+        },
+        {
+          "label": "D",
+          "text": "Being effectively eradicated by a single deworming"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cyathostomins infect essentially all grazing horses, with many species coinfecting individuals and burdens sometimes reaching hundreds of thousands. They are not rare or confined to the stomach, nor eradicated by single deworming (A, C, D)."
+    },
+    {
+      "id": 21,
+      "stem": "Acute larval cyathostominosis is associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gradual larval emergence over months"
+        },
+        {
+          "label": "B",
+          "text": "Mass emergence of encysted larvae from the cecal and colonic wall causing generalized typhlocolitis"
+        },
+        {
+          "label": "C",
+          "text": "Only adult worms in the lumen"
+        },
+        {
+          "label": "D",
+          "text": "Infection of the lungs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Acute larval cyathostominosis occurs when large numbers of encysted larvae emerge from the cecal and colonic mucosa, causing diffuse typhlocolitis. Gradual emergence, adult worms alone, or lung infection (A, C, D) do not match the description."
+    },
+    {
+      "id": 22,
+      "stem": "A typical signalment and trigger for acute larval cyathostominosis includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mature horses after long‑term pasture rest with no deworming"
+        },
+        {
+          "label": "B",
+          "text": "Young horses 1–4 years old following recent deworming with non‑larvicidal anthelmintics"
+        },
+        {
+          "label": "C",
+          "text": "Only foals under 3 months after birth"
+        },
+        {
+          "label": "D",
+          "text": "Only aged horses on stall rest"
+        }
+      ],
+      "correct": "B",
+      "explanation": "It most often affects young horses (1–4 years) after recent deworming with non‑larvicidal products (e.g., ivermectin, pyrantel) that kill adults but not encysted larvae. Other age and management categories (A, C, D) are less typical."
+    },
+    {
+      "id": 23,
+      "stem": "Key clinical signs of acute larval cyathostominosis include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Profuse watery diarrhea, severe dehydration, circulatory shock, edema, possible colic, and weight loss"
+        },
+        {
+          "label": "B",
+          "text": "Cough and nasal discharge"
+        },
+        {
+          "label": "C",
+          "text": "Isolated skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "Polyuria and polydipsia"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Sudden profuse watery diarrhea, severe dehydration, varying degrees of shock, edema, possible colic, and weight loss are key features. The other options describe unrelated syndromes."
+    },
+    {
+      "id": 24,
+      "stem": "Why are fecal egg counts unreliable for diagnosing larval cyathostominosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Egg counts are always zero in infected horses"
+        },
+        {
+          "label": "B",
+          "text": "They reflect adult egg‑shedding, not the encysted larval burden in the intestinal wall"
+        },
+        {
+          "label": "C",
+          "text": "They only detect tapeworms"
+        },
+        {
+          "label": "D",
+          "text": "They are affected only by diet, not parasites"
+        }
+      ],
+      "correct": "B",
+      "explanation": "FECs primarily measure egg‑shedding from adult luminal worms, not the burden of encysted larvae in the intestinal wall, so they may underestimate larval cyathostominosis. They are not always zero (A) or tapeworm‑specific (C)."
+    },
+    {
+      "id": 25,
+      "stem": "Which treatment strategy is appropriate for acute larval cyathostominosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supportive care (fluids, electrolytes, anti‑inflammatories, antimicrobials) plus inclusion of a larvicidal anthelmintic, recognizing that efficacy may be incomplete"
+        },
+        {
+          "label": "B",
+          "text": "No treatment, as mortality is negligible"
+        },
+        {
+          "label": "C",
+          "text": "High‑dose corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "Single dose of non‑larvicidal dewormer without supportive care"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Management requires intensive supportive care plus a larvicidal anthelmintic, accepting that currently labeled products may not fully eliminate all larval stages. Neglect, steroids alone, or non‑larvicidal dewormers (B–D) are inappropriate."
+    },
+    {
+      "id": 26,
+      "stem": "Which statement about cyathostomin prevention is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anthelmintic resistance is not a concern"
+        },
+        {
+          "label": "B",
+          "text": "Prevention relies on fecal diagnostic testing, monitoring anthelmintic efficacy, strategic and targeted treatments, and good pasture management/stocking density"
+        },
+        {
+          "label": "C",
+          "text": "Monthly blanket deworming with the same drug prevents resistance"
+        },
+        {
+          "label": "D",
+          "text": "Parasite control is unnecessary in temperate climates"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Effective prevention includes fecal diagnostics, routine monitoring of drug efficacy, combining strategic and targeted deworming, and good pasture/stocking management; resistance is a real and increasing concern. Blanket monthly deworming (C) accelerates resistance."
+    },
+    {
+      "id": 27,
+      "stem": "Anoplocephala perfoliata, the most common equine tapeworm, is transmitted primarily by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mosquitoes"
+        },
+        {
+          "label": "B",
+          "text": "Oribatid mites ingested while grazing"
+        },
+        {
+          "label": "C",
+          "text": "Contaminated water troughs"
+        },
+        {
+          "label": "D",
+          "text": "Transplacental passage"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A. perfoliata is transmitted when horses ingest oribatid mites carrying cysticercoids while grazing. Other vectors or routes (A, C, D) are incorrect."
+    },
+    {
+      "id": 28,
+      "stem": "Heavy A. perfoliata infestations around the ileocecal valve can cause:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only mild, subclinical infections"
+        },
+        {
+          "label": "B",
+          "text": "Tapeworm‑associated colic, ileal impaction, and ileocecal intussusception"
+        },
+        {
+          "label": "C",
+          "text": "Primary respiratory disease"
+        },
+        {
+          "label": "D",
+          "text": "Severe liver cirrhosis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Heavy burdens at the ileocecal junction can cause tapeworm‑associated colic, including ileal impaction and ileocecal intussusception. Respiratory disease or liver cirrhosis (C, D) are not primary outcomes."
+    },
+    {
+      "id": 29,
+      "stem": "Which diagnostic tool can help identify tapeworm‑associated colic and infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rectal palpation/ultrasound to detect intestinal masses, fecal egg counts, and serologic ELISAs for tapeworm antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Skin biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Lung ultrasound"
+        },
+        {
+          "label": "D",
+          "text": "Only urine analysis"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Rectal palpation and ultrasound can detect masses or impaction; fecal eggs and serologic ELISAs for tapeworm antibodies further support diagnosis. Skin biopsy, lung ultrasound, or urinalysis (B–D) are not typical."
+    },
+    {
+      "id": 30,
+      "stem": "Which drugs are commonly recommended for tapeworm treatment in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ivermectin alone"
+        },
+        {
+          "label": "B",
+          "text": "Pyrantel pamoate at double dose and praziquantel"
+        },
+        {
+          "label": "C",
+          "text": "Gentamicin and penicillin"
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline alone"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Double‑dose pyrantel pamoate and praziquantel are effective anticestodal agents used against tapeworms in horses. Ivermectin alone, antibiotics, or doxycycline (A, C, D) are not sufficient anticestodals."
+    },
+    {
+      "id": 31,
+      "stem": "When should anticestodal treatment for tapeworms generally be administered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "During acute colic surgery"
+        },
+        {
+          "label": "B",
+          "text": "After colic resolves and the horse is clinically stable, often once yearly in autumn or more frequently if infection pressure is high"
+        },
+        {
+          "label": "C",
+          "text": "Every week regardless of infection pressure"
+        },
+        {
+          "label": "D",
+          "text": "Only at birth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Anticestodal treatment is typically given after colic resolves and the horse is stable, often annually in autumn, with increased frequency if herd‑level infection pressure or tapeworm‑associated colic is high. Surgery‑time dosing or weekly use (A, C) is not advised."
+    },
+    {
+      "id": 32,
+      "stem": "Which statement about zoonotic risk of the equine parasites discussed is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strongylus vulgaris is a common zoonosis"
+        },
+        {
+          "label": "B",
+          "text": "Cyathostomins cause human disease"
+        },
+        {
+          "label": "C",
+          "text": "These common equine GI parasites (ascarids, strongyles, tapeworms) have no known zoonotic risk in the context described"
+        },
+        {
+          "label": "D",
+          "text": "Tapeworms routinely infect humans from horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The key equine GI parasites discussed (Parascaris spp., strongyles, cyathostomins, A. perfoliata) are not considered zoonotic in this context. There is no emphasis on human infection (A, B, D)."
+    }
+  ]
+}

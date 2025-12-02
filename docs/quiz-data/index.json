@@ -7,36 +7,6 @@
       "numQuestions": 20
     },
     {
-      "topic": "10. EEE_WEE_VEE - Alarilla, Chester Jade",
-      "slug": "10-eee-wee-vee-alarilla-chester-jade",
-      "file": "10-eee-wee-vee-alarilla-chester-jade.json",
-      "numQuestions": 20
-    },
-    {
-      "topic": "11. Tetanus_Fernandez",
-      "slug": "11-tetanus-fernandez",
-      "file": "11-tetanus-fernandez.json",
-      "numQuestions": 20
-    },
-    {
-      "topic": "13. Lamata_NavicularSyndrome",
-      "slug": "13-lamata-navicularsyndrome",
-      "file": "13-lamata-navicularsyndrome.json",
-      "numQuestions": 20
-    },
-    {
-      "topic": "14. Osteoarthritis_Jarrell",
-      "slug": "14-osteoarthritis-jarrell",
-      "file": "14-osteoarthritis-jarrell.json",
-      "numQuestions": 20
-    },
-    {
-      "topic": "15. Exertional Rhabdomyolysis",
-      "slug": "15-exertional-rhabdomyolysis",
-      "file": "15-exertional-rhabdomyolysis.json",
-      "numQuestions": 20
-    },
-    {
       "topic": "2. Equine Cushing_s Disease_ESTOMATA",
       "slug": "2-equine-cushing-s-disease-estomata",
       "file": "2-equine-cushing-s-disease-estomata.json",
@@ -67,12 +37,6 @@
       "numQuestions": 20
     },
     {
-      "topic": "7_Theiler_s Disease_Segumban",
-      "slug": "7-theiler-s-disease-segumban",
-      "file": "7-theiler-s-disease-segumban.json",
-      "numQuestions": 20
-    },
-    {
       "topic": "8. Cholangiohepatitis_ANTONIO",
       "slug": "8-cholangiohepatitis-antonio",
       "file": "8-cholangiohepatitis-antonio.json",
@@ -82,6 +46,144 @@
       "topic": "9. Tyzzers Disease_ Maravillas, Chester Kent Y. ",
       "slug": "9-tyzzers-disease-maravillas-chester-kent-y",
       "file": "9-tyzzers-disease-maravillas-chester-kent-y.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "10. EEE_WEE_VEE - Alarilla, Chester Jade",
+      "slug": "10-eee-wee-vee-alarilla-chester-jade",
+      "file": "10-eee-wee-vee-alarilla-chester-jade.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "11. Tetanus_Fernandez",
+      "slug": "11-tetanus-fernandez",
+      "file": "11-tetanus-fernandez.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "13. Lamata_NavicularSyndrome",
+      "slug": "13-lamata-navicularsyndrome",
+      "file": "13-lamata-navicularsyndrome.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "14. Osteoarthritis_Jarrell",
+      "slug": "14-osteoarthritis-jarrell",
+      "file": "14-osteoarthritis-jarrell.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "15. Exertional Rhabdomyolysis",
+      "slug": "15-exertional-rhabdomyolysis",
+      "file": "15-exertional-rhabdomyolysis.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "16. Equine Infectious Anemia",
+      "slug": "16-equine-infectious-anemia",
+      "file": "16-equine-infectious-anemia.json",
+      "numQuestions": 25
+    },
+    {
+      "topic": "17. Purpura Haemorrhagica_Mercado",
+      "slug": "17-purpura-haemorrhagica_mercado",
+      "file": "17-purpura-haemorrhagica_mercado.json",
+      "numQuestions": 25
+    },
+    {
+      "topic": "18. Equine Granulocytic Anaplasmosis - Cobias",
+      "slug": "18-equine-granulocytic-anaplasmosis-cobias",
+      "file": "18-equine-granulocytic-anaplasmosis-cobias.json",
+      "numQuestions": 25
+    },
+    {
+      "topic": "19. Colic_GONZALES",
+      "slug": "19-colic_gonzales",
+      "file": "19-colic_gonzales.json",
+      "numQuestions": 27
+    },
+    {
+      "topic": "20. Choke_ALAGANO",
+      "slug": "20-choke_alagano",
+      "file": "20-choke_alagano.json",
+      "numQuestions": 25
+    },
+    {
+      "topic": "21. Parasite infestation_PANALIGAN",
+      "slug": "21-parasite-infestation_panaligan",
+      "file": "21-parasite-infestation_panaligan.json",
+      "numQuestions": 32
+    },
+    {
+      "topic": "22. Equine Gastric Ulcer Syndrome(EGUS)",
+      "slug": "22-equine-gastric-ulcer-syndromeegus",
+      "file": "22-equine-gastric-ulcer-syndromeegus.json",
+      "numQuestions": 27
+    },
+    {
+      "topic": "7_Theiler_s Disease_Segumban",
+      "slug": "7-theiler-s-disease-segumban",
+      "file": "7-theiler-s-disease-segumban.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "Caccam, Equine Laminitis Report.pdf",
+      "slug": "caccam-equine-laminitis-reportpdf",
+      "file": "caccam-equine-laminitis-reportpdf.json",
+      "numQuestions": 25
+    },
+    {
+      "topic": "Castillo_EIPH",
+      "slug": "castillo_eiph",
+      "file": "castillo_eiph.json",
+      "numQuestions": 28
+    },
+    {
+      "topic": "CRUZ_EQUINE RABIES",
+      "slug": "cruz_equine-rabies",
+      "file": "cruz_equine-rabies.json",
+      "numQuestions": 26
+    },
+    {
+      "topic": "DAUT_Strangles in Horses",
+      "slug": "daut_strangles-in-horses",
+      "file": "daut_strangles-in-horses.json",
+      "numQuestions": 28
+    },
+    {
+      "topic": "Equine Herpesvirus_Bonocan",
+      "slug": "equine-herpesvirus_bonocan",
+      "file": "equine-herpesvirus_bonocan.json",
+      "numQuestions": 28
+    },
+    {
+      "topic": "GIMENEZ-West Nile Viruspptx",
+      "slug": "gimenez-west-nile-viruspptx",
+      "file": "gimenez-west-nile-viruspptx.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "Labrador_heart murmur",
+      "slug": "labrador_heart-murmur",
+      "file": "labrador_heart-murmur.json",
+      "numQuestions": 30
+    },
+    {
+      "topic": "LUMAWIG_ JRB._ HEAVES (RAO)",
+      "slug": "lumawig_-jrb_-heaves-rao",
+      "file": "lumawig_-jrb_-heaves-rao.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "MILANA_EQUINE INFLUENZA",
+      "slug": "milana_equine-influenza",
+      "file": "milana_equine-influenza.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "SOMOSOT_EQUINE PROTOZOAL MYELOENCEPHALITIS",
+      "slug": "somosot_equine-protozoal-myeloencephalitis",
+      "file": "somosot_equine-protozoal-myeloencephalitis.json",
       "numQuestions": 20
     }
   ]

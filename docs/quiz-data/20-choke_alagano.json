@@ -1,0 +1,606 @@
+{
+  "topic": "20. Choke_ALAGANO",
+  "slug": "20-choke_alagano",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "In horses, “choke” refers specifically to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obstruction of the trachea by feed material"
+        },
+        {
+          "label": "B",
+          "text": "Partial or complete obstruction of the esophagus by feed or foreign material"
+        },
+        {
+          "label": "C",
+          "text": "Obstruction of the nasal passages by mucus"
+        },
+        {
+          "label": "D",
+          "text": "Spasm of the laryngeal muscles"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In horses, “choke” refers specifically to esophageal obstruction by feed or foreign material, not tracheal obstruction (A) or nasal/laryngeal problems (C, D)."
+    },
+    {
+      "id": 2,
+      "stem": "Why is esophageal obstruction (“choke”) considered a true veterinary emergency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It always causes sudden cardiac arrest"
+        },
+        {
+          "label": "B",
+          "text": "It inevitably leads to laminitis"
+        },
+        {
+          "label": "C",
+          "text": "It carries risks of aspiration pneumonia and esophageal rupture"
+        },
+        {
+          "label": "D",
+          "text": "It is highly contagious between horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Choke is a true emergency because of serious risks such as aspiration pneumonia and possible esophageal rupture. It does not invariably cause cardiac arrest (A), laminitis (B), or contagion (D)."
+    },
+    {
+      "id": 3,
+      "stem": "Which horses are MOST at risk of developing choke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only young foals on milk replacer"
+        },
+        {
+          "label": "B",
+          "text": "Only racehorses in intense training"
+        },
+        {
+          "label": "C",
+          "text": "Horses eating dry/coarse feeds quickly, especially with poor dentition"
+        },
+        {
+          "label": "D",
+          "text": "Horses on pasture only with no supplemental feed"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Horses that bolt dry/coarse feeds (pellets, hay cubes, large vegetable pieces), particularly with poor dentition, are at high risk. It is not confined to foals (A), racehorses (B), or pasture‑only horses (D)."
+    },
+    {
+      "id": 4,
+      "stem": "Regarding signalment, which statement is MOST accurate for choke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only older draft horses are affected"
+        },
+        {
+          "label": "B",
+          "text": "Only miniature horses are affected"
+        },
+        {
+          "label": "C",
+          "text": "Any age and breed can be affected, with higher risk in older horses with dental issues and greedy eaters"
+        },
+        {
+          "label": "D",
+          "text": "Only stallions are affected"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Any breed or age can be affected, but the risk is higher in older horses with poor teeth and in greedy eaters or those with esophageal disease. The other options restrict the condition to specific groups (A, B, D), which is incorrect."
+    },
+    {
+      "id": 5,
+      "stem": "Primary choke is BEST defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Esophageal obstruction due to external compression by a mass"
+        },
+        {
+          "label": "B",
+          "text": "Obstruction caused by a feed bolus or foreign material directly blocking the esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Obstruction secondary to laryngeal paralysis"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction due to congenital vascular ring anomalies"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Primary choke occurs when a feed bolus or foreign object itself obstructs the esophageal lumen. External compression (A), laryngeal paralysis (C), or vascular ring anomalies (D) describe other pathologies."
+    },
+    {
+      "id": 6,
+      "stem": "Secondary choke is typically associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary gastric ulcers"
+        },
+        {
+          "label": "B",
+          "text": "Structural or functional esophageal problems such as strictures, megaesophagus, or tumors"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscesses compressing the trachea"
+        },
+        {
+          "label": "D",
+          "text": "Primary neurologic disease of the spinal cord only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Secondary choke arises from underlying esophageal structural or functional abnormalities (strictures, megaesophagus, tumors), which then predispose to obstruction. Gastric ulcers, lung abscesses, or spinal cord disease (A, C, D) are not typical primary causes."
+    },
+    {
+      "id": 7,
+      "stem": "Which is NOT listed as a common contributing factor to choke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horses eating large, dry, coarse feed pieces quickly"
+        },
+        {
+          "label": "B",
+          "text": "Poor dentition and missing teeth in older horses"
+        },
+        {
+          "label": "C",
+          "text": "Sedation that reduces esophageal motility"
+        },
+        {
+          "label": "D",
+          "text": "Excessive grooming and brushing of the coat"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Rapid intake of large, dry, coarse feeds, poor dentition, and sedation reducing esophageal motility are recognized contributors; grooming (D) is unrelated. Thus D is correctly identified as NOT a factor."
+    },
+    {
+      "id": 8,
+      "stem": "A classic early clinical sign of choke in the horse is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Profuse watery diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Discharge of saliva and feed material from the nostrils or mouth, often green and frothy"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral epistaxis with no swallowing difficulty"
+        },
+        {
+          "label": "D",
+          "text": "Sudden blindness with normal appetite"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Classic choke produces green, frothy saliva and feed material from the nostrils or mouth due to retrograde flow and inability to swallow. Diarrhea (A), pure epistaxis (C), or blindness (D) are not typical."
+    },
+    {
+      "id": 9,
+      "stem": "Which behavior is commonly observed in horses experiencing choke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent head pressing in a corner"
+        },
+        {
+          "label": "B",
+          "text": "Coughing, gagging, repeated attempts to swallow, and stretching or elongating the neck"
+        },
+        {
+          "label": "C",
+          "text": "Constant circling in the stall"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged recumbency without movement"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses with choke often cough, gag, repeatedly attempt to swallow, and extend or stretch the neck in discomfort. Head pressing, circling, or prolonged recumbency (A, C, D) are not characteristic primary signs."
+    },
+    {
+      "id": 10,
+      "stem": "A “visible lump” along the side of the neck in a horse with choke typically represents:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enlarged lymph nodes due to infection"
+        },
+        {
+          "label": "B",
+          "text": "Local muscle hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "The obstructing bolus in the cervical esophagus"
+        },
+        {
+          "label": "D",
+          "text": "Thrombosed jugular vein"
+        }
+      ],
+      "correct": "C",
+      "explanation": "A visible swelling along the cervical esophagus usually corresponds to the obstructing bolus. Enlarged nodes (A), muscle hypertrophy (B), or jugular thrombosis (D) have different appearances and contexts."
+    },
+    {
+      "id": 11,
+      "stem": "Untreated or poorly managed choke can lead to which MAJOR complication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastric volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Aspiration pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Laminitis within hours"
+        },
+        {
+          "label": "D",
+          "text": "Corneal ulcers"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Aspiration pneumonia is a major, potentially life‑threatening complication when feed or saliva enters the lungs. Gastric volvulus (A), immediate laminitis (C), or corneal ulcers (D) are not primary consequences."
+    },
+    {
+      "id": 12,
+      "stem": "Esophageal scarring and strictures after a choke episode are clinically important because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "They permanently prevent swallowing"
+        },
+        {
+          "label": "B",
+          "text": "They predispose the horse to recurrent choke episodes"
+        },
+        {
+          "label": "C",
+          "text": "They cause immediate weight gain"
+        },
+        {
+          "label": "D",
+          "text": "They protect the esophagus from future damage"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Post‑obstruction scarring and strictures narrow the lumen, making future obstructions more likely. They do not necessarily cause total permanent dysphagia (A), weight gain (C), or protection (D)."
+    },
+    {
+      "id": 13,
+      "stem": "The initial diagnosis of choke is primarily based on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "History and characteristic clinical signs confirmed by veterinary physical examination"
+        },
+        {
+          "label": "B",
+          "text": "Fecal flotation and culture"
+        },
+        {
+          "label": "C",
+          "text": "Lung biopsy and bronchoscopy"
+        },
+        {
+          "label": "D",
+          "text": "Only radiographs of the abdomen"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Diagnosis is usually made from history plus classic clinical signs and physical exam findings localizing the obstruction. Fecal tests, lung biopsy, or abdominal radiographs alone (B–D) are inadequate or unrelated."
+    },
+    {
+      "id": 14,
+      "stem": "Which diagnostic tools may be used to further characterize an esophageal obstruction in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endoscopy via the nose into the esophagus and radiography"
+        },
+        {
+          "label": "B",
+          "text": "CT scanning of the head only"
+        },
+        {
+          "label": "C",
+          "text": "Arthroscopy of the limb joints"
+        },
+        {
+          "label": "D",
+          "text": "Gastroscopy of the stomach only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Endoscopy through the nose into the esophagus and radiography can help confirm and characterize the obstruction. CT, arthroscopy, or gastroscopy alone (B–D) are not primary tools for choke evaluation."
+    },
+    {
+      "id": 15,
+      "stem": "As an immediate emergency step when choke is suspected, owners should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offer water and soaked feed to help “wash down” the obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Keep the horse eating to stimulate esophageal motility"
+        },
+        {
+          "label": "C",
+          "text": "Call a veterinarian immediately, withhold food and water, and remove any feed from the mouth"
+        },
+        {
+          "label": "D",
+          "text": "Administer oral mineral oil without veterinary advice"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Owners should contact a veterinarian immediately, withhold food and water, remove visible feed from the mouth, and keep the horse calm. Encouraging eating/drinking (A, B) or administering unprescribed oral agents (D) may worsen the situation."
+    },
+    {
+      "id": 16,
+      "stem": "Why should horses with choke not be allowed to drink or eat until evaluated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases the chance of the obstruction moving upward"
+        },
+        {
+          "label": "B",
+          "text": "It can worsen the obstruction and increase the risk of aspiration pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "It has no effect on outcome"
+        },
+        {
+          "label": "D",
+          "text": "It causes esophageal hypothermia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Allowing feed or water can increase the size of the bolus and greatly raises the risk of aspiration pneumonia if material spills into the trachea. It does not reliably “float” the obstruction away (A)."
+    },
+    {
+      "id": 17,
+      "stem": "Gentle massage along the jugular furrow toward the heart in a choke case is intended to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Move the obstruction caudally in the esophagus"
+        },
+        {
+          "label": "B",
+          "text": "Stimulate carotid baroreceptors"
+        },
+        {
+          "label": "C",
+          "text": "Increase heart rate and blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Remove gas from the rumen"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Gentle downward massage along the jugular furrow may help move the obstructing bolus caudally toward the stomach. It is not intended to alter baroreceptors, cardiovascular parameters, or rumen gas (B–D)."
+    },
+    {
+      "id": 18,
+      "stem": "Pharmacologic management of choke may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muscle relaxants/antispasmodics such as N‑butylscopolammonium bromide to aid esophageal motility"
+        },
+        {
+          "label": "B",
+          "text": "Only diuretics to reduce edema"
+        },
+        {
+          "label": "C",
+          "text": "High‑dose corticosteroids as the sole therapy"
+        },
+        {
+          "label": "D",
+          "text": "Anthelmintics to paralyze parasites"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Antispasmodics such as N‑butylscopolammonium bromide are used to relax the esophagus and facilitate passage of the obstruction. Diuretics, sole corticosteroid use, or dewormers (B–D) are not mainstays of choke treatment."
+    },
+    {
+      "id": 19,
+      "stem": "Esophageal flushing in choke treatment is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid high‑pressure water lavage without sedation"
+        },
+        {
+          "label": "B",
+          "text": "Careful irrigation of the esophagus under sedation using a stomach tube and controlled fluid flow"
+        },
+        {
+          "label": "C",
+          "text": "Use of compressed air to blow out the obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Surgical removal of the esophagus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Esophageal flushing is a controlled, low‑pressure irrigation of the esophagus under sedation, typically via a stomach tube, to gradually break up and move the obstruction. High‑pressure lavage, compressed air, or esophagectomy (A, C, D) are unsafe or inappropriate."
+    },
+    {
+      "id": 20,
+      "stem": "Surgical intervention (e.g., esophagostomy) for choke in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Routine first‑line therapy"
+        },
+        {
+          "label": "B",
+          "text": "Rare and reserved for refractory or complicated cases"
+        },
+        {
+          "label": "C",
+          "text": "Contraindicated in all horses"
+        },
+        {
+          "label": "D",
+          "text": "Used only for foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Surgery is rarely needed and reserved for refractory cases, complications, or specific structural problems. It is not routine first‑line (A) and is not absolutely contraindicated (C)."
+    },
+    {
+      "id": 21,
+      "stem": "Which medications are commonly used as adjuncts in the management of choke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NSAIDs for pain and inflammation, antibiotics if aspiration or mucosal damage is suspected, and sedatives to calm the horse"
+        },
+        {
+          "label": "B",
+          "text": "Only topical ointments applied to the neck"
+        },
+        {
+          "label": "C",
+          "text": "High‑dose oral electrolytes only"
+        },
+        {
+          "label": "D",
+          "text": "Long‑term diuretic therapy alone"
+        }
+      ],
+      "correct": "A",
+      "explanation": "NSAIDs manage pain and inflammation, antibiotics are used when aspiration or mucosal injury is suspected, and sedatives allow safe handling and treatment. Topicals, electrolytes, or diuretics alone (B–D) do not address the core issues."
+    },
+    {
+      "id": 22,
+      "stem": "After the obstruction has been cleared, appropriate recovery and follow‑up care include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate return to dry pellets and unrestricted exercise"
+        },
+        {
+          "label": "B",
+          "text": "Short period of fasting followed by easy‑to‑chew or soaked feeds while the esophagus heals, with monitoring for signs of aspiration pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Only pasture grass and no monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Forced exercise to prevent re‑obstruction"
+        }
+      ],
+      "correct": "B",
+      "explanation": "After clearance, horses should receive easily swallowed, soaked or soft feeds while the esophagus heals and be monitored for aspiration pneumonia. Abrupt return to dry feeds and intense exercise (A), pasture only with no monitoring (C), or forced exercise (D) are inappropriate."
+    },
+    {
+      "id": 23,
+      "stem": "Which preventive strategy helps reduce the risk of choke in horses receiving dry feeds such as pellets or hay cubes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avoid soaking feeds to maintain texture"
+        },
+        {
+          "label": "B",
+          "text": "Soak dry feeds so they are softer and easier to swallow"
+        },
+        {
+          "label": "C",
+          "text": "Provide only straw bedding for roughage"
+        },
+        {
+          "label": "D",
+          "text": "Restrict water before and after feeding"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Soaking pellets, beet pulp, and hay cubes softens them, making them safer to swallow and less likely to lodge. Avoiding soaking (A), using straw (C), or restricting water (D) can increase risk."
+    },
+    {
+      "id": 24,
+      "stem": "Regular dental care helps prevent choke primarily by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whitening the horse’s teeth"
+        },
+        {
+          "label": "B",
+          "text": "Ensuring efficient chewing and reduction of large, poorly chewed feed boluses"
+        },
+        {
+          "label": "C",
+          "text": "Preventing gum infections only"
+        },
+        {
+          "label": "D",
+          "text": "Increasing saliva production regardless of chewing"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Proper dental care improves mastication and reduces large, poorly chewed feed boluses that can cause obstruction. Cosmetic changes or gum infection prevention alone (A, C) are not the key antichoke benefits."
+    },
+    {
+      "id": 25,
+      "stem": "For known “fast eaters” or horses with a history of choke, which management changes are recommended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Feeding large meals once daily in a small bucket"
+        },
+        {
+          "label": "B",
+          "text": "Slowing intake by adding rocks or salt blocks to the feed pan, using hay nets, spreading forage, reducing competition, and feeding at natural head height"
+        },
+        {
+          "label": "C",
+          "text": "Withholding forage entirely"
+        },
+        {
+          "label": "D",
+          "text": "Feeding in a high‑mounted manger to speed swallowing"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Slowing intake with rocks or salt blocks in the pan, using hay nets, spreading forage, reducing competition, feeding at ground level/natural posture, and consulting a nutritionist are all recommended. Large single meals (A), removing forage (C), or high mangers (D) are counterproductive."
+    }
+  ]
+}

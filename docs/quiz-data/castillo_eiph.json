@@ -1,0 +1,678 @@
+{
+  "topic": "Castillo_EIPH",
+  "slug": "castillo_eiph",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Exercise-induced pulmonary hemorrhage (EIPH) in horses is BEST defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Any cause of nasal bleeding in horses at rest"
+        },
+        {
+          "label": "B",
+          "text": "Detection of blood within the airways of horses following strenuous exercise"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema due to heart failure at rest"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhage confined to the pleural space after trauma"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EIPH is defined as the presence of blood in the airways of horses after strenuous exercise, not just any nasal bleeding at rest. Pulmonary edema, pleural hemorrhage, or trauma (C, D) have different definitions."
+    },
+    {
+      "id": 2,
+      "stem": "EIPH is MOST commonly recognized in which types of horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only broodmares kept on pasture"
+        },
+        {
+          "label": "B",
+          "text": "Racehorses, polo horses, barrel racers, and eventing horses that perform intense exercise"
+        },
+        {
+          "label": "C",
+          "text": "Only foals during weaning"
+        },
+        {
+          "label": "D",
+          "text": "Draft horses used for light work"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EIPH is most commonly observed in horses engaged in high-intensity disciplines such as racing, polo, barrel racing, and eventing. Pasture broodmares, foals at weaning, or lightly worked drafts (A, C, D) are not the primary risk groups."
+    },
+    {
+      "id": 3,
+      "stem": "Overt epistaxis (“bleeder”) associated with EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very common, occurring in most cases"
+        },
+        {
+          "label": "B",
+          "text": "Rare, seen in only about 5% of affected horses"
+        },
+        {
+          "label": "C",
+          "text": "Only seen in foals"
+        },
+        {
+          "label": "D",
+          "text": "Not related to EIPH at all"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Overt epistaxis occurs in only about 5% of horses with EIPH, making it a relatively rare but dramatic sign. It is therefore not typical of all EIPH cases (A, C, D)."
+    },
+    {
+      "id": 4,
+      "stem": "The primary pathophysiologic mechanism underlying EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immune-mediated vasculitis in pulmonary arteries"
+        },
+        {
+          "label": "B",
+          "text": "Stress failure of pulmonary capillaries due to extreme transmural pressures during intense exercise"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial infection of alveolar walls"
+        },
+        {
+          "label": "D",
+          "text": "Allergic inflammation of the bronchi"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The central mechanism is stress failure of pulmonary capillary walls caused by extreme transmural pressure differences during intense exercise. Immune-mediated or infectious etiologies (A, C, D) do not explain typical EIPH."
+    },
+    {
+      "id": 5,
+      "stem": "Which combination of pressures contributes to capillary wall stress and rupture in EIPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased pulmonary vascular pressure and increased alveolar pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased pulmonary vascular (arterial and venous) pressures plus negative alveolar pressure"
+        },
+        {
+          "label": "C",
+          "text": "Constant, normal vascular and alveolar pressures"
+        },
+        {
+          "label": "D",
+          "text": "Only systemic arterial hypertension"
+        }
+      ],
+      "correct": "B",
+      "explanation": "High pulmonary vascular (arterial and venous) pressures combined with markedly negative alveolar pressures increase capillary wall stress to the point of rupture. The other options describe pressure states that do not match the described pathophysiology."
+    },
+    {
+      "id": 6,
+      "stem": "Where in the lungs are EIPH lesions most commonly found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cranioventral lung lobes"
+        },
+        {
+          "label": "B",
+          "text": "Caudodorsal lung lobes"
+        },
+        {
+          "label": "C",
+          "text": "Right middle lung lobe only"
+        },
+        {
+          "label": "D",
+          "text": "Uniformly throughout all lung fields"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Lesions are predominantly localized in the caudodorsal lung lobes, where blood flow is highest during intense exercise. Cranioventral or uniform distribution (A, D) is more typical of other diseases (e.g., pneumonia)."
+    },
+    {
+      "id": 7,
+      "stem": "Chronic, repeated episodes of EIPH can lead to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Progressive emphysema only"
+        },
+        {
+          "label": "B",
+          "text": "Venous remodeling, fibrosis, inflammation, reduced pulmonary compliance, and permanent lung damage"
+        },
+        {
+          "label": "C",
+          "text": "Complete lung regeneration with no residual lesions"
+        },
+        {
+          "label": "D",
+          "text": "Exclusively pleural thickening"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Chronic EIPH leads to venous remodeling, fibrosis, inflammation, and reduced pulmonary compliance, causing irreversible changes. Pure emphysema, perfect regeneration, or only pleural thickening (A, C, D) are not emphasized."
+    },
+    {
+      "id": 8,
+      "stem": "Which of the following is a recognized contributing factor that may exacerbate EIPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperthyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Upper airway obstruction such as dorsal displacement of the soft palate or laryngeal paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Hypothermia during rest"
+        },
+        {
+          "label": "D",
+          "text": "Feeding high-fiber hay"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Upper airway obstructions (dorsal soft palate displacement, laryngeal paralysis), cardiac dysfunction, cold temperatures, and heritable factors can contribute to EIPH. Hyperthyroidism, rest hypothermia, or diet alone (A, C, D) are not primary listed factors."
+    },
+    {
+      "id": 9,
+      "stem": "Which of the following clinical signs indicates a SEVERE case of EIPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild cough after light exercise"
+        },
+        {
+          "label": "B",
+          "text": "Epistaxis with visible blood at the nostrils, corresponding to Grade 4 EIPH"
+        },
+        {
+          "label": "C",
+          "text": "Slight nasal discharge after feeding"
+        },
+        {
+          "label": "D",
+          "text": "Subtle weight loss over months"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Visible bleeding at the nostrils (epistaxis) is associated with severe EIPH (Grade 4) and is a hallmark of a serious episode. Mild cough or nasal discharge from other causes (A, C) are not specific."
+    },
+    {
+      "id": 10,
+      "stem": "Subclinical EIPH may present primarily as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal athletic performance with no abnormalities"
+        },
+        {
+          "label": "B",
+          "text": "Decreased endurance and prolonged recovery time after exercise without visible epistaxis"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent colic after exercise"
+        },
+        {
+          "label": "D",
+          "text": "Severe dyspnea at rest"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Subclinical EIPH often manifests as reduced stamina and prolonged recovery post-exercise, without obvious blood at the nostrils. Normal performance, colic, or rest dyspnea (A, C, D) are not typical."
+    },
+    {
+      "id": 11,
+      "stem": "A characteristic post-mortem finding in horses with EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diffuse pulmonary abscessation"
+        },
+        {
+          "label": "B",
+          "text": "Hemosiderin deposits and fibrotic lesions in the caudodorsal lung lobes"
+        },
+        {
+          "label": "C",
+          "text": "Tracheal collapse"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusion only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Post-mortem, EIPH is characterized by hemosiderin-laden macrophages and fibrotic lesions especially in caudodorsal lung regions. Abscesses, tracheal collapse, or pleural effusion alone (A, C, D) do not define EIPH."
+    },
+    {
+      "id": 12,
+      "stem": "What is considered the gold standard diagnostic method for EIPH in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoracic radiography"
+        },
+        {
+          "label": "B",
+          "text": "Endoscopy of the upper and lower airways performed 30–120 minutes post-exercise"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoscopy at rest only"
+        },
+        {
+          "label": "D",
+          "text": "Arterial blood gas analysis at rest"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Endoscopy 30–120 minutes after intense exercise is the gold standard diagnostic tool, allowing direct visualization and grading of tracheobronchial bleeding. Radiographs or blood gases (A, D) are less sensitive and specific."
+    },
+    {
+      "id": 13,
+      "stem": "The standard endoscopic grading system for EIPH evaluates:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Degree of pulmonary edema"
+        },
+        {
+          "label": "B",
+          "text": "Amount of tracheal bleeding from Grade 0 (none) to Grade 4 (extensive pooling and coverage)"
+        },
+        {
+          "label": "C",
+          "text": "Presence of bronchospasm"
+        },
+        {
+          "label": "D",
+          "text": "Volume of nasal discharge"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The standard grading (0–4) assesses the amount and distribution of blood in the trachea, from none (0) to pooling and near-complete coverage (4). Edema, bronchospasm, or nasal discharge (A, C, D) are not directly graded."
+    },
+    {
+      "id": 14,
+      "stem": "Bronchoalveolar lavage (BAL) in EIPH is used primarily to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measure CO2 retention during exercise"
+        },
+        {
+          "label": "B",
+          "text": "Confirm the presence of red blood cells and hemosiderophages in lower airway samples"
+        },
+        {
+          "label": "C",
+          "text": "Diagnose bacterial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Detect laryngeal paralysis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "BAL is used to demonstrate RBCs and hemosiderophages, helping confirm EIPH even when endoscopy is negative or delayed. It does not primarily test CO2, pneumonia, or laryngeal disease (A, C, D)."
+    },
+    {
+      "id": 15,
+      "stem": "Which diagnostic techniques have limited value for diagnosing EIPH but may show caudodorsal lung opacities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radiography and ultrasonography"
+        },
+        {
+          "label": "B",
+          "text": "CT and MRI scans"
+        },
+        {
+          "label": "C",
+          "text": "Echocardiography only"
+        },
+        {
+          "label": "D",
+          "text": "Skin biopsy"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Thoracic radiography and ultrasound have limited sensitivity/specificity for EIPH but may show caudodorsal opacities. Advanced imaging, echocardiography, or skin biopsies (B–D) are not routine for this purpose."
+    },
+    {
+      "id": 16,
+      "stem": "Which conditions are important DIFFERENTIAL diagnoses for epistaxis in performance horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Colic and laminitis"
+        },
+        {
+          "label": "B",
+          "text": "Ethmoid hematoma, guttural pouch mycosis, fungal granuloma, and pulmonary abscess or neoplasia"
+        },
+        {
+          "label": "C",
+          "text": "Gastric ulcer disease only"
+        },
+        {
+          "label": "D",
+          "text": "Tendon injuries"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Important differentials for epistaxis and airway bleeding include ethmoid hematoma, guttural pouch mycosis, fungal granuloma, and pulmonary abscess or neoplasia. Colic or tendon injuries (A, D) are unrelated."
+    },
+    {
+      "id": 17,
+      "stem": "Horses with Grade ≥2 EIPH are how likely to perform compared to unaffected horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Performance is unaffected by EIPH severity"
+        },
+        {
+          "label": "B",
+          "text": "They are about 4× less likely to win and 2× less likely to place in the top three"
+        },
+        {
+          "label": "C",
+          "text": "They always win more races"
+        },
+        {
+          "label": "D",
+          "text": "They are only slightly less likely to finish a race"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Data indicate that horses with Grade ≥2 EIPH are about four times less likely to win and twice less likely to place in the top three, demonstrating significant impact on performance. Saying performance is unaffected (A) is incorrect."
+    },
+    {
+      "id": 18,
+      "stem": "Which of the following is a recognized RISK FACTOR for EIPH in racehorses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low exercise intensity"
+        },
+        {
+          "label": "B",
+          "text": "Higher exercise intensity and cumulative racing volume, steeplechasing/hurdling, male sex, age, and cold ambient temperatures"
+        },
+        {
+          "label": "C",
+          "text": "Only being a female horse"
+        },
+        {
+          "label": "D",
+          "text": "Pasture turnout with minimal exercise"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Higher speed/intensity, racing versus training, greater cumulative racing volume, steeplechasing/hurdling, male sex, age, and cold temperatures all increase risk. Low intensity or pasture rest (A, D) decrease risk."
+    },
+    {
+      "id": 19,
+      "stem": "Furosemide (Lasix) is used in EIPH management primarily because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acts as an antibiotic targeting respiratory bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Is a loop diuretic that reduces blood volume and pulmonary pressures, with bronchodilatory and venodilatory effects"
+        },
+        {
+          "label": "C",
+          "text": "Increases coagulation factors in the blood"
+        },
+        {
+          "label": "D",
+          "text": "Completely cures EIPH permanently"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Furosemide is a loop diuretic that reduces blood volume and pulmonary vascular pressures and has broncho- and venodilatory effects, lowering capillary rupture risk. It is not an antibiotic or a cure (A, D)."
+    },
+    {
+      "id": 20,
+      "stem": "An appropriate dosing regimen for furosemide in horses to reduce EIPH severity is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.05 mg/kg PO 24 hours before exercise"
+        },
+        {
+          "label": "B",
+          "text": "0.5–1 mg/kg IV given 2–4 hours prior to strenuous exercise"
+        },
+        {
+          "label": "C",
+          "text": "5 mg/kg SQ once monthly"
+        },
+        {
+          "label": "D",
+          "text": "10 mg/kg IM at the start gate"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A typical regimen is 0.5–1 mg/kg IV administered 2–4 hours before strenuous exercise. The other dosages and routes do not match recommended practice."
+    },
+    {
+      "id": 21,
+      "stem": "Regulatory considerations for furosemide use in EIPH include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is banned worldwide in all equestrian disciplines"
+        },
+        {
+          "label": "B",
+          "text": "It is banned in many racing jurisdictions such as the UK but allowed under regulation in the U.S."
+        },
+        {
+          "label": "C",
+          "text": "It is freely permitted without restriction in all racing jurisdictions"
+        },
+        {
+          "label": "D",
+          "text": "It is only used in endurance rides"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Furosemide is banned prior to racing in several countries (e.g., the UK), while it is permitted under certain regulations in the U.S., making its legal status jurisdiction-dependent. It is neither universally banned nor universally allowed (A, C)."
+    },
+    {
+      "id": 22,
+      "stem": "Nasal strips are used in EIPH management primarily to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase nasal resistance and improve lung conditioning"
+        },
+        {
+          "label": "B",
+          "text": "Prevent dynamic collapse of upper airways and reduce negative alveolar pressure during high-intensity exercise"
+        },
+        {
+          "label": "C",
+          "text": "Deliver medications directly to the lungs"
+        },
+        {
+          "label": "D",
+          "text": "Diagnose EIPH"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Nasal strips help prevent dynamic upper airway collapse, which reduces negative alveolar pressure and potentially mitigates EIPH. They do not increase resistance or deliver drugs (A, C)."
+    },
+    {
+      "id": 23,
+      "stem": "Evidence regarding the effectiveness of nasal strips in reducing EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strong and universally conclusive"
+        },
+        {
+          "label": "B",
+          "text": "Mixed, with some studies showing decreased RBCs in BALF and others showing no significant difference"
+        },
+        {
+          "label": "C",
+          "text": "Nonexistent"
+        },
+        {
+          "label": "D",
+          "text": "Only based on in vitro data"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Research on nasal strips is mixed; some studies show reduced RBCs in BALF, while others show minimal or no benefit, so the evidence is not unequivocal. Thus, options A, C, and D are incorrect."
+    },
+    {
+      "id": 24,
+      "stem": "Which medications have NOT shown proven benefit in managing EIPH according to the presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Procoagulants such as vitamin K, aminocaproic acid, estrogens, and vasodilators like pentoxifylline or sildenafil"
+        },
+        {
+          "label": "B",
+          "text": "Furosemide and corticosteroids for concurrent airway inflammation"
+        },
+        {
+          "label": "C",
+          "text": "NSAIDs for pain control"
+        },
+        {
+          "label": "D",
+          "text": "Bronchodilators for airway obstruction"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Procoagulants and various vasodilators have not shown clear benefit because coagulation disorders and primary vasoconstriction are not central to EIPH. Furosemide and steroids for concurrent disease (B) are commonly used."
+    },
+    {
+      "id": 25,
+      "stem": "The MOST effective non-pharmacologic management strategy to reduce progression of EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing race frequency without rest"
+        },
+        {
+          "label": "B",
+          "text": "Resting the horse and reducing exposure to strenuous exercise"
+        },
+        {
+          "label": "C",
+          "text": "Restricting water intake before exercise"
+        },
+        {
+          "label": "D",
+          "text": "Feeding high-fat diets"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rest and reduction of intense exercise are the most effective nonpharmacologic measures to allow healing and prevent progression, even if unpopular in racing. Increasing race frequency (A) or restricting water (C) are detrimental."
+    },
+    {
+      "id": 26,
+      "stem": "Additional management recommendations for horses with EIPH include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring air quality and concurrent diseases"
+        },
+        {
+          "label": "B",
+          "text": "Improving air hygiene (reducing dust, mold, ammonia) and treating concurrent cardiac or airway diseases"
+        },
+        {
+          "label": "C",
+          "text": "Restricting all turnout and keeping horses strictly stalled"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding any diagnostics after an episode"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Good management includes optimizing air quality and addressing concurrent cardiac and airway diseases, which can exacerbate EIPH. Ignoring these factors or over-restricting turnout (A, C) is inappropriate."
+    },
+    {
+      "id": 27,
+      "stem": "The general prognosis for horses with MILD EIPH is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor; most must be retired immediately"
+        },
+        {
+          "label": "B",
+          "text": "Fair to good with appropriate management and performance modification"
+        },
+        {
+          "label": "C",
+          "text": "Always fatal"
+        },
+        {
+          "label": "D",
+          "text": "Unrelated to performance"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Mild EIPH often has a fair to good prognosis with appropriate management, and many horses can continue to perform with adjustments. It is not uniformly fatal or irrelevant (A, C, D)."
+    },
+    {
+      "id": 28,
+      "stem": "In SEVERE EIPH cases (e.g., Grade 4) that continue strenuous activity, the prognosis is characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal lung function and career longevity"
+        },
+        {
+          "label": "B",
+          "text": "Progressive fibrosis, reduced pulmonary compliance, fewer lifetime starts, lower earnings, shorter careers, and common recurrence"
+        },
+        {
+          "label": "C",
+          "text": "Improved racing performance over time"
+        },
+        {
+          "label": "D",
+          "text": "Complete resolution without long-term changes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Severe EIPH is associated with progressive fibrosis, decreased compliance, reduced starts and earnings, shorter careers, and a high likelihood of recurrence if heavy exercise continues. Normal function or improved performance (A, C) are not expected."
+    }
+  ]
+}

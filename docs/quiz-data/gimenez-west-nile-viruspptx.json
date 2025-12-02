@@ -1,0 +1,486 @@
+{
+  "topic": "GIMENEZ-West Nile Viruspptx",
+  "slug": "gimenez-west-nile-viruspptx",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "West Nile virus is a member of which virus family?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retroviridae"
+        },
+        {
+          "label": "B",
+          "text": "Flaviviridae"
+        },
+        {
+          "label": "C",
+          "text": "Herpesviridae"
+        },
+        {
+          "label": "D",
+          "text": "Paramyxoviridae"
+        }
+      ],
+      "correct": "B",
+      "explanation": "West Nile virus is a member of the family Flaviviridae, from the genus Orthoflavivirus. Retroviridae (A), Herpesviridae (C), and Paramyxoviridae (D) are not correct."
+    },
+    {
+      "id": 2,
+      "stem": "West Nile virus is primarily transmitted by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ticks"
+        },
+        {
+          "label": "B",
+          "text": "Mosquitoes, mostly species of Culex"
+        },
+        {
+          "label": "C",
+          "text": "Direct contact between horses"
+        },
+        {
+          "label": "D",
+          "text": "Contaminated feed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "West Nile virus is primarily transmitted by mosquitoes, mostly species of Culex. Ticks (A), direct contact (C), and contaminated feed (D) are not the primary transmission routes."
+    },
+    {
+      "id": 3,
+      "stem": "West Nile virus was first isolated in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Nile River region of Egypt"
+        },
+        {
+          "label": "B",
+          "text": "The West Nile district of Uganda"
+        },
+        {
+          "label": "C",
+          "text": "West Africa"
+        },
+        {
+          "label": "D",
+          "text": "The Middle East"
+        }
+      ],
+      "correct": "B",
+      "explanation": "West Nile virus was first isolated in the West Nile district of Uganda. It was not named directly after the Nile River (A), West Africa (C), or the Middle East (D)."
+    },
+    {
+      "id": 4,
+      "stem": "West Nile virus causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory disease only"
+        },
+        {
+          "label": "B",
+          "text": "Encephalomyelitis (inflammation of the brain and/or spinal cord)"
+        },
+        {
+          "label": "C",
+          "text": "Gastrointestinal disease"
+        },
+        {
+          "label": "D",
+          "text": "Skin lesions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "West Nile virus causes encephalomyelitis, which is inflammation of the brain and/or spinal cord, characterized by central nervous system dysfunction. Respiratory disease (A), gastrointestinal disease (C), and skin lesions (D) are not the primary manifestations."
+    },
+    {
+      "id": 5,
+      "stem": "The morbidity rate for West Nile virus in horses is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The morbidity rate for West Nile virus in horses is approximately 10%. Lower rates (A, B) or higher rates (D) are not accurate."
+    },
+    {
+      "id": 6,
+      "stem": "The mortality rate for West Nile virus in horses is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "75%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The mortality rate for West Nile virus in horses is approximately 50%. Lower rates (A, B) or higher rates (D) are not accurate."
+    },
+    {
+      "id": 7,
+      "stem": "Which horses are MOST susceptible to severe West Nile virus disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Young foals"
+        },
+        {
+          "label": "B",
+          "text": "Older horses and unvaccinated horses"
+        },
+        {
+          "label": "C",
+          "text": "Pregnant mares"
+        },
+        {
+          "label": "D",
+          "text": "All horses equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Older horses and unvaccinated horses develop more severe disease. Young foals (A), pregnant mares (C), or equal susceptibility (D) are not the most susceptible groups."
+    },
+    {
+      "id": 8,
+      "stem": "Early clinical signs of West Nile virus may include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discomfort or anxiety"
+        },
+        {
+          "label": "B",
+          "text": "Lameness"
+        },
+        {
+          "label": "C",
+          "text": "Low-grade fever or malaise"
+        },
+        {
+          "label": "D",
+          "text": "Profuse diarrhea"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse diarrhea is not a typical early sign of West Nile virus. Discomfort or anxiety (A), lameness (B), and low-grade fever or malaise (C) are early signs."
+    },
+    {
+      "id": 9,
+      "stem": "Neurologic signs of West Nile virus include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muzzle twitching and impaired vision"
+        },
+        {
+          "label": "B",
+          "text": "Aimless wandering and head pressing"
+        },
+        {
+          "label": "C",
+          "text": "Inability to swallow and irregular gait"
+        },
+        {
+          "label": "D",
+          "text": "Seizures and convulsions"
+        }
+      ],
+      "correct": "D",
+      "explanation": "While convulsions can occur, seizures are not listed among the typical neurologic signs. Muzzle twitching and impaired vision (A), aimless wandering and head pressing (B), and inability to swallow and irregular gait (C) are typical neurologic signs."
+    },
+    {
+      "id": 10,
+      "stem": "The gold standard diagnostic test for West Nile virus is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "B",
+          "text": "Serology for IgG antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Detection of IgM antibody by ELISA or PCR from tissue"
+        },
+        {
+          "label": "D",
+          "text": "Radiography"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Diagnosis is made through detection of IgM antibody by ELISA or PCR from tissue. CBC (A) and IgG serology (B) are not the gold standard, and radiography (D) is not diagnostic."
+    },
+    {
+      "id": 11,
+      "stem": "Treatment for West Nile virus primarily consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antiviral medications"
+        },
+        {
+          "label": "B",
+          "text": "Supportive care, anti-inflammatory and pain medications"
+        },
+        {
+          "label": "C",
+          "text": "High-dose corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Antibiotics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment primarily consists of supportive care, anti-inflammatory and pain medications. Antivirals (A), corticosteroids (C), and antibiotics (D) are not the primary treatment approach."
+    },
+    {
+      "id": 12,
+      "stem": "Serum and plasma products containing antibodies for West Nile virus:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Are highly effective"
+        },
+        {
+          "label": "B",
+          "text": "Have no evidence of effectiveness"
+        },
+        {
+          "label": "C",
+          "text": "Are the treatment of choice"
+        },
+        {
+          "label": "D",
+          "text": "Are contraindicated"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Serum and plasma products containing antibodies have no evidence of effectiveness. They are not highly effective (A), the treatment of choice (C), or contraindicated (D)."
+    },
+    {
+      "id": 13,
+      "stem": "Most horses that recover from West Nile virus return to normal functioning within:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "1–6 months"
+        },
+        {
+          "label": "C",
+          "text": "6–12 months"
+        },
+        {
+          "label": "D",
+          "text": "1–2 years"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Most horses that recover from West Nile virus return to normal functioning within 1 to 6 months. Shorter (A) or longer periods (C, D) are not typical."
+    },
+    {
+      "id": 14,
+      "stem": "Prevention of West Nile virus includes all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccination"
+        },
+        {
+          "label": "B",
+          "text": "Turning horses in at dusk and dawn when mosquitoes are most active"
+        },
+        {
+          "label": "C",
+          "text": "Keeping farms free of water-holding containers"
+        },
+        {
+          "label": "D",
+          "text": "Administering prophylactic antibiotics"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Administering prophylactic antibiotics is not a prevention measure for West Nile virus. Vaccination (A), turning horses in at dusk and dawn (B), and eliminating breeding sites (C) are prevention measures."
+    },
+    {
+      "id": 15,
+      "stem": "Mosquitoes are most actively feeding during:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Midday hours"
+        },
+        {
+          "label": "B",
+          "text": "Dusk and dawn"
+        },
+        {
+          "label": "C",
+          "text": "Midnight hours"
+        },
+        {
+          "label": "D",
+          "text": "All times equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Mosquitoes are most actively feeding during dusk and dawn. Midday (A), midnight (C), or all times equally (D) are not when mosquitoes are most active."
+    },
+    {
+      "id": 16,
+      "stem": "Water-holding containers that can serve as mosquito breeding sites include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Old tires, barrels, buckets, tubs, and wheelbarrows"
+        },
+        {
+          "label": "B",
+          "text": "Only natural ponds"
+        },
+        {
+          "label": "C",
+          "text": "Only artificial containers"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Water-holding containers that can serve as mosquito breeding sites include old tires, barrels, buckets, tubs, and wheelbarrows. Only natural ponds (B), only artificial containers (C), or none (D) are not accurate."
+    },
+    {
+      "id": 17,
+      "stem": "In humans, West Nile virus infection is asymptomatic in approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "20% of cases"
+        },
+        {
+          "label": "B",
+          "text": "50% of cases"
+        },
+        {
+          "label": "C",
+          "text": "80% of cases"
+        },
+        {
+          "label": "D",
+          "text": "100% of cases"
+        }
+      ],
+      "correct": "C",
+      "explanation": "In humans, West Nile virus infection is asymptomatic in approximately 80% of cases. Lower percentages (A, B) or 100% (D) are not accurate."
+    },
+    {
+      "id": 18,
+      "stem": "Neurological disease develops in less than what percentage of human West Nile virus infections?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.1%"
+        },
+        {
+          "label": "B",
+          "text": "1%"
+        },
+        {
+          "label": "C",
+          "text": "5%"
+        },
+        {
+          "label": "D",
+          "text": "10%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Neurological disease develops in less than 1% of human West Nile virus infections. Lower (A) or higher percentages (C, D) are not accurate."
+    },
+    {
+      "id": 19,
+      "stem": "Case fatality in humans with neurological West Nile virus disease may be as high as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "10%"
+        },
+        {
+          "label": "C",
+          "text": "20%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Case fatality in humans with neurological West Nile virus disease may be as high as 20%. Lower rates (A, B) or higher rates (D) are not accurate."
+    },
+    {
+      "id": 20,
+      "stem": "West Nile virus has been called \"Near Eastern equine encephalitis\" or \"lordige\" in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uganda"
+        },
+        {
+          "label": "B",
+          "text": "France"
+        },
+        {
+          "label": "C",
+          "text": "Egypt"
+        },
+        {
+          "label": "D",
+          "text": "The United States"
+        }
+      ],
+      "correct": "B",
+      "explanation": "West Nile virus has been called \"Near Eastern equine encephalitis\" or \"lordige\" in France. Uganda (A), Egypt (C), and the United States (D) are not where these names were used."
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "topic": "CRUZ_EQUINE RABIES",
+  "slug": "cruz_equine-rabies",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Rabies in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A chronic gastrointestinal disease caused by bacteria"
+        },
+        {
+          "label": "B",
+          "text": "An acute, progressive, almost invariably fatal viral disease of the CNS"
+        },
+        {
+          "label": "C",
+          "text": "A self-limiting respiratory disease"
+        },
+        {
+          "label": "D",
+          "text": "A nonfatal skin infection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rabies is an acute, progressive, and almost invariably fatal viral disease affecting the CNS of all warm-blooded animals, including horses. It is not a chronic GI or skin disease (A, D), nor self-limiting (C)."
+    },
+    {
+      "id": 2,
+      "stem": "The causative agent of rabies belongs to which genus and family?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coronavirus, Coronaviridae"
+        },
+        {
+          "label": "B",
+          "text": "Lyssavirus, Rhabdoviridae"
+        },
+        {
+          "label": "C",
+          "text": "Herpesvirus, Herpesviridae"
+        },
+        {
+          "label": "D",
+          "text": "Orthomyxovirus, Orthomyxoviridae"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The rabies virus is a Lyssavirus in the family Rhabdoviridae. The other virus families listed (A, C, D) cause different diseases."
+    },
+    {
+      "id": 3,
+      "stem": "A key characteristic of the rabies virus is that it is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A double-stranded DNA virus that targets the liver"
+        },
+        {
+          "label": "B",
+          "text": "A single-stranded RNA virus that is neurotropic and travels along peripheral nerves to the brain"
+        },
+        {
+          "label": "C",
+          "text": "A retrovirus that integrates into host DNA"
+        },
+        {
+          "label": "D",
+          "text": "A segmented virus that infects only the lungs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rabies virus is a single-stranded RNA virus with neurotropic properties, spreading along peripheral nerves to the CNS. It is not a DNA virus or retrovirus and does not primarily target liver or lung alone (A, C, D)."
+    },
+    {
+      "id": 4,
+      "stem": "Once clinical signs of rabies appear in horses, death usually occurs within:",
+      "options": [
+        {
+          "label": "A",
+          "text": "24 hours"
+        },
+        {
+          "label": "B",
+          "text": "5–10 days"
+        },
+        {
+          "label": "C",
+          "text": "30–60 days"
+        },
+        {
+          "label": "D",
+          "text": "Several months to years"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Once clinical signs appear, horses typically die within 5–10 days, reflecting the rapid, fatal course. The much shorter or longer time frames (A, C, D) are incorrect."
+    },
+    {
+      "id": 5,
+      "stem": "In terms of host range and public health, which statement about rabies is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It affects only dogs and cats"
+        },
+        {
+          "label": "B",
+          "text": "It is a zoonotic disease affecting all warm-blooded animals, including horses and humans"
+        },
+        {
+          "label": "C",
+          "text": "Horses cannot transmit rabies to humans"
+        },
+        {
+          "label": "D",
+          "text": "It affects only wildlife species"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rabies is zoonotic and can infect all warm-blooded mammals; horses are among the accidental hosts. It is not restricted to dogs/cats or wildlife alone, and horses can be a source of infection to humans (A, C, D)."
+    },
+    {
+      "id": 6,
+      "stem": "Regarding signalment, which statement is MOST accurate for equine rabies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only young foals are susceptible"
+        },
+        {
+          "label": "B",
+          "text": "Only a specific breed of horse is affected"
+        },
+        {
+          "label": "C",
+          "text": "All ages, breeds, and sexes can be affected; risk is higher where wildlife reservoirs are present"
+        },
+        {
+          "label": "D",
+          "text": "Only stallions in confinement are at risk"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Horses of any age, breed, or sex can develop rabies, particularly where wildlife reservoirs are present. Restricting it to foals, specific breeds, or stallions (A, B, D) is inaccurate."
+    },
+    {
+      "id": 7,
+      "stem": "Which animals are important wildlife reservoirs for rabies that may transmit the virus to horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cattle and sheep only"
+        },
+        {
+          "label": "B",
+          "text": "Bats, skunks, foxes, raccoons, and dogs"
+        },
+        {
+          "label": "C",
+          "text": "Frogs and reptiles"
+        },
+        {
+          "label": "D",
+          "text": "Fish and amphibians"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Bats, skunks, foxes, raccoons, and dogs are major wildlife reservoirs that can transmit rabies to horses. Livestock, reptiles, fish, or amphibians (A, C, D) are not primary reservoirs."
+    },
+    {
+      "id": 8,
+      "stem": "The primary mode of rabies transmission to horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ingestion of contaminated feed"
+        },
+        {
+          "label": "B",
+          "text": "Bites from infected animals introducing virus-laden saliva into a wound"
+        },
+        {
+          "label": "C",
+          "text": "Transplacental transmission from mare to foal"
+        },
+        {
+          "label": "D",
+          "text": "Mosquito bites"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The principal route of transmission is a bite from an infected animal, introducing virus-containing saliva into a wound. Other routes listed (A, C, D) are not the main sources."
+    },
+    {
+      "id": 9,
+      "stem": "Which of the following is a RARE but possible route of rabies transmission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aerosol exposure in bat-infested caves"
+        },
+        {
+          "label": "B",
+          "text": "Waterborne spread in ponds"
+        },
+        {
+          "label": "C",
+          "text": "Transmission via feces only"
+        },
+        {
+          "label": "D",
+          "text": "Airborne spread over long distances"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Aerosol exposure (e.g., in bat caves) is a rare but documented route of rabies transmission; saliva on mucous membranes or open wounds is another non-bite form. Waterborne or long-distance airborne spread (B, D) is not typical."
+    },
+    {
+      "id": 10,
+      "stem": "The pathophysiologic sequence of rabies infection includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct bloodstream spread to the brain without local replication"
+        },
+        {
+          "label": "B",
+          "text": "Local replication in muscle at the bite site, entry into peripheral nerves, ascending to CNS, then centrifugal spread to salivary glands"
+        },
+        {
+          "label": "C",
+          "text": "Immediate infection of the gastrointestinal tract only"
+        },
+        {
+          "label": "D",
+          "text": "Exclusive infection of the skin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The virus replicates locally in muscle, enters peripheral nerves, ascends to the CNS, then spreads centrifugally to salivary glands and other tissues. Direct bloodstream spread or purely GI/skin infection (A, C, D) does not match."
+    },
+    {
+      "id": 11,
+      "stem": "The two classic clinical forms of rabies in horses are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory and gastrointestinal"
+        },
+        {
+          "label": "B",
+          "text": "Furious (encephalitic) and dumb (paralytic) forms"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac and renal"
+        },
+        {
+          "label": "D",
+          "text": "Dermatologic and ocular"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The classic clinical forms are furious (encephalitic) and dumb (paralytic). Respiratory, GI, cardiac, or ocular classifications (A, C, D) are not used here."
+    },
+    {
+      "id": 12,
+      "stem": "The furious (encephalitic) form of rabies in horses is characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depression, hindquarter weakness, and paralysis"
+        },
+        {
+          "label": "B",
+          "text": "Excitability, restlessness, aggression, biting or striking, colic-like agitation, and hypersensitivity to stimuli"
+        },
+        {
+          "label": "C",
+          "text": "Only mild lethargy with normal appetite"
+        },
+        {
+          "label": "D",
+          "text": "Exclusive respiratory distress"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The furious form features excitability, aggression, restlessness, self-mutilation, colic-like rolling, and hypersensitivity to stimuli. The signs in A, C, D describe the paralytic form or other conditions."
+    },
+    {
+      "id": 13,
+      "stem": "The dumb or paralytic form of rabies in horses is characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pure aggression with no neurologic deficits"
+        },
+        {
+          "label": "B",
+          "text": "Depression, incoordination, difficulty swallowing, excessive salivation, hindquarter weakness, recumbency, and death within a few days"
+        },
+        {
+          "label": "C",
+          "text": "Only skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "Isolated fever with no neurologic signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The dumb form presents with depression, incoordination, dysphagia, excessive salivation, hindquarter weakness, recumbency, and rapid death. It is not purely aggressive (A) nor limited to skin or fever (C, D)."
+    },
+    {
+      "id": 14,
+      "stem": "Diagnosis of rabies in live horses is often difficult because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "There are simple, reliable blood tests for live animals"
+        },
+        {
+          "label": "B",
+          "text": "Clinical signs are highly specific and pathognomonic"
+        },
+        {
+          "label": "C",
+          "text": "Antemortem laboratory tests (saliva, skin biopsies) are limited and not always reliable, so diagnosis relies heavily on history and signs"
+        },
+        {
+          "label": "D",
+          "text": "Rabies never affects the CNS in horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Antemortem diagnosis is difficult because available tests (saliva, skin biopsy) are limited and not consistently reliable; diagnosis relies heavily on exposure history and signs. Simple, reliable blood tests do not exist (A), and signs are not pathognomonic (B)."
+    },
+    {
+      "id": 15,
+      "stem": "The gold standard confirmatory test for rabies, typically performed post-mortem, is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial culture of CSF"
+        },
+        {
+          "label": "B",
+          "text": "Direct fluorescent antibody test (FAT) on brain tissue"
+        },
+        {
+          "label": "C",
+          "text": "Serum antibody ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Fecal PCR"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The direct fluorescent antibody test (FAT) on fresh brain tissue is the gold standard for rabies confirmation. CSF culture, serology, or fecal PCR (A, C, D) lack comparable sensitivity and specificity."
+    },
+    {
+      "id": 16,
+      "stem": "Which additional laboratory method may support rabies diagnosis by detecting viral RNA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RT-PCR on brain tissue"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain of blood"
+        },
+        {
+          "label": "C",
+          "text": "Coombs test"
+        },
+        {
+          "label": "D",
+          "text": "Fungal culture"
+        }
+      ],
+      "correct": "A",
+      "explanation": "RT-PCR on brain tissue or appropriate samples can detect rabies viral RNA, supporting diagnosis. Gram stain, Coombs, or fungal culture (B–D) are not specific for rabies."
+    },
+    {
+      "id": 17,
+      "stem": "Negri bodies are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral inclusion bodies found in neurons on histopathology in some rabies cases"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial colonies found in muscle"
+        },
+        {
+          "label": "C",
+          "text": "Fungal spores in lung tissue"
+        },
+        {
+          "label": "D",
+          "text": "Parasite eggs in the intestine"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Negri bodies are intracytoplasmic viral inclusion bodies in neurons seen on histopathology in some rabies cases. They are not bacteria, fungi, or parasite eggs (B–D)."
+    },
+    {
+      "id": 18,
+      "stem": "In terms of prevention, rabies vaccination in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Optional and not recommended"
+        },
+        {
+          "label": "B",
+          "text": "A core vaccine recommended annually for all horses"
+        },
+        {
+          "label": "C",
+          "text": "Only recommended for racehorses"
+        },
+        {
+          "label": "D",
+          "text": "Contraindicated in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rabies is a core vaccine for horses, recommended annually by AAEP, due to the zoonotic risk and fatal outcome. It is not optional, racehorse-specific, or contraindicated in foals (A, C, D)."
+    },
+    {
+      "id": 19,
+      "stem": "According to AAEP guidelines, foals from properly vaccinated mares should typically receive their first rabies vaccine at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birth"
+        },
+        {
+          "label": "B",
+          "text": "Around 6 months of age"
+        },
+        {
+          "label": "C",
+          "text": "2 years of age"
+        },
+        {
+          "label": "D",
+          "text": "Only after exposure"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Foals from vaccinated mares are generally vaccinated at about 6 months of age; if the mare was unvaccinated, earlier vaccination (around 3 months) may be used. The other timings (A, C, D) ignore maternal antibody considerations."
+    },
+    {
+      "id": 20,
+      "stem": "Key biosecurity measures to prevent rabies introduction to horses include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allowing contact with wildlife to build immunity"
+        },
+        {
+          "label": "B",
+          "text": "Avoiding contact with wildlife or stray animals, properly disposing of carcasses, and reporting animals with suspicious neurologic signs"
+        },
+        {
+          "label": "C",
+          "text": "Feeding raw meat to horses"
+        },
+        {
+          "label": "D",
+          "text": "Housing horses in bat caves for desensitization"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Key biosecurity measures include avoiding wildlife/stray animal contact, proper carcass disposal, and reporting suspect neurologic animals. The other options (A, C, D) are unsafe or irrelevant."
+    },
+    {
+      "id": 21,
+      "stem": "Recommended management for a vaccinated horse that is exposed to a suspected rabid animal includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate euthanasia"
+        },
+        {
+          "label": "B",
+          "text": "No action needed"
+        },
+        {
+          "label": "C",
+          "text": "Immediate rabies booster vaccination and 45-day observation"
+        },
+        {
+          "label": "D",
+          "text": "6-month strict quarantine with no booster"
+        }
+      ],
+      "correct": "C",
+      "explanation": "For a vaccinated horse exposed to rabies, immediate booster vaccination and a 45-day observation period are recommended. Euthanasia or prolonged quarantine without booster (A, D) is not standard for vaccinated animals."
+    },
+    {
+      "id": 22,
+      "stem": "Management options for an unvaccinated horse exposed to rabies include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring the exposure"
+        },
+        {
+          "label": "B",
+          "text": "Euthanasia or 4–6 months quarantine, as per local regulations"
+        },
+        {
+          "label": "C",
+          "text": "One dose of antibiotics only"
+        },
+        {
+          "label": "D",
+          "text": "Giving dewormer and returning to pasture"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Unvaccinated exposed horses may be euthanized or quarantined for 4–6 months, depending on local rules, due to high risk of infection. Ignoring exposure or treating only with antibiotics or dewormers (A, C, D) is inappropriate."
+    },
+    {
+      "id": 23,
+      "stem": "Regarding treatment of rabies in horses once clinical signs appear, which statement is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aggressive antiviral therapy is usually curative"
+        },
+        {
+          "label": "B",
+          "text": "Supportive care often leads to full recovery"
+        },
+        {
+          "label": "C",
+          "text": "There is no effective treatment; disease is almost always fatal and euthanasia is recommended"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids can reverse CNS damage"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Once clinical signs develop, rabies is almost invariably fatal and there is no effective treatment; euthanasia is recommended for welfare and safety. Antiviral or steroid treatments (A, D) are not curative."
+    },
+    {
+      "id": 24,
+      "stem": "Post-exposure prophylaxis (PEP) with vaccination is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Effective only after neurologic signs develop"
+        },
+        {
+          "label": "B",
+          "text": "Potentially effective if administered before the onset of clinical signs"
+        },
+        {
+          "label": "C",
+          "text": "Not useful in any species"
+        },
+        {
+          "label": "D",
+          "text": "Only recommended in wildlife"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Post-exposure vaccination can prevent disease if given before virus reaches the CNS and before clinical signs appear; after signs, it is ineffective. Thus, A and C are incorrect."
+    },
+    {
+      "id": 25,
+      "stem": "Which risk factors increase the likelihood of rabies in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strict indoor housing in rabies-free regions"
+        },
+        {
+          "label": "B",
+          "text": "Contact with wild carnivores or bats, lack of vaccination, outdoor housing in endemic areas, and ignoring bite or wound incidents"
+        },
+        {
+          "label": "C",
+          "text": "Regular vaccination and avoiding wildlife"
+        },
+        {
+          "label": "D",
+          "text": "Only feeding pelleted diets"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Risk factors include contact with wild carnivores or bats, lack of vaccination, outdoor housing in endemic regions, and unreported bites. Indoor housing in rabies-free areas (A) carries minimal risk."
+    },
+    {
+      "id": 26,
+      "stem": "From a public health standpoint, why is a single case of rabies in a horse significant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horses are the main reservoir for human rabies"
+        },
+        {
+          "label": "B",
+          "text": "Horses shed rabies virus in urine"
+        },
+        {
+          "label": "C",
+          "text": "Even one case poses a serious zoonotic risk to handlers and veterinarians"
+        },
+        {
+          "label": "D",
+          "text": "Horses never contact humans"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Even a single equine rabies case is a serious zoonotic concern for handlers and veterinarians, requiring strict public health intervention. Horses are not reservoirs (A) but can transmit virus through saliva."
+    }
+  ]
+}

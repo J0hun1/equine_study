@@ -1,0 +1,678 @@
+{
+  "topic": "DAUT_Strangles in Horses",
+  "slug": "daut_strangles-in-horses",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Strangles is best described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A noncontagious viral disease affecting the lower respiratory tract of horses"
+        },
+        {
+          "label": "B",
+          "text": "A highly contagious bacterial disease affecting the upper respiratory tract and lymph nodes of equids"
+        },
+        {
+          "label": "C",
+          "text": "A fungal infection causing chronic nasal discharge in older horses"
+        },
+        {
+          "label": "D",
+          "text": "An autoimmune disorder causing lymph node enlargement"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Strangles is a highly contagious bacterial disease affecting the upper respiratory tract and lymph nodes of horses, donkeys, and mules. It is not viral (A), fungal (C), or autoimmune (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The causative agent of strangles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Streptococcus equi subspecies zooepidemicus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus equi subspecies equi"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The causative agent is Streptococcus equi subspecies equi, a Gram‑positive, capsulated, beta‑hemolytic bacterium. S. equi zooepidemicus (A) is a commensal, not the primary pathogen. S. pneumoniae (C) and S. aureus (D) are not the causative agents of strangles."
+    },
+    {
+      "id": 3,
+      "stem": "Which virulence factor of S. equi equi is primarily responsible for preventing bacterial destruction by neutrophils?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "B",
+          "text": "SeM protein"
+        },
+        {
+          "label": "C",
+          "text": "Streptolysins"
+        },
+        {
+          "label": "D",
+          "text": "Superantigens"
+        }
+      ],
+      "correct": "B",
+      "explanation": "SeM protein is anti‑phagocytic and prevents bacterial destruction by neutrophils. The hyaluronic acid capsule (A) protects against host immune response but does not specifically prevent neutrophil destruction. Streptolysins (C) and superantigens (D) enhance tissue invasion and inflammation but are not the primary anti‑phagocytic factor."
+    },
+    {
+      "id": 4,
+      "stem": "The age group MOST commonly affected by strangles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foals less than 3 months old"
+        },
+        {
+          "label": "B",
+          "text": "Horses 1–5 years old"
+        },
+        {
+          "label": "C",
+          "text": "Geriatric horses over 15 years"
+        },
+        {
+          "label": "D",
+          "text": "All ages equally affected"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Strangles is most common in horses 1–5 years old, though foals as young as 3 months may be affected. Foals less than 3 months (A) are less commonly affected, and there is no specific predilection for geriatric horses (C) or equal distribution across all ages (D)."
+    },
+    {
+      "id": 5,
+      "stem": "The primary mode of transmission for strangles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airborne droplets over long distances"
+        },
+        {
+          "label": "B",
+          "text": "Direct contact with nasal discharge or pus, or indirect contact through contaminated objects"
+        },
+        {
+          "label": "C",
+          "text": "Vertical transmission from mare to foal"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of contaminated feed only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Transmission occurs through direct contact with nasal discharge or pus, or indirect contact through contaminated feed, water, grooming tools, tack, or handlers. It is not primarily airborne over long distances (A), vertically transmitted (C), or limited to feed ingestion (D)."
+    },
+    {
+      "id": 6,
+      "stem": "The incubation period for strangles is typically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–2 days"
+        },
+        {
+          "label": "B",
+          "text": "3–14 days"
+        },
+        {
+          "label": "C",
+          "text": "21–30 days"
+        },
+        {
+          "label": "D",
+          "text": "45–60 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The incubation period is typically 3–14 days after exposure. Shorter periods (A) or longer periods (C, D) are not typical."
+    },
+    {
+      "id": 7,
+      "stem": "Early clinical signs of strangles include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe colic and diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Fever (103–106°F), depression, anorexia, and mild cough"
+        },
+        {
+          "label": "C",
+          "text": "Neurological signs and ataxia"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac arrhythmias and edema"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early clinical signs include fever (103–106°F / 39.4–41.1°C), depression, anorexia, and mild cough. Colic and diarrhea (A), neurological signs (C), and cardiac signs (D) are not typical early signs of strangles."
+    },
+    {
+      "id": 8,
+      "stem": "Progressive signs of strangles include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mucoid to mucopurulent nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Painful swelling of submandibular and retropharyngeal lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Difficulty swallowing and breathing"
+        },
+        {
+          "label": "D",
+          "text": "Profuse watery diarrhea"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse watery diarrhea is not a typical sign of strangles. Progressive signs include mucoid to mucopurulent nasal discharge (A), painful lymph node swelling (B), and difficulty swallowing and breathing (C)."
+    },
+    {
+      "id": 9,
+      "stem": "Metastatic (bastard) strangles occurs when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria spread via blood or lymph to internal organs, forming abscesses in remote tissues"
+        },
+        {
+          "label": "B",
+          "text": "The primary abscess fails to rupture"
+        },
+        {
+          "label": "C",
+          "text": "The horse develops secondary bacterial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "The infection becomes chronic without treatment"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Metastatic (bastard) strangles occurs when bacteria spread via blood or lymph to internal organs (lungs, liver, spleen, brain), forming abscesses in remote lymph nodes or tissues. Failure of primary abscess to rupture (B), secondary pneumonia (C), or chronic infection (D) are not the definition of metastatic strangles."
+    },
+    {
+      "id": 10,
+      "stem": "Purpura hemorrhagica is a complication of strangles that represents:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A secondary bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "An immune‑mediated Type III hypersensitivity reaction causing vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "A viral coinfection"
+        },
+        {
+          "label": "D",
+          "text": "A nutritional deficiency"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Purpura hemorrhagica is an immune‑mediated Type III hypersensitivity reaction that causes vasculitis, edema, petechiae, and sometimes necrosis of the skin. It is not a secondary bacterial infection (A), viral coinfection (C), or nutritional deficiency (D)."
+    },
+    {
+      "id": 11,
+      "stem": "Guttural pouch empyema in strangles cases involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accumulation of pus or chondroids in guttural pouches"
+        },
+        {
+          "label": "B",
+          "text": "Rupture of the guttural pouch into the pharynx"
+        },
+        {
+          "label": "C",
+          "text": "Fungal colonization of the guttural pouch"
+        },
+        {
+          "label": "D",
+          "text": "Neoplastic transformation of guttural pouch tissue"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Guttural pouch empyema involves accumulation of pus or chondroids (solid pus masses) in guttural pouches. Rupture into the pharynx (B), fungal colonization (C), or neoplasia (D) are not the typical presentation."
+    },
+    {
+      "id": 12,
+      "stem": "The gold standard diagnostic test for strangles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serology for SeM antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Culture of abscess exudate or nasopharyngeal wash"
+        },
+        {
+          "label": "C",
+          "text": "Complete blood count showing leukocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Radiography of the head and neck"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Culture is the gold standard diagnostic test, ideally from aspirate of abscessed lymph node, or nasopharyngeal wash or guttural pouch lavage. Serology (A) helps evaluate exposure but is not the gold standard. CBC (C) and radiography (D) are supportive but not definitive."
+    },
+    {
+      "id": 13,
+      "stem": "Which laboratory finding is commonly seen in horses with strangles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neutropenia and hypofibrinogenemia"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilic leukocytosis and hyperfibrinogenemia"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophilia and thrombocytopenia"
+        },
+        {
+          "label": "D",
+          "text": "Anemia and hyperproteinemia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Neutrophilic leukocytosis and hyperfibrinogenemia are common findings. Neutropenia (A), eosinophilia (C), or anemia (D) are not typical of strangles."
+    },
+    {
+      "id": 14,
+      "stem": "In uncomplicated strangles cases, treatment primarily consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate high‑dose antibiotic therapy"
+        },
+        {
+          "label": "B",
+          "text": "Supportive care including warm compresses, drainage of abscesses, and NSAIDs"
+        },
+        {
+          "label": "C",
+          "text": "Surgical removal of affected lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Antiviral medications"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Uncomplicated cases are treated with supportive care: warm compresses to hasten abscess maturation, drainage and flushing of ruptured abscesses, and NSAIDs for pain and fever. Immediate antibiotics (A), surgery (C), or antivirals (D) are not the primary approach for uncomplicated cases."
+    },
+    {
+      "id": 15,
+      "stem": "When is antimicrobial therapy indicated in strangles cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always, as soon as diagnosis is confirmed"
+        },
+        {
+          "label": "B",
+          "text": "Only in severe or complicated cases such as dyspnea or metastatic disease"
+        },
+        {
+          "label": "C",
+          "text": "Never, as antibiotics are ineffective against S. equi"
+        },
+        {
+          "label": "D",
+          "text": "Only in foals less than 6 months old"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Antimicrobial therapy is reserved for severe or complicated cases such as dyspnea or metastatic disease. Early antibiotic use may stop abscess formation but prevents natural immunity, so it is not used routinely (A). Antibiotics are effective (C), and age is not the determining factor (D)."
+    },
+    {
+      "id": 16,
+      "stem": "The first‑line antimicrobial drug for strangles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trimethoprim‑sulfamethoxazole"
+        },
+        {
+          "label": "B",
+          "text": "Procaine penicillin at 22,000 IU/kg IM every 12 hours"
+        },
+        {
+          "label": "C",
+          "text": "Enrofloxacin"
+        },
+        {
+          "label": "D",
+          "text": "Metronidazole"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Procaine penicillin at 22,000 IU/kg IM every 12 hours is the first‑line antimicrobial. Alternatives include cephalosporins or macrolides. Trimethoprim‑sulfamethoxazole (A), enrofloxacin (C), and metronidazole (D) are not first‑line choices."
+    },
+    {
+      "id": 17,
+      "stem": "Why is early antibiotic use in uncomplicated strangles cases sometimes avoided?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antibiotics are ineffective against S. equi"
+        },
+        {
+          "label": "B",
+          "text": "Early antibiotic use may prevent abscess formation but also prevents natural immunity development"
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics cause severe side effects in horses"
+        },
+        {
+          "label": "D",
+          "text": "S. equi is always resistant to antibiotics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early antibiotic use may stop abscess formation but prevents natural immunity development, so it is reserved for severe cases. Antibiotics are effective (A), side effects are not the primary concern (C), and resistance is not universal (D)."
+    },
+    {
+      "id": 18,
+      "stem": "Natural infection with strangles typically induces:",
+      "options": [
+        {
+          "label": "A",
+          "text": "No immunity, allowing repeated infections"
+        },
+        {
+          "label": "B",
+          "text": "Short‑lived immunity lasting only weeks"
+        },
+        {
+          "label": "C",
+          "text": "Strong and long‑lasting protection"
+        },
+        {
+          "label": "D",
+          "text": "Immunity only against certain strains"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Natural infection induces strong and long‑lasting protection. Immunity is not absent (A), short‑lived (B), or strain‑specific (D)."
+    },
+    {
+      "id": 19,
+      "stem": "Vaccination against strangles:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provides 100% protection against infection"
+        },
+        {
+          "label": "B",
+          "text": "Reduces clinical cases by approximately 50%"
+        },
+        {
+          "label": "C",
+          "text": "Is not available"
+        },
+        {
+          "label": "D",
+          "text": "Is only effective in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Vaccination reduces clinical cases by approximately 50%. It does not provide 100% protection (A), vaccines are available (C), and effectiveness is not limited to foals (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement about strangles vaccination is CORRECT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccination should be performed during ongoing outbreaks"
+        },
+        {
+          "label": "B",
+          "text": "Intranasal live attenuated vaccine induces local mucosal immunity"
+        },
+        {
+          "label": "C",
+          "text": "Vaccines never cause complications"
+        },
+        {
+          "label": "D",
+          "text": "Vaccination is mandatory in all horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Intranasal live attenuated vaccine induces local mucosal immunity. Vaccination should not be performed during outbreaks (A), complications can occur (C), and vaccination is not mandatory (D)."
+    },
+    {
+      "id": 21,
+      "stem": "During a strangles outbreak, horses should be separated into:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infected, exposed, and clean groups"
+        },
+        {
+          "label": "B",
+          "text": "Only infected and noninfected groups"
+        },
+        {
+          "label": "C",
+          "text": "Groups based on age only"
+        },
+        {
+          "label": "D",
+          "text": "No separation is necessary"
+        }
+      ],
+      "correct": "A",
+      "explanation": "During outbreaks, horses should be separated into infected, exposed, and clean groups. Simple infected/noninfected separation (B), age‑based grouping (C), or no separation (D) are not optimal for outbreak control."
+    },
+    {
+      "id": 22,
+      "stem": "New arrivals to a facility should be isolated for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3–5 days"
+        },
+        {
+          "label": "B",
+          "text": "7–10 days"
+        },
+        {
+          "label": "C",
+          "text": "14–21 days"
+        },
+        {
+          "label": "D",
+          "text": "30–45 days"
+        }
+      ],
+      "correct": "C",
+      "explanation": "New arrivals should be isolated for 14–21 days. Shorter periods (A, B) may not be sufficient, and longer periods (D) are typically unnecessary."
+    },
+    {
+      "id": 23,
+      "stem": "Asymptomatic carriers of strangles:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do not exist; all infected horses show clinical signs"
+        },
+        {
+          "label": "B",
+          "text": "Represent up to 40% of infected horses and maintain infection in the population"
+        },
+        {
+          "label": "C",
+          "text": "Are only foals"
+        },
+        {
+          "label": "D",
+          "text": "Shed bacteria for only 1–2 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Asymptomatic carriers represent up to 40% of infected horses and maintain infection in the population. Carriers do exist (A), are not limited to foals (C), and can shed for months (D)."
+    },
+    {
+      "id": 24,
+      "stem": "Carrier detection and clearance testing should be performed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediately after clinical signs resolve"
+        },
+        {
+          "label": "B",
+          "text": "At least 3 weeks after recovery, using PCR on guttural pouch wash or 3 consecutive negative nasopharyngeal washes"
+        },
+        {
+          "label": "C",
+          "text": "Only if the horse shows recurrent clinical signs"
+        },
+        {
+          "label": "D",
+          "text": "Never, as carriers cannot be detected"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Carrier detection should be performed at least 3 weeks after recovery, using PCR on guttural pouch wash or 3 consecutive negative nasopharyngeal washes (7 days apart). Testing immediately (A), only with recurrent signs (C), or never (D) is not appropriate."
+    },
+    {
+      "id": 25,
+      "stem": "Which disinfectant is appropriate for cleaning equipment contaminated with S. equi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plain water"
+        },
+        {
+          "label": "B",
+          "text": "Chlorhexidine or glutaraldehyde"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol only"
+        },
+        {
+          "label": "D",
+          "text": "No disinfection is effective"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Chlorhexidine or glutaraldehyde are appropriate disinfectants. Plain water (A) and alcohol only (C) are not sufficient, and disinfection is effective (D)."
+    },
+    {
+      "id": 26,
+      "stem": "Environmental survival of S. equi is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Up to 3 days in dry conditions but longer in cool, moist environments"
+        },
+        {
+          "label": "B",
+          "text": "Only a few hours in any environment"
+        },
+        {
+          "label": "C",
+          "text": "Indefinite in all conditions"
+        },
+        {
+          "label": "D",
+          "text": "Only in living hosts"
+        }
+      ],
+      "correct": "A",
+      "explanation": "S. equi survives up to 3 days in dry conditions but longer in cool, moist, shaded environments or in mucoid material. Survival is not limited to hours (B), indefinite (C), or only in hosts (D)."
+    },
+    {
+      "id": 27,
+      "stem": "Strangles became a reportable disease in the U.S. in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2000"
+        },
+        {
+          "label": "B",
+          "text": "2010"
+        },
+        {
+          "label": "C",
+          "text": "2017"
+        },
+        {
+          "label": "D",
+          "text": "2020"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Strangles became a reportable disease in the U.S. in 2017 due to its contagious nature and economic impact. Earlier dates (A, B) or later (D) are incorrect."
+    },
+    {
+      "id": 28,
+      "stem": "The name \"strangles\" comes from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The bacterial structure under microscopy"
+        },
+        {
+          "label": "B",
+          "text": "The breathing and swallowing difficulty caused by swollen lymph nodes pressing on the airway"
+        },
+        {
+          "label": "C",
+          "text": "The geographic origin of the disease"
+        },
+        {
+          "label": "D",
+          "text": "The scientist who first described it"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The name \"strangles\" comes from the breathing and swallowing difficulty caused by swollen lymph nodes pressing on the airway. It is not related to bacterial structure (A), geographic origin (C), or a scientist's name (D)."
+    }
+  ]
+}

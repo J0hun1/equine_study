@@ -1,0 +1,486 @@
+{
+  "topic": "MILANA_EQUINE INFLUENZA",
+  "slug": "milana_equine-influenza",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine influenza is caused by a virus from which family?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paramyxoviridae"
+        },
+        {
+          "label": "B",
+          "text": "Orthomyxoviridae"
+        },
+        {
+          "label": "C",
+          "text": "Herpesviridae"
+        },
+        {
+          "label": "D",
+          "text": "Retroviridae"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine influenza is caused by a virus from the family Orthomyxoviridae, genus Influenza virus A. Paramyxoviridae (A), Herpesviridae (C), and Retroviridae (D) are not correct."
+    },
+    {
+      "id": 2,
+      "stem": "Equine influenza virus has two main subtypes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "H1N1 and H3N8"
+        },
+        {
+          "label": "B",
+          "text": "H3N8 and H7N7"
+        },
+        {
+          "label": "C",
+          "text": "H5N1 and H7N9"
+        },
+        {
+          "label": "D",
+          "text": "H2N2 and H9N2"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine influenza virus has two main subtypes: H3N8 and H7N7. H1N1 (A), H5N1 and H7N9 (C), and H2N2 and H9N2 (D) are not the main equine subtypes."
+    },
+    {
+      "id": 3,
+      "stem": "Equine influenza is transmitted primarily through:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contaminated feed and water"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory droplets from infected horses, contaminated surfaces, or equipment"
+        },
+        {
+          "label": "C",
+          "text": "Direct contact with blood"
+        },
+        {
+          "label": "D",
+          "text": "Vertical transmission from mare to foal"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine influenza is transmitted primarily through respiratory droplets from infected horses, contaminated surfaces, or equipment. Contaminated feed (A), blood contact (C), and vertical transmission (D) are not the primary routes."
+    },
+    {
+      "id": 4,
+      "stem": "Which age group is MOST susceptible to equine influenza?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foals less than 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Horses 1–5 years due to naïve immunity"
+        },
+        {
+          "label": "C",
+          "text": "Geriatric horses over 15 years"
+        },
+        {
+          "label": "D",
+          "text": "All ages equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses 1–5 years are most susceptible due to naïve immunity. Foals (A), geriatric horses (C), or equal susceptibility (D) are not the most susceptible group."
+    },
+    {
+      "id": 5,
+      "stem": "Equine influenza is more frequent in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Summer months only"
+        },
+        {
+          "label": "B",
+          "text": "Cooler months but can occur year-round"
+        },
+        {
+          "label": "C",
+          "text": "Spring only"
+        },
+        {
+          "label": "D",
+          "text": "Winter only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine influenza is more frequent in cooler months but can occur year-round. Summer only (A), spring only (C), or winter only (D) are not accurate."
+    },
+    {
+      "id": 6,
+      "stem": "Clinical signs of equine influenza include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dry cough and nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Fever (up to 104°F) and lethargy"
+        },
+        {
+          "label": "C",
+          "text": "Elevated respiratory rates"
+        },
+        {
+          "label": "D",
+          "text": "Profuse watery diarrhea"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse watery diarrhea is not a typical sign of equine influenza. Dry cough and nasal discharge (A), fever and lethargy (B), and elevated respiratory rates (C) are common signs."
+    },
+    {
+      "id": 7,
+      "stem": "The incubation period for equine influenza is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "6–12 hours"
+        },
+        {
+          "label": "B",
+          "text": "1–3 days"
+        },
+        {
+          "label": "C",
+          "text": "5–7 days"
+        },
+        {
+          "label": "D",
+          "text": "10–14 days"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The incubation period for equine influenza is 1–3 days. Shorter (A) or longer periods (C, D) are not typical."
+    },
+    {
+      "id": 8,
+      "stem": "Complications of equine influenza include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secondary bacterial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Bronchopneumonia and pleuropneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic coughing and reduced performance"
+        },
+        {
+          "label": "D",
+          "text": "Laminitis"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Laminitis is not a typical complication of equine influenza. Secondary bacterial pneumonia (A), bronchopneumonia (B), and chronic coughing (C) are complications."
+    },
+    {
+      "id": 9,
+      "stem": "The MOST sensitive diagnostic test for equine influenza is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "B",
+          "text": "Serology for antibodies"
+        },
+        {
+          "label": "C",
+          "text": "RT-PCR on nasopharyngeal swabs"
+        },
+        {
+          "label": "D",
+          "text": "Radiography"
+        }
+      ],
+      "correct": "C",
+      "explanation": "RT-PCR on nasopharyngeal swabs is the most sensitive diagnostic test. CBC (A), serology (B), and radiography (D) are less sensitive."
+    },
+    {
+      "id": 10,
+      "stem": "Paired serum samples showing a fourfold rise in antibody titer indicates:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Current active infection"
+        },
+        {
+          "label": "B",
+          "text": "Previous vaccination only"
+        },
+        {
+          "label": "C",
+          "text": "Recent infection or exposure"
+        },
+        {
+          "label": "D",
+          "text": "No significance"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Paired serum samples showing a fourfold rise in antibody titer indicate recent infection or exposure. Current active infection (A), previous vaccination only (B), or no significance (D) are not accurate interpretations."
+    },
+    {
+      "id": 11,
+      "stem": "Treatment of equine influenza primarily focuses on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antiviral medications"
+        },
+        {
+          "label": "B",
+          "text": "Supportive care including hydration, anti-inflammatories, and rest"
+        },
+        {
+          "label": "C",
+          "text": "High-dose antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment primarily focuses on supportive care including hydration, anti-inflammatories, and rest. Antivirals (A), antibiotics (C), and corticosteroids (D) are not the primary treatment."
+    },
+    {
+      "id": 12,
+      "stem": "Horses with equine influenza should rest for at least:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3–5 days"
+        },
+        {
+          "label": "B",
+          "text": "1 week"
+        },
+        {
+          "label": "C",
+          "text": "2–3 weeks to allow respiratory epithelium to regenerate"
+        },
+        {
+          "label": "D",
+          "text": "4–6 weeks"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Horses should rest for at least 2–3 weeks to allow respiratory epithelium to regenerate. Shorter periods (A, B) or longer (D) are not standard recommendations."
+    },
+    {
+      "id": 13,
+      "stem": "Antibiotics for equine influenza are indicated:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always, as prophylaxis"
+        },
+        {
+          "label": "B",
+          "text": "Only for secondary bacterial infections"
+        },
+        {
+          "label": "C",
+          "text": "Never, as they are ineffective"
+        },
+        {
+          "label": "D",
+          "text": "Only in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Antibiotics are indicated only for secondary bacterial infections. Prophylaxis (A), never (C), or only in foals (D) are not accurate."
+    },
+    {
+      "id": 14,
+      "stem": "Vaccination against equine influenza:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provides 100% protection"
+        },
+        {
+          "label": "B",
+          "text": "Reduces disease severity and viral shedding but may not completely prevent infection"
+        },
+        {
+          "label": "C",
+          "text": "Is not available"
+        },
+        {
+          "label": "D",
+          "text": "Is only effective in young horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Vaccination reduces disease severity and viral shedding but may not completely prevent infection. It does not provide 100% protection (A), vaccines are available (C), and effectiveness is not limited to young horses (D)."
+    },
+    {
+      "id": 15,
+      "stem": "The recommended vaccination schedule for equine influenza includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single dose annually"
+        },
+        {
+          "label": "B",
+          "text": "Two initial doses 4–6 weeks apart, followed by booster doses every 6 months"
+        },
+        {
+          "label": "C",
+          "text": "Three doses in the first year only"
+        },
+        {
+          "label": "D",
+          "text": "Vaccination only during outbreaks"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The recommended schedule includes two initial doses 4–6 weeks apart, followed by booster doses every 6 months, especially for horses at high risk. Single annual dose (A), three doses only (C), or only during outbreaks (D) are not standard."
+    },
+    {
+      "id": 16,
+      "stem": "During equine influenza outbreaks, all of the following measures should be implemented EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isolate all suspected cases immediately"
+        },
+        {
+          "label": "B",
+          "text": "Restrict movement of animals on affected premises"
+        },
+        {
+          "label": "C",
+          "text": "Continue normal training and competition schedules"
+        },
+        {
+          "label": "D",
+          "text": "Disinfect all facilities and tools"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Continuing normal training and competition schedules is not appropriate during outbreaks. Isolation (A), movement restriction (B), and disinfection (D) are appropriate measures."
+    },
+    {
+      "id": 17,
+      "stem": "Differential diagnoses for equine influenza include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine herpesvirus (EHV-1, EHV-4)"
+        },
+        {
+          "label": "B",
+          "text": "Equine viral arteritis (EVA)"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus equi infection (Strangles)"
+        },
+        {
+          "label": "D",
+          "text": "Equine infectious anemia"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Equine infectious anemia is not a differential diagnosis for equine influenza. EHV (A), EVA (B), and Strangles (C) are differential diagnoses."
+    },
+    {
+      "id": 18,
+      "stem": "The disruption of respiratory epithelium in equine influenza can lead to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secondary bacterial infections"
+        },
+        {
+          "label": "B",
+          "text": "Permanent lung damage in all cases"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac arrhythmias"
+        },
+        {
+          "label": "D",
+          "text": "Liver failure"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The disruption of respiratory epithelium can lead to secondary bacterial infections. Permanent damage in all cases (B), cardiac arrhythmias (C), or liver failure (D) are not typical."
+    },
+    {
+      "id": 19,
+      "stem": "Equine influenza virus can also infect:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cattle"
+        },
+        {
+          "label": "B",
+          "text": "Dogs"
+        },
+        {
+          "label": "C",
+          "text": "Cats"
+        },
+        {
+          "label": "D",
+          "text": "Birds only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine influenza virus can also infect dogs, highlighting the need for awareness among all handlers. Cattle (A), cats (C), or birds only (D) are not accurate."
+    },
+    {
+      "id": 20,
+      "stem": "While vaccination may not completely prevent equine influenza infection, it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no benefit"
+        },
+        {
+          "label": "B",
+          "text": "Reduces disease severity and viral shedding"
+        },
+        {
+          "label": "C",
+          "text": "Only prevents mortality"
+        },
+        {
+          "label": "D",
+          "text": "Only works in foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "While vaccination may not completely prevent infection, it reduces disease severity and viral shedding. It has benefit (A), does more than prevent mortality (C), and works in all ages (D)."
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "topic": "LUMAWIG_ JRB._ HEAVES (RAO)",
+  "slug": "lumawig_-jrb_-heaves-rao",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Recurrent Airway Obstruction (RAO), also known as \"heaves,\" is comparable to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic obstructive pulmonary disease in humans"
+        },
+        {
+          "label": "B",
+          "text": "Asthma in humans"
+        },
+        {
+          "label": "C",
+          "text": "Pneumonia in humans"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis in humans"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Recurrent Airway Obstruction (RAO), also known as \"heaves,\" is comparable to asthma in humans. COPD (A), pneumonia (C), and tuberculosis (D) are not accurate comparisons."
+    },
+    {
+      "id": 2,
+      "stem": "RAO is characterized by all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airway inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Mucus production leading to obstructive lung disease"
+        },
+        {
+          "label": "D",
+          "text": "Permanent lung fibrosis in all cases"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Permanent lung fibrosis does not occur in all cases of RAO. Airway inflammation (A), bronchoconstriction (B), and mucus production (C) are characteristic features."
+    },
+    {
+      "id": 3,
+      "stem": "RAO is most common in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pasture horses only"
+        },
+        {
+          "label": "B",
+          "text": "Stabled horses exposed to dust, hay, and straw"
+        },
+        {
+          "label": "C",
+          "text": "Racehorses only"
+        },
+        {
+          "label": "D",
+          "text": "Foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "RAO is most common in stabled horses exposed to dust, hay, and straw. Pasture horses (A), racehorses only (C), and foals (D) are not the most common group."
+    },
+    {
+      "id": 4,
+      "stem": "The average age of onset for RAO is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 years"
+        },
+        {
+          "label": "B",
+          "text": "6 years"
+        },
+        {
+          "label": "C",
+          "text": "9 years"
+        },
+        {
+          "label": "D",
+          "text": "12 years"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The average age of onset for RAO is 9 years. Younger ages (A, B) or older (D) are not typical."
+    },
+    {
+      "id": 5,
+      "stem": "RAO is triggered by inhaled environmental allergens such as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only pollen"
+        },
+        {
+          "label": "B",
+          "text": "Dust, molds, and organic particles in hay, straw, and bedding"
+        },
+        {
+          "label": "C",
+          "text": "Only viral particles"
+        },
+        {
+          "label": "D",
+          "text": "Only bacterial spores"
+        }
+      ],
+      "correct": "B",
+      "explanation": "RAO is triggered by inhaled environmental allergens such as dust, molds, and organic particles in hay, straw, and bedding. Only pollen (A), viral particles (C), or bacterial spores (D) are not the primary triggers."
+    },
+    {
+      "id": 6,
+      "stem": "Which breeds have a genetic predisposition to RAO?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoroughbreds and Arabians"
+        },
+        {
+          "label": "B",
+          "text": "Warmbloods and Lipizzaners"
+        },
+        {
+          "label": "C",
+          "text": "Quarter Horses and Paint Horses"
+        },
+        {
+          "label": "D",
+          "text": "All breeds equally"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Warmbloods and Lipizzaners have a genetic predisposition to RAO. Thoroughbreds and Arabians (A), Quarter Horses (C), or equal distribution (D) are not accurate."
+    },
+    {
+      "id": 7,
+      "stem": "Early/mild clinical signs of RAO include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe respiratory distress and cyanosis"
+        },
+        {
+          "label": "B",
+          "text": "Occasional cough (especially during eating/exercise) and nasal discharge"
+        },
+        {
+          "label": "C",
+          "text": "Complete exercise intolerance"
+        },
+        {
+          "label": "D",
+          "text": "Collapse"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early/mild clinical signs include occasional cough (especially during eating/exercise) and nasal discharge. Severe respiratory distress (A), complete exercise intolerance (C), or collapse (D) are severe signs."
+    },
+    {
+      "id": 8,
+      "stem": "Progressive/severe signs of RAO include all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic cough, wheezing, and flared nostrils"
+        },
+        {
+          "label": "B",
+          "text": "Labored breathing with pronounced abdominal effort"
+        },
+        {
+          "label": "C",
+          "text": "Heave line visible along abdomen"
+        },
+        {
+          "label": "D",
+          "text": "Profuse nasal discharge with blood"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Profuse nasal discharge with blood is not a typical sign of RAO. Chronic cough and wheezing (A), labored breathing (B), and heave line (C) are progressive/severe signs."
+    },
+    {
+      "id": 9,
+      "stem": "The gold standard diagnostic test for RAO is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "B",
+          "text": "Radiography"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoalveolar lavage (BAL) to retrieve airway secretions for cytology"
+        },
+        {
+          "label": "D",
+          "text": "Serology"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Bronchoalveolar lavage (BAL) to retrieve airway secretions for cytology is a key diagnostic test. CBC (A), radiography (B), and serology (D) are less specific."
+    },
+    {
+      "id": 10,
+      "stem": "Environmental trial for RAO diagnosis involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administering antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Removing horse from dusty setting and observing improvement"
+        },
+        {
+          "label": "C",
+          "text": "Exercise testing"
+        },
+        {
+          "label": "D",
+          "text": "Blood gas analysis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Environmental trial involves removing the horse from dusty setting and observing improvement. Administering antibiotics (A), exercise testing (C), or blood gas analysis (D) are not environmental trials."
+    },
+    {
+      "id": 11,
+      "stem": "Primary treatment goal for RAO is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eliminate all allergens permanently"
+        },
+        {
+          "label": "B",
+          "text": "Reduce allergen exposure"
+        },
+        {
+          "label": "C",
+          "text": "Cure the disease completely"
+        },
+        {
+          "label": "D",
+          "text": "Prevent all future episodes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Primary treatment goal is to reduce allergen exposure. Eliminating all allergens permanently (A), curing completely (C), or preventing all episodes (D) are not realistic goals."
+    },
+    {
+      "id": 12,
+      "stem": "Feed management for RAO includes all of the following EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-quality hay, avoid moldy or dusty feed"
+        },
+        {
+          "label": "B",
+          "text": "Soak or steam hay before feeding"
+        },
+        {
+          "label": "C",
+          "text": "Feed at ground level to limit dust inhalation"
+        },
+        {
+          "label": "D",
+          "text": "Feed at chest height to limit dust inhalation"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Feeding at ground level is not recommended; feed should be at chest height to limit dust inhalation. High-quality hay (A), soaking/steaming hay (B), and feeding at chest height (D) are appropriate."
+    },
+    {
+      "id": 13,
+      "stem": "For pasture-related heaves (SPAOPD), horses should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kept on pasture year-round"
+        },
+        {
+          "label": "B",
+          "text": "Removed from pasture during hot, humid months"
+        },
+        {
+          "label": "C",
+          "text": "Given antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Exercised more frequently"
+        }
+      ],
+      "correct": "B",
+      "explanation": "For pasture-related heaves (SPAOPD), horses should be removed from pasture during hot, humid months. Keeping on pasture (A), antibiotics (C), or more exercise (D) are not appropriate."
+    },
+    {
+      "id": 14,
+      "stem": "Inhaled therapies for RAO include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antibiotics only"
+        },
+        {
+          "label": "B",
+          "text": "Corticosteroids to reduce airway inflammation and bronchodilators to open airways"
+        },
+        {
+          "label": "C",
+          "text": "Antivirals"
+        },
+        {
+          "label": "D",
+          "text": "Antifungals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Inhaled therapies include corticosteroids to reduce airway inflammation and bronchodilators to open airways. Antibiotics (A), antivirals (C), and antifungals (D) are not inhaled therapies for RAO."
+    },
+    {
+      "id": 15,
+      "stem": "Systemic steroids for RAO should be used with caution because long-term use can lead to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weight gain only"
+        },
+        {
+          "label": "B",
+          "text": "Laminitis, GI, and liver issues"
+        },
+        {
+          "label": "C",
+          "text": "No side effects"
+        },
+        {
+          "label": "D",
+          "text": "Only mild side effects"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Systemic steroids should be used with caution because long-term use can lead to laminitis, GI, and liver issues. Weight gain only (A), no side effects (C), or only mild side effects (D) are not accurate."
+    },
+    {
+      "id": 16,
+      "stem": "Oral bronchodilators used in RAO include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Clenbuterol"
+        },
+        {
+          "label": "C",
+          "text": "Furosemide"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Oral bronchodilators used in RAO include clenbuterol. Penicillin (A), furosemide (C), and digoxin (D) are not bronchodilators."
+    },
+    {
+      "id": 17,
+      "stem": "Nutritional support for RAO may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-fat diets only"
+        },
+        {
+          "label": "B",
+          "text": "Balanced vitamins and minerals, omega-3 fatty acids, and supplements like spirulina"
+        },
+        {
+          "label": "C",
+          "text": "High-carbohydrate diets"
+        },
+        {
+          "label": "D",
+          "text": "No special nutritional support needed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Nutritional support may include balanced vitamins and minerals, omega-3 fatty acids, and supplements like spirulina. High-fat diets (A), high-carbohydrate diets (C), or no support (D) are not appropriate."
+    },
+    {
+      "id": 18,
+      "stem": "The prognosis for RAO depends on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Age of the horse only"
+        },
+        {
+          "label": "B",
+          "text": "Stage and management"
+        },
+        {
+          "label": "C",
+          "text": "Breed only"
+        },
+        {
+          "label": "D",
+          "text": "Sex only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The prognosis depends on stage and management. Age only (A), breed only (C), or sex only (D) are not the determining factors."
+    },
+    {
+      "id": 19,
+      "stem": "With good management, horses with RAO can:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Never perform any work"
+        },
+        {
+          "label": "B",
+          "text": "Live comfortably and perform light work"
+        },
+        {
+          "label": "C",
+          "text": "Return to full athletic performance immediately"
+        },
+        {
+          "label": "D",
+          "text": "Be completely cured"
+        }
+      ],
+      "correct": "B",
+      "explanation": "With good management, horses with RAO can live comfortably and perform light work. Never performing work (A), full athletic performance (C), or complete cure (D) are not accurate."
+    },
+    {
+      "id": 20,
+      "stem": "RAO is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Curable with antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Lifelong but manageable"
+        },
+        {
+          "label": "C",
+          "text": "Preventable with vaccination"
+        },
+        {
+          "label": "D",
+          "text": "Only affects older horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "RAO is lifelong but manageable. It is not curable with antibiotics (A), preventable with vaccination (C), or only affects older horses (D)."
+    }
+  ]
+}

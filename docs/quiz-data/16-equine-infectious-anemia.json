@@ -1,0 +1,606 @@
+{
+  "topic": "16. Equine Infectious Anemia",
+  "slug": "16-equine-infectious-anemia",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine infectious anemia (EIA) is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A highly contagious respiratory disease of equids caused by an orthomyxovirus"
+        },
+        {
+          "label": "B",
+          "text": "A noncontagious infectious disease of equids caused by a lentivirus, characterized by lifelong infection"
+        },
+        {
+          "label": "C",
+          "text": "A bacterial septicemia of equids caused by blood‑borne spirochetes"
+        },
+        {
+          "label": "D",
+          "text": "A prion disease of equids with progressive neurologic signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EIA is a noncontagious infectious disease of equids caused by equine infectious anemia virus, a lentivirus that establishes lifelong infection with recurrent viremia. It is not a highly contagious respiratory disease (A), bacterial septicemia (C), or a prion disease (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The causative agent of EIA belongs to which viral family and genus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paramyxoviridae, Morbillivirus"
+        },
+        {
+          "label": "B",
+          "text": "Retroviridae, Lentivirus"
+        },
+        {
+          "label": "C",
+          "text": "Herpesviridae, Alphaherpesvirus"
+        },
+        {
+          "label": "D",
+          "text": "Flaviviridae, Flavivirus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EIAV is an RNA virus in the family Retroviridae, genus Lentivirus, which includes other persistent, slow viruses. The other families and genera (A, C, D) do not describe EIAV."
+    },
+    {
+      "id": 3,
+      "stem": "Which statement about environmental stability and disinfection of EIAV is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EIAV is highly resistant and survives most common disinfectants"
+        },
+        {
+          "label": "B",
+          "text": "EIAV is inactivated only by strong oxidizing agents"
+        },
+        {
+          "label": "C",
+          "text": "EIAV is readily inactivated by most common disinfectants"
+        },
+        {
+          "label": "D",
+          "text": "EIAV forms spores that persist for months in the environment"
+        }
+      ],
+      "correct": "C",
+      "explanation": "EIAV is relatively labile and is readily inactivated by most common disinfectants, so basic hygiene and disinfection are effective. It is not highly resistant or spore‑forming (A, D), and does not require only extreme disinfectants (B)."
+    },
+    {
+      "id": 4,
+      "stem": "Which cells are primarily infected by EIAV, leading to lifelong infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neutrophils and eosinophils"
+        },
+        {
+          "label": "B",
+          "text": "Monocytes and macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocytes and biliary epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Neurons and oligodendrocytes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EIAV infects monocytes and replicates when they differentiate into macrophages, leading to viremia and immune‑mediated disease. Neutrophils (A), hepatocytes (C), and neurons (D) are not the main target cells described."
+    },
+    {
+      "id": 5,
+      "stem": "Which pathophysiologic effect is MOST directly associated with EIAV‑infected macrophages and their cytokine release?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperinsulinemia and laminitis"
+        },
+        {
+          "label": "B",
+          "text": "Increased TNF‑α, IL‑1, IL‑6, and TGF‑β causing fever, thrombocytopenia, and inhibition of erythropoiesis"
+        },
+        {
+          "label": "C",
+          "text": "Excess cortisol production leading to immunosuppression"
+        },
+        {
+          "label": "D",
+          "text": "Direct myelin destruction producing peripheral neuropathy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Infection of macrophages alters host gene expression, increasing cytokines such as TNF‑α, IL‑1, IL‑6, and TGF‑β, which trigger fever, contribute to thrombocytopenia, and inhibit erythropoiesis, worsening anemia. Hyperinsulinemia (A), cortisol excess (C), and primary myelin destruction (D) are not central mechanisms in EIA."
+    },
+    {
+      "id": 6,
+      "stem": "Immune‑mediated destruction of which components is a major contributor to anemia and organ enlargement in EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgE‑coated mast cells"
+        },
+        {
+          "label": "B",
+          "text": "IgG/IgM‑coated platelets and virus‑bound red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Free hemoglobin in plasma"
+        },
+        {
+          "label": "D",
+          "text": "Activated neutrophils in circulation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Immune‑mediated destruction of IgG/IgM‑coated platelets and virus‑bound red blood cells causes thrombocytopenia, anemia, splenomegaly, and hepatomegaly. Mast cells (A), free hemoglobin (C), and neutrophils (D) are not the primary targets highlighted."
+    },
+    {
+      "id": 7,
+      "stem": "Chronic immune complex deposition in EIA is MOST likely to cause which lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myocarditis and endocarditis only"
+        },
+        {
+          "label": "B",
+          "text": "Vasculitis, glomerulonephritis, and edema"
+        },
+        {
+          "label": "C",
+          "text": "Myositis and osteomyelitis"
+        },
+        {
+          "label": "D",
+          "text": "Encephalitis and meningitis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Immune complexes formed during EIA can deposit in vessels and kidneys, leading to vasculitis, glomerulonephritis, and edema. The other options (A, C, D) list lesions not emphasized as typical outcomes of immune complex deposition in this disease."
+    },
+    {
+      "id": 8,
+      "stem": "Frequent antigenic variation of EIAV primarily results in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid viral clearance and lifelong immunity"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent febrile episodes and persistence as an inapparent carrier that may relapse under stress"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the virus to establish infection"
+        },
+        {
+          "label": "D",
+          "text": "Development of protective cross‑neutralizing antibodies against all strains"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Frequent antigenic variation of EIAV allows immune escape, causing recurrent fever and eventually an inapparent carrier state that can relapse under stress. It does not promote rapid clearance (A), failure of infection (C), or universal cross‑protection (D)."
+    },
+    {
+      "id": 9,
+      "stem": "Regarding host range and susceptibility, which statement is MOST correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only horses are susceptible; donkeys and mules are naturally resistant"
+        },
+        {
+          "label": "B",
+          "text": "All equids, including horses, ponies, donkeys, mules, and zebras, are susceptible"
+        },
+        {
+          "label": "C",
+          "text": "Only donkeys and zebras are naturally susceptible"
+        },
+        {
+          "label": "D",
+          "text": "Only young foals develop clinical disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "All equids, including horses, ponies, donkeys, mules, and zebras, are susceptible to EIA. Donkeys and mules are not resistant (A), and susceptibility is not restricted to certain species or ages (C, D)."
+    },
+    {
+      "id": 10,
+      "stem": "Which species are MOST likely to show overt, severe clinical disease with EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Donkeys and mules"
+        },
+        {
+          "label": "B",
+          "text": "Ponies and horses"
+        },
+        {
+          "label": "C",
+          "text": "Zebras only"
+        },
+        {
+          "label": "D",
+          "text": "All species show equal severity"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses and ponies tend to develop more overt or severe clinical disease, while donkeys and mules are more likely to have subclinical or inapparent infections. Thus, option A is incorrect, and C–D do not reflect the described species differences."
+    },
+    {
+      "id": 11,
+      "stem": "Which clinical form of EIA can cause death within 1–3 days, sometimes before diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inapparent carrier form"
+        },
+        {
+          "label": "B",
+          "text": "Chronic form"
+        },
+        {
+          "label": "C",
+          "text": "Acute/peracute form"
+        },
+        {
+          "label": "D",
+          "text": "Subacute respiratory form"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The acute/peracute form may last only 1–3 days and can be fatal before diagnosis, with sudden collapse or death. The chronic (B) and inapparent (A) forms are more prolonged, and a “subacute respiratory form” (D) is not a classic category."
+    },
+    {
+      "id": 12,
+      "stem": "Which combination of signs is MOST typical of the acute/peracute form of EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High fever, severe thrombocytopenia, anemia, hemorrhages, collapse or sudden death"
+        },
+        {
+          "label": "B",
+          "text": "Chronic cough, nasal discharge, and dyspnea only"
+        },
+        {
+          "label": "C",
+          "text": "Colic, diarrhea, and dehydration only"
+        },
+        {
+          "label": "D",
+          "text": "Ataxia, seizures, and blindness"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Acute/peracute EIA is characterized by high fever (up to 41°C), severe thrombocytopenia and anemia, depression, weakness, tachycardia, tachypnea, hemorrhages, and possible collapse or sudden death. Purely respiratory signs (B), gastrointestinal signs (C), or neurologic signs (D) do not describe the typical acute presentation."
+    },
+    {
+      "id": 13,
+      "stem": "The chronic form of EIA is BEST characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A single prolonged febrile episode followed by full recovery"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent febrile episodes with thrombocytopenia, progressive weight loss, edema, and organomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Only subclinical laboratory changes without observable signs"
+        },
+        {
+          "label": "D",
+          "text": "Acute neurologic deterioration with head pressing"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The chronic form has recurrent febrile episodes with thrombocytopenia, progressive weight loss, weakness, depression, ventral/subcutaneous edema, jaundice, and organomegaly. A single episode with full recovery (A), silent laboratory changes only (C), or acute neurologic dysfunction (D) are not characteristic."
+    },
+    {
+      "id": 14,
+      "stem": "The inapparent (subclinical) carrier state in EIA is characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete viral clearance and no risk of transmission"
+        },
+        {
+          "label": "B",
+          "text": "Lifelong infection with possible mild fever, anemia, or thrombocytopenia under stress"
+        },
+        {
+          "label": "C",
+          "text": "Short‑term viremia that resolves in weeks"
+        },
+        {
+          "label": "D",
+          "text": "Clinical disease only during winter months"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Inapparent carriers show no obvious signs most of the time but remain viremic and infectious for life; under stress or concurrent disease they may show mild fever, anemia, or thrombocytopenia. The virus is not cleared (A), and infection is not short‑term (C) or seasonally restricted (D)."
+    },
+    {
+      "id": 15,
+      "stem": "Which gross lesions are MOST likely in an acute fatal case of EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe pneumonia and pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Splenomegaly, hepatomegaly, enlarged abdominal lymph nodes, dependent edema, mucosal hemorrhages"
+        },
+        {
+          "label": "C",
+          "text": "Cerebral edema and herniation"
+        },
+        {
+          "label": "D",
+          "text": "Gastric ulcers and intestinal torsion"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Acute fatal EIA commonly shows splenomegaly, hepatomegaly, enlarged abdominal lymph nodes, dependent edema, and mucosal hemorrhages. The other options (A, C, D) describe lesions not typical of EIA’s acute gross pathology."
+    },
+    {
+      "id": 16,
+      "stem": "What is the PRIMARY natural route of transmission of EIAV between horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aerosol spread over short distances"
+        },
+        {
+          "label": "B",
+          "text": "Direct nose‑to‑nose contact with nasal secretions"
+        },
+        {
+          "label": "C",
+          "text": "Mechanical transmission of infected blood by biting flies such as horseflies and deerflies"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of contaminated feed and water"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The principal natural route of transmission is mechanical transfer of infected blood on the mouthparts of biting flies, especially horseflies and deerflies. Aerosol (A), direct respiratory contact (B), or ingestion (D) are not primary mechanisms."
+    },
+    {
+      "id": 17,
+      "stem": "Which statement about iatrogenic transmission of EIA is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iatrogenic transmission does not occur"
+        },
+        {
+          "label": "B",
+          "text": "It can occur via contaminated needles, syringes, blood products, or surgical/dental instruments"
+        },
+        {
+          "label": "C",
+          "text": "It only occurs via contaminated fecal material"
+        },
+        {
+          "label": "D",
+          "text": "It is limited to transmission through hoof trimming tools"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Iatrogenic transmission can occur via contaminated needles, syringes, IV sets, blood transfusions, or inadequately disinfected surgical/dental instruments. It is not limited to fecal contamination (C) or hoof tools (D), and it certainly can occur (A)."
+    },
+    {
+      "id": 18,
+      "stem": "In endemic, swampy regions, EIA risk is increased by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low fly presence and arid climate"
+        },
+        {
+          "label": "B",
+          "text": "Dense biting fly populations and high equid density, with shared or unsterile equipment"
+        },
+        {
+          "label": "C",
+          "text": "Absence of equids and intensive fly control"
+        },
+        {
+          "label": "D",
+          "text": "Exclusive housing of horses indoors with screened stalls"
+        }
+      ],
+      "correct": "B",
+      "explanation": "High densities of biting flies and equids, use of shared or unsterile equipment, and poor pasture management that promotes fly contact all increase EIA risk in endemic swampy regions. Low fly presence (A), absence of equids (C), or strict indoor housing with screening (D) reduce, not increase, risk."
+    },
+    {
+      "id": 19,
+      "stem": "What is the MAIN diagnostic approach for confirming EIA infection in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fecal culture for the virus"
+        },
+        {
+          "label": "B",
+          "text": "Serologic testing to detect antibodies against EIAV"
+        },
+        {
+          "label": "C",
+          "text": "Skin scraping and cytology"
+        },
+        {
+          "label": "D",
+          "text": "Liver biopsy and histopathology only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Diagnosis is primarily based on serologic testing to detect antibodies against EIAV; clinical signs are nonspecific. Fecal culture (A), skin scraping (C), or liver biopsy alone (D) are not standard diagnostic approaches."
+    },
+    {
+      "id": 20,
+      "stem": "Which serologic test is considered the internationally recognized gold standard confirmatory test for EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Competitive ELISA"
+        },
+        {
+          "label": "B",
+          "text": "Western blot"
+        },
+        {
+          "label": "C",
+          "text": "Agar gel immunodiffusion (AGID, Coggins test)"
+        },
+        {
+          "label": "D",
+          "text": "Hemagglutination inhibition test"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The agar gel immunodiffusion test (AGID or Coggins test) is the gold standard, internationally recognized confirmatory test for EIA. ELISA (A) is a rapid screening tool that may require confirmation, and Western blot (B) is supplemental."
+    },
+    {
+      "id": 21,
+      "stem": "A screening ELISA test for EIA comes back positive in a clinically normal horse. The MOST appropriate next step is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Declare the horse negative and ignore the result"
+        },
+        {
+          "label": "B",
+          "text": "Confirm the result with an AGID (Coggins) test due to risk of false positives"
+        },
+        {
+          "label": "C",
+          "text": "Immediately release the horse for travel and competition"
+        },
+        {
+          "label": "D",
+          "text": "Treat the horse with antiviral drugs and then retest"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Because EIA ELISAs are sensitive but can yield false positives, any positive ELISA should be confirmed with an AGID (Coggins) test. Declaring the horse negative (A) or proceeding with normal movement (C) is unsafe, and there is no antiviral therapy to clear infection (D)."
+    },
+    {
+      "id": 22,
+      "stem": "Which statement about treatment of EIA is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antiviral drugs can eliminate EIAV and reverse the carrier state"
+        },
+        {
+          "label": "B",
+          "text": "There is no specific treatment or cure; supportive care may help acutely ill horses but does not clear infection"
+        },
+        {
+          "label": "C",
+          "text": "Early antibiotic therapy is curative if started within 48 hours"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids reliably eliminate the virus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "There is no specific treatment or cure for EIA; supportive therapy may help acutely ill horses but does not eliminate EIAV or the carrier state. Antivirals (A), antibiotics (C), or corticosteroids (D) are not curative."
+    },
+    {
+      "id": 23,
+      "stem": "Recommended management options for horses that test positive for EIA include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free movement and sale without restriction"
+        },
+        {
+          "label": "B",
+          "text": "Euthanasia or strict lifelong quarantine at least ~200 m from other equids with vector control"
+        },
+        {
+          "label": "C",
+          "text": "Short‑term isolation followed by return to the herd"
+        },
+        {
+          "label": "D",
+          "text": "Vaccination and then return to normal use"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Management options for EIA‑positive horses are euthanasia or strict lifelong quarantine at least about 200 m from other equids under tight vector control. Unrestricted movement or sale (A), brief isolation (C), or vaccination (D) are not appropriate."
+    },
+    {
+      "id": 24,
+      "stem": "Which statement about prevention and control of EIA is MOST correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An effective vaccine is widely available and used in endemic areas"
+        },
+        {
+          "label": "B",
+          "text": "Prevention relies on regular testing, biosecurity, vector control, and regulatory measures for positive animals"
+        },
+        {
+          "label": "C",
+          "text": "Once a horse is infected, routine testing is unnecessary"
+        },
+        {
+          "label": "D",
+          "text": "Vector control has no impact on EIA transmission risk"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Because there is no vaccine, prevention relies on regular testing and surveillance, quarantine and testing of new arrivals, biosecurity (clean needles, disinfection, safe blood products), fly control, and regulatory restrictions on positive animals. An effective vaccine (A) does not exist, and ignoring testing (C) or vector control (D) is unsafe."
+    },
+    {
+      "id": 25,
+      "stem": "Regarding public health, which statement is TRUE about EIA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EIAV is a significant zoonosis commonly transmitted to humans"
+        },
+        {
+          "label": "B",
+          "text": "Human infection is possible but usually asymptomatic"
+        },
+        {
+          "label": "C",
+          "text": "There is no evidence that EIA is transmissible to humans"
+        },
+        {
+          "label": "D",
+          "text": "People with immunosuppression are at high risk of EIA"
+        }
+      ],
+      "correct": "C",
+      "explanation": "There is no evidence that EIAV is zoonotic or transmissible to humans, so it is not a recognized public health threat. Therefore, options A, B, and D are incorrect."
+    }
+  ]
+}
