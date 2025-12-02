@@ -207,10 +207,18 @@ function renderAllQuestions() {
       const label = document.createElement("label");
       label.className = "option-label";
       label.htmlFor = input.id;
+      label.tabIndex = -1; // Prevent label from receiving focus
       label.innerHTML = `
         <span class="option-badge">${opt.label}</span>
         <span class="option-text">${opt.text}</span>
       `;
+      
+      // Prevent label from receiving focus
+      label.addEventListener("focus", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        label.blur();
+      });
       
       // Prevent label interactions from causing scroll
       const handleLabelInteraction = (e) => {
