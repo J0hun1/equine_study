@@ -190,6 +190,14 @@ function renderAllQuestions() {
       input.value = opt.label;
       input.id = `opt-${q.id}-${opt.label}`;
       input.className = "option-radio";
+      input.tabIndex = -1; // Prevent focus to avoid scroll jumps
+      
+      // Prevent focus-related scrolling
+      input.addEventListener("focus", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        input.blur();
+      });
 
       // Restore previously selected answer if present
       if (state.answers[q.id] === opt.label) {
@@ -203,6 +211,32 @@ function renderAllQuestions() {
         <span class="option-badge">${opt.label}</span>
         <span class="option-text">${opt.text}</span>
       `;
+      
+      // Prevent label interactions from causing scroll
+      const handleLabelInteraction = (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        
+        // Save scroll position before any changes
+        const quizPanel = document.querySelector(".quiz-panel");
+        const savedScroll = quizPanel ? quizPanel.scrollTop : 0;
+        
+        // Manually check the radio and trigger change
+        if (!input.checked) {
+          input.checked = true;
+          const changeEvent = new Event("change", { bubbles: true, cancelable: true });
+          input.dispatchEvent(changeEvent);
+        }
+        
+        // Restore scroll immediately
+        if (quizPanel) {
+          quizPanel.scrollTop = savedScroll;
+        }
+      };
+      
+      label.addEventListener("mousedown", handleLabelInteraction);
+      label.addEventListener("touchstart", handleLabelInteraction);
+      label.addEventListener("click", handleLabelInteraction);
 
       row.appendChild(input);
       row.appendChild(label);
@@ -215,6 +249,11 @@ function renderAllQuestions() {
     block.appendChild(qFeedback);
 
     questionContainerEl.appendChild(block);
+
+    // If this question already has an answer in state, show its feedback immediately
+    if (state.answers[q.id]) {
+      evaluateSingleQuestion(q, state, false);
+    }
   });
 
   // After rendering, recompute topic score in case some questions were already answered
@@ -266,6 +305,10 @@ function onSubmitAnswer() {
 
 function onOptionChange(event) {
   if (!currentTopic || !currentTopicSlug) return;
+  
+  const quizPanel = document.querySelector(".quiz-panel");
+  const scrollTop = quizPanel ? quizPanel.scrollTop : 0;
+  
   const target = event.target;
   if (!(target instanceof HTMLInputElement)) return;
   if (target.type !== "radio") return;
@@ -288,6 +331,20 @@ function onOptionChange(event) {
   recomputeTopicScore();
   updateGlobalStats();
   saveLocalState();
+
+  // Restore scroll position immediately and after frame
+  if (quizPanel) {
+    quizPanel.scrollTop = scrollTop;
+  }
+  
+  // Double-check after all updates
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      if (quizPanel) {
+        quizPanel.scrollTop = scrollTop;
+      }
+    });
+  });
 }
 
 function evaluateSingleQuestion(q, state, showAsCompleted) {
@@ -297,8 +354,18 @@ function evaluateSingleQuestion(q, state, showAsCompleted) {
   const qFeedback = document.querySelector(
     `.q-feedback[data-qid="${q.id}"]`
   );
+  const questionBlock = document.querySelector(
+    `.question-container[data-qid="${q.id}"]`
+  );
 
   if (!qFeedback) return { isCorrect: false, isUnanswered: true };
+
+  // Clear all answer styling classes from all options for this question
+  if (questionBlock) {
+    questionBlock.querySelectorAll(".option-label").forEach((label) => {
+      label.classList.remove("correct-answer", "incorrect-answer");
+    });
+  }
 
   qFeedback.classList.remove("hidden", "correct", "incorrect");
 
@@ -315,6 +382,16 @@ function evaluateSingleQuestion(q, state, showAsCompleted) {
 
   const isCorrect = chosen === q.correct;
   qFeedback.classList.add(isCorrect ? "correct" : "incorrect");
+
+  // Apply visual feedback to the selected option only
+  const selectedLabel = selected.nextElementSibling;
+  if (selectedLabel && selectedLabel.classList.contains("option-label")) {
+    if (isCorrect) {
+      selectedLabel.classList.add("correct-answer");
+    } else {
+      selectedLabel.classList.add("incorrect-answer");
+    }
+  }
 
   const statusText = isCorrect ? "Correct" : "Incorrect";
   const answerLine = `Correct answer: ${q.correct}`;
@@ -372,12 +449,10 @@ function recomputeTopicScore() {
     unansweredCount ? ` (Unanswered: ${unansweredCount})` : ""
   }`;
 
-  // Re-render sidebar scores to reflect latest per-topic results
-  if (topicsIndex) {
-    renderTopicList();
-    if (currentTopicSlug) {
-      setActiveTopicButton(currentTopicSlug);
-    }
+  // Update sidebar scores in place instead of re-rendering entire list to prevent scroll jumps
+  updateTopicListScores();
+  if (currentTopicSlug) {
+    setActiveTopicButton(currentTopicSlug);
   }
 }
 
@@ -393,15 +468,44 @@ function updateTopicButtonsCompletion() {
   });
 }
 
+function updateTopicListScores() {
+  // Update topic meta scores in place without re-rendering entire list
+  document.querySelectorAll(".topic-button").forEach((btn) => {
+    const slug = btn.dataset.slug;
+    if (!slug) return;
+    const state = topicState[slug];
+    const topicMeta = topicsIndex?.topics?.find((t) => t.slug === slug);
+    if (!topicMeta) return;
+    
+    const total = (state && state.total) || topicMeta.numQuestions || 0;
+    const correct = (state && state.correct) || 0;
+    const metaEl = btn.querySelector(".topic-meta");
+    if (metaEl) {
+      metaEl.textContent = `${correct}/${total}`;
+    }
+  });
+}
+
 function updateGlobalStats() {
   let totalCorrect = 0;
   let totalUnanswered = 0;
 
-  Object.values(topicState).forEach((state) => {
-    if (!state || !state.total) return;
-    totalCorrect += state.correct || 0;
-    totalUnanswered += state.unanswered || 0;
-  });
+  // Count from all topics
+  if (topicsIndex && topicsIndex.topics) {
+    topicsIndex.topics.forEach((topicMeta) => {
+      const state = topicState[topicMeta.slug];
+      const topicTotal = topicMeta.numQuestions || 0;
+      
+      if (state && state.total) {
+        // Topic has been visited - use its calculated values
+        totalCorrect += state.correct || 0;
+        totalUnanswered += state.unanswered || 0;
+      } else {
+        // Topic hasn't been visited yet - count all questions as unanswered
+        totalUnanswered += topicTotal;
+      }
+    });
+  }
 
   globalScoreEl.textContent = `Total score: ${totalCorrect} / ${globalTotalQuestions}`;
   globalUnansweredEl.textContent = `Unanswered: ${totalUnanswered}`;
