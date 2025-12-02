@@ -3,15 +3,11 @@ const quizTitleEl = document.getElementById("quiz-title");
 const quizProgressEl = document.getElementById("quiz-progress");
 const quizBodyEl = document.getElementById("quiz-body");
 const questionContainerEl = document.getElementById("question-container");
-const optionsFormEl = document.getElementById("options-form");
 const feedbackEl = document.getElementById("feedback");
 const submitBtn = document.getElementById("submit-btn");
-const nextBtn = document.getElementById("next-btn");
 
 let topicsIndex = null;
 let currentTopic = null;
-let currentQuestionIndex = 0;
-let answeredCurrent = false;
 
 async function loadTopics() {
   try {
@@ -70,9 +66,7 @@ async function onSelectTopic(topicMeta) {
     const res = await fetch(`quiz-data/${topicMeta.file}`);
     const data = await res.json();
     currentTopic = data;
-    currentQuestionIndex = 0;
-    answeredCurrent = false;
-    showCurrentQuestion();
+    renderAllQuestions();
   } catch (err) {
     console.error("Failed to load topic file:", err);
     quizProgressEl.textContent =
@@ -80,104 +74,103 @@ async function onSelectTopic(topicMeta) {
   }
 }
 
-function showCurrentQuestion() {
+function renderAllQuestions() {
   if (!currentTopic) return;
   const total = currentTopic.questions.length;
 
-  if (currentQuestionIndex < 0) currentQuestionIndex = 0;
-  if (currentQuestionIndex >= total) currentQuestionIndex = total - 1;
-
-  const q = currentTopic.questions[currentQuestionIndex];
-
-  quizProgressEl.textContent = `Question ${currentQuestionIndex + 1} of ${total}`;
+  quizProgressEl.textContent = `${total} question(s) in this topic. Answer all, then click "Check all answers".`;
   quizBodyEl.classList.remove("hidden");
   feedbackEl.classList.add("hidden");
   feedbackEl.textContent = "";
-  answeredCurrent = false;
   submitBtn.disabled = false;
-  nextBtn.disabled = true;
 
   questionContainerEl.innerHTML = "";
-  const title = document.createElement("h3");
-  title.className = "question-title";
-  title.textContent = `Q${q.id}. ${q.stem}`;
-  questionContainerEl.appendChild(title);
 
-  optionsFormEl.innerHTML = "";
-  q.options.forEach((opt) => {
-    const row = document.createElement("div");
-    row.className = "option-row";
+  currentTopic.questions.forEach((q) => {
+    const block = document.createElement("div");
+    block.className = "question-container";
+    block.dataset.qid = q.id;
 
-    const input = document.createElement("input");
-    input.type = "radio";
-    input.name = "option";
-    input.value = opt.label;
-    input.id = `opt-${q.id}-${opt.label}`;
+    const title = document.createElement("h3");
+    title.className = "question-title";
+    title.textContent = `Q${q.id}. ${q.stem}`;
+    block.appendChild(title);
 
-    const label = document.createElement("label");
-    label.className = "option-label";
-    label.htmlFor = input.id;
-    label.textContent = `${opt.label}. ${opt.text}`;
+    q.options.forEach((opt) => {
+      const row = document.createElement("div");
+      row.className = "option-row";
 
-    row.appendChild(input);
-    row.appendChild(label);
-    optionsFormEl.appendChild(row);
+      const input = document.createElement("input");
+      input.type = "radio";
+      input.name = `q-${q.id}`;
+      input.value = opt.label;
+      input.id = `opt-${q.id}-${opt.label}`;
+
+      const label = document.createElement("label");
+      label.className = "option-label";
+      label.htmlFor = input.id;
+      label.textContent = `${opt.label}. ${opt.text}`;
+
+      row.appendChild(input);
+      row.appendChild(label);
+      block.appendChild(row);
+    });
+
+    const qFeedback = document.createElement("div");
+    qFeedback.className = "feedback q-feedback hidden";
+    qFeedback.dataset.qid = q.id;
+    block.appendChild(qFeedback);
+
+    questionContainerEl.appendChild(block);
   });
-}
-
-function getSelectedOption() {
-  const checked = optionsFormEl.querySelector('input[name="option"]:checked');
-  return checked ? checked.value : null;
 }
 
 function onSubmitAnswer() {
   if (!currentTopic) return;
-  if (answeredCurrent) return;
-
-  const selected = getSelectedOption();
-  if (!selected) {
-    feedbackEl.classList.remove("hidden");
-    feedbackEl.classList.remove("correct", "incorrect");
-    feedbackEl.textContent = "Please select an option first.";
-    return;
-  }
-
-  const q = currentTopic.questions[currentQuestionIndex];
-  const isCorrect = selected === q.correct;
-  answeredCurrent = true;
-
-  feedbackEl.classList.remove("hidden");
-  feedbackEl.classList.toggle("correct", isCorrect);
-  feedbackEl.classList.toggle("incorrect", !isCorrect);
-
-  const answerText = isCorrect
-    ? "Correct!"
-    : `Incorrect. Correct answer: ${q.correct}.`;
-
-  const explanation = q.explanation ? ` ${q.explanation}` : "";
-  feedbackEl.textContent = `${answerText}${explanation ? " " + explanation : ""}`;
-
-  submitBtn.disabled = true;
-  nextBtn.disabled = false;
-}
-
-function onNextQuestion() {
-  if (!currentTopic) return;
-  if (!answeredCurrent) return;
 
   const total = currentTopic.questions.length;
-  if (currentQuestionIndex < total - 1) {
-    currentQuestionIndex += 1;
-    showCurrentQuestion();
-  } else {
-    quizProgressEl.textContent = `Finished ${currentTopic.topic} – ${total} question(s).`;
-    quizBodyEl.classList.add("hidden");
-  }
+  let correctCount = 0;
+  let unansweredCount = 0;
+
+  currentTopic.questions.forEach((q) => {
+    const selected = document.querySelector(
+      `input[name="q-${q.id}"]:checked`
+    );
+    const qFeedback = document.querySelector(
+      `.q-feedback[data-qid="${q.id}"]`
+    );
+
+    if (!qFeedback) return;
+
+    qFeedback.classList.remove("hidden", "correct", "incorrect");
+
+    if (!selected) {
+      unansweredCount += 1;
+      qFeedback.classList.add("incorrect");
+      qFeedback.textContent = "No option selected.";
+      return;
+    }
+
+    const chosen = selected.value;
+    const isCorrect = chosen === q.correct;
+    if (isCorrect) correctCount += 1;
+
+    qFeedback.classList.add(isCorrect ? "correct" : "incorrect");
+    const answerText = isCorrect
+      ? "Correct!"
+      : `Incorrect. Correct answer: ${q.correct}.`;
+    const explanation = q.explanation ? ` ${q.explanation}` : "";
+    qFeedback.textContent = `${answerText}${explanation}`;
+  });
+
+  feedbackEl.classList.remove("hidden");
+  feedbackEl.classList.remove("correct", "incorrect");
+  feedbackEl.textContent = `Score: ${correctCount} / ${total}${
+    unansweredCount ? ` (Unanswered: ${unansweredCount})` : ""
+  }`;
 }
 
 submitBtn.addEventListener("click", onSubmitAnswer);
-nextBtn.addEventListener("click", onNextQuestion);
 
 loadTopics();
-
 

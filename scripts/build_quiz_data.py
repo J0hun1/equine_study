@@ -3,10 +3,11 @@ import re
 from pathlib import Path
 
 
-BASE_DIR = Path(__file__).resolve().parent
-QUESTIONS_DIR = BASE_DIR / "questions"
-ANSWERS_DIR = BASE_DIR / "answers"
-OUT_DIR = BASE_DIR / "web" / "quiz-data"
+SCRIPT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = SCRIPT_DIR.parent
+QUESTIONS_DIR = ROOT_DIR / "questions"
+ANSWERS_DIR = ROOT_DIR / "answers"
+OUT_DIR = ROOT_DIR / "docs" / "quiz-data"
 
 
 QUESTION_RE = re.compile(r"^Q(\d+)\.\s*(.+)")
