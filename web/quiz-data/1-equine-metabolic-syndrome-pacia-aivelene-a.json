@@ -1,0 +1,486 @@
+{
+  "topic": "1. Equine Metabolic Syndrome-Pacia, Aivelene A.",
+  "slug": "1-equine-metabolic-syndrome-pacia-aivelene-a",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine metabolic syndrome (EMS) is best described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A congenital musculoskeletal deformity that causes acute laminitis in foals"
+        },
+        {
+          "label": "B",
+          "text": "A collection of clinical and clinicopathologic changes that increase risk of hyperinsulinemia‑associated laminitis in equids"
+        },
+        {
+          "label": "C",
+          "text": "A primary pituitary disorder that causes pars intermedia hyperplasia and laminitis"
+        },
+        {
+          "label": "D",
+          "text": "An infectious metabolic disease caused by a high‑sugar diet in adult horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EMS is a characteristic collection of clinical signs and clinicopathologic changes in equids that increases the risk of hyperinsulinemia‑associated laminitis (HAL). It is not a congenital deformity (A), primary pituitary disease (C), or an infectious process (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The core pathophysiologic abnormality in equine metabolic syndrome is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperlipemia"
+        },
+        {
+          "label": "B",
+          "text": "Insulin dysregulation"
+        },
+        {
+          "label": "C",
+          "text": "Primary hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Hyponatremia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Insulin dysregulation (ID) is the core component of EMS, leading to hyperinsulinemia and laminitis risk. Hyperlipemia (A) can occur with severe feed restriction, while primary hypothyroidism (C) and hyponatremia (D) are not central to EMS."
+    },
+    {
+      "id": 3,
+      "stem": "Which group is MOST commonly affected by EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ponies and certain easy‑keeper horse breeds such as Morgans and Paso Finos"
+        },
+        {
+          "label": "B",
+          "text": "Young Thoroughbred racehorses"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal foals of any breed"
+        },
+        {
+          "label": "D",
+          "text": "Geriatric Standardbreds only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "EMS is most common in ponies and certain “easy‑keeper” breeds such as Saddlebreds, Tennessee Walking Horses, Paso Finos, Morgans, and Mustangs. Thoroughbreds and Standardbreds (B, D) are less frequently affected, and foals (C) are not the typical population."
+    },
+    {
+      "id": 4,
+      "stem": "A typical body condition profile of a horse with EMS includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Emaciation with prominent ribs and no regional adiposity"
+        },
+        {
+          "label": "B",
+          "text": "Normal body condition with no fat accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Obesity or overconditioning with regional adiposity at the neck and tailhead"
+        },
+        {
+          "label": "D",
+          "text": "Cachexia with muscle wasting and potbelly"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Affected horses are often obese or overconditioned with regional adiposity, especially a cresty neck and fat at the tailhead. Emaciation (A) and cachexia (D) are the opposite of EMS, and normal body condition (B) does not reflect the typical phenotype."
+    },
+    {
+      "id": 5,
+      "stem": "Which statement regarding the relationship between EMS and PPID is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EMS and PPID never occur together"
+        },
+        {
+          "label": "B",
+          "text": "PPID is the only cause of laminitis in older horses, not EMS"
+        },
+        {
+          "label": "C",
+          "text": "EMS and PPID can occur concurrently in middle‑aged and older horses, and each horse should be evaluated for both"
+        },
+        {
+          "label": "D",
+          "text": "Horses with PPID should not be tested for insulin dysregulation"
+        }
+      ],
+      "correct": "C",
+      "explanation": "EMS and PPID can occur concurrently in middle‑aged and older horses, and horses with one condition should be evaluated for the other. They clearly can coexist (contradicting A), PPID is not the only cause of laminitis (B), and PPID horses should indeed be checked for ID (D)."
+    },
+    {
+      "id": 6,
+      "stem": "What is the main mechanism by which EMS predisposes horses to laminitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial toxin absorption from the gut"
+        },
+        {
+          "label": "B",
+          "text": "Direct damage to the digital cushion by obesity"
+        },
+        {
+          "label": "C",
+          "text": "Hyperinsulinemia leading to laminar pathology"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E deficiency causing oxidative damage in the hoof"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Hyperinsulinemia is the key mediator linking EMS to laminitis, with high insulin concentrations damaging laminar tissues. Bacterial toxins (A), direct fat compression of the hoof (B), and vitamin E deficiency (D) are not the primary mechanisms in EMS‑associated laminitis."
+    },
+    {
+      "id": 7,
+      "stem": "Which clinical finding is MOST consistent with EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Underweight horse with low body condition score and no hoof changes"
+        },
+        {
+          "label": "B",
+          "text": "Overconditioned horse with a cresty neck and fat deposits at the tailhead"
+        },
+        {
+          "label": "C",
+          "text": "Young foal with angular limb deformity"
+        },
+        {
+          "label": "D",
+          "text": "Adult horse with acute fever and neutropenia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A classic EMS horse is overconditioned or obese with a cresty neck and regional fat deposits. Underweight horses (A) and cachectic horses (D) do not match this picture, and there is often a history or risk of laminitis rather than an entirely normal horse (B)."
+    },
+    {
+      "id": 8,
+      "stem": "In a horse with EMS, subtle evidence of prior laminitis may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Petechial hemorrhages on mucous membranes"
+        },
+        {
+          "label": "B",
+          "text": "Hoof growth rings and radiographic evidence of third phalanx rotation"
+        },
+        {
+          "label": "C",
+          "text": "Swelling of digital flexor tendons without hoof change"
+        },
+        {
+          "label": "D",
+          "text": "Sole bruising only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Abnormal hoof growth rings and radiographic evidence of third phalanx rotation or pedal osteitis are typical occult signs of prior laminitis in EMS. Petechiae (A), tendon swelling (C), and sole bruising alone (D) are not characteristic evidence of past laminitis episodes in EMS."
+    },
+    {
+      "id": 9,
+      "stem": "The primary goal of diagnostic testing for EMS is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confirm hypothyroidism as the underlying cause of obesity"
+        },
+        {
+          "label": "B",
+          "text": "Document insulin dysregulation through appropriate testing"
+        },
+        {
+          "label": "C",
+          "text": "Identify pituitary tumors via MRI"
+        },
+        {
+          "label": "D",
+          "text": "Detect bacterial pathogens in blood culture"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The main diagnostic objective is to document insulin dysregulation using appropriate endocrine tests (e.g., resting insulin, OST, OGT). Hypothyroidism (A) and pituitary imaging (C) are not primary goals, and bacteremia (D) is irrelevant in EMS."
+    },
+    {
+      "id": 10,
+      "stem": "Why is it important to perform EMS diagnostic testing in a controlled, low‑stress environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stress and diet can alter blood glucose and insulin concentrations, affecting test interpretation"
+        },
+        {
+          "label": "B",
+          "text": "Stress decreases the risk of laminitis and masks EMS"
+        },
+        {
+          "label": "C",
+          "text": "Stress has no impact on endocrine testing results"
+        },
+        {
+          "label": "D",
+          "text": "Stress only affects liver enzymes, not insulin"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Diet, pain, and stress significantly influence blood glucose and insulin concentrations, so testing must be done under controlled, low‑stress conditions for valid results. Stress does not mask EMS (B), and it clearly does affect endocrine tests (C, D)."
+    },
+    {
+      "id": 11,
+      "stem": "During an oral sugar test (OST) in a horse suspected of EMS, which result supports a diagnosis of insulin dysregulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insulin concentration of 20 mIU/mL at 60–90 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Insulin concentration of 45 mIU/mL or greater at 60–90 minutes"
+        },
+        {
+          "label": "C",
+          "text": "Insulin concentration of 10 mIU/mL at 2 hours"
+        },
+        {
+          "label": "D",
+          "text": "Insulin concentration that decreases after corn syrup administration"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In the OST, an insulin concentration ≥ 45 mIU/mL at 60–90 minutes after corn syrup administration is consistent with insulin dysregulation. Lower values (A, C, D) would not meet the described diagnostic threshold."
+    },
+    {
+      "id": 12,
+      "stem": "A fasted horse undergoes an oral glucose test (OGT). Which finding is consistent with insulin dysregulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insulin ≥ 65 mIU/mL 2 hours after 0.75 g/kg dextrose"
+        },
+        {
+          "label": "B",
+          "text": "Insulin ≤ 20 mIU/mL 2 hours after dextrose"
+        },
+        {
+          "label": "C",
+          "text": "Insulin unchanged from baseline at 24 hours"
+        },
+        {
+          "label": "D",
+          "text": "Insulin < 10 mIU/mL 30 minutes after dextrose"
+        }
+      ],
+      "correct": "A",
+      "explanation": "In the OGT, an insulin concentration ≥ 65 mIU/mL 2 hours after giving 0.75 g/kg dextrose mixed with chaff is consistent with ID. The other answer choices describe lower or non‑diagnostic responses (B–D)."
+    },
+    {
+      "id": 13,
+      "stem": "Which resting insulin concentration indicates an ACCEPTABLE response to current management and LOW risk of laminitis in a horse with EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "≤ 50 mIU/mL"
+        },
+        {
+          "label": "B",
+          "text": "Between 50 and 100 mIU/mL"
+        },
+        {
+          "label": "C",
+          "text": "≥ 100 mIU/mL"
+        },
+        {
+          "label": "D",
+          "text": "≥ 200 mIU/mL"
+        }
+      ],
+      "correct": "A",
+      "explanation": "A blood insulin concentration ≤ 50 mIU/mL indicates an acceptable response to management and a low risk of laminitis. Values between 50–100 mIU/mL (B) are equivocal, and ≥ 100 mIU/mL (C, D) indicate poor control and high risk."
+    },
+    {
+      "id": 14,
+      "stem": "Which resting insulin concentration suggests inadequate management and HIGH risk of laminitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "≤ 20 mIU/mL"
+        },
+        {
+          "label": "B",
+          "text": "30–40 mIU/mL"
+        },
+        {
+          "label": "C",
+          "text": "≥ 100 mIU/mL"
+        },
+        {
+          "label": "D",
+          "text": "Exactly 50 mIU/mL"
+        }
+      ],
+      "correct": "C",
+      "explanation": "A blood insulin concentration ≥ 100 mIU/mL signifies inadequate management and a high laminitis risk. Lower or borderline values (A, B, D) do not indicate the same level of concern."
+    },
+    {
+      "id": 15,
+      "stem": "Which dietary recommendation is MOST appropriate for managing a horse with EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free‑choice pasture and grain to maintain weight"
+        },
+        {
+          "label": "B",
+          "text": "Eliminating grazing, grains, and treats; feeding low‑NSC hay divided into several small meals"
+        },
+        {
+          "label": "C",
+          "text": "Feeding high‑NSC hay once daily to reduce boredom"
+        },
+        {
+          "label": "D",
+          "text": "Unlimited carrots and apples as low‑calorie treats"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Management focuses on eliminating grazing, grains, and treats and feeding low‑NSC hay divided into multiple small meals. Free‑choice pasture and grain (A) and high‑NSC feeding strategies (C, D) directly oppose recommended practice and increase laminitis risk."
+    },
+    {
+      "id": 16,
+      "stem": "When feeding hay to an OBESE horse with EMS, which guideline is MOST appropriate initially?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5% of body weight per day of any available hay"
+        },
+        {
+          "label": "B",
+          "text": "1.5% of body weight per day of low‑NSC hay, avoiding severe restriction that could trigger hyperlipemia"
+        },
+        {
+          "label": "C",
+          "text": "4% of body weight per day of high‑NSC hay"
+        },
+        {
+          "label": "D",
+          "text": "Only pasture, no hay, to encourage movement"
+        }
+      ],
+      "correct": "B",
+      "explanation": "For obese EMS horses, feeding low‑NSC hay at about 1.5% of body weight per day is recommended, avoiding overly severe restriction to reduce hyperlipemia risk. Extreme restriction (A), very high intake (C), or pasture‑only (D) are inappropriate."
+    },
+    {
+      "id": 17,
+      "stem": "In horses with EMS, how should nonstructural carbohydrate (NSC) intake per meal be managed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no need to limit NSC per meal"
+        },
+        {
+          "label": "B",
+          "text": "NSC should not exceed 0.1 g/kg per meal"
+        },
+        {
+          "label": "C",
+          "text": "NSC should be at least 1 g/kg per meal"
+        },
+        {
+          "label": "D",
+          "text": "NSC should be restricted only in the evening"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Nonstructural carbohydrate intake should not exceed about 0.1 g/kg per meal to limit glycemic and insulinemic spikes. The other options either ignore restriction (A), recommend excessive NSC (C), or arbitrarily time restriction (D)."
+    },
+    {
+      "id": 18,
+      "stem": "Which management strategy best describes appropriate hoof care for horses with EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hoof care is not necessary unless acute lameness is present"
+        },
+        {
+          "label": "B",
+          "text": "Radiographs are never indicated in EMS cases"
+        },
+        {
+          "label": "C",
+          "text": "Regular hoof trimming every 4 weeks by a skilled farrier and radiographic monitoring for laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Only corrective shoeing is required once laminitis is severe"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Regular hoof trimming every 4 weeks by an experienced farrier, along with radiographic monitoring, is recommended because HAL can occur without obvious lameness. Neglecting hoof care (A, B) or waiting for severe laminitis before intervening (D) is unsafe."
+    },
+    {
+      "id": 19,
+      "stem": "After laminitis has resolved in a horse with EMS, which statement about exercise is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exercise should be permanently avoided"
+        },
+        {
+          "label": "B",
+          "text": "Only light hand‑walking once monthly is beneficial"
+        },
+        {
+          "label": "C",
+          "text": "Gradual, structured exercise improves insulin sensitivity by building muscle and reducing fat mass"
+        },
+        {
+          "label": "D",
+          "text": "Exercise has no effect on insulin regulation"
+        }
+      ],
+      "correct": "C",
+      "explanation": "After laminitis resolution, appropriate exercise helps improve insulin sensitivity by building muscle and reducing fat mass, and is an important part of EMS management. Permanent rest (A), minimal activity (B), or ignoring the metabolic benefits of exercise (D) are not supported."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement best summarizes prevention of EMS in at‑risk horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide high‑NSC diets year‑round but limit exercise"
+        },
+        {
+          "label": "B",
+          "text": "Feed according to generic guidelines, regardless of body condition"
+        },
+        {
+          "label": "C",
+          "text": "Provide an appropriate diet, maintain normal body condition, and restrict grazing during times of high soluble carbohydrates"
+        },
+        {
+          "label": "D",
+          "text": "Allow unrestricted pasture access in spring and autumn to promote natural weight changes"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Prevention emphasizes an appropriate, individualized diet, maintaining normal body condition, and strict grazing restriction during times of high soluble carbohydrate (spring and autumn), especially in high‑risk breeds. High‑NSC diets (A), generic feeding without regard to condition (B), and unrestricted pasture during risky seasons (D) all increase EMS and laminitis risk."
+    }
+  ]
+}

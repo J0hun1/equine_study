@@ -1,0 +1,486 @@
+{
+  "topic": "7_Theiler_s Disease_Segumban",
+  "slug": "7-theiler-s-disease-segumban",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Theiler’s disease in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A chronic low-grade hepatitis of foals"
+        },
+        {
+          "label": "B",
+          "text": "An acute, often fulminant hepatic failure with encephalopathy in adult horses"
+        },
+        {
+          "label": "C",
+          "text": "A parasitic cholangitis of yearlings"
+        },
+        {
+          "label": "D",
+          "text": "A congenital biliary atresia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Theiler’s disease is an acute, often fulminant hepatic failure with encephalopathy in adult horses, not a chronic foal hepatitis (A), parasitic cholangitis (C), or congenital biliary defect (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Theiler’s disease has been historically associated with which type of prior treatment in many affected horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recent administration of equine-origin blood products such as tetanus antitoxin or plasma"
+        },
+        {
+          "label": "B",
+          "text": "Long-term NSAID therapy only"
+        },
+        {
+          "label": "C",
+          "text": "Oral dewormers given 1–2 days before onset"
+        },
+        {
+          "label": "D",
+          "text": "Recent vaccination with tetanus toxoid alone"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Many cases are associated with prior administration of equine-origin blood products (e.g., tetanus antitoxin, plasma) 4–10 weeks earlier. NSAIDs (B), dewormers (C), and toxoid alone (D) are not the classic associations."
+    },
+    {
+      "id": 3,
+      "stem": "Theiler’s disease is also known by which other common names?",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Grass sickness” and “sweet itch”"
+        },
+        {
+          "label": "B",
+          "text": "“Serum-associated hepatitis” and “serum sickness”"
+        },
+        {
+          "label": "C",
+          "text": "“Potomac horse fever” and “strangles”"
+        },
+        {
+          "label": "D",
+          "text": "“Heaves” and “Monday morning disease”"
+        }
+      ],
+      "correct": "B",
+      "explanation": "It is also termed “serum-associated hepatitis” or “serum sickness,” reflecting its link to biologic products. The other names (A, C, D) refer to different diseases."
+    },
+    {
+      "id": 4,
+      "stem": "Which age group is most commonly affected by Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neonatal foals"
+        },
+        {
+          "label": "B",
+          "text": "Adult horses, often broodmares on pasture"
+        },
+        {
+          "label": "C",
+          "text": "Yearlings in training"
+        },
+        {
+          "label": "D",
+          "text": "Geriatric ponies only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Adult horses—often broodmares on pasture in the fall—are commonly affected, though it can occur in other adults. Neonates (A), yearlings (C), and geriatric ponies only (D) are not the primary populations."
+    },
+    {
+      "id": 5,
+      "stem": "The onset and course of Theiler’s disease are typically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slow and chronic over months"
+        },
+        {
+          "label": "B",
+          "text": "Sudden in onset and rapidly progressive, with death often in 2–6 days"
+        },
+        {
+          "label": "C",
+          "text": "Subclinical and always self-limiting"
+        },
+        {
+          "label": "D",
+          "text": "Restricted to mild, transient jaundice"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The disease has a sudden onset and rapid progression; many horses die within 2–6 days of clinical onset. It is not a slow chronic condition (A), nor always subclinical and self-limiting (C), and more than mild jaundice is typical (D)."
+    },
+    {
+      "id": 6,
+      "stem": "Which clinical signs are commonly reported in horses with Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single limb lameness with digital pulses"
+        },
+        {
+          "label": "B",
+          "text": "Icterus, dark urine (bilirubinuria), frequent yawning, signs of hepatic encephalopathy (e.g., acute blindness, aimless wandering), and neurologic signs"
+        },
+        {
+          "label": "C",
+          "text": "Chronic cough and nasal discharge"
+        },
+        {
+          "label": "D",
+          "text": "Severe colic only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Clinical signs include icterus, dark urine (bilirubinuria), frequent yawning, signs of hepatic encephalopathy (e.g., acute blindness, aimless wandering), depression or maniacal behavior, and neurologic signs. Lameness (A), respiratory signs (C), or colic alone (D) do not characterize the syndrome."
+    },
+    {
+      "id": 7,
+      "stem": "Theiler’s disease is currently thought to be associated with which group of viruses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Orthomyxoviruses causing influenza"
+        },
+        {
+          "label": "B",
+          "text": "Viruses such as TDAV (Theiler disease–associated virus), NPHV/EHCV, EPgV, and EqPV-H"
+        },
+        {
+          "label": "C",
+          "text": "Retroviruses like EIAV"
+        },
+        {
+          "label": "D",
+          "text": "Herpesviruses causing EHM"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Theiler’s disease is associated with several equine hepatotropic viruses, including TDAV, NPHV/EHCV, EPgV, and EqPV-H. Orthomyxoviruses (A), EIAV (C), and herpesviruses (D) cause other conditions."
+    },
+    {
+      "id": 8,
+      "stem": "A key biochemical feature of acute Theiler’s disease is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marked elevation of creatine kinase (CK) only"
+        },
+        {
+          "label": "B",
+          "text": "Marked increases in hepatic enzymes, especially AST often near or above 2000–4000 IU/L, with elevated SDH and GLDH"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypercalcemia with low liver enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver enzymes with only low glucose"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Biochemistry typically reveals marked increases in liver enzymes—especially AST often in the thousands—with elevated SDH and GLDH, plus increased biliary enzymes and bilirubin. CK elevation alone (A), isolated hypercalcemia (C), or normal enzymes (D) are not typical."
+    },
+    {
+      "id": 9,
+      "stem": "In a horse with suspected Theiler’s disease, which urine finding is considered a poor prognostic indicator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucosuria"
+        },
+        {
+          "label": "B",
+          "text": "Bilirubinuria alone"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobinuria"
+        },
+        {
+          "label": "D",
+          "text": "Isosthenuria"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Hemoglobinuria indicates severe hemolysis and is a poor prognostic sign when present; it may accompany bilirubinuria. Glucosuria (A), bilirubinuria alone (B), or isosthenuria (D) are less specific for poor prognosis."
+    },
+    {
+      "id": 10,
+      "stem": "Which coagulation and metabolic abnormalities are often seen in Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shortened prothrombin time and hypolactatemia"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged prothrombin and partial thromboplastin times, hyperlactatemia, hyperammonemia, and elevated bile acids"
+        },
+        {
+          "label": "C",
+          "text": "Isolated thrombocytosis with normal clotting times"
+        },
+        {
+          "label": "D",
+          "text": "Severe hypoproteinemia with normal ammonia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Common abnormalities include prolonged PT and PTT, hyperlactatemia, hyperammonemia, and elevated bile acids, reflecting hepatic failure and coagulopathy. The other patterns (A, C, D) do not match the described disease."
+    },
+    {
+      "id": 11,
+      "stem": "What is the typical ultrasonographic finding in the liver of horses with Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Markedly enlarged, hyperechoic liver with nodular masses"
+        },
+        {
+          "label": "B",
+          "text": "Smaller-than-normal liver that appears more hypoechoic"
+        },
+        {
+          "label": "C",
+          "text": "Completely normal liver in all cases"
+        },
+        {
+          "label": "D",
+          "text": "Only biliary sludge without parenchymal changes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ultrasonography may show a smaller-than-normal, more hypoechoic liver, consistent with acute severe hepatic injury. Marked hepatomegaly (A), uniformly normal imaging (C), or isolated biliary sludge (D) are not typical hallmarks."
+    },
+    {
+      "id": 12,
+      "stem": "Why is liver biopsy generally not indicated in horses with “classic” Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histologic findings are always normal"
+        },
+        {
+          "label": "B",
+          "text": "Biopsy is unnecessary because histology will likely not change therapy and may be risky"
+        },
+        {
+          "label": "C",
+          "text": "Biopsy is contraindicated due to high risk of viral spread"
+        },
+        {
+          "label": "D",
+          "text": "Biopsy is required for diagnosis in all cases"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Liver biopsy is usually not indicated in classic cases because histologic results do not change therapy and biopsy can be risky in coagulopathic, unstable patients. Histology is not normal (A), risk of viral spread is not the main concern (C), and biopsy is not required in all cases (D)."
+    },
+    {
+      "id": 13,
+      "stem": "Which histopathologic finding characterizes the liver in Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild portal inflammation without necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Severe centrilobular or massive hepatocellular necrosis/apoptosis with relatively less affected portal areas and mononuclear infiltrates"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse hepatic lipidosis with no necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Pure cholestasis without necrosis or inflammation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Histology reveals severe centrilobular or massive hepatocellular necrosis/apoptosis, with portal areas less severely affected but showing mononuclear infiltrates and bile duct proliferation. Mild portal inflammation (A), pure lipidosis (C), or isolated cholestasis (D) do not describe this pattern."
+    },
+    {
+      "id": 14,
+      "stem": "Which neurologic histologic feature is typically present in the brains of horses with Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neuronal demyelination only"
+        },
+        {
+          "label": "B",
+          "text": "Alzheimer type II astrocytes in many cases"
+        },
+        {
+          "label": "C",
+          "text": "Purkinje cell loss in the cerebellum"
+        },
+        {
+          "label": "D",
+          "text": "Spongiform change in the cortex"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Alzheimer type II astrocytes are a characteristic finding in brains of horses with hepatic encephalopathy from Theiler’s disease. Demyelination (A), Purkinje cell loss (C), or spongiform change (D) are features of other disorders."
+    },
+    {
+      "id": 15,
+      "stem": "The primary goals of therapy in Theiler’s disease include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing exercise to improve liver perfusion"
+        },
+        {
+          "label": "B",
+          "text": "Providing supportive care with IV fluids, nutritional support, and therapies to reduce neurotoxins, inflammation, and oxidative damage"
+        },
+        {
+          "label": "C",
+          "text": "Rapidly reducing liver size with diuretics"
+        },
+        {
+          "label": "D",
+          "text": "Immediate surgical resection of affected liver lobes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Management focuses on intensive supportive care: IV fluids, nutritional support, measures to reduce neurotoxins and cerebral edema, anti-inflammatory and antimicrobial therapy, and antioxidant support. Increased exercise (A), forced diuresis (C), or liver resection (D) are inappropriate."
+    },
+    {
+      "id": 16,
+      "stem": "Which fluid therapy approach is appropriate in these patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertonic saline followed by balanced isotonic crystalloids to maintain hydration and perfusion"
+        },
+        {
+          "label": "B",
+          "text": "Only oral water, no IV fluids"
+        },
+        {
+          "label": "C",
+          "text": "Hypertonic glucose solution only"
+        },
+        {
+          "label": "D",
+          "text": "Colloid boluses without crystalloids"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Initial hypertonic saline followed by balanced isotonic crystalloids is appropriate to restore intravascular volume and maintain hydration and tissue perfusion. Oral water alone (B), hypertonic glucose only (C), or colloids without crystalloids (D) are inadequate or inappropriate."
+    },
+    {
+      "id": 17,
+      "stem": "Which medications may be used to manage hepatic encephalopathy and reduce GI-derived ammonia in Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diazepam alone"
+        },
+        {
+          "label": "B",
+          "text": "Metronidazole, neomycin (short-term), and lactulose"
+        },
+        {
+          "label": "C",
+          "text": "Furosemide and digoxin"
+        },
+        {
+          "label": "D",
+          "text": "Sucralfate and omeprazole"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Metronidazole, neomycin (short-term), and lactulose help decrease ammonia production and absorption from the GI tract, reducing encephalopathy. Diazepam (A) is mainly for seizures; the other drug pairs (C, D) target different issues."
+    },
+    {
+      "id": 18,
+      "stem": "Which statement about sedation in horses with hepatic encephalopathy is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heavy sedation is ideal to keep the horse recumbent"
+        },
+        {
+          "label": "B",
+          "text": "All sedatives are contraindicated"
+        },
+        {
+          "label": "C",
+          "text": "Minimal sedation (e.g., low-dose detomidine, gabapentin, pregabalin) may be used carefully to prevent self-injury"
+        },
+        {
+          "label": "D",
+          "text": "Sedation is unnecessary because these horses are always comatose"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Sedation must be minimal and judicious; low-dose detomidine, gabapentin, or pregabalin may be used carefully to reduce risk of self-injury without excessively depressing CNS or promoting head-down posture. Heavy sedation (A), total prohibition (B), or “no sedation needed” (D) are unsafe or unrealistic."
+    },
+    {
+      "id": 19,
+      "stem": "Why should barbiturates and excessive head lowering be used with caution in these cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They can directly worsen biliary obstruction"
+        },
+        {
+          "label": "B",
+          "text": "They may increase cerebral edema and exacerbate neurologic signs"
+        },
+        {
+          "label": "C",
+          "text": "They cause severe diarrhea in all horses"
+        },
+        {
+          "label": "D",
+          "text": "They neutralize hepatic enzymes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Barbiturates and excessive head lowering can increase intracranial pressure and cerebral edema, worsening neurologic signs in hepatic encephalopathy. They do not directly worsen bile obstruction (A), universally cause diarrhea (C), or “neutralize” hepatic enzymes (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which prognostic statement is MOST accurate for Theiler’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe hepatic encephalopathy is associated with a poor prognosis, whereas horses that continue eating for several days and show declining SDH/GLDH with clinical improvement may fully recover"
+        },
+        {
+          "label": "B",
+          "text": "All affected horses die regardless of treatment"
+        },
+        {
+          "label": "C",
+          "text": "Recovery is impossible once jaundice appears"
+        },
+        {
+          "label": "D",
+          "text": "Surviving horses always develop chronic cirrhosis"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Severe HE carries a poor prognosis; however, horses that remain eating, receive good supportive care, and show declining SDH/GLDH with improved clinical signs have a reasonable chance of full recovery, and no proven long-term sequelae in survivors are reported. It is not invariably fatal (B), nor does jaundice alone preclude recovery (C), and survivors do not universally develop cirrhosis (D)."
+    }
+  ]
+}

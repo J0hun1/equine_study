@@ -1,0 +1,486 @@
+{
+  "topic": "9. Tyzzers Disease_ Maravillas, Chester Kent Y. ",
+  "slug": "9-tyzzers-disease-maravillas-chester-kent-y",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Tyzzer’s disease in foals is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A chronic cholangitis of adult horses"
+        },
+        {
+          "label": "B",
+          "text": "An acute, rapidly progressive bacterial hepatitis in foals 7–42 days old"
+        },
+        {
+          "label": "C",
+          "text": "A viral encephalitis of yearlings"
+        },
+        {
+          "label": "D",
+          "text": "A parasitic enteritis of adult horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tyzzer’s disease is an acute, rapidly progressive bacterial hepatitis in very young foals, often fatal. It is not chronic adult cholangitis (A), viral encephalitis (C), or parasitic enteritis (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The etiologic agent of Tyzzer’s disease is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium piliforme (formerly Bacillus piliformis)"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "D",
+          "text": "Rhodococcus equi"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The causative agent is *Clostridium piliforme* (formerly *Bacillus piliformis*). *C. tetani* (A), *Salmonella* (C), and *Rhodococcus* (D) cause different diseases."
+    },
+    {
+      "id": 3,
+      "stem": "Clostridium piliforme is BEST characterized as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A non-spore-forming aerobic coccus"
+        },
+        {
+          "label": "B",
+          "text": "A spore-forming, gram-negative, obligate anaerobic, intracellular filamentous rod"
+        },
+        {
+          "label": "C",
+          "text": "A gram-positive facultative anaerobe"
+        },
+        {
+          "label": "D",
+          "text": "A yeast-like fungus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "*C. piliforme* is a spore-forming, gram-negative, obligate anaerobic, intracellular, filamentous rod. The other descriptions (A, C, D) fit different organisms."
+    },
+    {
+      "id": 4,
+      "stem": "How are foals most commonly infected with C. piliforme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transplacental transmission from the mare"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation of aerosolized spores"
+        },
+        {
+          "label": "C",
+          "text": "Fecal-oral ingestion of contaminated soil or feces"
+        },
+        {
+          "label": "D",
+          "text": "Tick-borne transmission"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Foals are infected via the fecal-oral route by ingesting contaminated soil or feces from adult horses or the environment. Transplacental (A), inhalation (B), and tick-borne routes (D) are not typical."
+    },
+    {
+      "id": 5,
+      "stem": "The typical age range for foals affected by Tyzzer’s disease is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1–3 days"
+        },
+        {
+          "label": "B",
+          "text": "7–42 days, with an average around 20 days"
+        },
+        {
+          "label": "C",
+          "text": "6–12 months"
+        },
+        {
+          "label": "D",
+          "text": "Over 2 years"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The classic age range is 7–42 days with an average around 20 days, reflecting susceptibility of very young foals. Neonates (A), older foals (C), and adults (D) are not the usual patients."
+    },
+    {
+      "id": 6,
+      "stem": "Which clinical signs are commonly associated with Tyzzer’s disease in foals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isolated cough and nasal discharge"
+        },
+        {
+          "label": "B",
+          "text": "Loss of suckle reflex, depression progressing to recumbency, fever, tachypnea, tachycardia, icterus, diarrhea, dehydration, shock, seizures, coma, or sudden death"
+        },
+        {
+          "label": "C",
+          "text": "Chronic weight loss and intermittent colic"
+        },
+        {
+          "label": "D",
+          "text": "Laminitis and hoof abscesses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Clinical signs include loss of suckle, depression to recumbency, fever, tachypnea, tachycardia, icterus, petechiation, diarrhea, dehydration, shock, seizures, coma, or sudden death. Respiratory-only (A), chronic colic (C), or laminitis (D) do not characterize this disease."
+    },
+    {
+      "id": 7,
+      "stem": "Which organs are MAINLY affected pathologically in Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kidneys and spleen only"
+        },
+        {
+          "label": "B",
+          "text": "Liver (acute multifocal hepatitis), myocardium (myocarditis), and intestines (enteritis)"
+        },
+        {
+          "label": "C",
+          "text": "Brain and spinal cord only"
+        },
+        {
+          "label": "D",
+          "text": "Skin and hooves"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pathology mainly involves acute multifocal hepatitis, myocarditis, and enteritis. Kidney/spleen (A), CNS (C), or hoof/skin (D) are not the primary targets described."
+    },
+    {
+      "id": 8,
+      "stem": "Gross hepatic lesions in Tyzzer’s disease typically show:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small, firm, fibrous nodules only"
+        },
+        {
+          "label": "B",
+          "text": "Swollen liver with 1–5 mm white foci scattered throughout the parenchyma and icteric tissues with petechial hemorrhages"
+        },
+        {
+          "label": "C",
+          "text": "Calcified gallstones obstructing bile ducts"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse black discoloration of the liver"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Grossly, the liver is swollen with 1–5 mm white foci scattered through the parenchyma, and tissues are icteric with petechial hemorrhages. Fibrous nodules (A), gallstones (C), or black liver (D) are not typical."
+    },
+    {
+      "id": 9,
+      "stem": "Additional pathologic findings that may be present in Tyzzer’s disease include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enterocolitis, myositis, pleural effusion, pulmonary congestion and edema, and lymphoid necrosis or depletion"
+        },
+        {
+          "label": "B",
+          "text": "Purely neurologic lesions without systemic involvement"
+        },
+        {
+          "label": "C",
+          "text": "Only renal amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Only gastric ulceration"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Additional findings may include enterocolitis, myositis, pleural effusion, pulmonary congestion and edema, and lymphoid necrosis or depletion, reflecting multisystem involvement. Purely neurologic (B), renal-only (C), or gastric-only (D) lesions are not typical."
+    },
+    {
+      "id": 10,
+      "stem": "Which histologic feature confirms Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral inclusion bodies in hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular interlacing bundles of filamentous bacilli (C. piliforme) at lesion peripheries on silver stains (e.g., Warthin-Starry, Dieterle)"
+        },
+        {
+          "label": "C",
+          "text": "Fungal hyphae on PAS stain"
+        },
+        {
+          "label": "D",
+          "text": "Protozoal cysts in hepatocytes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Histologic confirmation shows intracellular interlacing bundles of filamentous bacilli at lesion peripheries, highlighted by silver stains such as Warthin-Starry or Dieterle. Viral inclusions (A), fungal hyphae (C), or protozoal cysts (D) indicate other pathogens."
+    },
+    {
+      "id": 11,
+      "stem": "On CBC in foals with Tyzzer’s disease, which pattern is commonly seen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe leukocytosis with lymphocytosis only"
+        },
+        {
+          "label": "B",
+          "text": "Hemoconcentration and hyperfibrinogenemia with normal-to-low leukocyte counts"
+        },
+        {
+          "label": "C",
+          "text": "Profound anemia with thrombocytopenia only"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophilia and basophilia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "CBC commonly shows hemoconcentration and hyperfibrinogenemia with normal-to-low leukocyte counts, consistent with severe systemic disease and dehydration. The other patterns (A, C, D) do not match the description."
+    },
+    {
+      "id": 12,
+      "stem": "Which biochemistry findings are typical of Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoglycemia, metabolic acidosis, and marked elevations in liver enzymes (SDH, GGT, ALP, bilirubin)"
+        },
+        {
+          "label": "B",
+          "text": "Hyperglycemia with normal liver enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypocalcemia"
+        },
+        {
+          "label": "D",
+          "text": "Normal lab values in all foals"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Typical biochemical changes include hypoglycemia, metabolic acidosis, and marked elevations in liver enzymes (SDH, GGT, ALP, bilirubin). Hyperglycemia with normal liver values (B) or isolated hypocalcemia (C) are not characteristic."
+    },
+    {
+      "id": 13,
+      "stem": "What is the primary route of transmission for C. piliforme in horse populations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vertical transmission via milk only"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral route from contaminated environment"
+        },
+        {
+          "label": "C",
+          "text": "Sexual transmission"
+        },
+        {
+          "label": "D",
+          "text": "Bloodborne transmission via biting insects"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Transmission is primarily fecal-oral from contaminated environmental sources. Milk (A), sexual (C), and insect-borne (D) routes are not major pathways."
+    },
+    {
+      "id": 14,
+      "stem": "Which antimicrobial regimens are listed as drugs of choice for Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin, tetracycline, erythromycin, sulfamethoxazole–trimethoprim, and metronidazole"
+        },
+        {
+          "label": "B",
+          "text": "Only macrolides and rifampin"
+        },
+        {
+          "label": "C",
+          "text": "Only cephalosporins"
+        },
+        {
+          "label": "D",
+          "text": "Only antifungals"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Recommended antimicrobials include penicillin, tetracycline, erythromycin, sulfamethoxazole–trimethoprim, and metronidazole targeting Gram-negative anaerobic bacteria. Macrolides alone (B), cephalosporins only (C), or antifungals (D) are incomplete or inappropriate."
+    },
+    {
+      "id": 15,
+      "stem": "Which drugs may be used for seizure management in affected foals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diazepam or midazolam"
+        },
+        {
+          "label": "B",
+          "text": "Phenylbutazone"
+        },
+        {
+          "label": "C",
+          "text": "Flunixin meglumine"
+        },
+        {
+          "label": "D",
+          "text": "Omeprazole"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Diazepam and midazolam are used to control seizures in affected foals. Phenylbutazone (B) and flunixin (C) are NSAIDs; omeprazole (D) is for gastric ulcers."
+    },
+    {
+      "id": 16,
+      "stem": "Which additional drug is used to help reduce intestinal ammonia production in these foals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sucralfate"
+        },
+        {
+          "label": "B",
+          "text": "Lactulose"
+        },
+        {
+          "label": "C",
+          "text": "Furosemide"
+        },
+        {
+          "label": "D",
+          "text": "Lidocaine"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Lactulose helps reduce intestinal ammonia production and absorption, mitigating hepatic encephalopathy. Sucralfate (A), furosemide (C), and lidocaine (D) have other indications."
+    },
+    {
+      "id": 17,
+      "stem": "Why should barbiturates be used with caution for seizure management in Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They have no effect on seizures"
+        },
+        {
+          "label": "B",
+          "text": "They may worsen hepatic encephalopathy and depress CNS function in foals with severe liver disease"
+        },
+        {
+          "label": "C",
+          "text": "They always cause laminitis"
+        },
+        {
+          "label": "D",
+          "text": "They inactivate antibiotics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Barbiturates can worsen CNS depression and hepatic encephalopathy in foals with severe liver disease, so they must be used with great caution. They do treat seizures (A), but risk outweighs benefit in many cases; they do not universally cause laminitis (C) or inactivate antibiotics (D)."
+    },
+    {
+      "id": 18,
+      "stem": "Which conditions are important DIFFERENTIAL DIAGNOSES for Tyzzer’s disease in foals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neonatal septicemia, neonatal isoerythrolysis, viral hepatitis, and toxic hepatopathy"
+        },
+        {
+          "label": "B",
+          "text": "Heaves and recurrent airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Navicular disease and laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Colic due to ascarid impaction only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Important differentials include neonatal septicemia, neonatal isoerythrolysis, viral hepatitis, and toxic hepatopathies, which can also cause acute hepatic dysfunction and systemic illness. The other sets (B–D) are unrelated."
+    },
+    {
+      "id": 19,
+      "stem": "What is the overall prognosis for foals diagnosed with Tyzzer’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excellent, with most surviving with minimal therapy"
+        },
+        {
+          "label": "B",
+          "text": "Grave; most foals die within 24 hours of onset of clinical signs"
+        },
+        {
+          "label": "C",
+          "text": "Good, provided antibiotics are given once daily"
+        },
+        {
+          "label": "D",
+          "text": "Fair, with most foals recovering spontaneously"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis is grave; most foals die within 24 hours of clinical onset despite therapy. It is not generally excellent (A), nor usually good with minimal treatment (C), and spontaneous recovery (D) is rare."
+    },
+    {
+      "id": 20,
+      "stem": "Which management strategy could help reduce Tyzzer’s disease risk in a breeding facility?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allowing fecal accumulation in foaling stalls"
+        },
+        {
+          "label": "B",
+          "text": "Maintaining good hygiene to reduce environmental contamination with adult horse feces"
+        },
+        {
+          "label": "C",
+          "text": "Reducing vaccination protocols"
+        },
+        {
+          "label": "D",
+          "text": "Increasing stocking density of mares and foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Reducing environmental contamination (e.g., good hygiene, limiting access to feces in foaling areas) may help lower infection risk. Fecal accumulation (A), cutting vaccines (C), and crowding (D) increase disease and transmission risks."
+    }
+  ]
+}

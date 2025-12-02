@@ -1,0 +1,143 @@
+Q1. Theiler’s disease in horses is BEST described as:
+A. A chronic low-grade hepatitis of foals
+B. An acute, often fulminant hepatic failure with encephalopathy in adult horses
+C. A parasitic cholangitis of yearlings
+D. A congenital biliary atresia
+
+Q2. Theiler’s disease has been historically associated with which type of prior treatment in many affected horses?
+A. Recent administration of equine-origin blood products such as tetanus antitoxin or plasma
+B. Long-term NSAID therapy only
+C. Oral dewormers given 1–2 days before onset
+D. Recent vaccination with tetanus toxoid alone
+
+Q3. Theiler’s disease is also known by which other common names?
+A. “Grass sickness” and “sweet itch”
+B. “Serum-associated hepatitis” and “serum sickness”
+C. “Potomac horse fever” and “strangles”
+D. “Heaves” and “Monday morning disease”
+
+Q4. Which age group is most commonly affected by Theiler’s disease?
+A. Neonatal foals
+B. Adult horses, often broodmares on pasture
+C. Yearlings in training
+D. Geriatric ponies only
+
+Q5. The onset and course of Theiler’s disease are typically:
+A. Slow and chronic over months
+B. Sudden in onset and rapidly progressive, with death often in 2–6 days
+C. Subclinical and always self-limiting
+D. Restricted to mild, transient jaundice
+
+Q6. Which clinical signs are commonly reported in horses with Theiler’s disease?
+A. Single limb lameness with digital pulses
+B. Icterus, dark urine (bilirubinuria), frequent yawning, signs of hepatic encephalopathy (e.g., acute blindness, aimless wandering), and neurologic signs
+C. Chronic cough and nasal discharge
+D. Severe colic only
+
+Q7. Theiler’s disease is currently thought to be associated with which group of viruses?
+A. Orthomyxoviruses causing influenza
+B. Viruses such as TDAV (Theiler disease–associated virus), NPHV/EHCV, EPgV, and EqPV-H
+C. Retroviruses like EIAV
+D. Herpesviruses causing EHM
+
+Q8. A key biochemical feature of acute Theiler’s disease is:
+A. Marked elevation of creatine kinase (CK) only
+B. Marked increases in hepatic enzymes, especially AST often near or above 2000–4000 IU/L, with elevated SDH and GLDH
+C. Isolated hypercalcemia with low liver enzymes
+D. Normal liver enzymes with only low glucose
+
+Q9. In a horse with suspected Theiler’s disease, which urine finding is considered a poor prognostic indicator?
+A. Glucosuria
+B. Bilirubinuria alone
+C. Hemoglobinuria
+D. Isosthenuria
+
+Q10. Which coagulation and metabolic abnormalities are often seen in Theiler’s disease?
+A. Shortened prothrombin time and hypolactatemia
+B. Prolonged prothrombin and partial thromboplastin times, hyperlactatemia, hyperammonemia, and elevated bile acids
+C. Isolated thrombocytosis with normal clotting times
+D. Severe hypoproteinemia with normal ammonia
+
+Q11. What is the typical ultrasonographic finding in the liver of horses with Theiler’s disease?
+A. Markedly enlarged, hyperechoic liver with nodular masses
+B. Smaller-than-normal liver that appears more hypoechoic
+C. Completely normal liver in all cases
+D. Only biliary sludge without parenchymal changes
+
+Q12. Why is liver biopsy generally not indicated in horses with “classic” Theiler’s disease?
+A. Histologic findings are always normal
+B. Biopsy is unnecessary because histology will likely not change therapy and may be risky
+C. Biopsy is contraindicated due to high risk of viral spread
+D. Biopsy is required for diagnosis in all cases
+
+Q13. Which histopathologic finding characterizes the liver in Theiler’s disease?
+A. Mild portal inflammation without necrosis
+B. Severe centrilobular or massive hepatocellular necrosis/apoptosis with relatively less affected portal areas and mononuclear infiltrates
+C. Diffuse hepatic lipidosis with no necrosis
+D. Pure cholestasis without necrosis or inflammation
+
+Q14. Which neurologic histologic feature is typically present in the brains of horses with Theiler’s disease?
+A. Neuronal demyelination only
+B. Alzheimer type II astrocytes in many cases
+C. Purkinje cell loss in the cerebellum
+D. Spongiform change in the cortex
+
+Q15. The primary goals of therapy in Theiler’s disease include:
+A. Increasing exercise to improve liver perfusion
+B. Providing supportive care with IV fluids, nutritional support, and therapies to reduce neurotoxins, inflammation, and oxidative damage
+C. Rapidly reducing liver size with diuretics
+D. Immediate surgical resection of affected liver lobes
+
+Q16. Which fluid therapy approach is appropriate in these patients?
+A. Hypertonic saline followed by balanced isotonic crystalloids to maintain hydration and perfusion
+B. Only oral water, no IV fluids
+C. Hypertonic glucose solution only
+D. Colloid boluses without crystalloids
+
+Q17. Which medications may be used to manage hepatic encephalopathy and reduce GI-derived ammonia in Theiler’s disease?
+A. Diazepam alone
+B. Metronidazole, neomycin (short-term), and lactulose
+C. Furosemide and digoxin
+D. Sucralfate and omeprazole
+
+Q18. Which statement about sedation in horses with hepatic encephalopathy is MOST accurate?
+A. Heavy sedation is ideal to keep the horse recumbent
+B. All sedatives are contraindicated
+C. Minimal sedation (e.g., low-dose detomidine, gabapentin, pregabalin) may be used carefully to prevent self-injury
+D. Sedation is unnecessary because these horses are always comatose
+
+Q19. Why should barbiturates and excessive head lowering be used with caution in these cases?
+A. They can directly worsen biliary obstruction
+B. They may increase cerebral edema and exacerbate neurologic signs
+C. They cause severe diarrhea in all horses
+D. They neutralize hepatic enzymes
+
+Q20. Which prognostic statement is MOST accurate for Theiler’s disease?
+A. Severe hepatic encephalopathy is associated with a poor prognosis, whereas horses that continue eating for several days and show declining SDH/GLDH with clinical improvement may fully recover
+B. All affected horses die regardless of treatment
+C. Recovery is impossible once jaundice appears
+D. Surviving horses always develop chronic cirrhosis
+
+Answer key:
+1-B
+2-A
+3-B
+4-B
+5-B
+6-B
+7-B
+8-B
+9-C
+10-B
+11-B
+12-B
+13-B
+14-B
+15-B
+16-A
+17-B
+18-C
+19-B
+20-A
+
+

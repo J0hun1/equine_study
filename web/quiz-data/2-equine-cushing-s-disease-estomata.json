@@ -1,0 +1,486 @@
+{
+  "topic": "2. Equine Cushing_s Disease_ESTOMATA",
+  "slug": "2-equine-cushing-s-disease-estomata",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine Cushing’s disease is also known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine metabolic syndrome (EMS)"
+        },
+        {
+          "label": "B",
+          "text": "Pituitary pars intermedia dysfunction (PPID)"
+        },
+        {
+          "label": "C",
+          "text": "Primary adrenal cortical hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hypothyroid pituitary syndrome"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine Cushing’s disease is more accurately termed pituitary pars intermedia dysfunction (PPID). EMS (A) is a different metabolic disorder, and primary adrenal (C) or thyroid (D) diseases are not the defining features here."
+    },
+    {
+      "id": 2,
+      "stem": "Equine Cushing’s disease (PPID) most commonly affects:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foals less than 1 year old"
+        },
+        {
+          "label": "B",
+          "text": "Horses between 2–5 years of age"
+        },
+        {
+          "label": "C",
+          "text": "Older horses, typically over 15 years of age"
+        },
+        {
+          "label": "D",
+          "text": "Only middle-aged draft horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "PPID is predominantly a disease of older horses, typically over 15 years of age, although it can occur earlier. It is not primarily a disease of foals (A), young adults (B), or restricted to a specific middle-aged draft population (D)."
+    },
+    {
+      "id": 3,
+      "stem": "Which statement regarding the prevalence of PPID is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is rare in aged horses, affecting less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "Up to about 30% of aged horses may have PPID"
+        },
+        {
+          "label": "C",
+          "text": "PPID occurs only in ponies, not horses"
+        },
+        {
+          "label": "D",
+          "text": "PPID is equally common in all age groups"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Up to about 30% of aged horses are thought to be affected by PPID, making it relatively common in geriatric populations. It is not rare (A), not restricted to ponies (C), and certainly not evenly distributed across all ages (D)."
+    },
+    {
+      "id": 4,
+      "stem": "Why does PPID tend to be recognized more frequently in ponies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ponies have a unique pituitary gland structure"
+        },
+        {
+          "label": "B",
+          "text": "Ponies tend to live longer, so age-related disease is more often observed"
+        },
+        {
+          "label": "C",
+          "text": "Ponies are more prone to trauma to the pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Ponies have higher baseline ACTH in youth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ponies are often observed with PPID largely because they tend to live longer, so age-related degenerative conditions are more likely to appear. There is no unique pituitary anatomy (A) or clear evidence of greater trauma risk (C), and higher baseline ACTH in youth (D) is not the main explanation."
+    },
+    {
+      "id": 5,
+      "stem": "The primary pathophysiologic change in PPID involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Overactivity of the pars distalis causing TSH overproduction"
+        },
+        {
+          "label": "B",
+          "text": "Overactivity of the pars intermedia due to loss of dopaminergic inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Underactivity of the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Destruction of the thyroid gland"
+        }
+      ],
+      "correct": "B",
+      "explanation": "PPID involves overactivity of the pars intermedia due to loss of dopaminergic inhibition, leading to excessive hormone production. The pars distalis/TSH axis (A), adrenal underactivity (C), and thyroid destruction (D) are not the primary changes."
+    },
+    {
+      "id": 6,
+      "stem": "Damage to which structure leads to enlargement and overactivity of the pituitary in PPID?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Optic nerve fibers"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral sympathetic nerves"
+        },
+        {
+          "label": "C",
+          "text": "Hypothalamic dopaminergic neurons innervating the pars intermedia"
+        },
+        {
+          "label": "D",
+          "text": "Phrenic nerve branches"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Degeneration of hypothalamic dopaminergic neurons that normally inhibit the pars intermedia leads to pituitary enlargement and hormone overproduction. Optic nerves (A), peripheral sympathetic nerves (B), and the phrenic nerve (D) are not primarily involved."
+    },
+    {
+      "id": 7,
+      "stem": "Excessive production of which hormone is particularly associated with PPID?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroxine (T4)"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "C",
+          "text": "Adrenocorticotropic hormone (ACTH)"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Excessive ACTH release from the overactive pars intermedia is a hallmark of PPID, driving abnormal cortisol dynamics. T4 (A), growth hormone (B), and aldosterone (D) are not the primary hormones implicated."
+    },
+    {
+      "id": 8,
+      "stem": "Which of the following is a common CLINICAL SIGN of equine Cushing’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Profound weight loss with alopecia only in white areas"
+        },
+        {
+          "label": "B",
+          "text": "Hirsutism, laminitis, polyuria/polydipsia, and abnormal fat deposition"
+        },
+        {
+          "label": "C",
+          "text": "Acute, high fever with purulent nasal discharge"
+        },
+        {
+          "label": "D",
+          "text": "Colic and severe diarrhea only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Common signs include laminitis, hirsutism, abnormal fat deposition and insulin resistance, polyuria/polydipsia, sweating, lethargy, neurologic signs, infertility, and increased susceptibility to infections. The other choices describe unrelated or incomplete presentations (A, C, D)."
+    },
+    {
+      "id": 9,
+      "stem": "Hirsutism in a horse with PPID refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete hair loss over the trunk"
+        },
+        {
+          "label": "B",
+          "text": "Failure to shed the long, curly winter hair coat appropriately"
+        },
+        {
+          "label": "C",
+          "text": "Patchy depigmentation of the mane and tail"
+        },
+        {
+          "label": "D",
+          "text": "Excessive hoof growth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Hirsutism in PPID refers to the failure to shed the long, often curly winter coat, resulting in an abnormally long hair coat year-round. Complete hair loss (A), pigment changes (C), or hoof overgrowth (D) are different issues."
+    },
+    {
+      "id": 10,
+      "stem": "Which diagnostic test can be used as a simple screening test for PPID by measuring resting hormone levels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baseline T4 test"
+        },
+        {
+          "label": "B",
+          "text": "Baseline ACTH test"
+        },
+        {
+          "label": "C",
+          "text": "Resting insulin and glucose only"
+        },
+        {
+          "label": "D",
+          "text": "Dexamethasone suppression test"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A baseline ACTH test is a simple blood test used to screen for PPID by measuring resting ACTH levels. Baseline T4 (A) is more relevant to thyroid function, insulin/glucose alone (C) are more for EMS, and dexamethasone suppression (D) is a different endocrine test."
+    },
+    {
+      "id": 11,
+      "stem": "The thyrotropin-releasing hormone (TRH) stimulation test for PPID involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administering TRH orally and measuring T4 levels 24 hours later"
+        },
+        {
+          "label": "B",
+          "text": "Administering TRH IV and comparing baseline and post-TRH ACTH levels"
+        },
+        {
+          "label": "C",
+          "text": "Injecting dexamethasone and measuring cortisol suppression"
+        },
+        {
+          "label": "D",
+          "text": "Administering insulin and measuring glucose tolerance"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The TRH stimulation test involves IV administration of TRH followed by measurement of ACTH at defined time points, comparing baseline and post-TRH values. The other options describe different hormones and protocols (A, C, D)."
+    },
+    {
+      "id": 12,
+      "stem": "Why is CT imaging of the pituitary generally not used as an initial diagnostic step in PPID?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT cannot visualize the equine pituitary gland"
+        },
+        {
+          "label": "B",
+          "text": "CT is too insensitive to detect enlargement"
+        },
+        {
+          "label": "C",
+          "text": "It is technically demanding, costly, and not required for most diagnoses"
+        },
+        {
+          "label": "D",
+          "text": "CT is contraindicated in horses with laminitis"
+        }
+      ],
+      "correct": "C",
+      "explanation": "CT can visualize an enlarged pituitary but is expensive, technically challenging, and not usually necessary for diagnosis, so it is not typically an initial test. The pituitary can indeed be imaged (A, B), and laminitis (D) is not a formal contraindication to CT."
+    },
+    {
+      "id": 13,
+      "stem": "Pergolide (Prascend®), the primary medical therapy for PPID, acts by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stimulating ACTH production to normalize cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Acting as a synthetic dopamine agonist to restore inhibition of the pars intermedia"
+        },
+        {
+          "label": "C",
+          "text": "Directly destroying hyperplastic pituitary cells"
+        },
+        {
+          "label": "D",
+          "text": "Blocking cortisol receptors at the adrenal gland"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pergolide is a dopamine agonist that mimics the action of dopamine on the pars intermedia, restoring inhibition and reducing excessive ACTH production. It does not stimulate ACTH (A), destroy cells directly (C), or block cortisol receptors peripherally (D)."
+    },
+    {
+      "id": 14,
+      "stem": "Which is the MOST common initial side effect when starting pergolide therapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irreversible blindness"
+        },
+        {
+          "label": "B",
+          "text": "Severe colic and diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Reversible loss of appetite (anorexia)"
+        },
+        {
+          "label": "D",
+          "text": "Laminitis due to drug toxicity"
+        }
+      ],
+      "correct": "C",
+      "explanation": "A reversible loss of appetite is the most common early side effect when starting pergolide therapy, which is why gradual dose escalation is sometimes needed. Blindness (A), severe GI upset (B), and laminitis from drug toxicity (D) are not typical primary adverse effects."
+    },
+    {
+      "id": 15,
+      "stem": "Which dietary recommendation is MOST appropriate for a horse with Cushing’s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-sugar grain to maintain weight"
+        },
+        {
+          "label": "B",
+          "text": "Grain with less than 10% sugar and starch, and hay tested and adjusted for low sugar/starch"
+        },
+        {
+          "label": "C",
+          "text": "Unlimited lush pasture access, especially in spring and fall"
+        },
+        {
+          "label": "D",
+          "text": "Only alfalfa cubes and molasses-based feeds"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses with PPID should avoid high-sugar diets; grain should contain <10% sugar and starch, and hay should be tested and adjusted (or soaked) to reduce nonstructural carbohydrates. High-sugar grain (A), lush pasture (C), and molasses-rich feeds (D) all increase laminitis risk."
+    },
+    {
+      "id": 16,
+      "stem": "Why is grass restriction particularly recommended for horses with Cushing’s disease in spring and fall?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pasture is deficient in protein during these seasons"
+        },
+        {
+          "label": "B",
+          "text": "Grass sugar levels are highest then, increasing laminitis risk"
+        },
+        {
+          "label": "C",
+          "text": "Grass lacks essential vitamins during these periods"
+        },
+        {
+          "label": "D",
+          "text": "Grass contains toxic alkaloids only in warm months"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Grass sugar content is highest in spring and fall, particularly under cool, sunny conditions, increasing the risk of laminitis in PPID horses, so grazing should be restricted. Protein (A), vitamins (C), or alkaloids (D) are not the primary concerns here."
+    },
+    {
+      "id": 17,
+      "stem": "In managing horses with PPID, which supportive care practice is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Routine hoof and dental care, parasite control, and regular body clipping"
+        },
+        {
+          "label": "B",
+          "text": "Avoid body clipping to preserve thermoregulation"
+        },
+        {
+          "label": "C",
+          "text": "Minimal dental care because PPID spares oral health"
+        },
+        {
+          "label": "D",
+          "text": "Limiting hoof trimming to once yearly"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Good management includes maintaining an ideal body weight, routine hoof and dental care, parasite control, and regular body clipping (to help with hirsutism and thermoregulation). Avoiding clipping (B), neglecting dental care (C), or infrequent hoof trimming (D) are inappropriate."
+    },
+    {
+      "id": 18,
+      "stem": "Which statement about preventing PPID is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PPID can be completely prevented with proper diet and exercise"
+        },
+        {
+          "label": "B",
+          "text": "PPID is a natural degenerative condition that cannot currently be prevented"
+        },
+        {
+          "label": "C",
+          "text": "PPID is caused only by environmental toxins and is fully avoidable"
+        },
+        {
+          "label": "D",
+          "text": "Vaccination in youth prevents PPID"
+        }
+      ],
+      "correct": "B",
+      "explanation": "PPID is considered a natural degenerative condition of aging dopaminergic neurons; current knowledge suggests it cannot be fully prevented. While management can mitigate effects, diet and exercise alone do not prevent it (A), toxins (C) are not the sole cause, and there is no vaccine (D)."
+    },
+    {
+      "id": 19,
+      "stem": "What is the primary benefit of early diagnosis and treatment of PPID with pergolide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Curing the disease entirely in most horses"
+        },
+        {
+          "label": "B",
+          "text": "Potentially slowing disease progression and improving quality of life"
+        },
+        {
+          "label": "C",
+          "text": "Preventing all endocrine disorders in old age"
+        },
+        {
+          "label": "D",
+          "text": "Eliminating the need for any hoof care"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early recognition and pergolide therapy may slow progression, reduce complications (e.g., laminitis, infections), and improve quality of life. It does not generally cure PPID (A), prevent all endocrine disease (C), or eliminate the need for hoof care (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement best summarizes the relationship between PPID and equine metabolic syndrome (EMS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are the same disease process"
+        },
+        {
+          "label": "B",
+          "text": "They never occur together"
+        },
+        {
+          "label": "C",
+          "text": "Horses with PPID may also have EMS, which can complicate management"
+        },
+        {
+          "label": "D",
+          "text": "EMS only occurs in young horses and is unrelated to PPID"
+        }
+      ],
+      "correct": "C",
+      "explanation": "PPID and EMS are distinct but can coexist in the same horse, complicating clinical management and laminitis risk. They are not identical (A), they can indeed occur together (contradicting B), and EMS is not confined to young horses (D)."
+    }
+  ]
+}

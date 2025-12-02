@@ -1,0 +1,486 @@
+{
+  "topic": "15. Exertional Rhabdomyolysis",
+  "slug": "15-exertional-rhabdomyolysis",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Exertional rhabdomyolysis (ER) in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A primary infectious disease of skeletal muscle unrelated to exercise"
+        },
+        {
+          "label": "B",
+          "text": "A syndrome of muscle fatigue, pain, and cramping linked to exercise, with skeletal muscle necrosis"
+        },
+        {
+          "label": "C",
+          "text": "A chronic degenerative joint condition of athletic horses"
+        },
+        {
+          "label": "D",
+          "text": "A metabolic bone disease caused by calcium deficiency"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ER is defined as a syndrome of muscle fatigue, pain, and cramping associated with exercise, with skeletal muscle necrosis and enzyme elevation. It is not primarily infectious (A), a joint disease (C), or a bone metabolic disorder (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which pathophysiologic change is central to the development of ER?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disruption of neuromuscular junction transmission only"
+        },
+        {
+          "label": "B",
+          "text": "Disturbance of muscle energy metabolism or calcium regulation leading to sustained contraction"
+        },
+        {
+          "label": "C",
+          "text": "Primary immune-mediated destruction of myelin sheaths"
+        },
+        {
+          "label": "D",
+          "text": "Excessive production of thyroid hormones causing hypermetabolism"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The core mechanism is disturbance of muscle energy metabolism or calcium regulation, leading to sustained contraction, metabolic exhaustion, and cell damage. Neuromuscular junction problems alone (A), immune demyelination (C), or thyroid excess (D) do not describe ER."
+    },
+    {
+      "id": 3,
+      "stem": "A key laboratory feature of ER is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marked elevation of serum CK and AST following exercise"
+        },
+        {
+          "label": "B",
+          "text": "Severe leukopenia and thrombocytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Hypercalcemia with low creatine kinase"
+        },
+        {
+          "label": "D",
+          "text": "Isosthenuric urine without pigment"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Marked post-exercise increases in CK and AST are hallmarks of ER, reflecting muscle fiber necrosis. Hematologic changes (B), isolated hypercalcemia with low CK (C), and pigment-free isosthenuric urine (D) are not typical."
+    },
+    {
+      "id": 4,
+      "stem": "Which clinical presentation is MOST typical of an acute ER episode during or shortly after exercise?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden blindness, circling, and head pressing"
+        },
+        {
+          "label": "B",
+          "text": "Excessive sweating, painful firm gluteal muscles, reluctance to move, and dark coffee-colored urine"
+        },
+        {
+          "label": "C",
+          "text": "Fever, nasal discharge, and cough with inspiratory stridor"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral edema, jugular distension, and muffled heart sounds"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Classic signs include excessive sweating, painful firm gluteal and lumbar muscles, reluctance or refusal to move, and dark “coffee-colored” urine from myoglobinuria. Neurologic signs (A), respiratory disease (C), and cardiac tamponade signs (D) do not fit typical ER presentation."
+    },
+    {
+      "id": 5,
+      "stem": "In chronic ER, which underlying problem BEST explains the recurrent nature of the disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persistent bacterial infection in the muscle"
+        },
+        {
+          "label": "B",
+          "text": "Genetic or metabolic defects in muscle energy metabolism or calcium handling"
+        },
+        {
+          "label": "C",
+          "text": "Chronic liver failure causing hyperammonemia"
+        },
+        {
+          "label": "D",
+          "text": "Repeated trauma to the tendon sheath"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Chronic ER is associated with inherited or metabolic defects affecting glycogen storage or calcium handling, explaining recurrent episodes. Persistent infection (A), liver failure (C), or tendon trauma (D) are not the main drivers."
+    },
+    {
+      "id": 6,
+      "stem": "Which of the following correctly matches ER classification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sporadic ER – recurrent episodes due to inherited muscle disease"
+        },
+        {
+          "label": "B",
+          "text": "Chronic ER – single episode after overexertion and poor conditioning"
+        },
+        {
+          "label": "C",
+          "text": "Sporadic ER – single or infrequent episodes related to management, conditioning, or environment"
+        },
+        {
+          "label": "D",
+          "text": "Chronic ER – episodes only in geriatric horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Sporadic ER involves single or infrequent episodes often related to overexertion, poor conditioning, or management factors, while chronic ER involves recurrent episodes linked to inherited/metabolic myopathies. The other pairings invert or misstate these relationships (A, B, D)."
+    },
+    {
+      "id": 7,
+      "stem": "Which factor is MOST commonly associated with SPORADIC exertional rhabdomyolysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GYS1 mutation"
+        },
+        {
+          "label": "B",
+          "text": "Overexertion beyond current level of training"
+        },
+        {
+          "label": "C",
+          "text": "RYR1 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Excessive dietary fat intake"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Overexertion beyond the horse’s level of training is a key trigger for sporadic ER. GYS1 (A) and RYR1 (C) mutations are associated with chronic forms (PSSM and MH), and high dietary fat (D) is usually protective rather than causative."
+    },
+    {
+      "id": 8,
+      "stem": "Which cause is BEST associated with CHRONIC ER in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short-term dehydration before exercise only"
+        },
+        {
+          "label": "B",
+          "text": "Viral infection of skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Genetic mutations such as GYS1 and RYR1 with underlying metabolic muscle disorders"
+        },
+        {
+          "label": "D",
+          "text": "Acute hypoglycemia from fasting before exercise"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Chronic ER often reflects genetic/metabolic muscle disorders such as PSSM (GYS1), MFM, or MH (RYR1). Short-term dehydration (A), viral myositis (B), and acute hypoglycemia (D) do not explain the chronic, recurrent pattern."
+    },
+    {
+      "id": 9,
+      "stem": "Which breed is correctly matched to its predisposition in the context of ER-related myopathies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quarter Horses and Drafts – Type 1 PSSM"
+        },
+        {
+          "label": "B",
+          "text": "Arabians – Malignant Hyperthermia due to RYR1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "Standardbreds – Type 1 PSSM only"
+        },
+        {
+          "label": "D",
+          "text": "Warmbloods – exclusively sporadic ER"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Quarter Horses, Drafts, and Morgans are predisposed to Type 1 PSSM. Malignant Hyperthermia (RYR1) is more associated with Quarter Horses, not Arabians (B), Standardbreds have broader associations (C), and Warmbloods are more linked with Type 2 PSSM/MFM than purely sporadic ER (D)."
+    },
+    {
+      "id": 10,
+      "stem": "In susceptible horses, which temperament and age profile is MOST typical for chronic ER (e.g., RER)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Old, calm draught horses"
+        },
+        {
+          "label": "B",
+          "text": "Young to middle-aged, fit, nervous horses"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal foals in poor condition"
+        },
+        {
+          "label": "D",
+          "text": "Middle-aged sedentary ponies"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Chronic ER (e.g., RER) is classically seen in young to middle-aged, fit, nervous horses, especially in performance breeds. Old calm drafts (A), neonates (C), and sedentary ponies (D) do not match this profile."
+    },
+    {
+      "id": 11,
+      "stem": "Which diagnostic finding is MOST consistent with ER?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marked increase in CK and AST after exercise, with possible myoglobinuria"
+        },
+        {
+          "label": "B",
+          "text": "Persistent hyperglycemia and glycosuria"
+        },
+        {
+          "label": "C",
+          "text": "Radiographic evidence of bone lysis in the fetlock"
+        },
+        {
+          "label": "D",
+          "text": "Marked eosinophilia with pruritic skin lesions"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Elevated CK and AST after work, often with myoglobinuria, is characteristic of ER. Hyperglycemia and glycosuria (B), bone lysis (C), or eosinophilia with skin lesions (D) point toward other conditions."
+    },
+    {
+      "id": 12,
+      "stem": "Which test is used to detect subclinical exertional rhabdomyolysis in performance horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resting ACTH concentration"
+        },
+        {
+          "label": "B",
+          "text": "Exercise challenge test with pre- and post-exercise CK measurements"
+        },
+        {
+          "label": "C",
+          "text": "Resting serum cortisol concentration"
+        },
+        {
+          "label": "D",
+          "text": "Fecal occult blood test"
+        }
+      ],
+      "correct": "B",
+      "explanation": "An exercise challenge test, comparing CK before and after a standardized work bout, can reveal subclinical ER. ACTH (A) tests PPID, cortisol (C) tests HPA axis function, and fecal occult blood (D) screens for GI bleeding."
+    },
+    {
+      "id": 13,
+      "stem": "Which muscle biopsy or genetic test result supports a diagnosis of Type 1 PSSM in a horse with chronic ER?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amylase-resistant PAS-positive glycogen on biopsy and GYS1 mutation"
+        },
+        {
+          "label": "B",
+          "text": "Amylase-sensitive glycogen aggregates without genetic mutation"
+        },
+        {
+          "label": "C",
+          "text": "Desmin-poor fibers with normal glycogen"
+        },
+        {
+          "label": "D",
+          "text": "RYR1 mutation with minimal glycogen change"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Type 1 PSSM shows amylase-resistant PAS-positive glycogen on biopsy and is associated with a GYS1 mutation. Type 2 PSSM has amylase-sensitive aggregates (B), MFM involves desmin aggregates (C), and RYR1 mutation (D) indicates MH rather than PSSM1."
+    },
+    {
+      "id": 14,
+      "stem": "Which immediate management step is MOST appropriate when a horse develops signs of ER during exercise?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continue light exercise to “warm out” stiffness"
+        },
+        {
+          "label": "B",
+          "text": "Stop exercise immediately and move the horse to a well-bedded, quiet stall"
+        },
+        {
+          "label": "C",
+          "text": "Administer diuretics before providing fluids"
+        },
+        {
+          "label": "D",
+          "text": "Turn the horse out in a large paddock and observe"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The correct acute response is to stop exercise immediately and move the horse to a quiet, well-bedded stall. Continuing exercise (A), giving diuretics without fluids (C), or turning the horse out to move freely (D) risk worsening muscle damage and renal injury."
+    },
+    {
+      "id": 15,
+      "stem": "Which of the following is an appropriate component of ACUTE ER treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flunixin meglumine only if the horse is dehydrated"
+        },
+        {
+          "label": "B",
+          "text": "IV fluids to correct dehydration and support renal function"
+        },
+        {
+          "label": "C",
+          "text": "High-starch grain feeding to restore muscle glycogen quickly"
+        },
+        {
+          "label": "D",
+          "text": "Forced diuresis without fluid therapy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "IV fluids help correct dehydration and protect the kidneys from myoglobin-induced damage. NSAIDs like flunixin should be used cautiously and typically only if the horse is well hydrated (not A), and high-starch diets (C) or diuresis without fluids (D) can be harmful."
+    },
+    {
+      "id": 16,
+      "stem": "In chronic ER management, which dietary plan is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-starch, low-fat diet with minimal forage"
+        },
+        {
+          "label": "B",
+          "text": "High-fat (> 15% DE), low-starch (< 10% DE) diet with forage at 1.5–2% body weight/day"
+        },
+        {
+          "label": "C",
+          "text": "Low-fat, low-fiber diet with free-choice sweet feed"
+        },
+        {
+          "label": "D",
+          "text": "Grazing only, no supplementation or concentration control"
+        }
+      ],
+      "correct": "B",
+      "explanation": "For chronic management, a high-fat (> 15% DE), low-starch (< 10% DE) diet with adequate forage (1.5–2% BW/day) is recommended. High-starch/low-fat (A), low-fiber/high-sweet-feed (C), or uncontrolled grazing without dietary control (D) predispose to episodes."
+    },
+    {
+      "id": 17,
+      "stem": "Which medication and timing are correctly paired for chronic ER (e.g., RER) management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenylbutazone 4 mg/kg PO 60–90 min before exercise"
+        },
+        {
+          "label": "B",
+          "text": "Dantrolene 4 mg/kg PO 60–90 min before exercise to reduce Ca²⁺ release"
+        },
+        {
+          "label": "C",
+          "text": "Acepromazine 4 mg/kg PO 60–90 min before exercise to increase CK"
+        },
+        {
+          "label": "D",
+          "text": "Flunixin 4 mg/kg PO 60–90 min before exercise to induce muscle relaxation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dantrolene at 4 mg/kg PO 60–90 minutes before exercise is used to reduce Ca²⁺ release in susceptible horses. Phenylbutazone (A), acepromazine (C), and flunixin (D) at those doses/timings are not the standard specific therapy for chronic ER."
+    },
+    {
+      "id": 18,
+      "stem": "Which measure is MOST appropriate for prevention and control of ER in susceptible horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irregular training with long rest periods followed by intense work"
+        },
+        {
+          "label": "B",
+          "text": "High-starch, low-fat diet and frequent stable confinement"
+        },
+        {
+          "label": "C",
+          "text": "Consistent training schedule, low-starch/high-fat diet, adequate hydration, and stress reduction"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding turnout and using high-energy concentrates to maintain fitness"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Preventive management centers on consistent exercise, low-starch/high-fat diet, adequate hydration and electrolytes, and minimizing stress. Irregular training with long rest (A), high-starch diets and confinement (B), and avoiding turnout with high-energy feeds (D) all increase risk."
+    },
+    {
+      "id": 19,
+      "stem": "Which statement about prognosis is MOST accurate for horses with ER?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All forms carry a grave prognosis with poor athletic outcome"
+        },
+        {
+          "label": "B",
+          "text": "Sporadic ER generally has an excellent prognosis with rest and gradual return to work"
+        },
+        {
+          "label": "C",
+          "text": "Chronic forms cannot be managed long term"
+        },
+        {
+          "label": "D",
+          "text": "Renal failure is never a concern in ER"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sporadic ER generally carries an excellent prognosis when managed with rest and gradual return to work. Chronic forms can be managed long term (C), ER is not invariably grave (A), and myoglobinuric renal failure is a real concern (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which summary statement about exertional rhabdomyolysis is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ER is a single disease entity caused only by overexertion"
+        },
+        {
+          "label": "B",
+          "text": "ER represents a group of exertional muscle disorders divided into sporadic (environmental/management) and chronic (genetic/metabolic) forms"
+        },
+        {
+          "label": "C",
+          "text": "ER is exclusively an infectious disorder of muscle"
+        },
+        {
+          "label": "D",
+          "text": "ER is diagnosed solely by muscle biopsy without enzyme measurements"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ER is best understood as a group of exertional muscle disorders divided into sporadic (often environmental/management) and chronic (genetic/metabolic) categories. It is not a single overexertion disease (A), not purely infectious (C), and diagnosis uses enzymes and other tests in addition to biopsy (D)."
+    }
+  ]
+}

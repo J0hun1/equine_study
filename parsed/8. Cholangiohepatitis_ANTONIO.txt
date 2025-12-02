@@ -1,0 +1,127 @@
+=== SLIDE 1 ===
+CHOLANGIOHEPATITIS
+ Inflammation of the Bile Ducts and Liver Tissue
+Vet Med 517-Equine Medicine
+
+=== SLIDE 2 ===
+OVERVIEW
+Inflammation of both the bile ducts (cholangitis) and liver
+tissue (hepatitis).
+Caused by infection, obstruction, or immune-mediated
+processes.
+Leads to hepatic dysfunction and sometimes secondary
+complications (e.g., fibrosis or bile calculi).
+01
+
+=== SLIDE 3 ===
+ETIOLOGY
+02Bacterial infection (ascending from intestine): Gram-negative enteric
+bacteria (e.g., E. coli, Klebsiella).
+Obstruction: Gallstones or bile sludge.
+Immune-mediated inflammation.
+Parasitic migration (e.g., liver flukes).
+Secondary to:
+Hepatic abscesses
+Tumor necrosis
+Umbilical vein infection (in foals)
+Vascular compromise or hepatic lobe torsion
+
+=== SLIDE 4 ===
+FEATURE ADULT HORSES FOALS
+MAIN CAUSEAscending bacterial
+infection via bile ductsumbilical or bloodborne
+infection
+COMMON
+PATHOGENSE. coli, Klebsiella,
+EnterobacterRhodococcus,
+Corynebacterium,
+Streptococcus
+LESION Diffuse inflammation Discrete abscesses
+PROGNOSIS Good if treated earlyVariable (depends on
+abscess severity)ETIOLOGY
+03
+
+=== SLIDE 5 ===
+CLINICAL SIGNS
+04Weight loss, icterus, fever, abdominal pain, dermatitis
+Severe cases: hepatic failure → encephalopathy, photosensitization
+Focal abscesses: chronic colic, ill thrift
+
+=== SLIDE 6 ===
+DIAGNOSIS
+05Laboratory:
+↑ GGT (>300 U/L)
+Mild ↑ hepatocellular enzymes (AST, SDH)
+↑ conjugated bilirubin, bile acids, globulins
+Neutrophilia, ↑ fibrinogen
+Imaging:
+Ultrasound: distended bile ducts, calculi, sludge, hepatomegaly,
+fibrosis
+CT (in foals) for focal abscesses
+
+=== SLIDE 7 ===
+DIAGNOSIS
+06Other:
+Needle aspirate or biopsy for culture and histology
+Duodenal endoscopy if bile duct obstruction suspected
+
+=== SLIDE 8 ===
+DIFFERENTIAL DIAGNOSIS
+07Conditions to rule out:
+Chronic or recurrent colic
+Right dorsal displacement of colon
+Neoplasia
+Hepatic abscessation (non-septic origin)
+Key indicators favoring cholangiohepatitis:
+Fever + jaundice + elevated GGT + leukocytosis + hyperglobulinemia
+
+=== SLIDE 9 ===
+TREATMENT
+08 Medical Therapy:
+Long-term antimicrobials (3 weeks–6 months):
+Trimethoprim–sulfa (30 mg/kg q12h)
+Enrofloxacin (7.5 mg/kg q24h)
+Metronidazole, Ceftiofur, Penicillin
+NSAIDs (flunixin meglumine) for pain/inflammation
+IV fluids, pentoxifylline, DMSO for severe cases
+Avoid sunlight in icteric horses
+
+=== SLIDE 10 ===
+TREATMENT
+09Surgical Intervention:
+For obstructing calculi or nonresponsive abscesses (rib
+resection, drainage)
+
+=== SLIDE 11 ===
+FOLLOW  UP & MONITORING
+10Continue antibiotics until GGT <100 U/L or normal.
+Recheck GGT post-treatment.
+Follow-up ultrasound to assess hepatic healing or residual
+abscesses.
+
+=== SLIDE 12 ===
+PROGNOSIS
+11Good prognosis if no bile duct obstruction and liver
+echogenicity is normal.
+Horses with GGT >2500 U/L can recover with medical therapy.
+Poor prognosis in fibrotic or chronic cases.
+
+=== SLIDE 13 ===
+Aspect Description
+Definition Inflammation of liver & bile ducts
+Common in Adult horses
+Main Cause Ascending bacterial infection
+Key Diagnostic Marker GGT elevation
+Treatment Long-term antibiotics, NSAIDs
+Prognosis Good if treated earlySUMMARY
+12
+
+=== SLIDE 14 ===
+REFERENCE
+Lavoie, J. P., & Hinchcliff, K. W. (Eds.). (2018). Blackwell’s five-minute veterinary
+consult: Equine (3rd ed.). Wiley-Blackwell.
+13
+
+=== SLIDE 15 ===
+THANK YOU
+14

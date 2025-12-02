@@ -1,0 +1,143 @@
+Q1. Tetanus in horses is BEST described as:
+A. A viral disease causing respiratory failure
+B. A bacterial infection in necrotic tissue producing a neurotoxin that causes muscular spasms
+C. A fungal infection limited to the skin
+D. A protozoal infection of the GI tract
+
+Q2. Horses are considered:
+A. Highly resistant to tetanus toxin
+B. Among the most sensitive species to tetanus toxin
+C. Not affected by tetanus
+D. Only susceptible as foals
+
+Q3. Clostridium tetani is BEST characterized as:
+A. An aerobic, non-spore-forming bacillus
+B. An anaerobic, Gram-positive, spore-forming bacillus with terminal spherical spores
+C. A Gram-negative coccus
+D. A yeast-like organism
+
+Q4. How does C. tetani typically gain access to the horse’s body?
+A. Inhalation into the lungs
+B. Entry through a contaminated wound where low oxygen tension allows germination
+C. Vertical transmission in utero
+D. Oral ingestion and colonization of the stomach
+
+Q5. Which condition at the wound site favors germination and proliferation of C. tetani?
+A. Highly oxygenated, superficial abrasions
+B. Anaerobic environment due to necrosis, foreign material, or concurrent infection
+C. Dry, intact skin without contamination
+D. Exposure to strong sunlight
+
+Q6. The main neurotoxin responsible for clinical tetanus signs is:
+A. Tetanolysin
+B. Tetanospasmin
+C. Botulinum toxin
+D. Endotoxin
+
+Q7. Tetanospasmin primarily acts by:
+A. Blocking acetylcholine release at neuromuscular junctions
+B. Cleaving synaptobrevin in presynaptic inhibitory interneurons, preventing release of glycine and GABA
+C. Destroying myelin sheaths around motor axons
+D. Increasing serotonin release in the CNS
+
+Q8. The result of tetanospasmin action on the spinal cord is:
+A. Enhanced inhibition of motor neurons and flaccid paralysis
+B. Loss of motor neuron inhibition causing hypertonia and muscular spasm
+C. Selective sensory neuropathy only
+D. Reversible demyelination of sensory tracts
+
+Q9. Which additional exotoxin produced by C. tetani increases local tissue necrosis?
+A. Tetanolysin
+B. Shiga toxin
+C. Enterotoxin A
+D. Lipopolysaccharide
+
+Q10. The incubation period for tetanus in horses is usually:
+A. 12–24 hours
+B. 1–3 weeks, but highly variable
+C. 6–12 months
+D. 5–10 years
+
+Q11. Which horses are at highest risk for tetanus?
+A. Only vaccinated horses
+B. Unvaccinated horses with contaminated wounds or penetrating foot injuries
+C. Horses with no wounds
+D. Only foals with diarrhea
+
+Q12. Early clinical signs of tetanus in a horse may include:
+A. Sudden blindness and circling only
+B. Local stiffness, lameness, colic, and progression to a stiff/spastic gait
+C. Severe coughing and nasal discharge
+D. Isolated pruritus
+
+Q13. Classic overt signs of tetanus include:
+A. “Sawhorse stance,” raised tail head, flared nostrils, erect ears, third eyelid prolapse, and “lockjaw”
+B. Hindlimb knuckling and toe dragging only
+C. Severe ataxia with knuckling but no muscle tone change
+D. Purely respiratory crackles
+
+Q14. As tetanus progresses, which additional signs are commonly observed?
+A. Hypothermia and bradycardia
+B. Dysphagia with saliva accumulation, aspiration risk, increased temperature, profuse sweating, recumbency, extensor rigidity, difficulty urinating/defecating, and respiratory failure
+C. Only mild lethargy
+D. Purely GI colic with no neuromuscular signs
+
+Q15. Which conditions are important DIFFERENTIAL DIAGNOSES for tetanus?
+A. Laminitis, hypocalcemia, rhabdomyolysis, rabies, and myotonia
+B. Only colic and gastric ulcers
+C. Only navicular syndrome
+D. Only equine asthma
+
+Q16. What is the cornerstone of initial tetanus treatment in horses?
+A. Corticosteroids alone
+B. Neutralizing unbound toxin with tetanus antitoxin and eliminating infection at the wound, plus intensive nursing care
+C. Antifungal therapy
+D. Immediate surgical amputation of the affected limb
+
+Q17. Which nursing measures are appropriate for a horse with tetanus?
+A. Keeping the horse in a bright, noisy environment to maintain alertness
+B. Confining to a quiet, dark stall with deep bedding, minimizing stimulation, using padded walls/helmet, and frequent turning of recumbent horses
+C. Forcing the horse to exercise to prevent muscle stiffness
+D. Withholding water to reduce aspiration risk
+
+Q18. Which antimicrobial is commonly used to treat C. tetani infection?
+A. Penicillin G IV for 7–10 days
+B. Acyclovir
+C. Fluconazole
+D. Praziquantel
+
+Q19. Why must tetanus antitoxin (TAT) and tetanus toxoid be given at different injection sites?
+A. To avoid local irritation at a single site
+B. Because TAT can bind and neutralize the toxoid antigen if given at the same site
+C. To prevent hepatotoxicity
+D. To improve vaccine absorption through multiple muscles
+
+Q20. Which statement BEST summarizes prognosis in equine tetanus?
+A. All affected horses recover fully
+B. Mortality is high (50–80%); recumbent horses unable to rise have grave prognosis, whereas horses that remain standing and receive excellent nursing care may recover over weeks
+C. Tetanus is always fatal within 24 hours
+D. Prognosis is excellent regardless of clinical severity
+
+Answer key:
+1-B
+2-B
+3-B
+4-B
+5-B
+6-B
+7-B
+8-B
+9-A
+10-B
+11-B
+12-B
+13-A
+14-B
+15-A
+16-B
+17-B
+18-A
+19-B
+20-B
+
+

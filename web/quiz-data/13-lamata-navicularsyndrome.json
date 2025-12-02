@@ -1,0 +1,486 @@
+{
+  "topic": "13. Lamata_NavicularSyndrome",
+  "slug": "13-lamata-navicularsyndrome",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Navicular syndrome in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "An acute infectious arthritis of the fetlock"
+        },
+        {
+          "label": "B",
+          "text": "A degenerative disease complex affecting structures within the navicular apparatus, usually bilaterally"
+        },
+        {
+          "label": "C",
+          "text": "A congenital hoof deformity present at birth"
+        },
+        {
+          "label": "D",
+          "text": "A transient soft tissue sprain of the limb"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Navicular syndrome is a degenerative disease complex of the navicular apparatus, often bilateral, rather than an acute infectious arthritis (A), congenital deformity (C), or simple sprain (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which structures are part of the navicular apparatus that may be affected in navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Navicular bone, navicular bursa, collateral sesamoid ligaments, distal impar ligament, and deep digital flexor tendon"
+        },
+        {
+          "label": "B",
+          "text": "Only the superficial digital flexor tendon"
+        },
+        {
+          "label": "C",
+          "text": "Only the laminae of the hoof wall"
+        },
+        {
+          "label": "D",
+          "text": "Only the suspensory ligament of the fetlock"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The navicular apparatus includes the navicular bone, navicular bursa, collateral sesamoid ligaments, distal impar ligament, and deep digital flexor tendon. The other options (B–D) list only isolated structures."
+    },
+    {
+      "id": 3,
+      "stem": "Which hoof conformation is MOST commonly associated with navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wide, flat feet with large frogs"
+        },
+        {
+          "label": "B",
+          "text": "Narrow, upright feet with contracted heels and small, narrow frogs"
+        },
+        {
+          "label": "C",
+          "text": "Club feet with excessively long heels"
+        },
+        {
+          "label": "D",
+          "text": "Laminitic feet with dropped soles"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Narrow, upright feet with contracted heels and small frogs predispose to navicular problems because of abnormal load distribution. Wide flat feet (A), club feet (C), and laminitic feet (D) have different pathologies."
+    },
+    {
+      "id": 4,
+      "stem": "How does body size relative to hoof size predispose horses to navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Large horses with large hooves have no risk"
+        },
+        {
+          "label": "B",
+          "text": "Horses with small hooves and relatively large bodies concentrate high loads on small feet"
+        },
+        {
+          "label": "C",
+          "text": "Ponies with small bodies are most affected regardless of hoof size"
+        },
+        {
+          "label": "D",
+          "text": "Only miniature horses are at risk"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses with small hooves relative to body size concentrate high loads on a small area, increasing stress on the navicular apparatus. Large hooves (A) do not eliminate risk, and ponies/miniatures alone (C, D) do not account for the breed pattern."
+    },
+    {
+      "id": 5,
+      "stem": "Which management factors are considered predisposing for navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excellent farriery and balanced hooves"
+        },
+        {
+          "label": "B",
+          "text": "Poor distal limb or hoof conformation, hoof imbalance (long toes, low heels), poor hoof management, and undersized shoes"
+        },
+        {
+          "label": "C",
+          "text": "Lack of any work or exercise"
+        },
+        {
+          "label": "D",
+          "text": "Feeding high-fat diets"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Poor conformation, hoof imbalance (long toes, low heels), poor hoof care, and undersized shoes all contribute to excessive strain on navicular structures. Good farriery (A) is protective, while inactivity (C) and diet (D) are less direct risk factors."
+    },
+    {
+      "id": 6,
+      "stem": "In warmblood breeds, navicular syndrome may have which additional component?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral etiology"
+        },
+        {
+          "label": "B",
+          "text": "Genetic predisposition"
+        },
+        {
+          "label": "C",
+          "text": "Nutritional deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Tick-borne origin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In warmbloods, navicular syndrome may have a heritable component, suggesting a genetic predisposition. Viral (A), nutritional (C), or tick-borne (D) etiologies are not primary."
+    },
+    {
+      "id": 7,
+      "stem": "Typical clinical presentation of navicular syndrome includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bilateral forelimb lameness, often worse in one limb, with shortened stride, shuffling gait, and stumbling"
+        },
+        {
+          "label": "B",
+          "text": "Acute unilateral hindlimb paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse muscle atrophy without lameness"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory distress and coughing"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Typical presentation is bilateral forelimb lameness (often asymmetrical), with a shortened stride, shuffling gait, and stumbling; owners may misinterpret this as shoulder lameness. Hindlimb paralysis (B) and purely muscular or respiratory signs (C, D) are atypical."
+    },
+    {
+      "id": 8,
+      "stem": "Where is pain most commonly elicited on hoof tester examination in navicular horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toe region only"
+        },
+        {
+          "label": "B",
+          "text": "Heel or frog region"
+        },
+        {
+          "label": "C",
+          "text": "Sole of the hind feet only"
+        },
+        {
+          "label": "D",
+          "text": "Coronary band only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Heel or frog pain on hoof tester exam is common in navicular horses, reflecting involvement of the caudal foot. Toe-only (A), hind sole (C), or coronary band (D) pain alone suggests other conditions."
+    },
+    {
+      "id": 9,
+      "stem": "Which diagnostic test often relieves navicular pain and reveals lameness in the opposite limb?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abaxial sesamoid nerve block"
+        },
+        {
+          "label": "B",
+          "text": "Palmar digital nerve block"
+        },
+        {
+          "label": "C",
+          "text": "Peroneal nerve block"
+        },
+        {
+          "label": "D",
+          "text": "Infraorbital nerve block"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Palmar digital nerve block desensitizes the heel region and often relieves navicular pain, unmasking lameness in the opposite foot. Abaxial sesamoid, peroneal, and infraorbital blocks (A, C, D) target different areas."
+    },
+    {
+      "id": 10,
+      "stem": "Radiographic findings supportive of navicular syndrome may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only normal navicular bone shape"
+        },
+        {
+          "label": "B",
+          "text": "Cyst-like lesions, enlarged vascular channels, medullary sclerosis, enthesiophytes, bone fragments, or flexor cortex erosions"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse osteomyelitis of the cannon bone"
+        },
+        {
+          "label": "D",
+          "text": "Only laminar separation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Radiographic changes may include cyst-like lesions, enlarged vascular channels, medullary sclerosis, enthesiophytes, bone fragments, and flexor cortex erosions. Normal bones (A), cannon osteomyelitis (C), or laminar separation (D) do not define navicular disease."
+    },
+    {
+      "id": 11,
+      "stem": "Which advanced imaging modality provides the most detailed evaluation of all podotrochlear structures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radiography alone"
+        },
+        {
+          "label": "B",
+          "text": "MRI"
+        },
+        {
+          "label": "C",
+          "text": "CT, which is more detailed than MRI"
+        },
+        {
+          "label": "D",
+          "text": "Scintigraphy only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "MRI offers the most detailed evaluation of all podotrochlear structures (bone, tendons, ligaments, bursa); CT is useful but less comprehensive. Radiographs (A) and scintigraphy (D) provide complementary but less detailed information."
+    },
+    {
+      "id": 12,
+      "stem": "Which conservative (medical) management strategies are commonly used initially for navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate neurectomy without imaging"
+        },
+        {
+          "label": "B",
+          "text": "Trimming and shoeing changes, rest, and systemic NSAIDs such as phenylbutazone or firocoxib"
+        },
+        {
+          "label": "C",
+          "text": "High-dose corticosteroid injections in all joints"
+        },
+        {
+          "label": "D",
+          "text": "Stall rest only with no hoof changes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Initial conservative management includes trimming and shoeing changes, rest, and systemic NSAIDs (e.g., phenylbutazone, firocoxib). Immediate neurectomy (A), blanket corticosteroids (C), or stall rest without farriery (D) are not recommended first-line."
+    },
+    {
+      "id": 13,
+      "stem": "Which intrasynovial therapies can be used for navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intra-articular corticosteroids and biologics (e.g., into the DIP joint or navicular bursa)"
+        },
+        {
+          "label": "B",
+          "text": "Only intra-articular antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Intra-articular local anesthetic alone"
+        },
+        {
+          "label": "D",
+          "text": "Oral vitamins"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Intrasynovial therapies include corticosteroids and/or biologics injected into the DIP joint or navicular bursa to reduce inflammation and pain. Solely antibiotics (B), local anesthetic (C), or oral vitamins (D) are insufficient."
+    },
+    {
+      "id": 14,
+      "stem": "What is the role of bisphosphonates in navicular syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They have no role"
+        },
+        {
+          "label": "B",
+          "text": "Systemic bisphosphonates (tiludronate or clodronate) can help modulate bone pain and remodeling"
+        },
+        {
+          "label": "C",
+          "text": "They are only used in foals with developmental disease"
+        },
+        {
+          "label": "D",
+          "text": "They cure the disease permanently with a single dose"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Bisphosphonates such as tiludronate or clodronate can help by modulating bone turnover and alleviating bone-related pain; they do not cure the disease with a single dose (D). They are not useless (A) nor restricted to foals (C)."
+    },
+    {
+      "id": 15,
+      "stem": "Which regenerative or biologic therapies have been used in some navicular cases with soft tissue lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mesenchymal stem cells, autologous conditioned serum, and platelet-rich plasma"
+        },
+        {
+          "label": "B",
+          "text": "Only antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Only dewormers"
+        },
+        {
+          "label": "D",
+          "text": "Only antihistamines"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Mesenchymal stem cells, autologous conditioned serum, and platelet-rich plasma are used in some cases, especially where soft tissue lesions in the navicular region are documented. Antibiotics, dewormers, or antihistamines alone (B–D) are not regenerative therapies."
+    },
+    {
+      "id": 16,
+      "stem": "Indications for navicular bursoscopy include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild lameness responding to NSAIDs"
+        },
+        {
+          "label": "B",
+          "text": "Debridement of dorsal DDFT tears or flexor cortex erosions and removal of adhesions in the proximal navicular bursa"
+        },
+        {
+          "label": "C",
+          "text": "Routine exam of all sound horses"
+        },
+        {
+          "label": "D",
+          "text": "Sole bruising without imaging changes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Navicular bursoscopy is indicated to debride dorsal DDFT tears, address flexor cortex erosions, and remove adhesions in the navicular bursa when present. Routine use in sound horses (C) or sole bruising without imaging (D) is not appropriate."
+    },
+    {
+      "id": 17,
+      "stem": "Palmar digital neurectomy may be considered when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medical treatment has failed and there is no significant DDFT damage on MRI"
+        },
+        {
+          "label": "B",
+          "text": "At the first sign of mild heel pain"
+        },
+        {
+          "label": "C",
+          "text": "In foals less than 1 year old"
+        },
+        {
+          "label": "D",
+          "text": "To diagnose the cause of lameness"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Palmar digital neurectomy is considered when medical and farriery management fail and MRI shows no significant DDFT damage, to avoid catastrophic tendon rupture post-desensitization. It is not first-line (B) and is inappropriate in foals (C) or as a diagnostic (D)."
+    },
+    {
+      "id": 18,
+      "stem": "Which complications may occur after palmar digital neurectomy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "None; it is always curative"
+        },
+        {
+          "label": "B",
+          "text": "Painful neuroma formation, recurrence of lameness due to nerve regrowth, and undetected foot infection due to loss of sensation"
+        },
+        {
+          "label": "C",
+          "text": "Only laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Only colic"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Complications include painful neuroma formation, recurrence of lameness due to nerve regrowth, and risk of undetected foot injury or infection due to loss of sensation. It is not always curative (A), and laminitis or colic alone (C, D) are not the principal concerns."
+    },
+    {
+      "id": 19,
+      "stem": "What owner care is especially important after neurectomy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No special care is needed"
+        },
+        {
+          "label": "B",
+          "text": "Regular foot monitoring and, often, full pad shoeing to protect the desensitized foot"
+        },
+        {
+          "label": "C",
+          "text": "Stopping farriery visits"
+        },
+        {
+          "label": "D",
+          "text": "Increased high-speed exercise"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Owners must monitor feet carefully and often use full pad shoeing to protect the desensitized hoof and prevent trauma. Neglecting farriery (C) or increasing intense exercise (D) is unsafe."
+    },
+    {
+      "id": 20,
+      "stem": "Which overall statement about prognosis for navicular syndrome is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an acute disease that resolves completely with short-term treatment"
+        },
+        {
+          "label": "B",
+          "text": "It is a progressive degenerative condition; many horses improve with treatment but may deteriorate over time, and lifelong management is often needed"
+        },
+        {
+          "label": "C",
+          "text": "It never causes lameness"
+        },
+        {
+          "label": "D",
+          "text": "It always leads to euthanasia within one year"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Navicular syndrome is progressive and degenerative; while many horses improve with treatment, some deteriorate over time and require lifelong management. It is not an acute self-limiting problem (A), not always subclinical (C), and does not invariably cause rapid euthanasia (D)."
+    }
+  ]
+}

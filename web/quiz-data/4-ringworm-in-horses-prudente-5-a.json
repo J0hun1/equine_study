@@ -1,0 +1,486 @@
+{
+  "topic": "4. Ringworm in horses_PRUDENTE 5-A",
+  "slug": "4-ringworm-in-horses-prudente-5-a",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "In horses, ringworm (dermatophytosis) is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A deep systemic fungal infection commonly affecting internal organs"
+        },
+        {
+          "label": "B",
+          "text": "A superficial fungal infection affecting skin, hair, and other keratinized structures"
+        },
+        {
+          "label": "C",
+          "text": "A viral disease of the integumentary system that causes pustules"
+        },
+        {
+          "label": "D",
+          "text": "A bacterial cellulitis that spreads via lymphatics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine ringworm is a superficial fungal infection affecting skin, hair, and other keratinized structures. It does not typically cause deep systemic mycosis (A), viral pustules (C), or bacterial cellulitis (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The primary dermatophyte species causing ringworm in horses are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trichophyton equinum and Trichophyton mentagrophytes"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans and Malassezia pachydermatis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus and Streptococcus equi"
+        },
+        {
+          "label": "D",
+          "text": "Aspergillus fumigatus and Cryptococcus neoformans"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The primary causative dermatophytes in horses are *Trichophyton equinum* and *T. mentagrophytes*; *Nannizzia gypsea* and *Microsporum canis* may also occur. The other organisms listed (B–D) are yeasts, bacteria, or systemic fungi not typically responsible for equine ringworm."
+    },
+    {
+      "id": 3,
+      "stem": "Dermatophytes in equine ringworm primarily feed on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collagen and elastin in deep dermis"
+        },
+        {
+          "label": "B",
+          "text": "Keratin in hair shafts and superficial skin"
+        },
+        {
+          "label": "C",
+          "text": "Lipids in sebaceous secretions"
+        },
+        {
+          "label": "D",
+          "text": "Melanin pigment in the epidermis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophytes feed on keratin in hair shafts and superficial stratum corneum, explaining their superficial, keratin-associated lesions. Collagen and elastin (A), lipids (C), and melanin (D) are not their primary substrates."
+    },
+    {
+      "id": 4,
+      "stem": "Which route of transmission is MOST important for equine ringworm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aerosol spread over long distances"
+        },
+        {
+          "label": "B",
+          "text": "Vertical transmission in utero"
+        },
+        {
+          "label": "C",
+          "text": "Direct contact with infected animals or contaminated objects (fomites)"
+        },
+        {
+          "label": "D",
+          "text": "Transplacental migration of larvae"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Transmission occurs via direct contact with infected animals or indirectly via contaminated grooming tools, tack, stalls, and environment. Aerosol spread (A), vertical transmission (B), and larval migration (D) are not characteristic for dermatophytosis."
+    },
+    {
+      "id": 5,
+      "stem": "Which statement regarding the depth of infection in typical equine ringworm is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It usually causes deep systemic invasion and fungemia"
+        },
+        {
+          "label": "B",
+          "text": "It remains superficial, affecting skin and hair without deep systemic spread"
+        },
+        {
+          "label": "C",
+          "text": "It always invades bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "It only affects hooves and keratinized laminae"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In horses, ringworm classically remains a superficial infection of skin and hair, without deep systemic spread. Deep invasion and fungemia (A, C) or exclusive hoof involvement (D) are not typical."
+    },
+    {
+      "id": 6,
+      "stem": "Which horses are at higher risk of developing ringworm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only geriatrics over 20 years of age"
+        },
+        {
+          "label": "B",
+          "text": "Only foals under 6 months"
+        },
+        {
+          "label": "C",
+          "text": "Younger horses or those with compromised skin or immune function"
+        },
+        {
+          "label": "D",
+          "text": "Only stallions and intact males"
+        }
+      ],
+      "correct": "C",
+      "explanation": "All ages can be infected, but younger horses and those with compromised skin or immune status have higher risk. It is not limited strictly to geriatrics (A), foals (B), or stallions (D)."
+    },
+    {
+      "id": 7,
+      "stem": "A typical ringworm lesion in horses appears as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Circular or irregular areas of alopecia with scaling, crusting, and broken hairs"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse hyperpigmentation without hair loss"
+        },
+        {
+          "label": "C",
+          "text": "Deep ulcerative lesions with draining tracts"
+        },
+        {
+          "label": "D",
+          "text": "Vesicles and bullae along mucocutaneous junctions"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Typical lesions are circular or irregular alopecic areas with broken hairs, scaling, crusting, and mild erythema. Diffuse hyperpigmentation (B), deep draining tracts (C), or vesicles/bullae at mucocutaneous junctions (D) describe other dermatologic conditions."
+    },
+    {
+      "id": 8,
+      "stem": "Which regions are commonly involved early in equine ringworm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Girth and saddle regions, with possible spread to neck, flanks, chest, and head"
+        },
+        {
+          "label": "B",
+          "text": "Sole and frog only"
+        },
+        {
+          "label": "C",
+          "text": "Perineum and ventral abdomen only"
+        },
+        {
+          "label": "D",
+          "text": "Eyelids and nostrils exclusively"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The girth and saddle regions (“girth itch”) are commonly affected initially, with possible spread to neck, flanks, chest, and head. The other locations (B–D) are less classic for equine ringworm."
+    },
+    {
+      "id": 9,
+      "stem": "Regarding zoonotic potential, ringworm in horses:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no zoonotic risk"
+        },
+        {
+          "label": "B",
+          "text": "Is zoonotic in some cases and can spread from horses to humans"
+        },
+        {
+          "label": "C",
+          "text": "Only spreads from humans to horses, not the reverse"
+        },
+        {
+          "label": "D",
+          "text": "Is only zoonotic in immunocompromised horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Many equine dermatophytes are zoonotic, and infection can spread from horses to humans, so biosecurity is important. It is not completely non-zoonotic (A), not only human-to-horse (C), and “zoonotic only in immunocompromised horses” (D) is misframed."
+    },
+    {
+      "id": 10,
+      "stem": "Which environmental and management factor MOST increases the risk of ringworm in a stable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dry, well-ventilated stalls and individual grooming kits"
+        },
+        {
+          "label": "B",
+          "text": "Damp, humid conditions with shared tack and grooming tools"
+        },
+        {
+          "label": "C",
+          "text": "Strict isolation of new arrivals and regular disinfection"
+        },
+        {
+          "label": "D",
+          "text": "Daily sun exposure and open-air turnout"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Damp, humid environments with shared, poorly cleaned tack and grooming tools favor dermatophyte persistence and spread. Dry, well-managed stables (A) and strong biosecurity (C, D) reduce risk."
+    },
+    {
+      "id": 11,
+      "stem": "Which laboratory method is considered the MOST accurate for confirming dermatophytosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial culture of pus from lesions"
+        },
+        {
+          "label": "B",
+          "text": "Fungal culture of hairs and skin scrapings from active lesion margins"
+        },
+        {
+          "label": "C",
+          "text": "Serum antibody titers against dermatophytes"
+        },
+        {
+          "label": "D",
+          "text": "Fecal flotation and sedimentation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Fungal culture of hairs and skin scrapings from active lesion margins is the most accurate diagnostic method for dermatophytosis. Bacterial culture (A), antibody titers (C), and fecal tests (D) are not standard for ringworm diagnosis."
+    },
+    {
+      "id": 12,
+      "stem": "When collecting samples for fungal culture in suspected ringworm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lesions should be scrubbed thoroughly with alcohol before sampling"
+        },
+        {
+          "label": "B",
+          "text": "Sampling should focus on recently active margins, broken hairs, and crusts"
+        },
+        {
+          "label": "C",
+          "text": "Only intact, normal hair should be sampled"
+        },
+        {
+          "label": "D",
+          "text": "Only blood samples are needed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sampling should include the active lesion margin, broken hairs, crusts, and scales; alcohol scrubbing before sampling (A) can reduce culture yield. Normal hair (C) and blood (D) are not ideal samples."
+    },
+    {
+      "id": 13,
+      "stem": "Which condition is a key differential diagnosis for equine ringworm because it can produce similar superficial skin lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equine protozoal myeloencephalitis"
+        },
+        {
+          "label": "B",
+          "text": "Dermatophilosis (rain scald)"
+        },
+        {
+          "label": "C",
+          "text": "Strangles"
+        },
+        {
+          "label": "D",
+          "text": "Equine influenza"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophilosis (rain scald) can clinically resemble ringworm with crusting and alopecia, making it an important differential. The other conditions (A, C, D) primarily affect other systems or present differently."
+    },
+    {
+      "id": 14,
+      "stem": "Which topical treatment is PREFERRED as a whole-body, leave-on rinse for managing equine ringworm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dilute bleach solution applied daily"
+        },
+        {
+          "label": "B",
+          "text": "Lime sulfur (1:16), enilconazole (1:100), or 2% miconazole/2% chlorhexidine shampoo"
+        },
+        {
+          "label": "C",
+          "text": "Plain water rinses with no medicated product"
+        },
+        {
+          "label": "D",
+          "text": "High-concentration iodine scrub"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Preferred topical whole-body, leave-on therapies include lime sulfur (1:16), enilconazole (1:100), or 2% miconazole/2% chlorhexidine shampoo. Bleach (A, C) is irritating and not first-line, and plain water (C) lacks antifungal activity."
+    },
+    {
+      "id": 15,
+      "stem": "Why are systemic oral antifungals generally avoided in treating ringworm in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are ineffective against dermatophytes"
+        },
+        {
+          "label": "B",
+          "text": "They are usually not needed and can be costly or have more side effects"
+        },
+        {
+          "label": "C",
+          "text": "They cause rapid recurrence of infection"
+        },
+        {
+          "label": "D",
+          "text": "They are only approved for use in cattle"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Systemic oral antifungals are often avoided due to cost, potential adverse effects, and the fact that most equine ringworm cases respond to topical therapy and environmental management. They are not inherently ineffective (A) and do not cause recurrence (C), nor are they restricted to cattle (D)."
+    },
+    {
+      "id": 16,
+      "stem": "Which advice regarding bleach use in ringworm cases is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bleach is the first-line topical therapy for horses and tack"
+        },
+        {
+          "label": "B",
+          "text": "Bleach is avoided because it is irritating and poses human health risks"
+        },
+        {
+          "label": "C",
+          "text": "Bleach must be applied undiluted directly to lesions"
+        },
+        {
+          "label": "D",
+          "text": "Bleach is only used on wounds, not on equipment"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Bleach is discouraged directly on horses because it is irritating and a human health hazard; other disinfectants are preferred. It is not first-line (A), should not be used undiluted on lesions (C), and is not specifically limited to wounds (D)."
+    },
+    {
+      "id": 17,
+      "stem": "A major complication of untreated or poorly controlled ringworm in a stable is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid progression to systemic mycosis"
+        },
+        {
+          "label": "B",
+          "text": "Widespread infection of other horses due to environmental contamination"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible hair follicle destruction in all cases"
+        },
+        {
+          "label": "D",
+          "text": "Permanent scarring and hoof deformity in all horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The major complication is spread to other horses (and sometimes other species) due to environmental spore contamination. Systemic mycosis (A), universal follicle destruction (C), and hoof deformities (D) are not typical."
+    },
+    {
+      "id": 18,
+      "stem": "Which general statement about the prognosis of equine ringworm is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prognosis is poor even with treatment"
+        },
+        {
+          "label": "B",
+          "text": "Prognosis is generally good with appropriate topical therapy and hygiene"
+        },
+        {
+          "label": "C",
+          "text": "Prognosis is always guarded due to systemic spread"
+        },
+        {
+          "label": "D",
+          "text": "Prognosis is unknown because the disease is rare"
+        }
+      ],
+      "correct": "B",
+      "explanation": "With proper topical therapy and good hygiene, prognosis is generally good, and many cases may even self-resolve as immunity develops. It is not usually poor (A), consistently guarded due to systemic spread (C), or rare and unknown (D)."
+    },
+    {
+      "id": 19,
+      "stem": "Which preventive measure is MOST important to limit ringworm spread in a boarding facility?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Feeding high-energy diets to boost immunity"
+        },
+        {
+          "label": "B",
+          "text": "Avoiding clipper use during winter"
+        },
+        {
+          "label": "C",
+          "text": "Avoiding shared tack and grooming tools without proper cleaning and disinfection"
+        },
+        {
+          "label": "D",
+          "text": "Eliminating turnout time"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Avoiding shared tack and grooming tools without thorough cleaning/disinfection is critical to prevent stable-wide transmission. Diet (A), avoiding clipping (B), or eliminating turnout (D) are less directly relevant."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement BEST summarizes environmental control for ringworm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spores die quickly in the environment and do not require stable decontamination"
+        },
+        {
+          "label": "B",
+          "text": "Spores persist long term on wood, soil, and tack, so environmental cleaning is as important as treating the horse"
+        },
+        {
+          "label": "C",
+          "text": "Only the horse’s skin needs treatment; the stall environment is irrelevant"
+        },
+        {
+          "label": "D",
+          "text": "Environmental control is unnecessary once lesions are crusted"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophyte spores persist for long periods on wood, soil, and tack, so environmental decontamination is as important as treating the horse. It is incorrect to assume they die quickly (A), that the environment is irrelevant (C), or that control is unnecessary once crusting occurs (D)."
+    }
+  ]
+}

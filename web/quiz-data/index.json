@@ -1,0 +1,88 @@
+{
+  "topics": [
+    {
+      "topic": "1. Equine Metabolic Syndrome-Pacia, Aivelene A.",
+      "slug": "1-equine-metabolic-syndrome-pacia-aivelene-a",
+      "file": "1-equine-metabolic-syndrome-pacia-aivelene-a.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "10. EEE_WEE_VEE - Alarilla, Chester Jade",
+      "slug": "10-eee-wee-vee-alarilla-chester-jade",
+      "file": "10-eee-wee-vee-alarilla-chester-jade.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "11. Tetanus_Fernandez",
+      "slug": "11-tetanus-fernandez",
+      "file": "11-tetanus-fernandez.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "13. Lamata_NavicularSyndrome",
+      "slug": "13-lamata-navicularsyndrome",
+      "file": "13-lamata-navicularsyndrome.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "14. Osteoarthritis_Jarrell",
+      "slug": "14-osteoarthritis-jarrell",
+      "file": "14-osteoarthritis-jarrell.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "15. Exertional Rhabdomyolysis",
+      "slug": "15-exertional-rhabdomyolysis",
+      "file": "15-exertional-rhabdomyolysis.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "2. Equine Cushing_s Disease_ESTOMATA",
+      "slug": "2-equine-cushing-s-disease-estomata",
+      "file": "2-equine-cushing-s-disease-estomata.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "3. Equine Rain Rot_ESCOTE",
+      "slug": "3-equine-rain-rot-escote",
+      "file": "3-equine-rain-rot-escote.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "4. Ringworm in horses_PRUDENTE 5-A",
+      "slug": "4-ringworm-in-horses-prudente-5-a",
+      "file": "4-ringworm-in-horses-prudente-5-a.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "5. Equine Sarcoids and Melanomas - Jardiolin 5DVM-A",
+      "slug": "5-equine-sarcoids-and-melanomas-jardiolin-5dvm-a",
+      "file": "5-equine-sarcoids-and-melanomas-jardiolin-5dvm-a.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "6. Equine Recurrent Uveitis (ERU)_MALDEPEÑA.pdf",
+      "slug": "6-equine-recurrent-uveitis-eru-maldepe-a-pdf",
+      "file": "6-equine-recurrent-uveitis-eru-maldepe-a-pdf.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "7_Theiler_s Disease_Segumban",
+      "slug": "7-theiler-s-disease-segumban",
+      "file": "7-theiler-s-disease-segumban.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "8. Cholangiohepatitis_ANTONIO",
+      "slug": "8-cholangiohepatitis-antonio",
+      "file": "8-cholangiohepatitis-antonio.json",
+      "numQuestions": 20
+    },
+    {
+      "topic": "9. Tyzzers Disease_ Maravillas, Chester Kent Y. ",
+      "slug": "9-tyzzers-disease-maravillas-chester-kent-y",
+      "file": "9-tyzzers-disease-maravillas-chester-kent-y.json",
+      "numQuestions": 20
+    }
+  ]
+}

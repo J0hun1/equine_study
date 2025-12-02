@@ -1,0 +1,486 @@
+{
+  "topic": "6. Equine Recurrent Uveitis (ERU)_MALDEPEÑA.pdf",
+  "slug": "6-equine-recurrent-uveitis-eru-maldepe-a-pdf",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine recurrent uveitis (ERU) is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A single acute episode of corneal ulceration"
+        },
+        {
+          "label": "B",
+          "text": "Chronic, recurrent inflammation of the uveal tract leading to progressive ocular damage"
+        },
+        {
+          "label": "C",
+          "text": "A non-inflammatory degenerative retinal disease"
+        },
+        {
+          "label": "D",
+          "text": "A primary lens luxation disorder"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU is a chronic, recurrent inflammation of the uveal tract leading to progressive ocular damage. It is not a single acute corneal event (A), a purely degenerative retinal disease (C), or a lens-luxation disorder (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which structures are part of the uveal tract affected in ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cornea and lens only"
+        },
+        {
+          "label": "B",
+          "text": "Iris, ciliary body, and choroid"
+        },
+        {
+          "label": "C",
+          "text": "Retina and optic nerve only"
+        },
+        {
+          "label": "D",
+          "text": "Conjunctiva and eyelids"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The uveal tract comprises the iris, ciliary body, and choroid, all of which can be inflamed in ERU. Cornea/lens (A), retina/optic nerve (C), and conjunctiva/eyelids (D) belong to other ocular structures."
+    },
+    {
+      "id": 3,
+      "stem": "ERU is also commonly referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Night blindness”"
+        },
+        {
+          "label": "B",
+          "text": "“Moon blindness”"
+        },
+        {
+          "label": "C",
+          "text": "“Rain scald”"
+        },
+        {
+          "label": "D",
+          "text": "“Lockjaw”"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU is commonly known as “moon blindness,” historically associated with periodic recurrences. “Night blindness” (A), “rain scald” (C), and “lockjaw” (D) are unrelated conditions."
+    },
+    {
+      "id": 4,
+      "stem": "What is the leading consequence of ERU in affected horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic keratoconjunctivitis without vision loss"
+        },
+        {
+          "label": "B",
+          "text": "Leading cause of blindness in horses"
+        },
+        {
+          "label": "C",
+          "text": "Primary cause of glaucoma in dogs"
+        },
+        {
+          "label": "D",
+          "text": "Self-limiting ocular irritation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU is the leading cause of blindness in horses due to cumulative inflammatory damage. It is more than mild keratoconjunctivitis (A), not a canine disease (C), and certainly not self-limiting without risk (D)."
+    },
+    {
+      "id": 5,
+      "stem": "Which statement BEST describes the underlying pathophysiology of ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purely traumatic eye injury without immune involvement"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated disease with breakdown of ocular immune privilege and autoantibody attack"
+        },
+        {
+          "label": "C",
+          "text": "Primary bacterial conjunctivitis from external infection"
+        },
+        {
+          "label": "D",
+          "text": "Simple vitamin A deficiency"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU is an immune-mediated disease characterized by breakdown of ocular immune privilege and autoantibody-mediated attack on eye tissues, often triggered by infection or trauma. Pure trauma (A), primary bacterial conjunctivitis (C), and vitamin A deficiency (D) do not explain its recurrent, immune nature."
+    },
+    {
+      "id": 6,
+      "stem": "Which infectious organism is most commonly implicated as a trigger for ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus equi"
+        },
+        {
+          "label": "C",
+          "text": "Equine herpesvirus-1"
+        },
+        {
+          "label": "D",
+          "text": "Borrelia burgdorferi"
+        }
+      ],
+      "correct": "A",
+      "explanation": "*Leptospira interrogans* is the infectious agent most commonly implicated as a trigger or contributor to ERU. *Streptococcus equi* (B), EHV-1 (C), and *Borrelia* (D) are associated with other syndromes."
+    },
+    {
+      "id": 7,
+      "stem": "Which breed has the highest genetic risk for ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoroughbreds"
+        },
+        {
+          "label": "B",
+          "text": "Appaloosas"
+        },
+        {
+          "label": "C",
+          "text": "Arabians"
+        },
+        {
+          "label": "D",
+          "text": "Standardbreds"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Appaloosas have the highest genetic risk for ERU, with a significantly increased incidence compared to other breeds. Thoroughbreds (A), Arabians (C), and Standardbreds (D) do not show the same level of predisposition."
+    },
+    {
+      "id": 8,
+      "stem": "ERU most commonly affects horses of which age range?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only neonatal foals"
+        },
+        {
+          "label": "B",
+          "text": "Any age, often young to middle-aged horses"
+        },
+        {
+          "label": "C",
+          "text": "Only geriatric horses over 20 years"
+        },
+        {
+          "label": "D",
+          "text": "Only yearlings"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU can affect any age, but is often seen in young to middle-aged horses. It is not confined to neonates (A), very old horses (C), or yearlings only (D)."
+    },
+    {
+      "id": 9,
+      "stem": "Which combination of clinical signs is most typical of the ACUTE stage of ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Squinting, tearing, photophobia, cloudy cornea, and miosis"
+        },
+        {
+          "label": "B",
+          "text": "Enlarged pupil, dry eye, and blepharospasm"
+        },
+        {
+          "label": "C",
+          "text": "Exophthalmos, orbital swelling, and serous nasal discharge"
+        },
+        {
+          "label": "D",
+          "text": "No pain, only subtle vision loss"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Acute ERU presents with squinting, epiphora (tearing), photophobia, a cloudy cornea, and miosis from ciliary spasm and uveitis. The other options describe different ocular problems or lack of pain."
+    },
+    {
+      "id": 10,
+      "stem": "Which of the following is more characteristic of CHRONIC ERU rather than acute flare-ups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe epiphora and corneal edema only"
+        },
+        {
+          "label": "B",
+          "text": "Cataracts, synechiae, retinal damage, and vitreous opacity (“snow globe” effect)"
+        },
+        {
+          "label": "C",
+          "text": "Only conjunctival hyperemia"
+        },
+        {
+          "label": "D",
+          "text": "Sudden corneal perforation with iris prolapse"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Chronic ERU is associated with cataracts, posterior or anterior synechiae, retinal degeneration/damage, and vitreous opacities (“snow globe” effect) as sequelae of repeated flares. Pure conjunctivitis (C) or sudden perforation (D) are not hallmark chronic findings."
+    },
+    {
+      "id": 11,
+      "stem": "A horse with ERU is at increased risk of which serious ocular complications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KCS and entropion"
+        },
+        {
+          "label": "B",
+          "text": "Secondary glaucoma, cataracts, and eventual phthisis bulbi"
+        },
+        {
+          "label": "C",
+          "text": "Corneal sequestrum formation only"
+        },
+        {
+          "label": "D",
+          "text": "Retinal coloboma and microphthalmia from birth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "ERU predisposes to cataract formation, secondary glaucoma, retinal detachment, and eventual phthisis bulbi (shrunken eye). KCS/entropion (A), corneal sequestra (C), and congenital malformations (D) are different entities."
+    },
+    {
+      "id": 12,
+      "stem": "Which historical or exam finding most strongly supports a diagnosis of ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single episode of mild conjunctivitis that resolves with topical antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent bouts of painful eye inflammation with periods of quiescence and progressive ocular changes"
+        },
+        {
+          "label": "C",
+          "text": "Chronic unilateral nasal discharge"
+        },
+        {
+          "label": "D",
+          "text": "Intermittent head shaking without ocular changes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The classic pattern is recurrent episodes of painful uveitis with intervals of relative quiescence but progressive structural damage and vision loss. A single mild conjunctivitis (A), nasal discharge (C), or head shaking alone (D) are not characteristic."
+    },
+    {
+      "id": 13,
+      "stem": "Which diagnostic test can help identify an infectious trigger associated with ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leptospira serology or testing"
+        },
+        {
+          "label": "B",
+          "text": "Fecal flotation"
+        },
+        {
+          "label": "C",
+          "text": "Joint fluid analysis"
+        },
+        {
+          "label": "D",
+          "text": "Serum bile acids"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Leptospira serology or other specific tests can help identify prior or active infection associated with ERU. Fecal exams (B), joint fluid (C), and bile acids (D) target other organ systems."
+    },
+    {
+      "id": 14,
+      "stem": "Which condition is an important differential diagnosis to rule out in a horse with a painful, cloudy eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastric ulceration"
+        },
+        {
+          "label": "B",
+          "text": "Corneal ulceration"
+        },
+        {
+          "label": "C",
+          "text": "Colic"
+        },
+        {
+          "label": "D",
+          "text": "Navicular disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Corneal ulceration must always be ruled out because steroids are contraindicated when the cornea is ulcerated. Gastric ulcers (A), colic (C), and navicular disease (D) do not mimic a painful, cloudy eye."
+    },
+    {
+      "id": 15,
+      "stem": "What is the role of corticosteroids in the treatment of ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are contraindicated in all cases"
+        },
+        {
+          "label": "B",
+          "text": "They are used topically or systemically to reduce intraocular inflammation when no corneal ulcer is present"
+        },
+        {
+          "label": "C",
+          "text": "They are only given orally to treat systemic infection"
+        },
+        {
+          "label": "D",
+          "text": "They are replaced entirely by antibiotics"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Corticosteroids (topical or systemic) are key to reducing intraocular inflammation in ERU but must only be used when no corneal ulcer is present. They are not absolutely contraindicated (A), not just systemic infection treatments (C), and not fully replaced by antibiotics (D)."
+    },
+    {
+      "id": 16,
+      "stem": "Why is atropine used in managing acute ERU flare-ups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To constrict the pupil and increase aqueous outflow"
+        },
+        {
+          "label": "B",
+          "text": "To dilate the pupil, relieve ciliary spasm, and reduce pain"
+        },
+        {
+          "label": "C",
+          "text": "To directly kill Leptospira organisms"
+        },
+        {
+          "label": "D",
+          "text": "To increase tear production"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Atropine dilates the pupil, relieves ciliary muscle spasm, helps prevent synechiae, and reduces pain in uveitis. It does not constrict the pupil (A), kill leptospires (C), or primarily increase tears (D)."
+    },
+    {
+      "id": 17,
+      "stem": "Which NSAIDs are commonly used as part of ERU treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flunixin meglumine and phenylbutazone"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin and acetaminophen"
+        },
+        {
+          "label": "C",
+          "text": "Ketamine and xylazine"
+        },
+        {
+          "label": "D",
+          "text": "Diazepam and dexamethasone"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Flunixin meglumine and phenylbutazone are typical NSAIDs used to control pain and inflammation in ERU. Aspirin/acetaminophen (B) and sedatives (C, D) do not serve as standard primary NSAIDs."
+    },
+    {
+      "id": 18,
+      "stem": "Which long-term interventional option can help reduce recurrence of ERU in some horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corneal transplant"
+        },
+        {
+          "label": "B",
+          "text": "Cyclosporine implants or vitrectomy"
+        },
+        {
+          "label": "C",
+          "text": "Enucleation in all cases at first diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Simple bandage contact lens"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Long-term options to reduce recurrence and manage chronic ERU include cyclosporine implants and vitrectomy in selected cases. Corneal transplants (A), blanket early enucleation (C), and simple bandage lenses (D) are not typical long-term disease-modifying strategies."
+    },
+    {
+      "id": 19,
+      "stem": "In what situation is enucleation considered an appropriate treatment for ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In any horse after the first mild flare"
+        },
+        {
+          "label": "B",
+          "text": "Only in horses with glaucoma and normal vision"
+        },
+        {
+          "label": "C",
+          "text": "For blind, painful eyes where vision cannot be restored"
+        },
+        {
+          "label": "D",
+          "text": "Never, because ERU is always reversible"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Enucleation is reserved for blind, painful eyes where further medical or surgical therapy cannot restore vision and the eye is a source of chronic pain. It is not appropriate at the first mild flare (A), when vision is normal (B), or never indicated (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement BEST summarizes the prognosis of ERU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "With a single treatment, the disease is cured permanently"
+        },
+        {
+          "label": "B",
+          "text": "Early and aggressive management can preserve vision, but frequent recurrences can lead to blindness and lifelong management is often needed"
+        },
+        {
+          "label": "C",
+          "text": "ERU never progresses to blindness"
+        },
+        {
+          "label": "D",
+          "text": "ERU has no impact on long-term vision or quality of life"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis depends on early, aggressive management: vision may be maintained, but frequent recurrences can still lead to blindness, and lifelong monitoring/treatment are often required. ERU is neither cured with a single treatment (A), nor always non-progressive (C, D)."
+    }
+  ]
+}

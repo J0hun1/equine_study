@@ -1,0 +1,143 @@
+Q1. Cholangiohepatitis in horses is BEST described as:
+A. Isolated inflammation of the gallbladder only
+B. Inflammation of both the bile ducts (cholangitis) and liver tissue (hepatitis)
+C. A purely metabolic liver disease without inflammation
+D. A congenital vascular anomaly of the liver
+
+Q2. Which of the following is a common ETIOLOGIC factor for cholangiohepatitis in adult horses?
+A. Ascending bacterial infection from the intestine by Gram-negative enteric bacteria
+B. Primary viral infection of hepatocytes only
+C. Chronic laminitis
+D. Vitamin E deficiency
+
+Q3. In foals, cholangiohepatitis is often secondary to:
+A. Congenital portosystemic shunts
+B. Umbilical vein or bloodborne infection leading to hepatic abscesses
+C. Parascaris equorum migration
+D. Gastric ulceration
+
+Q4. Which enteric bacteria are commonly implicated in cholangiohepatitis in adult horses?
+A. Salmonella and Clostridium chauvoei
+B. E. coli, Klebsiella, and other Gram-negative enteric organisms
+C. Mycoplasma spp. only
+D. Staphylococcus aureus only
+
+Q5. Which clinical signs are MOST consistent with cholangiohepatitis?
+A. Weight loss, icterus, fever, abdominal pain, and in severe cases hepatic encephalopathy and photosensitization
+B. Cough, nasal discharge, and dyspnea
+C. Acute unilateral lameness
+D. Colic only, with no systemic signs
+
+Q6. In cases with focal hepatic abscesses, which additional clinical presentation is likely?
+A. Sudden blindness
+B. Chronic colic and ill thrift
+C. Acute diarrhea
+D. Pruritus and alopecia only
+
+Q7. Which liver enzyme pattern is MOST characteristic of cholangiohepatitis?
+A. Marked CK elevation with normal GGT
+B. Marked increase in GGT (often >300 U/L) with mild increases in hepatocellular enzymes (AST, SDH)
+C. Isolated elevation of creatinine
+D. Normal liver enzymes with high calcium
+
+Q8. Which additional laboratory changes support a diagnosis of cholangiohepatitis?
+A. Severe eosinophilia and hyperkalemia
+B. Neutrophilia, increased fibrinogen, and elevated conjugated bilirubin, bile acids, and globulins
+C. Lymphopenia and hypoglycemia only
+D. Hypernatremia and hypoproteinemia
+
+Q9. On ultrasonography, which finding is MOST suggestive of cholangiohepatitis?
+A. Distended bile ducts with sludge or calculi and changes in hepatic echogenicity
+B. Normal biliary tree with isolated splenomegaly
+C. Free gas in the abdomen
+D. Kidney enlargement without liver changes
+
+Q10. Which diagnostic procedure can help confirm the diagnosis and guide antimicrobial therapy in cholangiohepatitis?
+A. Skin biopsy
+B. Needle aspirate or biopsy of liver for culture and histology
+C. Fecal flotation
+D. Arthrocentesis
+
+Q11. Which combination of clinical and laboratory findings favors cholangiohepatitis over other causes of chronic colic?
+A. Fever, jaundice, elevated GGT, leukocytosis, and hyperglobulinemia
+B. Afebrile, normal liver enzymes, and no jaundice
+C. Isolated hypoproteinemia with normal GGT
+D. Normal CBC with only mild colic signs
+
+Q12. Which differential diagnoses should be considered in horses with signs that could mimic cholangiohepatitis?
+A. Chronic or recurrent colic, right dorsal displacement of the colon, neoplasia, and hepatic abscessation
+B. Only gastric ulcers
+C. Only laminitis
+D. Only recurrent airway obstruction
+
+Q13. What is the primary approach to medical treatment of cholangiohepatitis in horses?
+A. Short-term antibiotics (3–5 days) and no follow-up
+B. Long-term antimicrobial therapy (3 weeks to 6 months) guided by culture, plus NSAIDs and supportive care
+C. Antifungal therapy only
+D. Steroids alone without antimicrobials
+
+Q14. Which antimicrobial regimens are commonly used in treating cholangiohepatitis?
+A. Trimethoprim–sulfa, enrofloxacin, metronidazole, ceftiofur, or penicillin-based combinations
+B. Only topical antibiotics
+C. Antiparasitics and antifungals only
+D. Macrolides in adult horses as first-line
+
+Q15. Why should icteric horses with cholangiohepatitis be protected from sunlight?
+A. To prevent dehydration
+B. To reduce photosensitization due to impaired bile excretion and accumulation of photodynamic substances
+C. To avoid hypothermia
+D. To promote melatonin secretion
+
+Q16. When is surgical intervention indicated in cholangiohepatitis?
+A. In all horses shortly after diagnosis
+B. Only if obstructing bile calculi or nonresponsive abscesses are present
+C. Whenever GGT is elevated above 100 U/L
+D. For cosmetic removal of scars
+
+Q17. Which follow-up strategy is MOST appropriate after initiating therapy?
+A. Discontinue antibiotics as soon as the horse seems clinically improved
+B. Continue antibiotics until GGT decreases below ~100 U/L or normalizes, then recheck GGT and consider follow-up ultrasound
+C. Stop treatment after 7 days regardless of bloodwork
+D. No follow-up is needed if fever resolves
+
+Q18. What is the general PROGNOSIS for cholangiohepatitis in horses?
+A. Always fatal regardless of treatment
+B. Good if no bile duct obstruction is present and liver echogenicity is normal
+C. Poor in all cases, even with early treatment
+D. Unknown because the disease is extremely rare
+
+Q19. Which statement about very high GGT values (e.g., >2500 U/L) in cholangiohepatitis is MOST accurate?
+A. They indicate inevitable liver failure and death
+B. Horses may still recover with aggressive medical therapy
+C. They always mandate immediate liver transplantation
+D. They have no clinical significance
+
+Q20. Which summary feature BEST characterizes cholangiohepatitis in horses?
+A. Viral infection of pancreas and spleen
+B. Inflammation of liver and bile ducts, most common in adult horses, often due to ascending bacterial infection, with GGT elevation as a key marker
+C. Pure muscle disease without hepatic involvement
+D. Primary kidney disorder with biliary obstruction
+
+Answer key:
+1-B
+2-A
+3-B
+4-B
+5-A
+6-B
+7-B
+8-B
+9-A
+10-B
+11-A
+12-A
+13-B
+14-A
+15-B
+16-B
+17-B
+18-B
+19-B
+20-B
+
+

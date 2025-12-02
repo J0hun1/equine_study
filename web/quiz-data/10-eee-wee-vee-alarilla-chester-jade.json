@@ -1,0 +1,486 @@
+{
+  "topic": "10. EEE_WEE_VEE - Alarilla, Chester Jade",
+  "slug": "10-eee-wee-vee-alarilla-chester-jade",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Eastern (EEE), Western (WEE), and Venezuelan (VEE) equine encephalitides are BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial pneumonias of horses"
+        },
+        {
+          "label": "B",
+          "text": "Arboviral encephalomyelitides affecting horses and humans"
+        },
+        {
+          "label": "C",
+          "text": "Fungal meningitides confined to horses"
+        },
+        {
+          "label": "D",
+          "text": "Protozoal myeloencephalitides of ruminants"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EEE, WEE, and VEE are arboviral encephalomyelitides that affect horses and humans, causing inflammation of the brain and spinal cord. They are not pneumonias (A), fungal meningitis (C), or protozoal myeloencephalitis of ruminants (D)."
+    },
+    {
+      "id": 2,
+      "stem": "The etiologic agents (EEEV, WEEV, VEEV) belong to which viral family and genus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Family Orthomyxoviridae, genus Influenzavirus"
+        },
+        {
+          "label": "B",
+          "text": "Family Togaviridae, genus Alphavirus"
+        },
+        {
+          "label": "C",
+          "text": "Family Flaviviridae, genus Flavivirus"
+        },
+        {
+          "label": "D",
+          "text": "Family Rhabdoviridae, genus Lyssavirus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "These viruses belong to the family Togaviridae and genus Alphavirus. Orthomyxoviridae/Influenzavirus (A), Flaviviridae/Flavivirus (C), and Rhabdoviridae/Lyssavirus (D) refer to other pathogens."
+    },
+    {
+      "id": 3,
+      "stem": "What is the primary method of transmission of equine encephalitides to horses and humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct horse-to-horse contact"
+        },
+        {
+          "label": "B",
+          "text": "Mosquito vectors transmitting virus from sylvatic reservoirs"
+        },
+        {
+          "label": "C",
+          "text": "Fecal-oral route"
+        },
+        {
+          "label": "D",
+          "text": "Aerosol transmission in barns"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The viruses are transmitted via mosquitoes from sylvatic reservoirs (birds or rodents) to horses and humans. Direct contact (A), fecal-oral (C), or aerosol (D) routes are not the primary modes."
+    },
+    {
+      "id": 4,
+      "stem": "Which reservoirs are associated with EEEV and endemic VEEV respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Birds for EEEV; rodents for endemic VEEV"
+        },
+        {
+          "label": "B",
+          "text": "Horses for both EEEV and endemic VEEV"
+        },
+        {
+          "label": "C",
+          "text": "Cattle for EEEV; dogs for VEEV"
+        },
+        {
+          "label": "D",
+          "text": "Reptiles for EEEV; pigs for VEEV"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Birds are the primary reservoirs for EEEV, whereas rodents serve as reservoirs for endemic VEEV strains. Horses are usually dead-end hosts except for epizootic VEEV (B), and other listed animals (C, D) are not the main reservoirs."
+    },
+    {
+      "id": 5,
+      "stem": "Which equine encephalitis virus can have horses as amplifying hosts during epizootics, posing a particular zoonotic risk?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EEEV"
+        },
+        {
+          "label": "B",
+          "text": "WEEV"
+        },
+        {
+          "label": "C",
+          "text": "VEEV"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct": "C",
+      "explanation": "VEEV can mutate such that horses become amplifying hosts, with high viremia capable of infecting mosquitoes and then humans, creating a significant zoonotic risk in epizootics. EEEV and WEEV (A, B) maintain horses mostly as dead-end hosts."
+    },
+    {
+      "id": 6,
+      "stem": "Which virus is considered the most neurovirulent and rapidly destructive in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EEEV"
+        },
+        {
+          "label": "B",
+          "text": "WEEV"
+        },
+        {
+          "label": "C",
+          "text": "VEEV"
+        },
+        {
+          "label": "D",
+          "text": "WNV"
+        }
+      ],
+      "correct": "A",
+      "explanation": "EEEV is the most neurovirulent and rapidly destructive, with very high mortality. WEEV and VEEV (B, C) are serious but generally less virulent than EEEV; WNV (D) is a flavivirus with different characteristics."
+    },
+    {
+      "id": 7,
+      "stem": "In which geographic regions are EEEV, WEEV, and VEEV primarily endemic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe and Asia"
+        },
+        {
+          "label": "B",
+          "text": "North and South America"
+        },
+        {
+          "label": "C",
+          "text": "Africa only"
+        },
+        {
+          "label": "D",
+          "text": "Australia and New Zealand"
+        }
+      ],
+      "correct": "B",
+      "explanation": "These viruses are endemic in North and South America. They are not primarily European/Asian (A), exclusively African (C), or Australian/New Zealand (D) diseases."
+    },
+    {
+      "id": 8,
+      "stem": "Which signalment factor increases risk of EEE in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only geriatric horses over 20 years"
+        },
+        {
+          "label": "B",
+          "text": "Young horses, especially under-vaccinated, in endemic areas with high mosquito density"
+        },
+        {
+          "label": "C",
+          "text": "Only draft horses in cold climates"
+        },
+        {
+          "label": "D",
+          "text": "Only stallions used for breeding"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Young, under-vaccinated horses in endemic regions with high mosquito density are at higher risk, especially for EEE. Geriatric horses (A), only drafts in cold climates (C), or only breeding stallions (D) are not the primary risk groups."
+    },
+    {
+      "id": 9,
+      "stem": "During the prodromal (early) stage 48–96 hours before neurologic signs, horses with EEE/WEE/VEE may show:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe colic and diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Fever, depression, inappetence, and sometimes mild lameness or abdominal discomfort"
+        },
+        {
+          "label": "C",
+          "text": "Coughing and nasal discharge only"
+        },
+        {
+          "label": "D",
+          "text": "No clinical signs at all"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The prodromal stage often features fever, depression, inappetence, and sometimes mild lameness or abdominal discomfort before neurologic signs develop. Severe colic/diarrhea (A), respiratory-only signs (C), or no signs (D) do not fit the typical prodrome."
+    },
+    {
+      "id": 10,
+      "stem": "Neurologic signs of equine encephalitides typically include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Somnolence, dementia, head pressing, ataxia, blindness, circling, seizures, and possibly weakness or paralysis"
+        },
+        {
+          "label": "B",
+          "text": "Pruritus and self-mutilation only"
+        },
+        {
+          "label": "C",
+          "text": "Purely respiratory stridor"
+        },
+        {
+          "label": "D",
+          "text": "Isolated laminitis without CNS signs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Neurologic signs include somnolence, dementia, head pressing, ataxia, blindness, circling, seizures, and sometimes weakness or paralysis from diffuse brain (and sometimes spinal cord) involvement. Pruritus (B), pure respiratory signs (C), or isolated laminitis (D) are atypical."
+    },
+    {
+      "id": 11,
+      "stem": "Which additional clinical manifestations may be observed in severe cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Colic-like signs, reduced alertness, recumbency, and death"
+        },
+        {
+          "label": "B",
+          "text": "Only dermatologic lesions"
+        },
+        {
+          "label": "C",
+          "text": "Only laminitis and hoof cracks"
+        },
+        {
+          "label": "D",
+          "text": "Only ocular discharge"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Severe disease can progress to colic-like signs, reduced alertness, recumbency, and death. Solely dermatologic (B), laminitic (C), or ocular discharge (D) signs are not typical of terminal encephalitis."
+    },
+    {
+      "id": 12,
+      "stem": "In serologic diagnosis of EEE/WEE/VEE, which finding is considered confirmatory for recent infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgM capture ELISA titer ≥400 or a fourfold rise between acute and convalescent samples"
+        },
+        {
+          "label": "B",
+          "text": "Single low positive IgG titer with no change over time"
+        },
+        {
+          "label": "C",
+          "text": "Negative IgM and no titer change"
+        },
+        {
+          "label": "D",
+          "text": "Positive fecal PCR only"
+        }
+      ],
+      "correct": "A",
+      "explanation": "An IgM capture ELISA titer ≥400 or a fourfold rise in titer between acute and convalescent sera supports recent infection. Stable low IgG (B), negative IgM (C), or fecal PCR (D) do not confirm infection in this context."
+    },
+    {
+      "id": 13,
+      "stem": "For EEEV specifically, how does the EEEV:WEEV titer ratio support diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A ratio ≤1 is strongly indicative of EEEV"
+        },
+        {
+          "label": "B",
+          "text": "A ratio ≥4 is suspicious and ≥8 is strongly indicative of EEEV infection"
+        },
+        {
+          "label": "C",
+          "text": "Only a ratio of exactly 2 is diagnostic"
+        },
+        {
+          "label": "D",
+          "text": "Titer ratios are not useful"
+        }
+      ],
+      "correct": "B",
+      "explanation": "An EEEV:WEEV titer ratio ≥4 is suspicious and ≥8 is strongly indicative of EEEV infection. A ratio ≤1 (A), exactly 2 (C), or disregarding titers (D) are incorrect."
+    },
+    {
+      "id": 14,
+      "stem": "Which CSF findings are consistent with arboviral encephalomyelitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purely eosinophilic pleocytosis with low protein"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilic pleocytosis with elevated total protein concentration"
+        },
+        {
+          "label": "C",
+          "text": "Normal cell counts and proteins in all cases"
+        },
+        {
+          "label": "D",
+          "text": "Purely lymphocytic pleocytosis with low protein"
+        }
+      ],
+      "correct": "B",
+      "explanation": "CSF findings typically show neutrophilic pleocytosis with elevated total protein, reflecting inflammation of the CNS. Eosinophilic (A) or purely lymphocytic with low protein (D) patterns suggest other etiologies, and normal CSF (C) is less consistent with active encephalitis."
+    },
+    {
+      "id": 15,
+      "stem": "Which disease is an important differential diagnosis for equine arboviral encephalitis because it can produce similar neurologic signs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "West Nile virus encephalomyelitis"
+        },
+        {
+          "label": "B",
+          "text": "Equine influenza"
+        },
+        {
+          "label": "C",
+          "text": "Strangles"
+        },
+        {
+          "label": "D",
+          "text": "Equine sarcoids"
+        }
+      ],
+      "correct": "A",
+      "explanation": "West Nile virus encephalomyelitis is a major differential because it also causes viral encephalitis with overlapping clinical signs, although it often affects the spinal cord more prominently. Influenza (B), strangles (C), and sarcoids (D) involve different systems."
+    },
+    {
+      "id": 16,
+      "stem": "Which other conditions are included in the differential diagnosis list for acute neurologic disease in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rabies, leukoencephalomalacia (moldy corn poisoning), and hepatic encephalopathy"
+        },
+        {
+          "label": "B",
+          "text": "Only laminitis and colic"
+        },
+        {
+          "label": "C",
+          "text": "Only navicular syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Only gastric ulcers"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Other important differentials include rabies, leukoencephalomalacia (from moldy corn), and hepatic encephalopathy, all of which can cause acute neurologic signs. Laminitis/colic (B), navicular (C), and ulcers (D) are not primarily neurologic."
+    },
+    {
+      "id": 17,
+      "stem": "Which statement BEST describes the treatment approach for EEE/WEE/VEE in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Specific antiviral drugs are routinely curative"
+        },
+        {
+          "label": "B",
+          "text": "Treatment is primarily supportive: fluid and metabolic support, prevention of self-trauma, and sometimes corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics alone are sufficient"
+        },
+        {
+          "label": "D",
+          "text": "Only NSAIDs are required"
+        }
+      ],
+      "correct": "B",
+      "explanation": "There is no specific antiviral therapy; treatment is supportive with fluids, metabolic support, prevention of self-trauma, and sometimes corticosteroids in selected cases. Specific antivirals (A) and antibiotics alone (C) or NSAIDs alone (D) are insufficient."
+    },
+    {
+      "id": 18,
+      "stem": "Which mortality rates are MOST accurate for EEEV, WEEV, and VEEV respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EEEV 20–40%, WEEV 85–100%, VEEV 40–80%"
+        },
+        {
+          "label": "B",
+          "text": "EEEV 85–100%, WEEV 20–40%, VEEV 40–80%"
+        },
+        {
+          "label": "C",
+          "text": "EEEV 0%, WEEV 10–20%, VEEV 100%"
+        },
+        {
+          "label": "D",
+          "text": "All three have <10% mortality"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Reported mortality: EEEV 85–100%, WEEV ~20–40%, and VEEV ~40–80%. The other figures (A, C, D) do not match the known pattern."
+    },
+    {
+      "id": 19,
+      "stem": "Why is vaccination critical in endemic areas for these viruses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It completely eliminates all mosquitoes"
+        },
+        {
+          "label": "B",
+          "text": "It significantly reduces the incidence and severity of disease and is the main preventive measure in horses"
+        },
+        {
+          "label": "C",
+          "text": "It cures infected horses"
+        },
+        {
+          "label": "D",
+          "text": "It only protects humans, not horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Vaccination is the main preventive tool, reducing incidence and severity and forming the basis of control programs in endemic areas. It does not eliminate mosquitoes (A), cure infection (C), or only protect humans (D)."
+    },
+    {
+      "id": 20,
+      "stem": "What is the zoonotic potential of EEEV/WEEV compared to VEEV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All three viruses make horses efficient amplifiers for human infection"
+        },
+        {
+          "label": "B",
+          "text": "EEEV and WEEV: horses are dead-end hosts; VEEV: horses can act as amplifying hosts and pose a greater zoonotic risk during outbreaks"
+        },
+        {
+          "label": "C",
+          "text": "None of the viruses have any zoonotic risk"
+        },
+        {
+          "label": "D",
+          "text": "Only WEEV is zoonotic"
+        }
+      ],
+      "correct": "B",
+      "explanation": "EEEV and WEEV make horses dead-end hosts (no significant viremia), whereas VEEV can create high viremia in horses, making them amplifying hosts and increasing zoonotic risk. All three do not amplify equally (A), and they clearly have zoonotic potential (C, D being incorrect)."
+    }
+  ]
+}

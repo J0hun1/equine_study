@@ -1,0 +1,486 @@
+{
+  "topic": "14. Osteoarthritis_Jarrell",
+  "slug": "14-osteoarthritis-jarrell",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Osteoarthritis (OA) in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "An acute infectious arthritis due to bacteria"
+        },
+        {
+          "label": "B",
+          "text": "A chronic, progressive, noninfectious deterioration of articular cartilage and associated joint structures"
+        },
+        {
+          "label": "C",
+          "text": "A purely developmental cartilage defect in foals"
+        },
+        {
+          "label": "D",
+          "text": "A systemic autoimmune disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "OA is a chronic, progressive, noninfectious deterioration of articular cartilage with associated joint changes. It is not primarily infectious (A), purely developmental (C), or a systemic autoimmune disease (D) in horses."
+    },
+    {
+      "id": 2,
+      "stem": "Which joint changes are typically associated with OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only synovial effusion"
+        },
+        {
+          "label": "B",
+          "text": "Cartilage loss, subchondral bone sclerosis, osteophyte formation, and synovial membrane inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Pure tendon rupture without bone or cartilage changes"
+        },
+        {
+          "label": "D",
+          "text": "Exclusively joint ankylosis at birth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "OA features cartilage loss, subchondral bone sclerosis, osteophyte formation, and synovial membrane inflammation. Synovial effusion alone (A), pure tendon rupture (C), or congenital ankylosis (D) do not define OA."
+    },
+    {
+      "id": 3,
+      "stem": "Which horses are most predisposed to OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only geriatric pasture pets"
+        },
+        {
+          "label": "B",
+          "text": "Athletic horses of all ages and both sexes undergoing repetitive training"
+        },
+        {
+          "label": "C",
+          "text": "Only foals under 6 months"
+        },
+        {
+          "label": "D",
+          "text": "Only breeding stallions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Athletic horses of all ages and both sexes, especially those in repetitive, high-load work, are predisposed, though any horse can develop OA. It is not restricted to geriatric pasture pets (A), foals (C), or stallions (D)."
+    },
+    {
+      "id": 4,
+      "stem": "OA commonly develops secondary to which factors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Joint instability, trauma, abnormal biomechanical stress, poor joint conformation, repetitive stress, ligament/tendon injuries, infectious arthritis, or osteochondrosis"
+        },
+        {
+          "label": "B",
+          "text": "Simple dietary vitamin deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Only laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Seasonal temperature changes"
+        }
+      ],
+      "correct": "A",
+      "explanation": "OA commonly follows joint instability, trauma, abnormal biomechanical stress, poor conformation, repetitive overuse, prior ligament/tendon/cartilage injury, infectious arthritis, or osteochondrosis. Simple vitamin deficiency (B), laminitis alone (C), or seasonal changes (D) are not the main drivers."
+    },
+    {
+      "id": 5,
+      "stem": "Which pathophysiologic process BEST explains cartilage damage in OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inflammatory mediators (PGE₂, IL-1, TNF-α, MMPs) from synovitis drive matrix degradation and reduce synovial fluid quality"
+        },
+        {
+          "label": "B",
+          "text": "Direct bacterial invasion of cartilage"
+        },
+        {
+          "label": "C",
+          "text": "Pure mechanical wear without any biochemical component"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibodies to myelin"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Synovitis produces mediators like PGE₂, IL‑1, TNF‑α, and MMPs that degrade cartilage matrix and reduce synovial fluid quality, accelerating OA. Direct infection (B) and purely mechanical wear (C) are incomplete explanations."
+    },
+    {
+      "id": 6,
+      "stem": "What changes occur in synovial fluid during OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased viscosity and hyaluronic acid concentration"
+        },
+        {
+          "label": "B",
+          "text": "Reduced viscosity and decreased hyaluronic acid concentration, leading to poor lubrication"
+        },
+        {
+          "label": "C",
+          "text": "Conversion to pus-filled exudate in all cases"
+        },
+        {
+          "label": "D",
+          "text": "No change at any stage"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In OA, synovial fluid becomes less viscous and hyaluronic acid concentration decreases, impairing lubrication and shock absorption. Increased viscosity (A), pus (C), or no change (D) are incorrect."
+    },
+    {
+      "id": 7,
+      "stem": "How does subchondral bone respond in OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It becomes softer and more compliant"
+        },
+        {
+          "label": "B",
+          "text": "It becomes sclerotic and less compliant, transmitting greater forces to cartilage and promoting osteophyte formation"
+        },
+        {
+          "label": "C",
+          "text": "It is unaffected by OA"
+        },
+        {
+          "label": "D",
+          "text": "It liquefies and forms cysts only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Subchondral bone becomes sclerotic and less compliant, altering load distribution and encouraging osteophyte formation; this further stresses cartilage. It does not soften (A), remain unaffected (C), or simply liquefy (D)."
+    },
+    {
+      "id": 8,
+      "stem": "The hallmark lesion of OA is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Articular cartilage degeneration, with pain arising from periarticular soft tissues and subchondral bone"
+        },
+        {
+          "label": "B",
+          "text": "Pure synovial membrane infection"
+        },
+        {
+          "label": "C",
+          "text": "Primary ligament rupture without joint involvement"
+        },
+        {
+          "label": "D",
+          "text": "Bone neoplasia"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The hallmark is articular cartilage degeneration; pain arises from innervated periarticular tissues and subchondral bone rather than cartilage itself. Pure synovial infection (B), ligament rupture (C), or bone tumors (D) describe other conditions."
+    },
+    {
+      "id": 9,
+      "stem": "Which historical finding often suggests OA in a horse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden onset of neurologic deficits with seizures"
+        },
+        {
+          "label": "B",
+          "text": "History of intra-articular fracture, osteochondrosis, dislocation, or ligament injury, with insidious lameness in low-motion joints and acute lameness in high-motion joints"
+        },
+        {
+          "label": "C",
+          "text": "Isolated respiratory distress"
+        },
+        {
+          "label": "D",
+          "text": "Only skin lesions"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A history of intra-articular injury (fracture, ligament damage, osteochondrosis) plus insidious lameness in low-motion joints or acute lameness in high-motion joints suggests OA. Neurologic signs (A), respiratory disease (C), or skin problems (D) point elsewhere."
+    },
+    {
+      "id": 10,
+      "stem": "Typical physical examination findings in equine OA include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe colic and abdominal distension"
+        },
+        {
+          "label": "B",
+          "text": "Variable lameness, pain on flexion of affected joint(s), synovial effusion (esp. in high-motion joints), reduced range of motion, stiffness after rest, thickened joint capsules, periarticular hardening, and crepitus"
+        },
+        {
+          "label": "C",
+          "text": "No lameness but systemic fever"
+        },
+        {
+          "label": "D",
+          "text": "Pure hindlimb paralysis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Examination often reveals variable lameness, pain on flexion, synovial effusion (especially in high-motion joints), reduced range of motion, stiffness after rest, joint capsule thickening, periarticular hardening, and crepitus. Colic (A), fever (C), and hindlimb paralysis (D) are not typical."
+    },
+    {
+      "id": 11,
+      "stem": "Which imaging modality is most commonly used to diagnose OA changes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radiography, showing joint space narrowing, osteophytes, periosteal proliferation, and subchondral sclerosis"
+        },
+        {
+          "label": "B",
+          "text": "CT only"
+        },
+        {
+          "label": "C",
+          "text": "Endoscopy"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasonography of the abdomen"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Radiography is the standard imaging tool, revealing joint space narrowing, osteophytes, periosteal bone proliferation, and subchondral sclerosis. CT (B) and other modalities are adjuncts, not first-line."
+    },
+    {
+      "id": 12,
+      "stem": "Which modality offers direct visualization of articular cartilage and subchondral bone lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arthroscopy"
+        },
+        {
+          "label": "B",
+          "text": "MRI only"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear scintigraphy only"
+        },
+        {
+          "label": "D",
+          "text": "Fecal imaging"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Arthroscopy allows direct visualization of cartilage and subchondral bone lesions and can be both diagnostic and therapeutic. MRI and scintigraphy (B, C) detect changes indirectly; “fecal imaging” (D) is facetious."
+    },
+    {
+      "id": 13,
+      "stem": "Main treatment goals in managing OA are to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eradicate all joint bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Reduce joint inflammation and pain, restore cartilage homeostasis and mobility, and delay degenerative progression"
+        },
+        {
+          "label": "C",
+          "text": "Shorten all tendons surgically"
+        },
+        {
+          "label": "D",
+          "text": "Increase joint load to promote bone growth"
+        }
+      ],
+      "correct": "B",
+      "explanation": "OA treatment aims to reduce inflammation and pain, restore or maintain cartilage homeostasis and joint mobility, and delay further degeneration. Eradicating bacteria (A) or increasing load (D) are not relevant goals."
+    },
+    {
+      "id": 14,
+      "stem": "Which nonpharmacologic management strategies are appropriate for OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rest and controlled exercise, weight management, corrective shoeing, cold therapy, hydrotherapy, physiotherapy, and using soft footing"
+        },
+        {
+          "label": "B",
+          "text": "Strict prolonged stall rest with no movement"
+        },
+        {
+          "label": "C",
+          "text": "High-intensity exercise on hard surfaces only"
+        },
+        {
+          "label": "D",
+          "text": "No change in training regimen"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Appropriate strategies include rest and controlled exercise, weight management, corrective shoeing, cold therapy, hydrotherapy, physiotherapy, and soft footing to reduce joint impact. Prolonged strict rest (B), hard-surface work (C), or unchanged training (D) can worsen outcomes."
+    },
+    {
+      "id": 15,
+      "stem": "Which NSAIDs are commonly used to control pain in equine OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenylbutazone and flunixin meglumine"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen and ibuprofen"
+        },
+        {
+          "label": "C",
+          "text": "Diazepam and ketamine"
+        },
+        {
+          "label": "D",
+          "text": "Acyclovir and amoxicillin"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Phenylbutazone and flunixin meglumine are commonly used equine NSAIDs for OA pain control. Human OTC analgesics (B) and sedatives/antivirals (C, D) are not mainstays."
+    },
+    {
+      "id": 16,
+      "stem": "What is the role of intra-articular hyaluronic acid (HA) and PSGAG in OA management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HA restores viscosity and lubrication; PSGAG supports cartilage repair and matrix integrity"
+        },
+        {
+          "label": "B",
+          "text": "Both are purely cosmetic agents"
+        },
+        {
+          "label": "C",
+          "text": "They directly destroy osteophytes"
+        },
+        {
+          "label": "D",
+          "text": "They are used only in foals"
+        }
+      ],
+      "correct": "A",
+      "explanation": "HA restores synovial fluid viscosity and lubrication, while PSGAGs (e.g., Adequan) support cartilage matrix and may slow degradation. They are not cosmetic (B), osteophyte-destroying (C), or foal-only (D) agents."
+    },
+    {
+      "id": 17,
+      "stem": "Which intra-articular corticosteroids are commonly used and what is a key precaution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methylprednisolone and triamcinolone; strict aseptic technique and awareness that repeated use may accelerate cartilage degeneration"
+        },
+        {
+          "label": "B",
+          "text": "Only dexamethasone; no special precautions"
+        },
+        {
+          "label": "C",
+          "text": "Only prednisolone; no infection risk"
+        },
+        {
+          "label": "D",
+          "text": "None; corticosteroids are never used"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Methylprednisolone acetate and triamcinolone acetate are commonly used; strict asepsis is essential, and repeated steroid use can soften cartilage and increase laminitis risk. Claims that no precautions are needed (B, C) or that corticosteroids are never used (D) are incorrect."
+    },
+    {
+      "id": 18,
+      "stem": "Which systemic or biologic therapies can be adjuncts in OA management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic HA/PSGAG courses and autologous biologics (IRAP, PRP, ACS) to modulate inflammation and cartilage breakdown"
+        },
+        {
+          "label": "B",
+          "text": "Only vitamins"
+        },
+        {
+          "label": "C",
+          "text": "Only antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Only anthelmintics"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Systemic HA/PSGAG and autologous biologics (IRAP, PRP, ACS) can reduce inflammatory mediators and help protect cartilage. Vitamins (B), antibiotics (C), and anthelmintics (D) do not specifically target OA pathophysiology."
+    },
+    {
+      "id": 19,
+      "stem": "Which precautions should be taken with repeated intra-articular corticosteroid use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use as frequently as possible to maintain comfort"
+        },
+        {
+          "label": "B",
+          "text": "Limit frequency to avoid cartilage softening and increased laminitis risk, and always use aseptic technique"
+        },
+        {
+          "label": "C",
+          "text": "Avoid antibiotics in joint injections"
+        },
+        {
+          "label": "D",
+          "text": "Never reassess the joint after injection"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Corticosteroids should be used judiciously, balancing pain relief with the risk of cartilage damage and laminitis, and injections must be performed aseptically; monitoring for septic arthritis and “joint flares” is essential. Overuse (A) and lack of reassessment (D) are unsafe."
+    },
+    {
+      "id": 20,
+      "stem": "Which prognosis statement is MOST accurate for equine OA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild OA in low-motion joints has a good prognosis with early management; severe OA in high-motion joints has a guarded to poor prognosis for athletic performance, though arthrodesis may restore comfort"
+        },
+        {
+          "label": "B",
+          "text": "All OA cases progress to complete ankylosis rapidly"
+        },
+        {
+          "label": "C",
+          "text": "OA has no impact on performance"
+        },
+        {
+          "label": "D",
+          "text": "Prognosis is always excellent regardless of severity"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Mild OA in low-motion joints often has a good prognosis with early, appropriate management, while severe OA in high-motion joints carries a guarded to poor prognosis for high-level performance; arthrodesis can restore comfort in some cases. Rapid ankylosis in all cases (B), no performance impact (C), or universally excellent prognosis (D) are not accurate."
+    }
+  ]
+}

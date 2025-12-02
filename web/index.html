@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Equine MCQ Review</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="app-header">
+        <h1>Equine MCQ Review</h1>
+        <p>Choose a topic, answer MCQs, see answers and explanations instantly.</p>
+      </header>
+
+      <main class="app-main">
+        <aside class="sidebar">
+          <h2>Topics</h2>
+          <ul id="topic-list" class="topic-list"></ul>
+        </aside>
+
+        <section class="quiz-panel">
+          <div id="quiz-meta" class="quiz-meta">
+            <h2 id="quiz-title">Select a topic to begin</h2>
+            <p id="quiz-progress"></p>
+          </div>
+
+          <div id="quiz-body" class="quiz-body hidden">
+            <div id="question-container" class="question-container"></div>
+
+            <form id="options-form" class="options-form"></form>
+
+            <div id="feedback" class="feedback hidden"></div>
+
+            <div class="controls">
+              <button id="submit-btn" class="btn primary" type="button">
+                Submit answer
+              </button>
+              <button id="next-btn" class="btn secondary" type="button" disabled>
+                Next question
+              </button>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="app-footer">
+        <span>Static web app – just open or host this folder (e.g., GitHub Pages / Netlify).</span>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+  </html>
+
+

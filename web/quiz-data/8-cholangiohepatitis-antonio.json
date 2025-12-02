@@ -1,0 +1,486 @@
+{
+  "topic": "8. Cholangiohepatitis_ANTONIO",
+  "slug": "8-cholangiohepatitis-antonio",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Cholangiohepatitis in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isolated inflammation of the gallbladder only"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation of both the bile ducts (cholangitis) and liver tissue (hepatitis)"
+        },
+        {
+          "label": "C",
+          "text": "A purely metabolic liver disease without inflammation"
+        },
+        {
+          "label": "D",
+          "text": "A congenital vascular anomaly of the liver"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cholangiohepatitis is defined as inflammation of both the bile ducts (cholangitis) and the surrounding liver tissue (hepatitis). It is not isolated gallbladder inflammation (A), purely metabolic (C), or a vascular anomaly (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which of the following is a common ETIOLOGIC factor for cholangiohepatitis in adult horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ascending bacterial infection from the intestine by Gram-negative enteric bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Primary viral infection of hepatocytes only"
+        },
+        {
+          "label": "C",
+          "text": "Chronic laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E deficiency"
+        }
+      ],
+      "correct": "A",
+      "explanation": "In adult horses, ascending bacterial infection via the bile ducts by Gram-negative enteric organisms is a major cause. Primary viral hepatitis (B), laminitis (C), and vitamin E deficiency (D) are not primary etiologies here."
+    },
+    {
+      "id": 3,
+      "stem": "In foals, cholangiohepatitis is often secondary to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congenital portosystemic shunts"
+        },
+        {
+          "label": "B",
+          "text": "Umbilical vein or bloodborne infection leading to hepatic abscesses"
+        },
+        {
+          "label": "C",
+          "text": "Parascaris equorum migration"
+        },
+        {
+          "label": "D",
+          "text": "Gastric ulceration"
+        }
+      ],
+      "correct": "B",
+      "explanation": "In foals, cholangiohepatitis is often secondary to umbilical vein infection or bloodborne spread leading to hepatic abscesses. Portosystemic shunts (A), Parascaris migration (C), and ulcers (D) are different conditions."
+    },
+    {
+      "id": 4,
+      "stem": "Which enteric bacteria are commonly implicated in cholangiohepatitis in adult horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salmonella and Clostridium chauvoei"
+        },
+        {
+          "label": "B",
+          "text": "E. coli, Klebsiella, and other Gram-negative enteric organisms"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma spp. only"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Common pathogens include *E. coli*, *Klebsiella*, and related Gram-negative enteric bacteria. Salmonella/Clostridium chauvoei (A), Mycoplasma (C), and *Staphylococcus aureus* (D) are not the main organisms described."
+    },
+    {
+      "id": 5,
+      "stem": "Which clinical signs are MOST consistent with cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weight loss, icterus, fever, abdominal pain, and in severe cases hepatic encephalopathy and photosensitization"
+        },
+        {
+          "label": "B",
+          "text": "Cough, nasal discharge, and dyspnea"
+        },
+        {
+          "label": "C",
+          "text": "Acute unilateral lameness"
+        },
+        {
+          "label": "D",
+          "text": "Colic only, with no systemic signs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Typical clinical signs include weight loss, icterus, fever, abdominal pain, and in severe cases hepatic failure with encephalopathy and photosensitization. Respiratory disease (B), isolated lameness (C), or colic alone (D) do not capture the syndrome."
+    },
+    {
+      "id": 6,
+      "stem": "In cases with focal hepatic abscesses, which additional clinical presentation is likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden blindness"
+        },
+        {
+          "label": "B",
+          "text": "Chronic colic and ill thrift"
+        },
+        {
+          "label": "C",
+          "text": "Acute diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Pruritus and alopecia only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Focal abscesses may result in chronic colic, ill thrift, and nonspecific signs over time. Sudden blindness (A), acute diarrhea (C), or pruritus alone (D) are not classic."
+    },
+    {
+      "id": 7,
+      "stem": "Which liver enzyme pattern is MOST characteristic of cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marked CK elevation with normal GGT"
+        },
+        {
+          "label": "B",
+          "text": "Marked increase in GGT (often >300 U/L) with mild increases in hepatocellular enzymes (AST, SDH)"
+        },
+        {
+          "label": "C",
+          "text": "Isolated elevation of creatinine"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver enzymes with high calcium"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A hallmark pattern is a marked increase in GGT (often >300 U/L) with milder elevations of AST/SDH, reflecting biliary and periportal liver involvement. CK predominance (A), creatinine changes (C), or normal enzymes (D) are not typical."
+    },
+    {
+      "id": 8,
+      "stem": "Which additional laboratory changes support a diagnosis of cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe eosinophilia and hyperkalemia"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilia, increased fibrinogen, and elevated conjugated bilirubin, bile acids, and globulins"
+        },
+        {
+          "label": "C",
+          "text": "Lymphopenia and hypoglycemia only"
+        },
+        {
+          "label": "D",
+          "text": "Hypernatremia and hypoproteinemia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Neutrophilia, increased fibrinogen, and elevations in conjugated bilirubin, bile acids, and globulins support an inflammatory hepatobiliary process. The other options (A, C, D) do not match the described lab pattern."
+    },
+    {
+      "id": 9,
+      "stem": "On ultrasonography, which finding is MOST suggestive of cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Distended bile ducts with sludge or calculi and changes in hepatic echogenicity"
+        },
+        {
+          "label": "B",
+          "text": "Normal biliary tree with isolated splenomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Free gas in the abdomen"
+        },
+        {
+          "label": "D",
+          "text": "Kidney enlargement without liver changes"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Ultrasound findings of distended bile ducts with sludge or calculi, plus hepatic parenchymal changes (fibrosis, altered echogenicity), are suggestive. Isolated splenomegaly (B), free gas (C), or renal enlargement alone (D) indicate other problems."
+    },
+    {
+      "id": 10,
+      "stem": "Which diagnostic procedure can help confirm the diagnosis and guide antimicrobial therapy in cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Needle aspirate or biopsy of liver for culture and histology"
+        },
+        {
+          "label": "C",
+          "text": "Fecal flotation"
+        },
+        {
+          "label": "D",
+          "text": "Arthrocentesis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Needle aspirate or biopsy of liver for culture and histopathology helps confirm cholangiohepatitis and guide antimicrobial choice. Skin biopsy (A), fecal tests (C), and joint taps (D) assess other systems."
+    },
+    {
+      "id": 11,
+      "stem": "Which combination of clinical and laboratory findings favors cholangiohepatitis over other causes of chronic colic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fever, jaundice, elevated GGT, leukocytosis, and hyperglobulinemia"
+        },
+        {
+          "label": "B",
+          "text": "Afebrile, normal liver enzymes, and no jaundice"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypoproteinemia with normal GGT"
+        },
+        {
+          "label": "D",
+          "text": "Normal CBC with only mild colic signs"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Fever, jaundice, markedly elevated GGT, leukocytosis, and hyperglobulinemia together strongly support cholangiohepatitis over other chronic colic causes. The other patterns (B–D) lack the hepatobiliary signature."
+    },
+    {
+      "id": 12,
+      "stem": "Which differential diagnoses should be considered in horses with signs that could mimic cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic or recurrent colic, right dorsal displacement of the colon, neoplasia, and hepatic abscessation"
+        },
+        {
+          "label": "B",
+          "text": "Only gastric ulcers"
+        },
+        {
+          "label": "C",
+          "text": "Only laminitis"
+        },
+        {
+          "label": "D",
+          "text": "Only recurrent airway obstruction"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Conditions mimicking cholangiohepatitis include chronic/recurrent colic, right dorsal displacement of the colon, neoplasia, and hepatic abscessation. Gastric ulcers (B), laminitis (C), and airway disease (D) are differentials for other complaints."
+    },
+    {
+      "id": 13,
+      "stem": "What is the primary approach to medical treatment of cholangiohepatitis in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short-term antibiotics (3–5 days) and no follow-up"
+        },
+        {
+          "label": "B",
+          "text": "Long-term antimicrobial therapy (3 weeks to 6 months) guided by culture, plus NSAIDs and supportive care"
+        },
+        {
+          "label": "C",
+          "text": "Antifungal therapy only"
+        },
+        {
+          "label": "D",
+          "text": "Steroids alone without antimicrobials"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Long-term antibiotics (3 weeks–6 months) tailored by culture, along with NSAIDs and supportive care, are central to therapy. Short courses (A), antifungals only (C), or steroids alone (D) are inadequate."
+    },
+    {
+      "id": 14,
+      "stem": "Which antimicrobial regimens are commonly used in treating cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trimethoprim–sulfa, enrofloxacin, metronidazole, ceftiofur, or penicillin-based combinations"
+        },
+        {
+          "label": "B",
+          "text": "Only topical antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Antiparasitics and antifungals only"
+        },
+        {
+          "label": "D",
+          "text": "Macrolides in adult horses as first-line"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Common regimens include trimethoprim–sulfa, enrofloxacin, metronidazole, ceftiofur, and penicillin-based combinations, often in multimodal protocols. Topical-only therapy (B), antiparasitics (C), or macrolides in adults (D) are not standard first-line choices."
+    },
+    {
+      "id": 15,
+      "stem": "Why should icteric horses with cholangiohepatitis be protected from sunlight?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To prevent dehydration"
+        },
+        {
+          "label": "B",
+          "text": "To reduce photosensitization due to impaired bile excretion and accumulation of photodynamic substances"
+        },
+        {
+          "label": "C",
+          "text": "To avoid hypothermia"
+        },
+        {
+          "label": "D",
+          "text": "To promote melatonin secretion"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Icteric horses can develop photosensitization because impaired bile excretion allows photodynamic substances to accumulate; sunlight exposure then worsens skin lesions. Dehydration (A), hypothermia (C), and melatonin (D) are not the main concerns."
+    },
+    {
+      "id": 16,
+      "stem": "When is surgical intervention indicated in cholangiohepatitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In all horses shortly after diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "Only if obstructing bile calculi or nonresponsive abscesses are present"
+        },
+        {
+          "label": "C",
+          "text": "Whenever GGT is elevated above 100 U/L"
+        },
+        {
+          "label": "D",
+          "text": "For cosmetic removal of scars"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Surgical intervention is generally reserved for cases with obstructing bile calculi or nonresponsive abscesses where drainage or resection is needed. Routine surgery for all (A), triggers based on GGT alone (C), and cosmetic motives (D) are inappropriate."
+    },
+    {
+      "id": 17,
+      "stem": "Which follow-up strategy is MOST appropriate after initiating therapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discontinue antibiotics as soon as the horse seems clinically improved"
+        },
+        {
+          "label": "B",
+          "text": "Continue antibiotics until GGT decreases below ~100 U/L or normalizes, then recheck GGT and consider follow-up ultrasound"
+        },
+        {
+          "label": "C",
+          "text": "Stop treatment after 7 days regardless of bloodwork"
+        },
+        {
+          "label": "D",
+          "text": "No follow-up is needed if fever resolves"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Antibiotics should be continued until GGT falls below approximately 100 U/L or normalizes, with repeat GGT and follow-up imaging to ensure resolution. Stopping early (A, C) or skipping follow-up (D) risks relapse or incomplete treatment."
+    },
+    {
+      "id": 18,
+      "stem": "What is the general PROGNOSIS for cholangiohepatitis in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always fatal regardless of treatment"
+        },
+        {
+          "label": "B",
+          "text": "Good if no bile duct obstruction is present and liver echogenicity is normal"
+        },
+        {
+          "label": "C",
+          "text": "Poor in all cases, even with early treatment"
+        },
+        {
+          "label": "D",
+          "text": "Unknown because the disease is extremely rare"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis is good when bile ducts are patent and liver echogenicity is near normal, especially with early therapy. It is not invariably fatal (A) or uniformly poor (C), and the condition is not so rare that prognosis is unknown (D)."
+    },
+    {
+      "id": 19,
+      "stem": "Which statement about very high GGT values (e.g., >2500 U/L) in cholangiohepatitis is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They indicate inevitable liver failure and death"
+        },
+        {
+          "label": "B",
+          "text": "Horses may still recover with aggressive medical therapy"
+        },
+        {
+          "label": "C",
+          "text": "They always mandate immediate liver transplantation"
+        },
+        {
+          "label": "D",
+          "text": "They have no clinical significance"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Even very high GGT values can be compatible with recovery if aggressive medical management is instituted; this elevation alone does not guarantee death. Transplant (C) is not an option for horses, and the value is clinically meaningful (D)."
+    },
+    {
+      "id": 20,
+      "stem": "Which summary feature BEST characterizes cholangiohepatitis in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral infection of pancreas and spleen"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation of liver and bile ducts, most common in adult horses, often due to ascending bacterial infection, with GGT elevation as a key marker"
+        },
+        {
+          "label": "C",
+          "text": "Pure muscle disease without hepatic involvement"
+        },
+        {
+          "label": "D",
+          "text": "Primary kidney disorder with biliary obstruction"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cholangiohepatitis is characterized by inflammation of liver and bile ducts, commonly in adult horses, often due to ascending bacterial infection, with GGT elevation as a key diagnostic marker. The other options misidentify affected organs or pathophysiology."
+    }
+  ]
+}

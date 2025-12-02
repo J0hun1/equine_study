@@ -1,0 +1,143 @@
+Q1. Equine Cushing’s disease is also known as:
+A. Equine metabolic syndrome (EMS)
+B. Pituitary pars intermedia dysfunction (PPID)
+C. Primary adrenal cortical hyperplasia
+D. Hypothyroid pituitary syndrome
+
+Q2. Equine Cushing’s disease (PPID) most commonly affects:
+A. Foals less than 1 year old
+B. Horses between 2–5 years of age
+C. Older horses, typically over 15 years of age
+D. Only middle-aged draft horses
+
+Q3. Which statement regarding the prevalence of PPID is MOST accurate?
+A. It is rare in aged horses, affecting less than 1%
+B. Up to about 30% of aged horses may have PPID
+C. PPID occurs only in ponies, not horses
+D. PPID is equally common in all age groups
+
+Q4. Why does PPID tend to be recognized more frequently in ponies?
+A. Ponies have a unique pituitary gland structure
+B. Ponies tend to live longer, so age-related disease is more often observed
+C. Ponies are more prone to trauma to the pituitary
+D. Ponies have higher baseline ACTH in youth
+
+Q5. The primary pathophysiologic change in PPID involves:
+A. Overactivity of the pars distalis causing TSH overproduction
+B. Overactivity of the pars intermedia due to loss of dopaminergic inhibition
+C. Underactivity of the adrenal cortex
+D. Destruction of the thyroid gland
+
+Q6. Damage to which structure leads to enlargement and overactivity of the pituitary in PPID?
+A. Optic nerve fibers
+B. Peripheral sympathetic nerves
+C. Hypothalamic dopaminergic neurons innervating the pars intermedia
+D. Phrenic nerve branches
+
+Q7. Excessive production of which hormone is particularly associated with PPID?
+A. Thyroxine (T4)
+B. Growth hormone
+C. Adrenocorticotropic hormone (ACTH)
+D. Aldosterone
+
+Q8. Which of the following is a common CLINICAL SIGN of equine Cushing’s disease?
+A. Profound weight loss with alopecia only in white areas
+B. Hirsutism, laminitis, polyuria/polydipsia, and abnormal fat deposition
+C. Acute, high fever with purulent nasal discharge
+D. Colic and severe diarrhea only
+
+Q9. Hirsutism in a horse with PPID refers to:
+A. Complete hair loss over the trunk
+B. Failure to shed the long, curly winter hair coat appropriately
+C. Patchy depigmentation of the mane and tail
+D. Excessive hoof growth
+
+Q10. Which diagnostic test can be used as a simple screening test for PPID by measuring resting hormone levels?
+A. Baseline T4 test
+B. Baseline ACTH test
+C. Resting insulin and glucose only
+D. Dexamethasone suppression test
+
+Q11. The thyrotropin-releasing hormone (TRH) stimulation test for PPID involves:
+A. Administering TRH orally and measuring T4 levels 24 hours later
+B. Administering TRH IV and comparing baseline and post-TRH ACTH levels
+C. Injecting dexamethasone and measuring cortisol suppression
+D. Administering insulin and measuring glucose tolerance
+
+Q12. Why is CT imaging of the pituitary generally not used as an initial diagnostic step in PPID?
+A. CT cannot visualize the equine pituitary gland
+B. CT is too insensitive to detect enlargement
+C. It is technically demanding, costly, and not required for most diagnoses
+D. CT is contraindicated in horses with laminitis
+
+Q13. Pergolide (Prascend®), the primary medical therapy for PPID, acts by:
+A. Stimulating ACTH production to normalize cortisol
+B. Acting as a synthetic dopamine agonist to restore inhibition of the pars intermedia
+C. Directly destroying hyperplastic pituitary cells
+D. Blocking cortisol receptors at the adrenal gland
+
+Q14. Which is the MOST common initial side effect when starting pergolide therapy?
+A. Irreversible blindness
+B. Severe colic and diarrhea
+C. Reversible loss of appetite (anorexia)
+D. Laminitis due to drug toxicity
+
+Q15. Which dietary recommendation is MOST appropriate for a horse with Cushing’s disease?
+A. High-sugar grain to maintain weight
+B. Grain with less than 10% sugar and starch, and hay tested and adjusted for low sugar/starch
+C. Unlimited lush pasture access, especially in spring and fall
+D. Only alfalfa cubes and molasses-based feeds
+
+Q16. Why is grass restriction particularly recommended for horses with Cushing’s disease in spring and fall?
+A. Pasture is deficient in protein during these seasons
+B. Grass sugar levels are highest then, increasing laminitis risk
+C. Grass lacks essential vitamins during these periods
+D. Grass contains toxic alkaloids only in warm months
+
+Q17. In managing horses with PPID, which supportive care practice is MOST appropriate?
+A. Routine hoof and dental care, parasite control, and regular body clipping
+B. Avoid body clipping to preserve thermoregulation
+C. Minimal dental care because PPID spares oral health
+D. Limiting hoof trimming to once yearly
+
+Q18. Which statement about preventing PPID is MOST accurate?
+A. PPID can be completely prevented with proper diet and exercise
+B. PPID is a natural degenerative condition that cannot currently be prevented
+C. PPID is caused only by environmental toxins and is fully avoidable
+D. Vaccination in youth prevents PPID
+
+Q19. What is the primary benefit of early diagnosis and treatment of PPID with pergolide?
+A. Curing the disease entirely in most horses
+B. Potentially slowing disease progression and improving quality of life
+C. Preventing all endocrine disorders in old age
+D. Eliminating the need for any hoof care
+
+Q20. Which statement best summarizes the relationship between PPID and equine metabolic syndrome (EMS)?
+A. They are the same disease process
+B. They never occur together
+C. Horses with PPID may also have EMS, which can complicate management
+D. EMS only occurs in young horses and is unrelated to PPID
+
+Answer key:
+1-B
+2-C
+3-B
+4-B
+5-B
+6-C
+7-C
+8-B
+9-B
+10-B
+11-B
+12-C
+13-B
+14-C
+15-B
+16-B
+17-A
+18-B
+19-B
+20-C
+
+

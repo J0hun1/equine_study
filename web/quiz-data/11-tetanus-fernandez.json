@@ -1,0 +1,486 @@
+{
+  "topic": "11. Tetanus_Fernandez",
+  "slug": "11-tetanus-fernandez",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Tetanus in horses is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A viral disease causing respiratory failure"
+        },
+        {
+          "label": "B",
+          "text": "A bacterial infection in necrotic tissue producing a neurotoxin that causes muscular spasms"
+        },
+        {
+          "label": "C",
+          "text": "A fungal infection limited to the skin"
+        },
+        {
+          "label": "D",
+          "text": "A protozoal infection of the GI tract"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tetanus is a bacterial disease caused by *Clostridium tetani* in necrotic tissue, producing a neurotoxin that results in muscular spasms. It is not viral (A), fungal (C), or protozoal GI disease (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Horses are considered:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Highly resistant to tetanus toxin"
+        },
+        {
+          "label": "B",
+          "text": "Among the most sensitive species to tetanus toxin"
+        },
+        {
+          "label": "C",
+          "text": "Not affected by tetanus"
+        },
+        {
+          "label": "D",
+          "text": "Only susceptible as foals"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses are among the most sensitive species to tetanus toxin, which is why vaccination and prompt wound care are so critical. They are neither resistant (A) nor unaffected (C), and risk is not limited to foals (D)."
+    },
+    {
+      "id": 3,
+      "stem": "Clostridium tetani is BEST characterized as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "An aerobic, non-spore-forming bacillus"
+        },
+        {
+          "label": "B",
+          "text": "An anaerobic, Gram-positive, spore-forming bacillus with terminal spherical spores"
+        },
+        {
+          "label": "C",
+          "text": "A Gram-negative coccus"
+        },
+        {
+          "label": "D",
+          "text": "A yeast-like organism"
+        }
+      ],
+      "correct": "B",
+      "explanation": "*C. tetani* is an anaerobic, Gram-positive, spore-forming bacillus with terminal spherical spores found in soil and feces. The other descriptions (A, C, D) fit different organisms."
+    },
+    {
+      "id": 4,
+      "stem": "How does C. tetani typically gain access to the horse’s body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhalation into the lungs"
+        },
+        {
+          "label": "B",
+          "text": "Entry through a contaminated wound where low oxygen tension allows germination"
+        },
+        {
+          "label": "C",
+          "text": "Vertical transmission in utero"
+        },
+        {
+          "label": "D",
+          "text": "Oral ingestion and colonization of the stomach"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The organism gains access via contaminated wounds where low oxygen tension permits spore germination and toxin production. Inhalation (A), vertical transmission (C), and gastric colonization (D) are not typical routes."
+    },
+    {
+      "id": 5,
+      "stem": "Which condition at the wound site favors germination and proliferation of C. tetani?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Highly oxygenated, superficial abrasions"
+        },
+        {
+          "label": "B",
+          "text": "Anaerobic environment due to necrosis, foreign material, or concurrent infection"
+        },
+        {
+          "label": "C",
+          "text": "Dry, intact skin without contamination"
+        },
+        {
+          "label": "D",
+          "text": "Exposure to strong sunlight"
+        }
+      ],
+      "correct": "B",
+      "explanation": "An anaerobic environment caused by necrosis, foreign material, or mixed infection favors germination and growth of *C. tetani* in the wound. Highly oxygenated (A), intact (C), or sun-exposed (D) sites are less conducive."
+    },
+    {
+      "id": 6,
+      "stem": "The main neurotoxin responsible for clinical tetanus signs is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetanolysin"
+        },
+        {
+          "label": "B",
+          "text": "Tetanospasmin"
+        },
+        {
+          "label": "C",
+          "text": "Botulinum toxin"
+        },
+        {
+          "label": "D",
+          "text": "Endotoxin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tetanospasmin is the main neurotoxin responsible for clinical signs; tetanolysin (A) contributes to local necrosis, while botulinum toxin (C) is from *C. botulinum*."
+    },
+    {
+      "id": 7,
+      "stem": "Tetanospasmin primarily acts by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blocking acetylcholine release at neuromuscular junctions"
+        },
+        {
+          "label": "B",
+          "text": "Cleaving synaptobrevin in presynaptic inhibitory interneurons, preventing release of glycine and GABA"
+        },
+        {
+          "label": "C",
+          "text": "Destroying myelin sheaths around motor axons"
+        },
+        {
+          "label": "D",
+          "text": "Increasing serotonin release in the CNS"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tetanospasmin travels to the CNS and cleaves synaptobrevin in presynaptic inhibitory interneurons, blocking glycine and GABA release and disinhibiting motor neurons. Blocking acetylcholine (A) describes botulism, not tetanus."
+    },
+    {
+      "id": 8,
+      "stem": "The result of tetanospasmin action on the spinal cord is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhanced inhibition of motor neurons and flaccid paralysis"
+        },
+        {
+          "label": "B",
+          "text": "Loss of motor neuron inhibition causing hypertonia and muscular spasm"
+        },
+        {
+          "label": "C",
+          "text": "Selective sensory neuropathy only"
+        },
+        {
+          "label": "D",
+          "text": "Reversible demyelination of sensory tracts"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The loss of inhibitory input leads to hypertonia and generalized muscular spasms, producing the classic “stiff” horse. Flaccid paralysis (A), isolated sensory neuropathy (C), or demyelination (D) are not typical."
+    },
+    {
+      "id": 9,
+      "stem": "Which additional exotoxin produced by C. tetani increases local tissue necrosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetanolysin"
+        },
+        {
+          "label": "B",
+          "text": "Shiga toxin"
+        },
+        {
+          "label": "C",
+          "text": "Enterotoxin A"
+        },
+        {
+          "label": "D",
+          "text": "Lipopolysaccharide"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Tetanolysin promotes local tissue necrosis, furthering anaerobic conditions and bacterial proliferation. The other toxins (B–D) are produced by different bacteria."
+    },
+    {
+      "id": 10,
+      "stem": "The incubation period for tetanus in horses is usually:",
+      "options": [
+        {
+          "label": "A",
+          "text": "12–24 hours"
+        },
+        {
+          "label": "B",
+          "text": "1–3 weeks, but highly variable"
+        },
+        {
+          "label": "C",
+          "text": "6–12 months"
+        },
+        {
+          "label": "D",
+          "text": "5–10 years"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The incubation period is usually 1–3 weeks but can vary widely, consistent with spore germination and toxin spread. Hours (A), many months (C), or years (D) are incorrect."
+    },
+    {
+      "id": 11,
+      "stem": "Which horses are at highest risk for tetanus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only vaccinated horses"
+        },
+        {
+          "label": "B",
+          "text": "Unvaccinated horses with contaminated wounds or penetrating foot injuries"
+        },
+        {
+          "label": "C",
+          "text": "Horses with no wounds"
+        },
+        {
+          "label": "D",
+          "text": "Only foals with diarrhea"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Unvaccinated horses with contaminated soft tissue or penetrating foot wounds are at greatest risk, though vaccinated horses can rarely be affected. Horses with no wounds (C) or only foals with diarrhea (D) are not the main risk groups."
+    },
+    {
+      "id": 12,
+      "stem": "Early clinical signs of tetanus in a horse may include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden blindness and circling only"
+        },
+        {
+          "label": "B",
+          "text": "Local stiffness, lameness, colic, and progression to a stiff/spastic gait"
+        },
+        {
+          "label": "C",
+          "text": "Severe coughing and nasal discharge"
+        },
+        {
+          "label": "D",
+          "text": "Isolated pruritus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early signs include history of a wound, local stiffness, lameness, colic-like discomfort, and progression to a stiff, spastic gait. Isolated ocular or respiratory signs (A, C) and pruritus (D) are not typical first signs."
+    },
+    {
+      "id": 13,
+      "stem": "Classic overt signs of tetanus include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Sawhorse stance,” raised tail head, flared nostrils, erect ears, third eyelid prolapse, and “lockjaw”"
+        },
+        {
+          "label": "B",
+          "text": "Hindlimb knuckling and toe dragging only"
+        },
+        {
+          "label": "C",
+          "text": "Severe ataxia with knuckling but no muscle tone change"
+        },
+        {
+          "label": "D",
+          "text": "Purely respiratory crackles"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Classic overt signs include “sawhorse stance,” raised tail head, flared nostrils, erect ears, third eyelid prolapse, and lockjaw due to masseter spasm. The other answer choices (B–D) are incomplete or incorrect."
+    },
+    {
+      "id": 14,
+      "stem": "As tetanus progresses, which additional signs are commonly observed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypothermia and bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Dysphagia with saliva accumulation, aspiration risk, increased temperature, profuse sweating, recumbency, extensor rigidity, difficulty urinating/defecating, and respiratory failure"
+        },
+        {
+          "label": "C",
+          "text": "Only mild lethargy"
+        },
+        {
+          "label": "D",
+          "text": "Purely GI colic with no neuromuscular signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Progressive tetanus causes dysphagia, saliva accumulation, aspiration risk, hyperthermia, profuse sweating, recumbency, severe extensor rigidity, difficulty urinating/defecating, and respiratory failure. Hypothermia (A), mild lethargy (C), and isolated colic (D) do not summarize advanced disease."
+    },
+    {
+      "id": 15,
+      "stem": "Which conditions are important DIFFERENTIAL DIAGNOSES for tetanus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laminitis, hypocalcemia, rhabdomyolysis, rabies, and myotonia"
+        },
+        {
+          "label": "B",
+          "text": "Only colic and gastric ulcers"
+        },
+        {
+          "label": "C",
+          "text": "Only navicular syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Only equine asthma"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Differential diagnoses include laminitis, hypocalcemia, rhabdomyolysis, rabies, and myotonia, which can mimic some neuromuscular aspects. Colic, navicular, and asthma (B–D) are less comparable."
+    },
+    {
+      "id": 16,
+      "stem": "What is the cornerstone of initial tetanus treatment in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corticosteroids alone"
+        },
+        {
+          "label": "B",
+          "text": "Neutralizing unbound toxin with tetanus antitoxin and eliminating infection at the wound, plus intensive nursing care"
+        },
+        {
+          "label": "C",
+          "text": "Antifungal therapy"
+        },
+        {
+          "label": "D",
+          "text": "Immediate surgical amputation of the affected limb"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Initial treatment focuses on neutralizing unbound toxin with tetanus antitoxin, eliminating the infection via wound debridement and antimicrobials, and providing intensive nursing care. Steroids alone (A), antifungals (C), or limb amputation (D) are not appropriate primary strategies."
+    },
+    {
+      "id": 17,
+      "stem": "Which nursing measures are appropriate for a horse with tetanus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keeping the horse in a bright, noisy environment to maintain alertness"
+        },
+        {
+          "label": "B",
+          "text": "Confining to a quiet, dark stall with deep bedding, minimizing stimulation, using padded walls/helmet, and frequent turning of recumbent horses"
+        },
+        {
+          "label": "C",
+          "text": "Forcing the horse to exercise to prevent muscle stiffness"
+        },
+        {
+          "label": "D",
+          "text": "Withholding water to reduce aspiration risk"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Nursing care requires a quiet, dark environment, deep bedding, minimal stimulation, padded surroundings, and frequent repositioning or slinging of recumbent horses. Bright/noisy environments (A), forced exercise (C), and fluid restriction (D) increase risk."
+    },
+    {
+      "id": 18,
+      "stem": "Which antimicrobial is commonly used to treat C. tetani infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin G IV for 7–10 days"
+        },
+        {
+          "label": "B",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "C",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Penicillin G IV (22,000–44,000 IU/kg q6h for 7–10 days) is a standard choice for killing vegetative *C. tetani*. Acyclovir (B), fluconazole (C), and praziquantel (D) target viruses, fungi, and parasites respectively."
+    },
+    {
+      "id": 19,
+      "stem": "Why must tetanus antitoxin (TAT) and tetanus toxoid be given at different injection sites?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To avoid local irritation at a single site"
+        },
+        {
+          "label": "B",
+          "text": "Because TAT can bind and neutralize the toxoid antigen if given at the same site"
+        },
+        {
+          "label": "C",
+          "text": "To prevent hepatotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "To improve vaccine absorption through multiple muscles"
+        }
+      ],
+      "correct": "B",
+      "explanation": "TAT contains antibodies that can bind and neutralize tetanus toxoid antigen if both are injected at the same site, reducing vaccine effectiveness, so separate sites are recommended. Local irritation (A), hepatotoxicity (C), and “better absorption” (D) are not the main reasons."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement BEST summarizes prognosis in equine tetanus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All affected horses recover fully"
+        },
+        {
+          "label": "B",
+          "text": "Mortality is high (50–80%); recumbent horses unable to rise have grave prognosis, whereas horses that remain standing and receive excellent nursing care may recover over weeks"
+        },
+        {
+          "label": "C",
+          "text": "Tetanus is always fatal within 24 hours"
+        },
+        {
+          "label": "D",
+          "text": "Prognosis is excellent regardless of clinical severity"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Prognosis is guarded to poor, with reported mortality of 50–80%; recumbent horses unable to rise fare worst, while standing horses with good care can recover over weeks. It is neither uniformly benign (A, D) nor universally fatal within 24 hours (C)."
+    }
+  ]
+}

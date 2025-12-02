@@ -1,0 +1,486 @@
+{
+  "topic": "3. Equine Rain Rot_ESCOTE",
+  "slug": "3-equine-rain-rot-escote",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine rain rot (dermatophilosis) is BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A fungal infection affecting only the mane and tail"
+        },
+        {
+          "label": "B",
+          "text": "A common bacterial exudative crusting dermatitis that often occurs during periods of heavy rain"
+        },
+        {
+          "label": "C",
+          "text": "A viral vesicular disease of the oral mucosa"
+        },
+        {
+          "label": "D",
+          "text": "A parasitic infestation limited to the pasterns"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophilosis is a common bacterial exudative crusting dermatitis of horses that typically occurs during periods of heavy rain. It is not primarily fungal (A), viral (C), or parasitic (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Which anatomic regions are MOST commonly affected in equine dermatophilosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perineum and ventral abdomen only"
+        },
+        {
+          "label": "B",
+          "text": "Dorsum of the trunk, saddle region, and dorsal surfaces of the hind cannon bones"
+        },
+        {
+          "label": "C",
+          "text": "Coronary band and frog only"
+        },
+        {
+          "label": "D",
+          "text": "Ears and periocular region only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Lesions classically affect the dorsum of the trunk, especially the saddle region, and the dorsal surfaces of the hind cannon bones, and can also involve the pasterns. The other sites listed (A, C, D) are not the most characteristic locations."
+    },
+    {
+      "id": 3,
+      "stem": "Which of the following is TRUE regarding signalment for equine rain rot?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only foals are affected"
+        },
+        {
+          "label": "B",
+          "text": "Only older mares are affected"
+        },
+        {
+          "label": "C",
+          "text": "No specific age, breed, or sex predilection is recognized"
+        },
+        {
+          "label": "D",
+          "text": "Only grey horses develop the disease"
+        }
+      ],
+      "correct": "C",
+      "explanation": "No consistent age, breed, or sex predilection has been recognized for dermatophilosis. It is not limited to foals (A), older mares (B), or grey horses (D)."
+    },
+    {
+      "id": 4,
+      "stem": "Which factor MOST predisposes horses to chronic pastern dermatitis due to dermatophilosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prolonged confinement in a dry, sandy paddock"
+        },
+        {
+          "label": "B",
+          "text": "Being kept in a wet stall or pen for long periods"
+        },
+        {
+          "label": "C",
+          "text": "Daily grooming and clipping"
+        },
+        {
+          "label": "D",
+          "text": "Complete stall rest on rubber mats"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Horses kept in wet stalls or pens are predisposed to chronic pastern dermatitis because persistent moisture and skin maceration favor infection. Dry paddocks (A), routine grooming (C), and stall rest on mats (D) do not create the same risk."
+    },
+    {
+      "id": 5,
+      "stem": "The classic early skin lesions of dermatophilosis are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flat depigmented macules without exudate"
+        },
+        {
+          "label": "B",
+          "text": "Follicular and nonfollicular papules and pustules that form tightly adherent crusts"
+        },
+        {
+          "label": "C",
+          "text": "Large fluid-filled vesicles that rupture to form erosions"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous nodules with fistulous tracts"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Early lesions consist of follicular and nonfollicular papules and pustules that form tightly adherent crusts, which may coalesce into plaques with exudate. Flat depigmented macules (A), vesicles (C), or subcutaneous nodules with tracts (D) describe other conditions."
+    },
+    {
+      "id": 6,
+      "stem": "The “paint brush” appearance seen in rain rot lesions refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hair shafts entirely lost, leaving smooth bald areas"
+        },
+        {
+          "label": "B",
+          "text": "Distal hair ends protruding through crusts when they are removed"
+        },
+        {
+          "label": "C",
+          "text": "Multicolored hair due to pigment loss"
+        },
+        {
+          "label": "D",
+          "text": "Patches of depigmented hair overlying intact skin"
+        }
+      ],
+      "correct": "B",
+      "explanation": "When crusts are removed, the distal hair shafts protrude through the crust, giving a characteristic “paint brush” appearance. Smooth bald areas (A), pigment changes (C), or depigmented hair patches (D) do not describe this."
+    },
+    {
+      "id": 7,
+      "stem": "Which clinical sign may occur when dermatophilosis involves the pastern or fetlock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neurologic deficits and ataxia"
+        },
+        {
+          "label": "B",
+          "text": "Lameness with localized swelling"
+        },
+        {
+          "label": "C",
+          "text": "Generalized pruritus without lesions"
+        },
+        {
+          "label": "D",
+          "text": "Ocular discharge and blepharospasm"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pastern or fetlock involvement can cause lameness and localized swelling. Neurologic signs (A), generalized pruritus without lesions (C), and ocular signs (D) are not typical direct consequences of pastern dermatophilosis."
+    },
+    {
+      "id": 8,
+      "stem": "The causative organism of equine rain rot is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "C",
+          "text": "Dermatophilus congolensis"
+        },
+        {
+          "label": "D",
+          "text": "Corynebacterium pseudotuberculosis"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The etiologic agent is Dermatophilus congolensis, a Gram‑positive, facultative anaerobic actinomycete. Staphylococcus (A) and Corynebacterium (D) can cause other skin diseases, while Microsporum canis (B) is a dermatophyte (fungus), not the cause here."
+    },
+    {
+      "id": 9,
+      "stem": "Which two factors are MOST important for the development of dermatophilosis lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperkalemia and hypocalcemia"
+        },
+        {
+          "label": "B",
+          "text": "Skin damage and moisture"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin E deficiency and UV exposure"
+        },
+        {
+          "label": "D",
+          "text": "Hypoproteinemia and anemia"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Skin damage (trauma, maceration) and moisture are the two key factors required for infection: damage allows colonization and moisture promotes organism growth. The other factor pairs (A, C, D) are not central to pathogenesis in this disease."
+    },
+    {
+      "id": 10,
+      "stem": "Which of the following statements about transmission of dermatophilosis is CORRECT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is airborne and spreads only through coughing"
+        },
+        {
+          "label": "B",
+          "text": "Biting flies, ticks, and contaminated fomites/crusts can spread infection"
+        },
+        {
+          "label": "C",
+          "text": "Only direct horse-to-horse contact can transmit the disease"
+        },
+        {
+          "label": "D",
+          "text": "It is strictly a venereal disease"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Biting flies, ticks, and contaminated fomites or crusts can transmit the organism between horses and environments. It is not purely airborne (A), only direct-contact transmitted (C), or venereal (D)."
+    },
+    {
+      "id": 11,
+      "stem": "In cases of truncal lesions suggestive of dermatophilosis, which condition should be considered in the differential diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Dermatophytosis or pemphigus foliaceus"
+        },
+        {
+          "label": "C",
+          "text": "Equine protozoal myeloencephalitis"
+        },
+        {
+          "label": "D",
+          "text": "Colitis X"
+        }
+      ],
+      "correct": "B",
+      "explanation": "With truncal lesions, differential diagnoses include dermatophytosis and pemphigus foliaceus, among others. Dermatomyositis (A), neurologic disease (C), and colitis (D) affect different systems."
+    },
+    {
+      "id": 12,
+      "stem": "When lesions are confined to the pastern region, which of the following should be ruled out?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chorioptes infestation and irritant or allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Gastric ulceration"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent airway obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Urolithiasis"
+        }
+      ],
+      "correct": "A",
+      "explanation": "When only the pasterns are involved, differentials include staphylococcal folliculitis/furunculosis, dermatophytosis, Chorioptes infestation, trombiculosis, and irritant or allergic contact dermatitis, among others. Gastric (B), respiratory (C), or urinary (D) conditions are unrelated."
+    },
+    {
+      "id": 13,
+      "stem": "When lesions are limited to white areas of the body, which differential is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Photosensitization due to liver disease or plant toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharide storage myopathy"
+        },
+        {
+          "label": "D",
+          "text": "Equine influenza"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Lesions limited to white areas raise concern for photosensitization, which may be associated with liver disease, plant toxins, or intense UV exposure. Copper deficiency (A), PSSM (C), and influenza (D) have different manifestations."
+    },
+    {
+      "id": 14,
+      "stem": "What is the general diagnostic value of CBC, biochemistry, and urinalysis in dermatophilosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Essential to confirm every case"
+        },
+        {
+          "label": "B",
+          "text": "Generally not of great value in diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Always abnormal in severe disease"
+        },
+        {
+          "label": "D",
+          "text": "Required to identify the organism"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Routine CBC/biochemistry/urinalysis are generally not of great value for diagnosing dermatophilosis, which is usually confirmed clinically and cytologically. They are not essential (A), not consistently abnormal (C), and do not identify the organism directly (D)."
+    },
+    {
+      "id": 15,
+      "stem": "Which diagnostic procedure is MOST useful to confirm dermatophilosis in typical cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin biopsy with PAS stain only"
+        },
+        {
+          "label": "B",
+          "text": "Cytology of exudate and/or crust stained with modified Wright’s (Diff-Quik)"
+        },
+        {
+          "label": "C",
+          "text": "Fecal flotation and larval culture"
+        },
+        {
+          "label": "D",
+          "text": "Serum antibody titers against Dermatophilus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Cytology of exudate and/or crust stained with a modified Wright’s stain (Diff‑Quik) is a practical and rewarding diagnostic method. Skin biopsy (A) can help but is not usually first-line; fecal tests (C) and antibody titers (D) are not standard."
+    },
+    {
+      "id": 16,
+      "stem": "On cytology, Dermatophilus organisms typically appear as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Large budding yeasts in chains"
+        },
+        {
+          "label": "B",
+          "text": "Cocci forming parallel rows within branching filaments (“railroad tracks”)"
+        },
+        {
+          "label": "C",
+          "text": "Acid-fast rods in clumps"
+        },
+        {
+          "label": "D",
+          "text": "Spirochetes with corkscrew motility"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophilus organisms appear as cocci arranged in parallel rows within branching filaments, giving a “railroad track” appearance on cytology. Yeast chains (A), acid-fast rods (C), and spirochetes (D) represent other pathogens."
+    },
+    {
+      "id": 17,
+      "stem": "Which statement about handling crusts in a horse with dermatophilosis is MOST appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crusts are not infectious and can be discarded in the stall"
+        },
+        {
+          "label": "B",
+          "text": "Owners should avoid removing crusts at all"
+        },
+        {
+          "label": "C",
+          "text": "Crusts are infectious; wear gloves, remove them gently, and dispose of them in the trash"
+        },
+        {
+          "label": "D",
+          "text": "Crusts should be ground into bedding to inoculate the environment"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Crusts are infectious and zoonotic; handlers should wear gloves, gently remove crusts after soaking, and dispose of them in the trash rather than contaminating the environment. Leaving them in the stall (A), never removing crusts (B), or grinding them into bedding (D) is unsafe."
+    },
+    {
+      "id": 18,
+      "stem": "Which is an ESSENTIAL component of treatment for equine rain rot?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintaining a constantly moist environment to loosen crusts"
+        },
+        {
+          "label": "B",
+          "text": "Keeping the horse and its environment clean and dry, and gently removing crusts after soaking with antibacterial shampoo"
+        },
+        {
+          "label": "C",
+          "text": "Using high-dose systemic corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding all bathing until lesions resolve"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Key treatment elements include keeping the horse and environment clean and dry and gently removing crusts after soaking with an antibacterial shampoo. Constant moisture (A), corticosteroids alone (C), or avoiding all bathing (D) are inappropriate."
+    },
+    {
+      "id": 19,
+      "stem": "Which topical therapies are appropriate for focal lesions when bathing is not possible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2–4% chlorhexidine, accelerated hydrogen peroxide, or benzoyl peroxide products"
+        },
+        {
+          "label": "B",
+          "text": "Mineral oil and baby shampoo only"
+        },
+        {
+          "label": "C",
+          "text": "Lime sulfur dips only"
+        },
+        {
+          "label": "D",
+          "text": "Plain water rinses without any antiseptic"
+        }
+      ],
+      "correct": "A",
+      "explanation": "For focal lesions when bathing is not possible, topical 2–4% chlorhexidine, accelerated hydrogen peroxide, or benzoyl peroxide products can be used. Mineral oil/baby shampoo (B), lime sulfur alone (C), or plain water (D) are not standard monotherapies here."
+    },
+    {
+      "id": 20,
+      "stem": "Which statement BEST describes the prognosis and course of equine dermatophilosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor prognosis with frequent scarring and chronic pain"
+        },
+        {
+          "label": "B",
+          "text": "Guarded prognosis; most cases progress to systemic sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Many cases are self-limiting once environmental factors are corrected, and the prognosis is excellent"
+        },
+        {
+          "label": "D",
+          "text": "Disease is invariably fatal in older horses"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Many cases of dermatophilosis are self‑limiting after environmental improvements, and the prognosis is generally excellent. It is not typically chronic and scarring (A), not commonly septic/fatal (B), and certainly not invariably lethal (D)."
+    }
+  ]
+}

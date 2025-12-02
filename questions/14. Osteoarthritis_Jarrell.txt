@@ -1,0 +1,143 @@
+Q1. Osteoarthritis (OA) in horses is BEST described as:
+A. An acute infectious arthritis due to bacteria
+B. A chronic, progressive, noninfectious deterioration of articular cartilage and associated joint structures
+C. A purely developmental cartilage defect in foals
+D. A systemic autoimmune disease
+
+Q2. Which joint changes are typically associated with OA?
+A. Only synovial effusion
+B. Cartilage loss, subchondral bone sclerosis, osteophyte formation, and synovial membrane inflammation
+C. Pure tendon rupture without bone or cartilage changes
+D. Exclusively joint ankylosis at birth
+
+Q3. Which horses are most predisposed to OA?
+A. Only geriatric pasture pets
+B. Athletic horses of all ages and both sexes undergoing repetitive training
+C. Only foals under 6 months
+D. Only breeding stallions
+
+Q4. OA commonly develops secondary to which factors?
+A. Joint instability, trauma, abnormal biomechanical stress, poor joint conformation, repetitive stress, ligament/tendon injuries, infectious arthritis, or osteochondrosis
+B. Simple dietary vitamin deficiency
+C. Only laminitis
+D. Seasonal temperature changes
+
+Q5. Which pathophysiologic process BEST explains cartilage damage in OA?
+A. Inflammatory mediators (PGE₂, IL-1, TNF-α, MMPs) from synovitis drive matrix degradation and reduce synovial fluid quality
+B. Direct bacterial invasion of cartilage
+C. Pure mechanical wear without any biochemical component
+D. Autoantibodies to myelin
+
+Q6. What changes occur in synovial fluid during OA?
+A. Increased viscosity and hyaluronic acid concentration
+B. Reduced viscosity and decreased hyaluronic acid concentration, leading to poor lubrication
+C. Conversion to pus-filled exudate in all cases
+D. No change at any stage
+
+Q7. How does subchondral bone respond in OA?
+A. It becomes softer and more compliant
+B. It becomes sclerotic and less compliant, transmitting greater forces to cartilage and promoting osteophyte formation
+C. It is unaffected by OA
+D. It liquefies and forms cysts only
+
+Q8. The hallmark lesion of OA is:
+A. Articular cartilage degeneration, with pain arising from periarticular soft tissues and subchondral bone
+B. Pure synovial membrane infection
+C. Primary ligament rupture without joint involvement
+D. Bone neoplasia
+
+Q9. Which historical finding often suggests OA in a horse?
+A. Sudden onset of neurologic deficits with seizures
+B. History of intra-articular fracture, osteochondrosis, dislocation, or ligament injury, with insidious lameness in low-motion joints and acute lameness in high-motion joints
+C. Isolated respiratory distress
+D. Only skin lesions
+
+Q10. Typical physical examination findings in equine OA include:
+A. Severe colic and abdominal distension
+B. Variable lameness, pain on flexion of affected joint(s), synovial effusion (esp. in high-motion joints), reduced range of motion, stiffness after rest, thickened joint capsules, periarticular hardening, and crepitus
+C. No lameness but systemic fever
+D. Pure hindlimb paralysis
+
+Q11. Which imaging modality is most commonly used to diagnose OA changes?
+A. Radiography, showing joint space narrowing, osteophytes, periosteal proliferation, and subchondral sclerosis
+B. CT only
+C. Endoscopy
+D. Ultrasonography of the abdomen
+
+Q12. Which modality offers direct visualization of articular cartilage and subchondral bone lesions?
+A. Arthroscopy
+B. MRI only
+C. Nuclear scintigraphy only
+D. Fecal imaging
+
+Q13. Main treatment goals in managing OA are to:
+A. Eradicate all joint bacteria
+B. Reduce joint inflammation and pain, restore cartilage homeostasis and mobility, and delay degenerative progression
+C. Shorten all tendons surgically
+D. Increase joint load to promote bone growth
+
+Q14. Which nonpharmacologic management strategies are appropriate for OA?
+A. Rest and controlled exercise, weight management, corrective shoeing, cold therapy, hydrotherapy, physiotherapy, and using soft footing
+B. Strict prolonged stall rest with no movement
+C. High-intensity exercise on hard surfaces only
+D. No change in training regimen
+
+Q15. Which NSAIDs are commonly used to control pain in equine OA?
+A. Phenylbutazone and flunixin meglumine
+B. Acetaminophen and ibuprofen
+C. Diazepam and ketamine
+D. Acyclovir and amoxicillin
+
+Q16. What is the role of intra-articular hyaluronic acid (HA) and PSGAG in OA management?
+A. HA restores viscosity and lubrication; PSGAG supports cartilage repair and matrix integrity
+B. Both are purely cosmetic agents
+C. They directly destroy osteophytes
+D. They are used only in foals
+
+Q17. Which intra-articular corticosteroids are commonly used and what is a key precaution?
+A. Methylprednisolone and triamcinolone; strict aseptic technique and awareness that repeated use may accelerate cartilage degeneration
+B. Only dexamethasone; no special precautions
+C. Only prednisolone; no infection risk
+D. None; corticosteroids are never used
+
+Q18. Which systemic or biologic therapies can be adjuncts in OA management?
+A. Systemic HA/PSGAG courses and autologous biologics (IRAP, PRP, ACS) to modulate inflammation and cartilage breakdown
+B. Only vitamins
+C. Only antibiotics
+D. Only anthelmintics
+
+Q19. Which precautions should be taken with repeated intra-articular corticosteroid use?
+A. Use as frequently as possible to maintain comfort
+B. Limit frequency to avoid cartilage softening and increased laminitis risk, and always use aseptic technique
+C. Avoid antibiotics in joint injections
+D. Never reassess the joint after injection
+
+Q20. Which prognosis statement is MOST accurate for equine OA?
+A. Mild OA in low-motion joints has a good prognosis with early management; severe OA in high-motion joints has a guarded to poor prognosis for athletic performance, though arthrodesis may restore comfort
+B. All OA cases progress to complete ankylosis rapidly
+C. OA has no impact on performance
+D. Prognosis is always excellent regardless of severity
+
+Answer key:
+1-B
+2-B
+3-B
+4-A
+5-A
+6-B
+7-B
+8-A
+9-B
+10-B
+11-A
+12-A
+13-B
+14-A
+15-A
+16-A
+17-A
+18-A
+19-B
+20-A
+
+

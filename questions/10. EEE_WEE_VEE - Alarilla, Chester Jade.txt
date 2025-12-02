@@ -1,0 +1,143 @@
+Q1. Eastern (EEE), Western (WEE), and Venezuelan (VEE) equine encephalitides are BEST described as:
+A. Bacterial pneumonias of horses
+B. Arboviral encephalomyelitides affecting horses and humans
+C. Fungal meningitides confined to horses
+D. Protozoal myeloencephalitides of ruminants
+
+Q2. The etiologic agents (EEEV, WEEV, VEEV) belong to which viral family and genus?
+A. Family Orthomyxoviridae, genus Influenzavirus
+B. Family Togaviridae, genus Alphavirus
+C. Family Flaviviridae, genus Flavivirus
+D. Family Rhabdoviridae, genus Lyssavirus
+
+Q3. What is the primary method of transmission of equine encephalitides to horses and humans?
+A. Direct horse-to-horse contact
+B. Mosquito vectors transmitting virus from sylvatic reservoirs
+C. Fecal-oral route
+D. Aerosol transmission in barns
+
+Q4. Which reservoirs are associated with EEEV and endemic VEEV respectively?
+A. Birds for EEEV; rodents for endemic VEEV
+B. Horses for both EEEV and endemic VEEV
+C. Cattle for EEEV; dogs for VEEV
+D. Reptiles for EEEV; pigs for VEEV
+
+Q5. Which equine encephalitis virus can have horses as amplifying hosts during epizootics, posing a particular zoonotic risk?
+A. EEEV
+B. WEEV
+C. VEEV
+D. All of the above
+
+Q6. Which virus is considered the most neurovirulent and rapidly destructive in horses?
+A. EEEV
+B. WEEV
+C. VEEV
+D. WNV
+
+Q7. In which geographic regions are EEEV, WEEV, and VEEV primarily endemic?
+A. Europe and Asia
+B. North and South America
+C. Africa only
+D. Australia and New Zealand
+
+Q8. Which signalment factor increases risk of EEE in horses?
+A. Only geriatric horses over 20 years
+B. Young horses, especially under-vaccinated, in endemic areas with high mosquito density
+C. Only draft horses in cold climates
+D. Only stallions used for breeding
+
+Q9. During the prodromal (early) stage 48–96 hours before neurologic signs, horses with EEE/WEE/VEE may show:
+A. Severe colic and diarrhea
+B. Fever, depression, inappetence, and sometimes mild lameness or abdominal discomfort
+C. Coughing and nasal discharge only
+D. No clinical signs at all
+
+Q10. Neurologic signs of equine encephalitides typically include:
+A. Somnolence, dementia, head pressing, ataxia, blindness, circling, seizures, and possibly weakness or paralysis
+B. Pruritus and self-mutilation only
+C. Purely respiratory stridor
+D. Isolated laminitis without CNS signs
+
+Q11. Which additional clinical manifestations may be observed in severe cases?
+A. Colic-like signs, reduced alertness, recumbency, and death
+B. Only dermatologic lesions
+C. Only laminitis and hoof cracks
+D. Only ocular discharge
+
+Q12. In serologic diagnosis of EEE/WEE/VEE, which finding is considered confirmatory for recent infection?
+A. IgM capture ELISA titer ≥400 or a fourfold rise between acute and convalescent samples
+B. Single low positive IgG titer with no change over time
+C. Negative IgM and no titer change
+D. Positive fecal PCR only
+
+Q13. For EEEV specifically, how does the EEEV:WEEV titer ratio support diagnosis?
+A. A ratio ≤1 is strongly indicative of EEEV
+B. A ratio ≥4 is suspicious and ≥8 is strongly indicative of EEEV infection
+C. Only a ratio of exactly 2 is diagnostic
+D. Titer ratios are not useful
+
+Q14. Which CSF findings are consistent with arboviral encephalomyelitis?
+A. Purely eosinophilic pleocytosis with low protein
+B. Neutrophilic pleocytosis with elevated total protein concentration
+C. Normal cell counts and proteins in all cases
+D. Purely lymphocytic pleocytosis with low protein
+
+Q15. Which disease is an important differential diagnosis for equine arboviral encephalitis because it can produce similar neurologic signs?
+A. West Nile virus encephalomyelitis
+B. Equine influenza
+C. Strangles
+D. Equine sarcoids
+
+Q16. Which other conditions are included in the differential diagnosis list for acute neurologic disease in horses?
+A. Rabies, leukoencephalomalacia (moldy corn poisoning), and hepatic encephalopathy
+B. Only laminitis and colic
+C. Only navicular syndrome
+D. Only gastric ulcers
+
+Q17. Which statement BEST describes the treatment approach for EEE/WEE/VEE in horses?
+A. Specific antiviral drugs are routinely curative
+B. Treatment is primarily supportive: fluid and metabolic support, prevention of self-trauma, and sometimes corticosteroids
+C. Antibiotics alone are sufficient
+D. Only NSAIDs are required
+
+Q18. Which mortality rates are MOST accurate for EEEV, WEEV, and VEEV respectively?
+A. EEEV 20–40%, WEEV 85–100%, VEEV 40–80%
+B. EEEV 85–100%, WEEV 20–40%, VEEV 40–80%
+C. EEEV 0%, WEEV 10–20%, VEEV 100%
+D. All three have <10% mortality
+
+Q19. Why is vaccination critical in endemic areas for these viruses?
+A. It completely eliminates all mosquitoes
+B. It significantly reduces the incidence and severity of disease and is the main preventive measure in horses
+C. It cures infected horses
+D. It only protects humans, not horses
+
+Q20. What is the zoonotic potential of EEEV/WEEV compared to VEEV?
+A. All three viruses make horses efficient amplifiers for human infection
+B. EEEV and WEEV: horses are dead-end hosts; VEEV: horses can act as amplifying hosts and pose a greater zoonotic risk during outbreaks
+C. None of the viruses have any zoonotic risk
+D. Only WEEV is zoonotic
+
+Answer key:
+1-B
+2-B
+3-B
+4-A
+5-C
+6-A
+7-B
+8-B
+9-B
+10-A
+11-A
+12-A
+13-B
+14-B
+15-A
+16-A
+17-B
+18-B
+19-B
+20-B
+
+

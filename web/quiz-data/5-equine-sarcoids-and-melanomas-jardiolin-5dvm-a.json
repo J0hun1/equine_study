@@ -1,0 +1,486 @@
+{
+  "topic": "5. Equine Sarcoids and Melanomas - Jardiolin 5DVM-A",
+  "slug": "5-equine-sarcoids-and-melanomas-jardiolin-5dvm-a",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Equine sarcoids are BEST described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benign melanocytic tumors confined to gray horses"
+        },
+        {
+          "label": "B",
+          "text": "Locally invasive fibroblastic skin neoplasms associated with bovine papillomavirus (BPV)"
+        },
+        {
+          "label": "C",
+          "text": "Systemic lymphoid neoplasms affecting multiple organs"
+        },
+        {
+          "label": "D",
+          "text": "Viral papillomas that always regress spontaneously"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine sarcoids are locally invasive fibroblastic skin neoplasms strongly associated with BPV infection. They are not melanocytic tumors (A), systemic lymphoid cancers (C), or viral papillomas that always regress (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Equine melanomas are typically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-pigmented epithelial tumors of the hoof"
+        },
+        {
+          "label": "B",
+          "text": "Dark-pigmented tumors arising from melanocytes that may be benign or malignant"
+        },
+        {
+          "label": "C",
+          "text": "Primarily bone tumors of the skull"
+        },
+        {
+          "label": "D",
+          "text": "Exclusively inflammatory lesions without neoplastic cells"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine melanomas are dark-pigmented tumors originating from melanocytes that may behave in a benign or malignant fashion. They are not hoof epithelial tumors (A), bone tumors (C), or purely inflammatory lesions (D)."
+    },
+    {
+      "id": 3,
+      "stem": "Which statement about sarcoids is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They frequently metastasize to distant organs"
+        },
+        {
+          "label": "B",
+          "text": "They are locally destructive and invasive but do not typically metastasize"
+        },
+        {
+          "label": "C",
+          "text": "They are caused by a fungal infection"
+        },
+        {
+          "label": "D",
+          "text": "They resolve rapidly after minor trauma"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sarcoids are locally destructive and invasive but typically do not metastasize to distant organs. They do not commonly metastasize (A), are not fungal (C), and rarely resolve after trauma (often the opposite of D)."
+    },
+    {
+      "id": 4,
+      "stem": "What is the most important etiologic factor in the development of equine sarcoids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infection with bovine papillomavirus (BPV) transmitted by biting flies"
+        },
+        {
+          "label": "B",
+          "text": "Chronic exposure to UV radiation"
+        },
+        {
+          "label": "C",
+          "text": "Selenium deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Infection with equine herpesvirus-1"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Infection with BPV, likely transmitted by biting flies or via wounds, is the major etiologic factor in sarcoid development. UV exposure (B), selenium deficiency (C), and EHV-1 (D) are not primary causes."
+    },
+    {
+      "id": 5,
+      "stem": "Which horses are MOST commonly affected by sarcoids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Older gray horses (>15 years)"
+        },
+        {
+          "label": "B",
+          "text": "Young horses (average 3–6 years) of any breed, often at sites of previous injury or scarring"
+        },
+        {
+          "label": "C",
+          "text": "Only foals less than 6 months old"
+        },
+        {
+          "label": "D",
+          "text": "Only draft breeds with white markings"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sarcoids commonly affect young horses (around 3–6 years) of any breed, often at sites of previous injury or scarring. They are not restricted to older gray horses (A), foals (C), or specific draft breeds (D)."
+    },
+    {
+      "id": 6,
+      "stem": "Which horses are at greatest risk of developing melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Young non-gray horses exclusively"
+        },
+        {
+          "label": "B",
+          "text": "Older gray or white horses such as Lipizzaners, Arabians, and Percherons"
+        },
+        {
+          "label": "C",
+          "text": "Horses with no pigment on the skin"
+        },
+        {
+          "label": "D",
+          "text": "Only ponies under 5 years of age"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Melanomas are particularly common in older gray or white horses, including Lipizzaners, Arabians, and Percherons. They are rare in young non-gray horses (A), not limited to depigmented skin (C), and not specific to ponies (D)."
+    },
+    {
+      "id": 7,
+      "stem": "Where do melanomas MOST commonly occur in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dorsal coronary band and hoof wall"
+        },
+        {
+          "label": "B",
+          "text": "Perineum, base of tail, and parotid region as black nodules under or within the skin"
+        },
+        {
+          "label": "C",
+          "text": "Sole of the foot and digital cushion"
+        },
+        {
+          "label": "D",
+          "text": "Only internal organs with no external signs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Melanomas usually present as black nodules under or within the skin of the perineum, tail base, and parotid region. Coronary band/hoof wall (A), sole/cushion (C), or exclusively internal lesions (D) are not typical primary sites."
+    },
+    {
+      "id": 8,
+      "stem": "Which of the following is TRUE about the behavior of melanomas in horses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are always benign and never metastasize"
+        },
+        {
+          "label": "B",
+          "text": "They may remain benign but can transform to malignant forms and metastasize"
+        },
+        {
+          "label": "C",
+          "text": "They only occur as diffuse skin discoloration"
+        },
+        {
+          "label": "D",
+          "text": "They always regress spontaneously in gray horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Many melanomas may remain benign for years but can undergo malignant transformation and metastasize to internal organs. They are not always benign (A), purely discolorations (C), or guaranteed to regress (D)."
+    },
+    {
+      "id": 9,
+      "stem": "Which combination correctly lists systems affected by sarcoids and melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarcoids: integumentary only; Melanomas: integumentary with possible lymphatic and perineal involvement"
+        },
+        {
+          "label": "B",
+          "text": "Sarcoids: respiratory; Melanomas: cardiovascular"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoids: neurologic; Melanomas: musculoskeletal"
+        },
+        {
+          "label": "D",
+          "text": "Both are primarily gastrointestinal diseases"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Sarcoids mainly affect the integumentary system, while melanomas also involve integumentary structures and may extend to lymphatic, digestive, and perineal regions when large or metastatic. The other options misidentify organ systems (B–D)."
+    },
+    {
+      "id": 10,
+      "stem": "Which historical finding is commonly reported by owners of horses with sarcoids or melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sudden onset of high fever and respiratory distress"
+        },
+        {
+          "label": "B",
+          "text": "One or more firm skin masses that gradually enlarge over time"
+        },
+        {
+          "label": "C",
+          "text": "Acute collapse with no prior signs"
+        },
+        {
+          "label": "D",
+          "text": "Persistent diarrhea and weight loss only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Owners frequently report one or more firm skin masses that gradually increase in size. Acute fever/respiratory distress (A), sudden collapse (C), or purely GI signs (D) are not characteristic presentations."
+    },
+    {
+      "id": 11,
+      "stem": "On physical examination, sarcoids may:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Present as subcutaneous masses near eyelids or canthi that can become red, fleshy, ulcerated, and invasive"
+        },
+        {
+          "label": "B",
+          "text": "Always be flat, non-palpable macules"
+        },
+        {
+          "label": "C",
+          "text": "Be limited to mucous membranes only"
+        },
+        {
+          "label": "D",
+          "text": "Appear only as alopecic patches without mass effect"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Sarcoids often present as subcutaneous masses, including around eyelids or canthi, which can become red, fleshy, ulcerated, and invasive; they can also occur on trunk and limbs in various morphologic forms. They are not always flat or non-palpable (B), limited to mucosa (C), or simply alopecic patches (D)."
+    },
+    {
+      "id": 12,
+      "stem": "On physical examination, equine melanomas typically appear as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-pigmented papules on the dorsal midline"
+        },
+        {
+          "label": "B",
+          "text": "Dark black nodules under or within the skin, often at the perineum, tail base, and parotid region"
+        },
+        {
+          "label": "C",
+          "text": "Vesicular lesions along the lips"
+        },
+        {
+          "label": "D",
+          "text": "Crusted plaques confined to the pastern region"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine melanomas are dark black nodules under or within the skin, most commonly at the perineum, tail base, and parotid region, and can form coalescing plaques. Non-pigmented papules (A), lip vesicles (C), or pastern plaques (D) describe other lesions."
+    },
+    {
+      "id": 13,
+      "stem": "Which diagnostic method is considered the gold standard for confirming sarcoids and melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin scraping with KOH preparation"
+        },
+        {
+          "label": "B",
+          "text": "Histopathologic examination of biopsy specimens"
+        },
+        {
+          "label": "C",
+          "text": "Fecal flotation"
+        },
+        {
+          "label": "D",
+          "text": "Serum antibody ELISA"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Histopathologic examination of biopsy samples is the gold standard for confirming sarcoids and melanomas, differentiating them from other tumors. Skin scraping (A), fecal exams (C), and serology (D) are not definitive for these neoplasms."
+    },
+    {
+      "id": 14,
+      "stem": "What is a potential concern when performing a biopsy of a suspected sarcoid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biopsy always resolves the lesion"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete or aggressive biopsy may worsen the sarcoid and stimulate rapid regrowth"
+        },
+        {
+          "label": "C",
+          "text": "Biopsy is contraindicated because sarcoids are contagious to humans"
+        },
+        {
+          "label": "D",
+          "text": "Biopsy has no diagnostic value"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Incomplete or aggressive biopsy of sarcoids can exacerbate the lesion and stimulate rapid regrowth, so biopsy must be carefully planned. Biopsy does not resolve the lesion (A), is not contraindicated solely for zoonosis (C), and is diagnostically valuable when done properly (D)."
+    },
+    {
+      "id": 15,
+      "stem": "Which imaging modality is MOST useful for defining tumor margins and depth of infiltration in equine skin tumors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT only"
+        },
+        {
+          "label": "B",
+          "text": "Ultrasonography, with CT/MRI reserved for deeper or periocular lesions"
+        },
+        {
+          "label": "C",
+          "text": "Radiography only"
+        },
+        {
+          "label": "D",
+          "text": "Endoscopy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Ultrasonography is useful for assessing tumor margins and depth; CT and MRI provide further detail for deep or periocular lesions. CT alone (A), plain radiography (C), or endoscopy (D) are less informative for superficial skin masses."
+    },
+    {
+      "id": 16,
+      "stem": "Which treatment is commonly used for both sarcoids and melanomas when complete margins can be obtained?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Surgical excision"
+        },
+        {
+          "label": "C",
+          "text": "Topical corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "Dietary restriction"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Surgical excision is a primary treatment for both sarcoids and melanomas when complete margins are achievable. Antibiotics (A), topical steroids alone (C), and diet changes (D) are insufficient as sole treatments."
+    },
+    {
+      "id": 17,
+      "stem": "Which local therapy is particularly effective for small or superficial sarcoids and melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cryotherapy (freezing)"
+        },
+        {
+          "label": "B",
+          "text": "Oral antifungals"
+        },
+        {
+          "label": "C",
+          "text": "Laser ablation of the hoof"
+        },
+        {
+          "label": "D",
+          "text": "UV light exposure"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Cryotherapy is effective for small or superficial sarcoids and melanomas by freezing and destroying abnormal tissue. Oral antifungals (B), hoof laser therapy (C), and UV exposure (D) are not standard frontline options."
+    },
+    {
+      "id": 18,
+      "stem": "Which immunotherapy is used specifically for equine sarcoids and has about a 70% success rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interferon-α injections"
+        },
+        {
+          "label": "B",
+          "text": "BCG (Bacille Calmette-Guérin) injections"
+        },
+        {
+          "label": "C",
+          "text": "Rabies vaccine"
+        },
+        {
+          "label": "D",
+          "text": "Tetanus toxoid"
+        }
+      ],
+      "correct": "B",
+      "explanation": "BCG immunotherapy is specifically used in some sarcoids and has reported success around 70%. Interferon (A) and the vaccines listed (C, D) are not standard immunotherapies for sarcoids."
+    },
+    {
+      "id": 19,
+      "stem": "Which statement about medications for these tumors is MOST accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarcoids are best treated with systemic antibiotics alone"
+        },
+        {
+          "label": "B",
+          "text": "Sarcoids can be managed with BCG vaccine and local chemotherapy (e.g., cisplatin), whereas melanomas rely more on surgical excision and cryotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Melanomas respond best to antifungals and dewormers"
+        },
+        {
+          "label": "D",
+          "text": "No treatment is available for either tumor type"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Sarcoids respond to local immunotherapy (BCG) and chemotherapy (e.g., cisplatin, 5-FU), while melanomas commonly rely on surgical excision and cryotherapy; radiation may be used in select cases. Systemic antibiotics alone (A), antifungals/dewormers (C), and “no treatment available” (D) are incorrect."
+    },
+    {
+      "id": 20,
+      "stem": "Which possible complication is of particular concern in horses with large melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Development of laminitis"
+        },
+        {
+          "label": "B",
+          "text": "Obstruction of defecation or interference with normal function due to mass effect"
+        },
+        {
+          "label": "C",
+          "text": "Severe pruritus and self-trauma only"
+        },
+        {
+          "label": "D",
+          "text": "Transformation into sarcoids"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Large melanomas, especially in perineal regions, may obstruct defecation or interfere with normal function by mass effect. Laminitis (A), pruritus alone (C), and “transformation into sarcoids” (D) are not typical concerns."
+    }
+  ]
+}
