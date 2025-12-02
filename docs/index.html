@@ -9,40 +9,91 @@
   <body>
     <div class="app">
       <header class="app-header">
-        <h1>Equine MCQ Review</h1>
-        <p>Choose a topic, answer all MCQs, then check your score with explanations.</p>
+        <div class="header-main">
+          <div>
+            <h1>Equine MCQ Review</h1>
+            <p>Choose a topic, answer all MCQs, then check your score with explanations.</p>
+          </div>
+          <div class="header-stats">
+            <span id="global-score">Total score: 0 / 0</span>
+            <span id="global-unanswered">Unanswered: 0</span>
+          </div>
+        </div>
+        <button
+          id="sidebar-open"
+          class="btn btn-ghost sidebar-open-btn"
+          type="button"
+        >
+          ☰ Topics
+        </button>
       </header>
 
       <main class="app-main">
-        <aside class="sidebar">
-          <h2>Topics</h2>
+        <aside class="sidebar" id="sidebar">
+          <div class="sidebar-header">
+            <h2>Topics</h2>
+            <button
+              id="sidebar-toggle"
+              class="btn btn-ghost sidebar-toggle"
+              type="button"
+            >
+              ✕
+            </button>
+          </div>
           <ul id="topic-list" class="topic-list"></ul>
         </aside>
 
         <section class="quiz-panel">
           <div id="quiz-meta" class="quiz-meta">
-            <h2 id="quiz-title">Select a topic to begin</h2>
+            <div class="quiz-meta-header">
+              <h2 id="quiz-title">Select a topic to begin</h2>
+              <button
+                id="reset-topic-btn"
+                class="btn btn-ghost btn-reset-topic hidden"
+                type="button"
+              >
+                Reset
+              </button>
+            </div>
             <p id="quiz-progress"></p>
           </div>
 
           <div id="quiz-body" class="quiz-body hidden">
             <div id="question-container" class="question-container"></div>
 
-            <form id="options-form" class="options-form"></form>
-
             <div id="feedback" class="feedback hidden"></div>
-
-            <div class="controls">
-              <button id="submit-btn" class="btn primary" type="button">
-                Check all answers
-              </button>
-            </div>
           </div>
         </section>
       </main>
 
+      <!-- Modal for resetting topic -->
+      <div id="reset-modal-backdrop" class="modal-backdrop hidden">
+        <div class="modal">
+          <h3 class="modal-title">Reset answers for this topic?</h3>
+          <p class="modal-body">
+            This will clear all your selections and scores for this topic on this device.
+          </p>
+          <div class="modal-actions">
+            <button
+              id="reset-modal-confirm"
+              class="btn btn-danger"
+              type="button"
+            >
+              Yes, reset topic
+            </button>
+            <button
+              id="reset-modal-cancel"
+              class="btn btn-ghost"
+              type="button"
+            >
+              Cancel
+            </button>
+          </div>
+        </div>
+      </div>
+
       <footer class="app-footer">
-        <span>Static web app – just open or host this folder (e.g., GitHub Pages / Netlify).</span>
+        <span>Study well @mowchii. created with ❤️ by j0hun1.</span>
       </footer>
     </div>
 
