@@ -1,6 +1,12 @@
 {
   "topics": [
     {
+      "topic": "Extras",
+      "slug": "extras",
+      "file": "extras.json",
+      "numQuestions": 41
+    },
+    {
       "topic": "1. Equine Metabolic Syndrome-Pacia, Aivelene A.",
       "slug": "1-equine-metabolic-syndrome-pacia-aivelene-a",
       "file": "1-equine-metabolic-syndrome-pacia-aivelene-a.json",

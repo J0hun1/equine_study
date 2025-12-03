@@ -1,0 +1,44 @@
+### Answer key – Extras
+
+1. **B** – Hyperinsulinemia‑associated laminitis (HAL) refers to laminitis caused by persistently high blood insulin concentrations, as seen in EMS and other endocrine disorders. It is not primarily infectious (A), due to concussion alone (C), or a congenital deformity (D).
+2. **B** – Paso Finos are specifically highlighted as a breed with a predilection for EMS, along with other easy‑keeper breeds. Standardbreds, Thoroughbreds, and Arabians (A, C, D) are less classically associated.
+3. **C** – Dietary management (reducing nonstructural carbohydrates, controlling caloric intake, and promoting weight loss) is the cornerstone of EMS treatment. Antibiotics (A), long‑term steroids (B), and high‑grain diets (D) are inappropriate.
+4. **B** – Equine Cushing’s disease is more correctly termed pituitary pars intermedia dysfunction (PPID). It is distinct from EMS (A), EIPH (C), and RAO (D).
+5. **A** – PPID is caused by overactivity of part of the pituitary gland, usually due to loss of dopaminergic inhibition from the hypothalamus, leading to hormone overproduction. Primary adrenal or thyroid disease (B, C) and diet alone (D) are not the primary causes.
+6. **B** – Damage to hypothalamic dopaminergic nerves removes inhibition of the pars intermedia, allowing it to enlarge and become overactive. Immune, bacterial, or parasitic causes (A, C, D) are not the main mechanisms.
+7. **C** – Horses with PPID or EMS should not receive high‑sugar/high‑starch diets, which worsen insulin dysregulation and laminitis risk. Low‑NSC forage and high‑fiber diets (A, B, D) are preferred.
+8. **B** – Rain rot (or rain scald) is dermatophilosis, a superficial skin infection caused by Dermatophilus congolensis. Dermatophytosis (A) refers to ringworm, and the other options (C, D) are unrelated skin diseases.
+9. **C** – Dermatophilus congolensis is the causative agent of rain rot in horses. Trichophyton and Microsporum (A, D) cause ringworm, and Staphylococcus (B) is not the primary etiologic agent here.
+10. **A** – When crusts and hair are plucked in rain rot, they often come off in clumps resembling “paint brush” lesions. The other descriptors (B–D) refer to different lesion patterns.
+11. **B** – Dermatophilus organisms appear as “railroad track” or ladder‑like branching coccoid chains on cytology/histology. Grape‑like clusters (A) describe staphylococci, whereas fungi and yeast (C, D) look different.
+12. **A** – Chlorhexidine‑based antiseptics (and similar medicated shampoos) are commonly used topical treatments for rain rot. Plain water (B), mineral oil (C), and paraffin (D) are not standard therapies.
+13. **B** – Avoiding shared grooming equipment (combs, brushes, tack) is a key measure to prevent transmission of ringworm. Bathing (A), diet (C), or weather exposure (D) do not specifically prevent spread.
+14. **C** – Ringworm is a superficial fungal infection affecting the keratinized layers of the skin and hair follicles. It does not usually involve deep dermis, hooves, or muscle (A, B, D).
+15. **B** – Melanomas are particularly common in grey horses, especially as they age. Other coat colors (A, C, D) are less predisposed.
+16. **B** – Common locations for melanomas in grey horses include the perineum and base of the tail, as well as the parotid region and lips. The other sites (A, C, D) are less typical.
+17. **C** – Histopathology of a biopsy is the gold standard for diagnosing sarcoids. Cytology, culture, or imaging alone (A, B, D) cannot reliably distinguish sarcoids from other tumors.
+18. **B** – Treatment of equine melanomas often includes surgical excision and/or medical therapy such as cimetidine or intralesional chemotherapy. Antibiotics alone (A), steroids (C), or no treatment (D) are not appropriate in most cases.
+19. **A** – Theiler’s disease (acute hepatic necrosis) is classically associated with recent administration of equine‑origin biologic products such as tetanus antitoxin or plasma. Moldy corn, protozoal infection, or copper deficiency (B–D) are not the hallmark associations.
+20. **A** – E. coli and Klebsiella are common bacterial causes of cholangiohepatitis in horses. Other combinations listed (B–D) involve different pathogens.
+21. **B** – Elevated gamma‑glutamyl transferase (GGT) is a useful indicator of biliary disease, including cholangiohepatitis, in horses. Elevated CK, decreased AST, or low ALP (A, C, D) are not characteristic.
+22. **B** – Tyzzer’s disease in foals is caused by Clostridium piliforme, an obligate intracellular, Gram‑negative, spore‑forming bacterium. Other clostridia (A, C, D) cause different diseases.
+23. **B** – Birds are the main reservoir for EEEV, and rodents are important for WEEV. Reversing this (A) or using other species (C, D) is incorrect.
+24. **B** – Pregnant mares are typically boosted for tetanus 4–6 weeks prior to parturition to ensure good colostral antibody transfer. Earlier, later, or wound‑only vaccination schedules (A, C, D) do not meet this goal.
+25. **C** – Recovery from tetanus, when it occurs, can take around 6 weeks due to slow neuronal recovery and muscle remodeling. Shorter time frames (A, B) or much longer (D) are not typical.
+26. **B** – The direct fluorescent antibody test (FAT) on brain tissue is the gold standard for rabies diagnosis. Serology, CSF analysis, or blood PCR alone (A, C, D) are not definitive.
+27. **D** – The superficial digital flexor tendon is not part of the navicular apparatus. The navicular bone, DDFT, navicular bursa, and associated ligaments (A–C) are components.
+28. **B** – Intra‑articular hyaluronic acid improves lubrication and synovial fluid quality in osteoarthritic joints. It does not directly kill bacteria, stimulate bone growth, or replace menisci (A, C, D).
+29. **B** – CK and AST are typically elevated in exertional rhabdomyolysis due to muscle cell damage. Other enzyme combinations (A, C, D) are more associated with hepatic or pancreatic disease.
+30. **B** – Coffee‑colored urine after exertion indicates myoglobinuria from muscle breakdown. Hematuria, bilirubinuria, or normal urine (A, C, D) are different conditions.
+31. **B** – The AGID (Coggins) test is the gold standard for Equine Infectious Anemia. ELISA (A) is a screening test; HI and Western blot alone (C, D) are not the primary confirmatory tests.
+32. **B** – Purpura hemorrhagica is linked to IgA–SeM immune complexes that deposit in vessel walls, triggering vasculitis. Other immunoglobulin/antigen combinations (A, C, D) are not characteristic.
+33. **B** – Strongylus vulgaris is considered the most pathogenic equine GI helminth due to its arterial migration and thromboembolic potential. Cyathostomins, Parascaris, and tapeworms (A, C, D) are important but less individually pathogenic.
+34. **B** – The squamous (nonglandular) region lacks mucus and bicarbonate protection, making it vulnerable to acid splash. It does not lack blood supply (A), produce most acid (C), or house most parietal cells (D).
+35. **C** – Omeprazole, a proton pump inhibitor, is the drug of choice for EGUS. H₂ blockers and sucralfate (A, B, D) are adjuncts but not primary in most cases.
+36. **B** – Pregnant mares are commonly vaccinated against EHV‑1 at 3, 5, 7, and 9 months of gestation to reduce abortion risk. Other schedules (A, C) or no vaccination (D) are not recommended.
+37. **B** – Strangles is caused by Streptococcus equi subsp. equi, an obligate pathogen of equids. Zooepidemicus (A) is a commensal/opportunist.
+38. **B** – Carrier identification relies on PCR of guttural pouch wash or three consecutive negative nasopharyngeal washes one week apart. Single nasal culture (A), blood or fecal culture (C, D) are insufficient.
+39. **B** – Both horses and humans acquire West Nile virus from mosquito bites; it is not typically transmitted directly from horse to human. Direct contact, aerosols, or feed (A, C, D) are not main routes.
+40. **B** – RAO is most analogous to human asthma, with airway hyperreactivity and reversible obstruction. Chronic bronchitis, pneumonia, or TB (A, C, D) are different entities.
+41. **B** – A heave line is a sign of progressive/severe RAO due to chronic increased expiratory effort causing hypertrophy of abdominal muscles. It is not an early RAO sign (A), nor a sign of colic or laminitis (C, D).
+

@@ -1,0 +1,990 @@
+{
+  "topic": "Extras",
+  "slug": "extras",
+  "questions": [
+    {
+      "id": 1,
+      "stem": "Hyperinsulinemia‑associated laminitis (HAL) is best described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A form of infectious laminitis caused by bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Laminitis associated with persistently high blood insulin concentrations"
+        },
+        {
+          "label": "C",
+          "text": "Laminitis caused solely by excessive exercise on hard ground"
+        },
+        {
+          "label": "D",
+          "text": "A congenital deformity of the distal limb"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Hyperinsulinemia‑associated laminitis (HAL) refers to laminitis caused by persistently high blood insulin concentrations, as seen in EMS and other endocrine disorders. It is not primarily infectious (A), due to concussion alone (C), or a congenital deformity (D)."
+    },
+    {
+      "id": 2,
+      "stem": "Equine metabolic syndrome (EMS) shows a strong breed predilection in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standardbreds"
+        },
+        {
+          "label": "B",
+          "text": "Paso Finos"
+        },
+        {
+          "label": "C",
+          "text": "Thoroughbreds"
+        },
+        {
+          "label": "D",
+          "text": "Arabians"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Paso Finos are specifically highlighted as a breed with a predilection for EMS, along with other easy‑keeper breeds. Standardbreds, Thoroughbreds, and Arabians (A, C, D) are less classically associated."
+    },
+    {
+      "id": 3,
+      "stem": "The cornerstone of treatment for equine metabolic syndrome (EMS) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Broad‑spectrum antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Long‑term corticosteroid therapy"
+        },
+        {
+          "label": "C",
+          "text": "Dietary management and weight control"
+        },
+        {
+          "label": "D",
+          "text": "High‑grain supplementation"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Dietary management (reducing nonstructural carbohydrates, controlling caloric intake, and promoting weight loss) is the cornerstone of EMS treatment. Antibiotics (A), long‑term steroids (B), and high‑grain diets (D) are inappropriate."
+    },
+    {
+      "id": 4,
+      "stem": "Equine Cushing’s disease in horses is also known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "EMS"
+        },
+        {
+          "label": "B",
+          "text": "PPID (pituitary pars intermedia dysfunction)"
+        },
+        {
+          "label": "C",
+          "text": "EIPH"
+        },
+        {
+          "label": "D",
+          "text": "RAO"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Equine Cushing’s disease is more correctly termed pituitary pars intermedia dysfunction (PPID). It is distinct from EMS (A), EIPH (C), and RAO (D)."
+    },
+    {
+      "id": 5,
+      "stem": "The primary cause of PPID (Cushing’s disease) in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Overactivity of one part of the pituitary gland due to loss of dopaminergic inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Primary adrenal cortical tumor"
+        },
+        {
+          "label": "C",
+          "text": "Primary thyroid disease"
+        },
+        {
+          "label": "D",
+          "text": "Dietary excess of protein"
+        }
+      ],
+      "correct": "A",
+      "explanation": "PPID is caused by overactivity of part of the pituitary gland, usually due to loss of dopaminergic inhibition from the hypothalamus, leading to hormone overproduction. Primary adrenal or thyroid disease (B, C) and diet alone (D) are not the primary causes."
+    },
+    {
+      "id": 6,
+      "stem": "Enlargement of the pituitary gland in PPID most commonly results from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immune‑mediated attack on pituitary cells"
+        },
+        {
+          "label": "B",
+          "text": "Damage to inhibitory nerves from the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial infection of the pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Parasitic migration through the pituitary"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Damage to hypothalamic dopaminergic nerves removes inhibition of the pars intermedia, allowing it to enlarge and become overactive. Immune, bacterial, or parasitic causes (A, C, D) are not the main mechanisms."
+    },
+    {
+      "id": 7,
+      "stem": "Which type of diet should be AVOIDED in horses with Cushing’s disease (PPID) or EMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low‑nonstructural carbohydrate (NSC) forage"
+        },
+        {
+          "label": "B",
+          "text": "High‑fiber, low‑sugar diet"
+        },
+        {
+          "label": "C",
+          "text": "High‑sugar/high‑starch diet"
+        },
+        {
+          "label": "D",
+          "text": "Soaked grass hay"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Horses with PPID or EMS should not receive high‑sugar/high‑starch diets, which worsen insulin dysregulation and laminitis risk. Low‑NSC forage and high‑fiber diets (A, B, D) are preferred."
+    },
+    {
+      "id": 8,
+      "stem": "“Rain rot” in horses is more correctly termed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dermatophytosis"
+        },
+        {
+          "label": "B",
+          "text": "Dermatophilosis"
+        },
+        {
+          "label": "C",
+          "text": "Pemphigus foliaceus"
+        },
+        {
+          "label": "D",
+          "text": "Photosensitization"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Rain rot (or rain scald) is dermatophilosis, a superficial skin infection caused by Dermatophilus congolensis. Dermatophytosis (A) refers to ringworm, and the other options (C, D) are unrelated skin diseases."
+    },
+    {
+      "id": 9,
+      "stem": "The causative agent of rain rot (rain scald) in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trichophyton verrucosum"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Dermatophilus congolensis"
+        },
+        {
+          "label": "D",
+          "text": "Microsporum canis"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Dermatophilus congolensis is the causative agent of rain rot in horses. Trichophyton and Microsporum (A, D) cause ringworm, and Staphylococcus (B) is not the primary etiologic agent here."
+    },
+    {
+      "id": 10,
+      "stem": "When hair is plucked from lesions of rain rot, the appearance is often described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Paint brush” lesion"
+        },
+        {
+          "label": "B",
+          "text": "“Moth‑eaten” lesion"
+        },
+        {
+          "label": "C",
+          "text": "“Ring‑shaped” lesion"
+        },
+        {
+          "label": "D",
+          "text": "“Target” lesion"
+        }
+      ],
+      "correct": "A",
+      "explanation": "When crusts and hair are plucked in rain rot, they often come off in clumps resembling “paint brush” lesions. The other descriptors (B–D) refer to different lesion patterns."
+    },
+    {
+      "id": 11,
+      "stem": "On cytology or histopathology, Dermatophilus organisms are classically described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grape‑like clusters"
+        },
+        {
+          "label": "B",
+          "text": "Railroad track or ladder‑like coccoid chains"
+        },
+        {
+          "label": "C",
+          "text": "Branching hyphae with spores"
+        },
+        {
+          "label": "D",
+          "text": "Large yeast cells with capsules"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Dermatophilus organisms appear as “railroad track” or ladder‑like branching coccoid chains on cytology/histology. Grape‑like clusters (A) describe staphylococci, whereas fungi and yeast (C, D) look different."
+    },
+    {
+      "id": 12,
+      "stem": "A commonly recommended topical agent for treating rain rot in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorhexidine‑based antiseptic"
+        },
+        {
+          "label": "B",
+          "text": "Plain water only"
+        },
+        {
+          "label": "C",
+          "text": "Mineral oil"
+        },
+        {
+          "label": "D",
+          "text": "Liquid paraffin"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Chlorhexidine‑based antiseptics (and similar medicated shampoos) are commonly used topical treatments for rain rot. Plain water (B), mineral oil (C), and paraffin (D) are not standard therapies."
+    },
+    {
+      "id": 13,
+      "stem": "The best way to prevent spread of ringworm (dermatophytosis) between horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Daily bathing with cold water"
+        },
+        {
+          "label": "B",
+          "text": "Avoiding shared grooming equipment such as combs and brushes"
+        },
+        {
+          "label": "C",
+          "text": "Feeding extra grain"
+        },
+        {
+          "label": "D",
+          "text": "Turning horses out in the rain"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Avoiding shared grooming equipment (combs, brushes, tack) is a key measure to prevent transmission of ringworm. Bathing (A), diet (C), or weather exposure (D) do not specifically prevent spread."
+    },
+    {
+      "id": 14,
+      "stem": "Ringworm in horses typically damages which part of the skin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deep dermis and subcutaneous tissue"
+        },
+        {
+          "label": "B",
+          "text": "Only the hooves"
+        },
+        {
+          "label": "C",
+          "text": "Superficial keratinized layers of the skin and hair follicles"
+        },
+        {
+          "label": "D",
+          "text": "Muscle tissue"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Ringworm is a superficial fungal infection affecting the keratinized layers of the skin and hair follicles. It does not usually involve deep dermis, hooves, or muscle (A, B, D)."
+    },
+    {
+      "id": 15,
+      "stem": "Equine melanomas are MOST commonly found in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chestnut horses"
+        },
+        {
+          "label": "B",
+          "text": "Grey horses"
+        },
+        {
+          "label": "C",
+          "text": "Bay horses"
+        },
+        {
+          "label": "D",
+          "text": "Dun horses"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Melanomas are particularly common in grey horses, especially as they age. Other coat colors (A, C, D) are less predisposed."
+    },
+    {
+      "id": 16,
+      "stem": "Typical locations for melanomas in grey horses include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poll and withers"
+        },
+        {
+          "label": "B",
+          "text": "Perineum and base of the tail"
+        },
+        {
+          "label": "C",
+          "text": "Forehead and muzzle"
+        },
+        {
+          "label": "D",
+          "text": "Coronary bands"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Common locations for melanomas in grey horses include the perineum and base of the tail, as well as the parotid region and lips. The other sites (A, C, D) are less typical."
+    },
+    {
+      "id": 17,
+      "stem": "The gold standard diagnostic test for equine sarcoids is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytology from a smear"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial culture"
+        },
+        {
+          "label": "C",
+          "text": "Histopathology of a biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound examination"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Histopathology of a biopsy is the gold standard for diagnosing sarcoids. Cytology, culture, or imaging alone (A, B, D) cannot reliably distinguish sarcoids from other tumors."
+    },
+    {
+      "id": 18,
+      "stem": "Which of the following is a commonly used treatment approach for equine melanomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic broad‑spectrum antibiotics only"
+        },
+        {
+          "label": "B",
+          "text": "Surgical excision and/or medical therapy such as cimetidine"
+        },
+        {
+          "label": "C",
+          "text": "High‑dose corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "No treatment; melanomas should never be removed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Treatment of equine melanomas often includes surgical excision and/or medical therapy such as cimetidine or intralesional chemotherapy. Antibiotics alone (A), steroids (C), or no treatment (D) are not appropriate in most cases."
+    },
+    {
+      "id": 19,
+      "stem": "Theiler’s disease in horses is classically associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recent administration of equine‑origin biologic products (e.g., tetanus antitoxin)"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of moldy corn"
+        },
+        {
+          "label": "C",
+          "text": "Tick‑borne protozoal infection"
+        },
+        {
+          "label": "D",
+          "text": "Copper deficiency"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Theiler’s disease (acute hepatic necrosis) is classically associated with recent administration of equine‑origin biologic products such as tetanus antitoxin or plasma. Moldy corn, protozoal infection, or copper deficiency (B–D) are not the hallmark associations."
+    },
+    {
+      "id": 20,
+      "stem": "Common bacterial causes of cholangiohepatitis in horses include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "E. coli and Klebsiella species"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium tetani and Clostridium botulinum"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus equi and Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella and Campylobacter"
+        }
+      ],
+      "correct": "A",
+      "explanation": "E. coli and Klebsiella are common bacterial causes of cholangiohepatitis in horses. Other combinations listed (B–D) involve different pathogens."
+    },
+    {
+      "id": 21,
+      "stem": "A useful biochemical indicator for diagnosing cholangiohepatitis in horses is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevated CK"
+        },
+        {
+          "label": "B",
+          "text": "Elevated GGT (gamma‑glutamyl transferase)"
+        },
+        {
+          "label": "C",
+          "text": "Decreased AST"
+        },
+        {
+          "label": "D",
+          "text": "Low ALP"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Elevated gamma‑glutamyl transferase (GGT) is a useful indicator of biliary disease, including cholangiohepatitis, in horses. Elevated CK, decreased AST, or low ALP (A, C, D) are not characteristic."
+    },
+    {
+      "id": 22,
+      "stem": "Tyzzer’s disease in foals is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium piliforme"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridioides difficile"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Tyzzer’s disease in foals is caused by Clostridium piliforme, an obligate intracellular, Gram‑negative, spore‑forming bacterium. Other clostridia (A, C, D) cause different diseases."
+    },
+    {
+      "id": 23,
+      "stem": "The main reservoir hosts of Eastern and Western equine encephalitis viruses (EEEV and WEEV) are, respectively:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rodents and birds"
+        },
+        {
+          "label": "B",
+          "text": "Birds and rodents"
+        },
+        {
+          "label": "C",
+          "text": "Horses and cattle"
+        },
+        {
+          "label": "D",
+          "text": "Dogs and cats"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Birds are the main reservoir for EEEV, and rodents are important for WEEV. Reversing this (A) or using other species (C, D) is incorrect."
+    },
+    {
+      "id": 24,
+      "stem": "Pregnant mares should be vaccinated against tetanus:",
+      "options": [
+        {
+          "label": "A",
+          "text": "At breeding only"
+        },
+        {
+          "label": "B",
+          "text": "4–6 weeks prior to parturition"
+        },
+        {
+          "label": "C",
+          "text": "Immediately after foaling"
+        },
+        {
+          "label": "D",
+          "text": "Only if a wound occurs"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pregnant mares are typically boosted for tetanus 4–6 weeks prior to parturition to ensure good colostral antibody transfer. Earlier, later, or wound‑only vaccination schedules (A, C, D) do not meet this goal."
+    },
+    {
+      "id": 25,
+      "stem": "Approximate recovery time for horses that survive tetanus is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 week"
+        },
+        {
+          "label": "B",
+          "text": "2 weeks"
+        },
+        {
+          "label": "C",
+          "text": "6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "6 months"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Recovery from tetanus, when it occurs, can take around 6 weeks due to slow neuronal recovery and muscle remodeling. Shorter time frames (A, B) or much longer (D) are not typical."
+    },
+    {
+      "id": 26,
+      "stem": "The gold standard test for diagnosing rabies in animals is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum antibody ELISA"
+        },
+        {
+          "label": "B",
+          "text": "Direct fluorescent antibody test (FAT) on brain tissue"
+        },
+        {
+          "label": "C",
+          "text": "CSF protein analysis"
+        },
+        {
+          "label": "D",
+          "text": "PCR on whole blood only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The direct fluorescent antibody test (FAT) on brain tissue is the gold standard for rabies diagnosis. Serology, CSF analysis, or blood PCR alone (A, C, D) are not definitive."
+    },
+    {
+      "id": 27,
+      "stem": "Which of the following structures is NOT part of the equine navicular apparatus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deep digital flexor tendon"
+        },
+        {
+          "label": "B",
+          "text": "Navicular bone"
+        },
+        {
+          "label": "C",
+          "text": "Navicular bursa"
+        },
+        {
+          "label": "D",
+          "text": "Superficial digital flexor tendon"
+        }
+      ],
+      "correct": "D",
+      "explanation": "The superficial digital flexor tendon is not part of the navicular apparatus. The navicular bone, DDFT, navicular bursa, and associated ligaments (A–C) are components."
+    },
+    {
+      "id": 28,
+      "stem": "In the treatment of osteoarthritis, hyaluronic acid is used primarily to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kill bacteria in the joint"
+        },
+        {
+          "label": "B",
+          "text": "Lubricate the joint and improve synovial fluid quality"
+        },
+        {
+          "label": "C",
+          "text": "Stimulate bone growth"
+        },
+        {
+          "label": "D",
+          "text": "Replace damaged meniscal tissue"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Intra‑articular hyaluronic acid improves lubrication and synovial fluid quality in osteoarthritic joints. It does not directly kill bacteria, stimulate bone growth, or replace menisci (A, C, D)."
+    },
+    {
+      "id": 29,
+      "stem": "In exertional rhabdomyolysis (“tying‑up”), which serum enzymes are typically elevated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALT and GGT"
+        },
+        {
+          "label": "B",
+          "text": "CK (creatine kinase) and AST"
+        },
+        {
+          "label": "C",
+          "text": "Amylase and lipase"
+        },
+        {
+          "label": "D",
+          "text": "ALP and LDH only"
+        }
+      ],
+      "correct": "B",
+      "explanation": "CK and AST are typically elevated in exertional rhabdomyolysis due to muscle cell damage. Other enzyme combinations (A, C, D) are more associated with hepatic or pancreatic disease."
+    },
+    {
+      "id": 30,
+      "stem": "The presence of coffee‑colored or dark brown urine in a horse after exertion is MOST consistent with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hematuria from cystitis"
+        },
+        {
+          "label": "B",
+          "text": "Myoglobinuria secondary to muscle breakdown"
+        },
+        {
+          "label": "C",
+          "text": "Bilirubinuria from hepatic disease"
+        },
+        {
+          "label": "D",
+          "text": "Normal concentrated urine"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Coffee‑colored urine after exertion indicates myoglobinuria from muscle breakdown. Hematuria, bilirubinuria, or normal urine (A, C, D) are different conditions."
+    },
+    {
+      "id": 31,
+      "stem": "The gold standard test for Equine Infectious Anemia (EIA) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ELISA only"
+        },
+        {
+          "label": "B",
+          "text": "Agar Gel Immunodiffusion (AGID or Coggins test)"
+        },
+        {
+          "label": "C",
+          "text": "Hemagglutination inhibition test"
+        },
+        {
+          "label": "D",
+          "text": "Western blot alone"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The AGID (Coggins) test is the gold standard for Equine Infectious Anemia. ELISA (A) is a screening test; HI and Western blot alone (C, D) are not the primary confirmatory tests."
+    },
+    {
+      "id": 32,
+      "stem": "Purpura hemorrhagica in horses is associated with immune complexes primarily involving:",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgE and SeM"
+        },
+        {
+          "label": "B",
+          "text": "IgA–SeM complexes"
+        },
+        {
+          "label": "C",
+          "text": "IgG–toxoid complexes"
+        },
+        {
+          "label": "D",
+          "text": "IgM–capsular antigen complexes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Purpura hemorrhagica is linked to IgA–SeM immune complexes that deposit in vessel walls, triggering vasculitis. Other immunoglobulin/antigen combinations (A, C, D) are not characteristic."
+    },
+    {
+      "id": 33,
+      "stem": "The most pathogenic equine gastrointestinal helminth is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyathostomins"
+        },
+        {
+          "label": "B",
+          "text": "Strongylus vulgaris"
+        },
+        {
+          "label": "C",
+          "text": "Parascaris equorum"
+        },
+        {
+          "label": "D",
+          "text": "Anoplocephala perfoliata"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Strongylus vulgaris is considered the most pathogenic equine GI helminth due to its arterial migration and thromboembolic potential. Cyathostomins, Parascaris, and tapeworms (A, C, D) are important but less individually pathogenic."
+    },
+    {
+      "id": 34,
+      "stem": "The squamous (nonglandular) region of the equine stomach is particularly vulnerable to ulcers because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no blood supply"
+        },
+        {
+          "label": "B",
+          "text": "Lacks mucus and bicarbonate protection"
+        },
+        {
+          "label": "C",
+          "text": "Produces excess hydrochloric acid"
+        },
+        {
+          "label": "D",
+          "text": "Contains most of the parietal cells"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The squamous (nonglandular) region lacks mucus and bicarbonate protection, making it vulnerable to acid splash. It does not lack blood supply (A), produce most acid (C), or house most parietal cells (D)."
+    },
+    {
+      "id": 35,
+      "stem": "The drug of choice for treating Equine Gastric Ulcer Syndrome (EGUS) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ranitidine"
+        },
+        {
+          "label": "B",
+          "text": "Cimetidine"
+        },
+        {
+          "label": "C",
+          "text": "Omeprazole"
+        },
+        {
+          "label": "D",
+          "text": "Sucralfate"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Omeprazole, a proton pump inhibitor, is the drug of choice for EGUS. H₂ blockers and sucralfate (A, B, D) are adjuncts but not primary in most cases."
+    },
+    {
+      "id": 36,
+      "stem": "For equine herpesvirus abortion prevention, pregnant mares are commonly vaccinated at which months of gestation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3, and 4 months"
+        },
+        {
+          "label": "B",
+          "text": "3, 5, 7, and 9 months"
+        },
+        {
+          "label": "C",
+          "text": "4, 6, 8, and 10 months"
+        },
+        {
+          "label": "D",
+          "text": "Only at 11 months"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Pregnant mares are commonly vaccinated against EHV‑1 at 3, 5, 7, and 9 months of gestation to reduce abortion risk. Other schedules (A, C) or no vaccination (D) are not recommended."
+    },
+    {
+      "id": 37,
+      "stem": "Strangles in horses is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Streptococcus equi subsp. zooepidemicus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus equi subsp. equi"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Strangles is caused by Streptococcus equi subsp. equi, an obligate pathogen of equids. Zooepidemicus (A) is a commensal/opportunist."
+    },
+    {
+      "id": 38,
+      "stem": "A key step in identifying chronic strangles carriers involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single nasal swab culture only"
+        },
+        {
+          "label": "B",
+          "text": "Performing PCR on guttural pouch wash or three consecutive negative nasopharyngeal washes (7 days apart)"
+        },
+        {
+          "label": "C",
+          "text": "Blood culture for S. equi"
+        },
+        {
+          "label": "D",
+          "text": "Fecal culture"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Carrier identification relies on PCR of guttural pouch wash or three consecutive negative nasopharyngeal washes one week apart. Single nasal culture (A), blood or fecal culture (C, D) are insufficient."
+    },
+    {
+      "id": 39,
+      "stem": "The primary route of West Nile virus transmission from horses to humans is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct contact with horse saliva"
+        },
+        {
+          "label": "B",
+          "text": "Mosquito bites (both species are bitten by infected mosquitoes)"
+        },
+        {
+          "label": "C",
+          "text": "Aerosol spread from horse to human"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of contaminated feed"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Both horses and humans acquire West Nile virus from mosquito bites; it is not typically transmitted directly from horse to human. Direct contact, aerosols, or feed (A, C, D) are not main routes."
+    },
+    {
+      "id": 40,
+      "stem": "Recurrent Airway Obstruction (RAO) in horses is most analogous to which condition in humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic bronchitis"
+        },
+        {
+          "label": "B",
+          "text": "Asthma"
+        },
+        {
+          "label": "C",
+          "text": "Pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "RAO is most analogous to human asthma, with airway hyperreactivity and reversible obstruction. Chronic bronchitis, pneumonia, or TB (A, C, D) are different entities."
+    },
+    {
+      "id": 41,
+      "stem": "A “heave line” along the caudoventral abdomen of a horse is most consistent with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "An early, mild sign of RAO"
+        },
+        {
+          "label": "B",
+          "text": "A progressive/severe manifestation of chronic increased expiratory effort in RAO"
+        },
+        {
+          "label": "C",
+          "text": "A sign of colic"
+        },
+        {
+          "label": "D",
+          "text": "A sign of laminitis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A heave line is a sign of progressive/severe RAO due to chronic increased expiratory effort causing hypertrophy of abdominal muscles. It is not an early RAO sign (A), nor a sign of colic or laminitis (C, D)."
+    }
+  ]
+}
