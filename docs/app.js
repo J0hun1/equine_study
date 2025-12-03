@@ -53,6 +53,10 @@ function renderTopicList() {
 
   // Sort topics by leading number if present, otherwise alphabetically
   const sorted = [...topicsIndex.topics].sort((a, b) => {
+    // Always pin Extras to the very top
+    if (a.slug === "extras" && b.slug !== "extras") return -1;
+    if (b.slug === "extras" && a.slug !== "extras") return 1;
+
     const ma = a.topic.match(/^(\d+)/);
     const mb = b.topic.match(/^(\d+)/);
     if (ma && mb) {
